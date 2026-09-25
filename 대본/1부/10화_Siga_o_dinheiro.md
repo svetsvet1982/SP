@@ -112,6 +112,7 @@
 49. SÉRGIO: Enviado. Agora é esperar a resposta do banco.
     세르지우: 보냈어요. 이제 은행 답변을 기다리면 돼요.
 50. CIDA: Quanto tempo, exatamente?
+    시다: 정확히 얼마나 걸려요?
 
 51. SÉRGIO: Em teoria, sete dias úteis, no máximo.
     세르지우: 이론상으로는 영업일 기준 최대 7일이에요.

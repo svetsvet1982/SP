@@ -112,6 +112,7 @@
 49. LARISSA: Um nome só pode fazer isso com alguém?
     라리사: 이름 하나가 사람한테 이럴 수 있어요?
 50. RAFAEL: Pode, sim. Quando o nome carrega alguma coisa pesada.
+    라파엘: 그럴 수 있어요. 그 이름이 무거운 뭔가를 담고 있을 때는요.
 
 51. LARISSA: Que tipo de coisa pesada?
     라리사: 어떤 무거운 거요?

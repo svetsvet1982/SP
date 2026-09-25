@@ -112,6 +112,7 @@
 49. RAFAEL: Cheiro não é prova, Dumont.
     라파엘: 냄새가 증거는 아니죠, 두몬트.
 50. DUMONT: Por isso preciso de duas fontes.
+    두몬트: 그래서 두 개의 출처가 필요한 거죠.
 
 51. LARISSA: Desculpa, duas fontes pra um papel velho?
     라리사: 죄송한데, 오래된 서류 하나에 출처가 두 개나 필요해요?

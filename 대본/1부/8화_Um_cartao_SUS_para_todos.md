@@ -112,6 +112,7 @@
 49. SUPERVISORA: A senhora é médica?
     상급자: 의사세요?
 50. CAMILA: Sou. Do Hospital Municipal São Bartolomeu.
+    카밀라: 맞아요. 상바르톨로메우 시립병원 소속이에요.
 
 51. SUPERVISORA: Entendo. Vamos emitir o cartão com declaração de residência.
     상급자: 알겠습니다. 거주 신고서로 카드를 발급할게요.
