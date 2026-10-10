@@ -47,55 +47,57 @@
 044. HELENA: Você falou do que o livro inteiro tava tentando dizer. Em duas frases.
 045. CAIO: Viu? Manual de instrução também ensina coisa.
 046. HELENA: Não se acha, não.
-047. CAIO: Mas me explica uma coisa. Por que você disse que tem palavra que não tem tradução?
-048. HELENA: Porque tem. Saudade, por exemplo. Em inglês não tem uma palavra só.
-049. CAIO: Mas você acabou de traduzir uma palavra que não tinha tradução.
-050. HELENA: Não traduzi a palavra. Traduzi o que ela queria dizer. É diferente.
-051. CAIO: Então toda palavra tem tradução. Só não é palavra por palavra.
-052. HELENA: Quase toda. Algumas ainda não têm.
-053. CAIO: Quais?
-054. HELENA: Ah, sei lá. Umas coisas que a gente sente e não sabe dizer nem na própria língua.
-055. CAIO: Tipo o quê?
-056. HELENA: Tipo... esquece. Olha, chegou alguém. O sininho.
-057. BIA: Com licença! É aqui que a minha amiga desaparece todas as tardes?
-058. HELENA: Bia?! O que você tá fazendo aqui?
-059. BIA: Vim conhecer o famoso sebo. E o famoso dono do sebo.
-060. CAIO: Eu não sou o dono. Sou o sobrinho do dono. Caio, prazer.
-061. BIA: Beatriz. Bia. Moro com a Helena. Ela fala muito de você.
-062. HELENA: Eu não falo muito dele!
-063. BIA: Fala, sim. "O Caio organizou os livros por cor." "O Caio não sabe quem é Guimarães Rosa." "O Caio achou um gato."
-064. CAIO: Então ela fala mal de mim.
-065. BIA: Fala. Mas fala todo dia. Isso é que é importante.
-066. HELENA: Bia, você não tinha plantão hoje?
-067. BIA: Só às sete. Sou enfermeira, Caio. Turno da noite no Hospital das Clínicas.
-068. CAIO: Pesado. Respeito.
-069. BIA: Obrigada. E você? Arquiteto que virou livreiro?
-070. CAIO: Arquiteto temporariamente livreiro.
-071. BIA: Temporariamente, sei. E por que um arquiteto sai do escritório?
-072. HELENA: Bia! Isso é um interrogatório?
-073. BIA: É uma conversa, amiga. Eu sou da Liberdade, a gente conversa assim.
-074. CAIO: Tudo bem. Eu saí porque fiquei doente de tanto trabalhar.
-075. BIA: Burnout?
-076. CAIO: Burnout.
-077. BIA: Vejo isso toda semana no hospital. Você tá se cuidando?
-078. CAIO: Tô tentando. Tenho um gato agora. E uma mineira que me dá bronca.
-079. BIA: Ah, a bronca é a melhor parte. Ela é ótima nisso.
-080. HELENA: Vocês dois tão combinando contra mim?
-081. BIA: Não, amiga. Eu tô só fazendo a minha pesquisa. Você tem namorada, Caio?
-082. CAIO: Namorada? Assim, do nada?
-083. HELENA: Bia, pelo amor de Deus!
-084. BIA: Pergunta simples. Sim ou não?
-085. CAIO: Não. Não tenho.
-086. BIA: Ótimo. Quer dizer, que bom. Quer dizer... que interessante.
-087. HELENA: Tá bom, a visita acabou. Você não tinha que dormir antes do plantão?
-088. BIA: Tenho. Mas antes vou comprar um livro. Pra não parecer que eu vim só bisbilhotar.
-089. CAIO: Fica à vontade. Romance fica... ali. Por autor. A Helena reorganizou.
-090. BIA: Ela reorganizou a sua loja? Nossa, então é sério.
-091. HELENA: Bia!
-092. BIA: Vou levar esse aqui. "Orgulho e Preconceito". Muito apropriado.
-093. CAIO: Quinze reais.
-094. BIA: Toma. Prazer, Caio. Cuida dessa minha amiga, viu? Ela não dorme quando trava numa palavra.
-095. CAIO: Hoje ela destravou.
-096. BIA: Destravou? Com você? Interessante. Tchau, gente!
-097. HELENA: Tchau, Bia. Vai com Deus. E rápido.
-098. BIA: Ah, amiga, só mais uma coisa. Ele é bonito, hein!
+047. CAIO: Brincadeira. Fiquei feliz de ajudar. De verdade.
+048. HELENA: Eu sei. Obrigada, Caio. De verdade também.
+049. CAIO: Mas me explica uma coisa. Por que você disse que tem palavra que não tem tradução?
+050. HELENA: Porque tem. Saudade, por exemplo. Em inglês não tem uma palavra só.
+051. CAIO: Mas você acabou de traduzir uma palavra que não tinha tradução.
+052. HELENA: Não traduzi a palavra. Traduzi o que ela queria dizer. É diferente.
+053. CAIO: Então toda palavra tem tradução. Só não é palavra por palavra.
+054. HELENA: Quase toda. Algumas ainda não têm.
+055. CAIO: Quais?
+056. HELENA: Ah, sei lá. Umas coisas que a gente sente e não sabe dizer nem na própria língua.
+057. CAIO: Tipo o quê?
+058. HELENA: Tipo... esquece. Olha, chegou alguém. O sininho.
+059. BIA: Com licença! É aqui que a minha amiga desaparece todas as tardes?
+060. HELENA: Bia?! O que você tá fazendo aqui?
+061. BIA: Vim conhecer o famoso sebo. E o famoso dono do sebo.
+062. CAIO: Eu não sou o dono. Sou o sobrinho do dono. Caio, prazer.
+063. BIA: Beatriz. Bia. Moro com a Helena. Ela fala muito de você.
+064. HELENA: Eu não falo muito dele!
+065. BIA: Fala, sim. "O Caio organizou os livros por cor." "O Caio não sabe quem é Guimarães Rosa." "O Caio achou um gato."
+066. CAIO: Então ela fala mal de mim.
+067. BIA: Fala. Mas fala todo dia. Isso é que é importante.
+068. HELENA: Bia, você não tinha plantão hoje?
+069. BIA: Só às sete. Sou enfermeira, Caio. Turno da noite no Hospital das Clínicas.
+070. CAIO: Pesado. Respeito.
+071. BIA: Obrigada. E você? Arquiteto que virou livreiro?
+072. CAIO: Arquiteto temporariamente livreiro.
+073. BIA: Temporariamente, sei. E por que um arquiteto sai do escritório?
+074. HELENA: Bia! Isso é um interrogatório?
+075. BIA: É uma conversa, amiga. Eu sou da Liberdade, a gente conversa assim.
+076. CAIO: Tudo bem. Eu saí porque fiquei doente de tanto trabalhar.
+077. BIA: Burnout?
+078. CAIO: Burnout.
+079. BIA: Vejo isso toda semana no hospital. Você tá se cuidando?
+080. CAIO: Tô tentando. Tenho um gato agora. E uma mineira que me dá bronca.
+081. BIA: Ah, a bronca é a melhor parte. Ela é ótima nisso.
+082. HELENA: Vocês dois tão combinando contra mim?
+083. BIA: Não, amiga. Eu tô só fazendo a minha pesquisa. Você tem namorada, Caio?
+084. CAIO: Namorada? Assim, do nada?
+085. HELENA: Bia, pelo amor de Deus!
+086. BIA: Pergunta simples. Sim ou não?
+087. CAIO: Não. Não tenho.
+088. BIA: Ótimo. Quer dizer, que bom. Quer dizer... que interessante.
+089. HELENA: Tá bom, a visita acabou. Você não tinha que dormir antes do plantão?
+090. BIA: Tenho. Mas antes vou comprar um livro. Pra não parecer que eu vim só bisbilhotar.
+091. CAIO: Fica à vontade. Romance fica... ali. Por autor. A Helena reorganizou.
+092. BIA: Ela reorganizou a sua loja? Nossa, então é sério.
+093. HELENA: Bia!
+094. BIA: Vou levar esse aqui. "Orgulho e Preconceito". Muito apropriado.
+095. CAIO: Quinze reais.
+096. BIA: Toma. Prazer, Caio. Cuida dessa minha amiga, viu? Ela não dorme quando trava numa palavra.
+097. CAIO: Hoje ela destravou.
+098. BIA: Destravou? Com você? Interessante. Tchau, gente!
+099. HELENA: Tchau, Bia. Vai com Deus. E rápido.
+100. BIA: Ah, amiga, só mais uma coisa. Ele é bonito, hein!
