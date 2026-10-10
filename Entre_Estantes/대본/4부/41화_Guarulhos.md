@@ -65,12 +65,12 @@
 062. CAIO: Toma. Seu café. Com leite, sem açúcar.
 063. HELENA: Obrigada. Caio, a gente não falou ainda do que a gente vai fazer.
 064. CAIO: Como assim?
-065. HELENA: Quando eu estiver lá. Com o fuso. Quatro horas de diferença.
+065. HELENA: Quando eu estiver lá. Com o fuso. Três horas de diferença.
 066. CAIO: Eu já pensei nisso.
 067. HELENA: Claro que pensou.
-068. CAIO: Quando for oito da manhã aqui, é meio-dia lá. Hora do seu almoço, meu café.
+068. CAIO: Quando for nove da manhã aqui, é meio-dia lá. Hora do seu almoço, meu café.
 069. HELENA: E à noite?
-070. CAIO: Quando for dez da noite lá, é seis da tarde aqui. Hora que eu fecho a loja.
+070. CAIO: Quando for dez da noite lá, é sete da noite aqui. Hora que eu fecho a loja.
 071. HELENA: Então a gente se fala duas vezes por dia.
 072. CAIO: Duas vezes. No mínimo. E você manda foto das livrarias de Lisboa.
 073. HELENA: E você manda foto da obra. E do Machado.
