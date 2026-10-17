@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 12화 · 서사 기능: 실명 증언 · 반론권 〔위기〕
 > - 배경: 아자 노르치(SQN) 임시 숙소(11화 이틀 뒤 아침 8시 — 산드라가 아나 클라라에게 오전 휴무를 줌) → 매트리스와 담요로 벽을 덮은 숙소 방, '녹음 스튜디오'(오전 10시, 도나 시다 실명 증언 녹화) → 숙소 거실(정오~오후, 베아트리스 합류 · 반론 요청 통화) → 같은 거실(저녁 6시, 도나 시다의 귀향 버스 전)
-> - 등장인물: WESLEY, DIGO, HELENA, TIAGO, ANA CLARA, BEATRIZ(전화 → 합류), DONA CIDA, MIRELA(발라다리스 상원의원실 공보 담당, 전화), SANDRA(전화), BARRETO(전화), VALADARES(전화), MARCOS(전화), JÉSSICA(도나 시다의 딸, 전화)
+> - 등장인물: WESLEY, DIGO, HELENA, TIAGO, ANA CLARA, BEATRIZ(전화 → 합류), DONA CIDA, MIRELA(발라다리스 상원의원실 공보 담당, 전화), SANDRA(전화), BARRETO(전화), VALADARES(전화), MARCOS(전화), LUANA(도나 시다의 딸, 전화)
 > - 반영 현안: 'Emendas Pix' — 사업 계획 없이 꽂힌 4,200만 헤알과 다음 날 공사 업체로 빠져나간 돈, 위조된 시장 서명 · 허수아비 여성 후보(여성 할당제·공공 선거기금 유용) · 반론권과 언론 압박("국가안보 정보 유출" 고발 위협)
 > - 난이도: B1+ · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(문서·녹취 낭독 예외 최대 2회, 25단어 이내).
@@ -126,8 +126,8 @@
 037. TIAGO: Dona Cida, por favor, diga o seu nome completo e o seu cargo.
     치아구: 도나 시다, 성함 전체와 직책을 말씀해 주세요.
 
-038. DONA CIDA: Aparecida dos Santos Lima. Prefeita de São Miguel da Vereda, Goiás. Oito mil habitantes.
-    도나 시다: 아파레시다 두스 산투스 리마. 고이아스주 상미겔 다 베레다 시장. 인구 8천 명이에요.
+038. DONA CIDA: Maria Aparecida Duarte. Prefeita de São Miguel da Vereda, Goiás. Oito mil habitantes.
+    도나 시다: 마리아 아파레시다 두아르치. 고이아스주 상미겔 다 베레다 시장. 인구 8천 명이에요.
 
 039. TIAGO: A senhora conhece o Hospital Regional de São Miguel da Vereda?
     치아구: 「상미겔 다 베레다 지역 병원」을 아세요?
@@ -138,8 +138,8 @@
 041. TIAGO: E o que tem no terreno do hospital?
     치아구: 그럼 병원 부지엔 뭐가 있어요?
 
-042. DONA CIDA: Pasto. E as vacas do seu Zico. Elas são as únicas pacientes.
-    도나 시다: 목초지요. 그리고 지쿠 아저씨네 소들. 걔들이 유일한 환자예요.
+042. DONA CIDA: Pasto. E as vacas do seu Bento. Elas são as únicas pacientes.
+    도나 시다: 목초지요. 그리고 벤투 아저씨네 소들. 걔들이 유일한 환자예요.
 
 043. TIAGO: Quanto dinheiro chegou pra esse hospital?
     치아구: 그 병원 앞으로 돈이 얼마 들어왔어요?
@@ -450,20 +450,20 @@
 145. WESLEY: Eu levo a senhora. E espero o ônibus sair com a senhora dentro.
     웨슬리: 제가 모셔다드릴게요. 버스가 도나 시다 태우고 떠날 때까지 기다릴게요.
 
-146. DONA CIDA: Obrigada, meu filho. Opa, o meu telefone. É a minha filha, a Jéssica.
-    도나 시다: 고마워요, 젊은이. 어, 내 전화. 우리 딸 제시카예요.
+146. DONA CIDA: Obrigada, meu filho. Opa, o meu telefone. É a minha filha, a Luana.
+    도나 시다: 고마워요, 젊은이. 어, 내 전화. 우리 딸 루아나예요.
 
-147. DONA CIDA: Oi, Jéssica. Tô saindo agora de Brasília, filha. Chego de madrugada.
-    도나 시다: 응, 제시카. 지금 브라질리아에서 출발해, 얘야. 새벽에 도착해.
+147. DONA CIDA: Oi, Luana. Tô saindo agora de Brasília, filha. Chego de madrugada.
+    도나 시다: 응, 루아나. 지금 브라질리아에서 출발해, 얘야. 새벽에 도착해.
 
-148. JÉSSICA: Mãe? Mãe, escuta. Não sei se a senhora deve vir agora.
-    제시카: 엄마? 엄마, 들어 봐. 지금 오셔도 될지 모르겠어.
+148. LUANA: Mãe? Mãe, escuta. Não sei se a senhora deve vir agora.
+    루아나: 엄마? 엄마, 들어 봐. 지금 오셔도 될지 모르겠어.
 
 149. DONA CIDA: Como assim, filha? Que voz é essa? Aconteceu alguma coisa?
     도나 시다: 무슨 소리야, 얘야? 목소리가 왜 그래? 무슨 일 있어?
 
-150. JÉSSICA: Tem uma viatura da polícia parada na frente de casa, mãe. Desde as cinco.
-    제시카: 엄마, 우리 집 앞에 경찰차가 서 있어. 다섯 시부터.
+150. LUANA: Tem uma viatura da polícia parada na frente de casa, mãe. Desde as cinco.
+    루아나: 엄마, 우리 집 앞에 경찰차가 서 있어. 다섯 시부터.
 
 ---
 
