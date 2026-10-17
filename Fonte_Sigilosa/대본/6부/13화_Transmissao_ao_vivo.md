@@ -4,25 +4,25 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 6부 13화 · 서사 기능: 클라이맥스
-> - 배경: 「Pulso Digital」 화장실 ↔ 벨라비스타 사무소(12화 그날 저녁 7시 10분, 카이우의 "자정까지 전부 삭제" 지시 직후) → 사무소 2층 즉석 스튜디오(7시 40분~8시 반, 제의 바 조명·제시카 도착·마르쿠스 전화·반론 요청서 발송) → Pulso 지하 서버실 ↔ 생방송(밤 9시~9시 50분) → Pulso 비상구·하역장(웨슬리의 오토바이) → 사무소(밤 11시 50분, 헤나타의 영상통화 — 바후에리 Pulso 압수수색 현장)
+> - 배경: 「Pulso Digital」 화장실 ↔ 벨라비스타 사무소(12화 직후 토요일 저녁 7시 10분, 선거 여드레 전 — 사내 메신저 「Eco」로 온 카이우의 삭제 지시 직후) → 사무소 2층 즉석 스튜디오(7시 40분~8시 반, 제의 바 조명·제시카 도착·마르쿠스 전화·반론 요청서 발송) → Pulso 지하 서버실 ↔ 생방송(밤 9시~9시 50분) → Pulso 비상구·하역장(웨슬리의 오토바이) → 사무소(밤 11시 50분, 헤나타의 영상통화 — 바후에리 Pulso 압수수색 현장)
 > - 등장인물: ANA CLARA, TIAGO, DIGO, BEATRIZ, ZÉ, WESLEY, JÉSSICA, MARCOS(전화), BRUNO, JÚLIA(음성 메시지), RENATA(전화·영상통화), CAIO
 > - 반영 현안: 선거 딥페이크·가짜뉴스 공장의 실시간 폭로(후보 Lívia Castanho 조작 영상과 '봇 발사 일정표') · 내부 고발자의 얼굴 공개 증언과 피해자 보호(교사의 이름은 끝까지 비공개) · 증거 인멸 시도와 선거 범죄 영장에 의한 압수수색 · 반론권 — 방송 중 Pulso 측 입장 낭독
 > - 난이도: B2 · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(문서·녹취 낭독 예외 최대 2회, 25단어 이내).
-> - 이번 화의 복선: 마르쿠스의 전화 "생방송이야? 몇 시에? 그 애는 아직 안에 있어?" — 치아구가 처음으로 "전화를 못 믿겠다"며 거짓으로 답함(→15화·7부, 설명 금지) · 삭제 스크립트가 생방송 시작 뒤 앞당겨짐 · 밤 10시 15분 차고를 나간 로고 없는 흰색 밴(브루누 증언) · 지하 서버 랙 네 칸 중 한 칸이 비고 케이블 두 개가 잘림 — 카이우 "원래 세 대였다"(→14화 마지막 접속 위치, →7부 사라진 서버) · 파일은 "세 군데"에 저장 · 쥴리아 "나 놀리던 애들까지 보고 있어"(→14화 반 친구들의 사과) · 엘레나 "출처 둘 — 급여 명세서와 제시카" · 훅 "우리가 도착했어. 그런데 누가 먼저 왔어."
+> - 이번 화의 복선: 마르쿠스의 전화 "생방송이야? 몇 시에? 그 애는 아직 안에 있어?" — 치아구가 처음으로 "전화를 못 믿겠다"며 거짓으로 답함(→15화·7부, 설명 금지) · 삭제 스크립트가 생방송 시작 뒤 앞당겨짐 · 밤 10시 15분 차고를 나간 로고 없는 흰색 밴(브루누 증언) · 지하 서버 랙 네 칸 중 라벨 없던 '위쪽 고객 거' 한 칸이 비고 케이블 두 개가 잘림 — 카이우 "원래 세 대였다"(→14화 마지막 접속 위치, →7부 사라진 서버) · 파일은 "세 군데"에 저장 · 쥴리아 "나 놀리던 애들까지 보고 있어"(→14화 반 친구들의 사과) · 엘레나 "출처 둘 — 급여 명세서와 제시카" · 훅 "우리가 도착했어. 그런데 누가 먼저 왔어."
 
 ---
 
 ## 대본
 
-001. ANA CLARA: Tiago, sou eu. Tô no banheiro. O Caio mandou mensagem pra todo mundo.
-    아나 클라라: 치아구, 나예요. 화장실이에요. 카이우가 전 직원한테 메시지 보냈어요.
+001. ANA CLARA: Tiago, sou eu. Tô no banheiro. A mensagem do Caio no Eco tem mais.
+    아나 클라라: 치아구, 나예요. 화장실이에요. 「Eco」에 온 카이우 메시지, 뒤에 더 있어요.
 
 002. TIAGO: Lê pra mim. Devagar.
     치아구: 읽어 줘. 천천히.
 
-003. ANA CLARA: "Hoje à noite, todos os arquivos serão apagados. Até meia-noite. Sem exceção."
-    아나 클라라: 「오늘 밤 모든 파일을 삭제한다. 자정까지. 예외 없음.」
+003. ANA CLARA: "Hoje à noite, todos os arquivos serão apagados." E embaixo: "Até meia-noite. Sem exceção."
+    아나 클라라: 「오늘 밤 모든 파일을 삭제한다.」 그리고 그 밑에. 「자정까지. 예외 없음.」
 
 004. TIAGO: Meia-noite. São sete e dez. A gente tem menos de cinco horas.
     치아구: 자정이라. 지금 일곱 시 십 분. 다섯 시간도 안 남았네.
@@ -33,11 +33,11 @@
 006. TIAGO: E os originais da Lívia? E o pacote contra a gente?
     치아구: 리비아 원본은? 우리 겨냥한 패키지는?
 
-007. ANA CLARA: Tão no servidor do porão. Ontem eu copiei metade. Falta a outra metade.
-    아나 클라라: 지하 서버에 있어요. 어제 절반 복사했어요. 나머지 절반이 남았고요.
+007. ANA CLARA: Tão no servidor do porão. De madrugada, parou em cinquenta e um por cento.
+    아나 클라라: 지하 서버에 있어요. 새벽에 복사가 51퍼센트에서 멈췄잖아요.
 
-008. TIAGO: Sai daí, Ana. Agora. Metade já é muito.
-    치아구: 거기서 나와, 아나. 지금. 절반이면 충분해.
+008. TIAGO: Sai daí, Ana. Agora. O cronograma inteiro já é muito.
+    치아구: 거기서 나와, 아나. 지금. 일정표 전체만으로도 충분해.
 
 009. ANA CLARA: Metade é boato, Tiago. Inteiro é prova. Foi você que me ensinou.
     아나 클라라: 절반은 소문이에요, 치아구. 전부여야 증거죠. 그거 가르쳐 준 게 당신이에요.
@@ -183,11 +183,11 @@
 056. BEATRIZ: Bom instinto. Agora o direito de resposta. A Pulso precisa ser ouvida.
     베아트리스: 좋은 감이에요. 이제 반론권. Pulso 쪽 말도 들어야 해요.
 
-057. TIAGO: Já liguei três vezes. Vai por escrito: perguntas e prazo até oito e meia.
-    치아구: 벌써 세 번 전화했어요. 서면으로 보낼게요. 질문들, 그리고 여덟 시 반까지 기한.
+057. TIAGO: Às cinco e doze ele desligou na minha cara. Agora vai por escrito.
+    치아구: 다섯 시 십이 분에 제 전화를 끊었죠. 이번엔 서면으로 보냅니다.
 
-058. DIGO: Enviado. Pro e-mail do Caio e pro da Sentinela. Com confirmação de leitura.
-    지구: 보냈어요. 카이우 이메일이랑 센티넬라로. 수신 확인 걸어서.
+058. DIGO: Enviado. Caio e Sentinela, prazo até oito e meia. Com confirmação de leitura.
+    지구: 보냈어요. 카이우랑 센티넬라, 기한은 여덟 시 반. 수신 확인 걸어서.
 
 059. JÉSSICA: Ele vai responder. Ele sempre responde. Ele adora ter a última palavra.
     제시카: 대답할 거예요. 항상 대답해요. 마지막 말을 하는 걸 좋아하거든요.
@@ -207,11 +207,11 @@
 064. DIGO: Liga o cabo no servidor dois. Pasta "Projeto Castanho".
     지구: 2번 서버에 케이블 꽂아요. 「카스타뉴 프로젝트」 폴더.
 
-065. ANA CLARA: Achei. Tem o vídeo final, os brutos e um arquivo "disparo_quinta".
-    아나 클라라: 찾았어요. 최종 영상, 원본 소스, 그리고 「발사_목요일」이라는 파일.
+065. ANA CLARA: Achei. Vídeo final em alta, os brutos, e os projetos com camadas.
+    아나 클라라: 찾았어요. 고화질 최종본, 원본 소스, 그리고 레이어 있는 프로젝트 파일.
 
-066. DIGO: Esse é ouro. É a programação dos robôs. Manda tudo.
-    지구: 그게 금이에요. 봇들 일정표예요. 전부 보내요.
+066. DIGO: Isso é ouro. O cronograma a gente já tem. Faltava a prova da montagem.
+    지구: 그게 금이에요. 일정표는 이미 있어요. 없던 건 조작의 증거였죠.
 
 067. ANA CLARA: Mandando. A barrinha tá em três por cento. Mó devagar, mano.
     아나 클라라: 보내는 중. 진행 막대 3퍼센트. 완전 느려, 진짜.
@@ -219,8 +219,8 @@
 068. DIGO: É o tamanho. São arquivos de projeto, com todas as camadas da montagem.
     지구: 용량 때문이에요. 프로젝트 파일이라 조작한 레이어가 전부 들어 있어요.
 
-069. ANA CLARA: Tem uma pasta "Lume_espioes" também. Com a minha cara, a sua, a do Tiago.
-    아나 클라라: 「루미_첩자들」 폴더도 있어요. 내 얼굴, 당신 얼굴, 치아구 얼굴.
+069. ANA CLARA: E a outra metade da "Lume_espioes". Com a minha cara, a sua, a do Tiago.
+    아나 클라라: 그리고 「루미_첩자들」 나머지 절반. 내 얼굴, 당신 얼굴, 치아구 얼굴.
 
 070. DIGO: Depois. Primeiro a da Lívia. Ela é a eleição. A gente é só a gente.
     지구: 그건 나중에. 리비아 거 먼저요. 그쪽은 선거고. 우린 그냥 우리니까.
@@ -339,8 +339,8 @@
 108. JÉSSICA: Eu vi esse vídeo nascer. Lá dentro, chamavam de "o grande".
     제시카: 저 영상이 만들어지는 걸 봤어요. 안에선 「큰 거」라고 불렀어요.
 
-109. DIGO: E a programação: "quinta, seis da manhã, três mil perfis, quatrocentos grupos".
-    지구: 그리고 일정표. 「목요일 오전 6시, 프로필 3천 개, 단톡방 400개」.
+109. DIGO: E o cronograma: "D-3, quinta, seis da manhã, três mil perfis, quatrocentos grupos".
+    지구: 그리고 일정표. 「D-3, 목요일 오전 6시, 프로필 3천 개, 단톡방 400개」.
 
 110. DIGO: Noventa por cento. Ana, como tá aí?
     지구: 90퍼센트. 아나, 거기 어때요?
@@ -438,8 +438,8 @@
 141. RENATA: Tô no rack. Um, dois, três servidores. Luz piscando. Cabos ligados.
     헤나타: 랙 앞이야. 하나, 둘, 셋. 불빛 깜빡이고. 케이블 연결돼 있고.
 
-142. ANA CLARA: Três? Não. Ontem eram quatro. Eu contei. O quarto ficava embaixo, no canto.
-    아나 클라라: 세 대요? 아니에요. 어제는 네 대였어요. 세어 봤어요. 네 번째는 아래 구석에.
+142. ANA CLARA: Três? Eram quatro. O quarto, embaixo, sem etiqueta. "Do cliente de cima", o Bruno disse.
+    아나 클라라: 세 대요? 네 대였어요. 네 번째는 아래쪽, 라벨 없는 거. 브루누가 「위쪽 고객 거」라고 했어요.
 
 143. RENATA: Embaixo, no canto, tem um espaço vazio. Marca de poeira. Dois cabos cortados.
     헤나타: 아래 구석엔 빈칸이 있어. 먼지 자국. 잘린 케이블 두 개.

@@ -4,31 +4,31 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 6부 14화 · 서사 기능: 명예 회복
-> - 배경: 벨라비스타 사무소(13화 다음 날 아침 8시, 아무도 집에 가지 않음) → 같은 사무소(9시, 포렌식 전문가 타이나의 프레임 단위 분석 · 이후 생중계) → 쥴리아의 학교 정문(오후 3시, 웨슬리의 오토바이로 데리러 감 · 도나 그라사의 전화) → 사무소(저녁 7시, 화상회의 — 병실의 엘레나, 「Vibra」 공공정책 이사 헤낭 레사의 반론, 헤나타의 별도 링크)
-> - 등장인물: ZÉ, TIAGO, DIGO, ANA CLARA, BEATRIZ, TAINÁ, WESLEY, JÚLIA, YASMIN, DAVI, DONA GRAÇA(전화), HELENA(화상), MAURO(화상), RENATA(화상)
+> - 배경: 벨라비스타 사무소(13화 이틀 뒤 월요일 아침 8시, 주말 내내 아무도 집에 가지 않음 — 선거 엿새 전) → 같은 사무소(9시, 일요일 내내 작업한 포렌식 전문가 타이나의 프레임 단위 분석 · 이후 생중계) → 쥴리아의 학교 정문(오후 3시, 웨슬리의 오토바이로 데리러 감 · 도나 그라사의 전화) → 사무소(저녁 7시, 화상회의 — 병실의 엘레나, 「Vibra」 공공정책 이사 헤낭 레사의 반론, 헤나타의 별도 링크)
+> - 등장인물: ZÉ, TIAGO, DIGO, ANA CLARA, BEATRIZ, TAINÁ, WESLEY, JÚLIA, YASMIN, DAVI, DONA GRAÇA(전화), HELENA(화상), RENAN(화상), RENATA(화상)
 > - 반영 현안: 딥페이크 포렌식(반복된 배경 루프·P/B/M 입 모양·조명 방향·눈 깜빡임·메타데이터) · 플랫폼 책임 — 2025년 대법원 판결(통지 후 책임, 유료 광고·봇 네트워크에는 통지 전 주의 의무)과 2024년 선거법원의 선거 선전물 딥페이크 금지 규정 vs 「Vibra」 임원의 "신고가 들어오면 검토한다" · 조작 영상의 유료 '부스팅' 수익 · 선거법원(TRE)의 '디지털 컨설팅' 신고 캠프 회계 감사(비자금) · 학교 단톡방의 2차 확산과 사과
 > - 난이도: B2 · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(문서·녹취 낭독 예외 최대 2회, 25단어 이내).
-> - 이번 화의 복선: 타이나 "당신은 거기 없었으니까 깜빡이지 않은 것" · 얼굴 레이어 생성 시각 = 「Olho do Cerrado」 첫 게시와 같은 분(단정은 보류) · 쥴리아 목록의 프로필 41개가 Pulso 명단과 일치(→8부 9화 쥴리아의 기지) · 리비아 캠프의 감사 인사 거절("후보의 감사는 선전이 된다") · 엘레나 "그 말은 내 게 아니야. 쓰는 사람 거지. 이제 네 것도 돼"(→8부 역할 분담) · 센티넬라가 세 캠프의 직접 공급자로 등장(→7부 15화 지도·8부 14화 결산) · 네 번째 서버의 자동 클라우드 백업 — 단 1분 접속 · 훅 "브라질리아에서요."
+> - 이번 화의 복선: 타이나 "당신은 거기 없었으니까 깜빡이지 않은 것" · 프로젝트 작성자 「kelvin.edit」 · 얼굴 레이어 내보낸 시각 3시 19분 = 진짜 첫 게시자 「verdade.nua.sp」(삭제됨) 3시 28분 게시 9분 전(직접 전달 여부는 단정 보류) · 1화 「Fundação Ipê Amarelo」 지원 보류 해제 · 1화에서 거절한 감정인 대신 타이나 · 쥴리아 목록의 프로필 41개가 Pulso 명단과 일치(→8부 9화 쥴리아의 기지) · 리비아 캠프의 감사 인사 거절("후보의 감사는 선전이 된다") · 엘레나 "그 말은 내 게 아니야. 쓰는 사람 거지. 이제 네 것도 돼"(→8부 역할 분담) · 센티넬라가 세 캠프의 직접 공급자로 등장(→7부 15화 지도·8부 14화 결산) · 네 번째 서버의 자동 클라우드 백업 — 단 1분 접속 · 훅 "브라질리아에서요."
 
 ---
 
 ## 대본
 
-001. ZÉ: Oito da manhã e ninguém foi pra casa. Café preto pra todo mundo.
-    제: 아침 여덟 시인데 아무도 집에 안 갔네. 다들 블랙커피다.
+001. ZÉ: Segunda, oito da manhã, e ninguém foi pra casa. Café preto pra todo mundo.
+    제: 월요일 아침 여덟 시인데 아무도 집에 안 갔네. 다들 블랙커피다.
 
 002. TIAGO: Obrigado, Zé. Digo, quanto tá a live?
     치아구: 고마워요, 제. 지구, 생방송 조회수 얼마야?
 
-003. DIGO: Dois milhões e meio. Mais que o vídeo falso no primeiro dia.
-    지구: 250만이요. 가짜 영상 첫날보다 많아요.
+003. DIGO: Dois milhões e meio em dois dias. Mais que o vídeo falso.
+    지구: 이틀 만에 250만이요. 가짜 영상보다 많아요.
 
 004. ZÉ: E a TV da padaria da esquina tá passando a moça do holerite.
     제: 모퉁이 빵집 TV에서도 그 급여 명세서 아가씨가 나오더라.
 
-005. ANA CLARA: A Jéssica dormiu no sofá da Beatriz. Disse que foi a primeira noite inteira em meses.
-    아나 클라라: 제시카는 베아트리스네 소파에서 잤어요. 몇 달 만에 처음으로 푹 잤대요.
+005. ANA CLARA: A Jéssica dormiu duas noites no sofá da Beatriz. Disse que dormiu de verdade.
+    아나 클라라: 제시카는 베아트리스네 소파에서 이틀 밤 잤어요. 진짜로 잤대요.
 
 006. BEATRIZ: Ela dormiu. Eu, não. Os advogados da Pulso já mandaram três notificações.
     베아트리스: 그 사람은 잤죠. 난 못 잤어요. Pulso 변호사들이 벌써 통지서를 세 통 보냈어요.
@@ -39,23 +39,23 @@
 008. BEATRIZ: Que a live foi um "ataque à reputação de empresa idônea". Arquivei com carinho.
     베아트리스: 생방송이 「건실한 기업의 평판에 대한 공격」이었대요. 정성껏 철해 뒀어요.
 
-009. DIGO: A Renata mandou mensagem às seis. A perícia levou os três servidores.
-    지구: 헤나타가 여섯 시에 문자 보냈어요. 감식팀이 서버 세 대를 가져갔대요.
+009. DIGO: A Renata mandou mensagem às seis. A perícia tá com os três servidores.
+    지구: 헤나타가 여섯 시에 문자 보냈어요. 감식팀이 서버 세 대를 붙잡고 있대요.
 
 010. TIAGO: E o Caio?
     치아구: 카이우는?
 
-011. DIGO: Depôs até as quatro e foi liberado. Disse que não sabia de servidor nenhum.
-    지구: 네 시까지 진술하고 풀려났어요. 서버 같은 건 전혀 모른대요.
+011. DIGO: Depôs domingo e foi liberado. Disse que não sabia de servidor nenhum.
+    지구: 일요일에 진술하고 풀려났어요. 서버 같은 건 전혀 모른대요.
 
-012. ANA CLARA: Claro. Ele também não sabia da Bianca. Até ontem.
-    아나 클라라: 그렇겠죠. 비앙카에 대해서도 몰랐으니까. 어제까지는.
+012. ANA CLARA: Claro. Ele também não sabia da Bianca. Até sábado.
+    아나 클라라: 그렇겠죠. 비앙카에 대해서도 몰랐으니까. 토요일까지는.
 
-013. TIAGO: Ontem foi testemunho. Hoje precisa ser laudo. Que horas chega a perita?
-    치아구: 어제는 증언이었어. 오늘은 감정서여야 해. 감정인은 몇 시에 와?
+013. TIAGO: Sábado foi testemunho. Hoje precisa ser laudo. Que horas chega a perita?
+    치아구: 토요일은 증언이었어. 오늘은 감정서여야 해. 감정인은 몇 시에 와?
 
-014. BEATRIZ: Às nove. Tainá. Ninguém aqui conhece ela. Foi por isso que eu chamei.
-    베아트리스: 아홉 시요. 타이나. 여기 아무도 모르는 사람이에요. 그래서 부른 거예요.
+014. BEATRIZ: Às nove. Tainá. O primeiro perito recusou por ser "época de eleição". Ela, não.
+    베아트리스: 아홉 시요. 타이나. 첫 번째 감정인은 「선거철」이라고 거절했죠. 이 사람은 안 그랬어요.
 
 015. DIGO: Ela já fez perícia pra tribunal eleitoral. E uma vez derrubou um laudo da polícia.
     지구: 선거법원 감정도 했던 사람이에요. 경찰 감정서를 뒤집은 적도 있고요.
@@ -159,14 +159,14 @@
 048. ANA CLARA: Posso tatuar isso? "O senhor não estava lá."
     아나 클라라: 그거 문신해도 돼요? 「당신은 거기 없었다.」
 
-049. TAINÁ: Quinto ponto: os metadados. Do arquivo de projeto que chegou ontem à noite.
-    타이나: 다섯째: 메타데이터. 어젯밤에 들어온 프로젝트 파일 거요.
+049. TAINÁ: Quinto ponto: metadados. O projeto que chegou sábado tem autor: "kelvin.edit".
+    타이나: 다섯째: 메타데이터. 토요일에 들어온 프로젝트 파일엔 작성자가 있어요. 「kelvin.edit」.
 
-050. TAINÁ: A camada do rosto foi exportada no mesmo minuto do post no Olho do Cerrado.
-    타이나: 얼굴 레이어는 「Olho do Cerrado」 게시와 같은 분에 내보내졌습니다.
+050. TAINÁ: A camada do rosto foi exportada às três e dezenove. Nove minutos antes do primeiro post.
+    타이나: 얼굴 레이어는 3시 19분에 내보내졌습니다. 첫 게시 9분 전이죠.
 
-051. DIGO: Então o primeiro perfil recebeu o arquivo direto da Pulso.
-    지구: 그럼 첫 게시 계정이 Pulso한테서 파일을 바로 받은 거네요.
+051. DIGO: O verdade.nua.sp postou às três e vinte e oito. Recebeu direto da Pulso.
+    지구: 「verdade.nua.sp」가 3시 28분에 올렸어요. Pulso한테서 바로 받은 거네요.
 
 052. TAINÁ: Isso eu não afirmo. Afirmo que o vídeo publicado saiu desse projeto.
     타이나: 그건 단정하지 않습니다. 게시된 영상이 이 프로젝트에서 나왔다는 것만 단정합니다.
@@ -198,8 +198,8 @@
 061. JÚLIA: Pai, você veio na moto do Wesley? Que vergonha. Kkk.
     쥴리아: 아빠, 웨슬리 아저씨 오토바이 타고 왔어? 창피해. ㅋㅋㅋ
 
-062. TIAGO: Vergonha é pouco. Ontem eu era vendido. Hoje sou só um pai de capacete.
-    치아구: 창피한 건 약과지. 어젠 팔려 간 놈이었는데. 오늘은 그냥 헬멧 쓴 아빠야.
+062. TIAGO: Vergonha é pouco. Semana passada eu era vendido. Hoje sou só um pai de capacete.
+    치아구: 창피한 건 약과지. 지난주엔 팔려 간 놈이었는데. 오늘은 그냥 헬멧 쓴 아빠야.
 
 063. JÚLIA: Todo mundo viu a perita. No intervalo passaram o vídeo do relógio no celular.
     쥴리아: 다들 그 감정인 봤어. 쉬는 시간에 휴대폰으로 시계 영상 돌려 봤어.
@@ -294,14 +294,14 @@
 093. TIAGO: Dona Graça! Que bom ouvir a senhora.
     치아구: 그라사 아주머니! 목소리 들으니 반가워요.
 
-094. DONA GRAÇA: Aquele dia eu te liguei perguntando se era verdade. Fiquei com vergonha.
-    도나 그라사: 그날 내가 진짜냐고 전화했잖아요. 부끄러웠어요.
+094. DONA GRAÇA: Aquele dia eu disse que ia esperar, em vez de acreditar. Esperei.
+    도나 그라사: 그날 믿는다 대신 기다리겠다고 했잖아요. 기다렸어요.
 
 095. DONA GRAÇA: Não cancelei a ajuda, viu? E hoje pus mais dez reais. De desculpa.
     도나 그라사: 후원은 안 끊었어요, 알죠? 그리고 오늘 10헤알 더 넣었어요. 미안해서.
 
-096. TIAGO: Não precisava. Perguntar era direito seu. Eu também teria perguntado.
-    치아구: 그러실 필요 없었어요. 물어보는 건 아주머니 권리예요. 저라도 물어봤을 거예요.
+096. TIAGO: Não precisava. Esperar era direito seu. Eu também teria esperado.
+    치아구: 그러실 필요 없었어요. 기다리는 건 아주머니 권리예요. 저라도 기다렸을 거예요.
 
 097. DONA GRAÇA: A minha mãe, a Irma, mandou dizer que nunca acreditou. Mentira dela, mas mandou.
     도나 그라사: 우리 엄마 이르마가 한 번도 안 믿었다고 전해 달래요. 거짓말이지만, 전해 달래서요.
@@ -309,11 +309,11 @@
 098. TIAGO: Diz pra Dona Irma que mentira de mãe não conta.
     치아구: 이르마 할머니께 전해 주세요. 엄마의 거짓말은 안 쳐 준다고.
 
-099. DIGO: Tiago, tá no viva-voz? Mil e cem apoiadores voltaram desde a live.
-    지구: 치아구, 스피커폰이에요? 생방송 이후 후원자 1,100명이 돌아왔어요.
+099. DIGO: Tiago, viva-voz? A Fundação Ipê Amarelo tirou o apoio da geladeira.
+    지구: 치아구, 스피커폰이에요? 「Fundação Ipê Amarelo」가 보류했던 지원을 풀었어요.
 
-100. DIGO: E quatrocentos novos. Um deles assinou como "Garçom do relógio parado". Kkk.
-    지구: 그리고 새로 400명. 한 명은 이름을 「멈춘 시계의 웨이터」로 했어요. ㅋㅋ
+100. DIGO: E dos quatrocentos e doze que saíram, trezentos e noventa voltaram. Mais seiscentos novos.
+    지구: 그리고 탈퇴했던 412명 중 390명이 돌아왔어요. 새로 600명 더.
 
 101. BEATRIZ: Sete em ponto. A Vibra confirmou. E a Helena tá conectada do hospital.
     베아트리스: 일곱 시 정각. Vibra 확인했어요. 엘레나는 병원에서 접속해 있고요.
@@ -330,8 +330,8 @@
 105. RENAN: Boa noite. Renan Lessa, diretor de políticas públicas da Vibra. Tenho quinze minutos.
     헤낭: 안녕하십니까. Vibra 공공정책 이사 헤낭 레사입니다. 15분 드릴 수 있습니다.
 
-106. TIAGO: Senhor Mauro, o vídeo falso ficou quatro dias na Vibra. Seis milhões de visualizações.
-    치아구: 마우루 씨, 가짜 영상이 Vibra에 나흘 동안 있었습니다. 조회수 600만.
+106. TIAGO: Senhor Renan, o vídeo falso ficou quatro dias na Vibra. Seis milhões de visualizações.
+    치아구: 헤낭 씨, 가짜 영상이 Vibra에 나흘 동안 있었습니다. 조회수 600만.
 
 107. TIAGO: A nossa pergunta é simples. Por que ficou tanto tempo?
     치아구: 질문은 간단합니다. 왜 그렇게 오래 있었습니까?
@@ -351,8 +351,8 @@
 112. BEATRIZ: E com impulsionamento pago ou rede de robôs, o dever de cuidado vem antes.
     베아트리스: 그리고 유료 부스팅이나 봇 네트워크가 있으면 주의 의무는 그보다 먼저예요.
 
-113. BEATRIZ: Antes da notificação, senhor Mauro. E o TSE proíbe deepfake em propaganda eleitoral.
-    베아트리스: 통지 전이요, 마우루 씨. 그리고 선거법원은 선거 선전물의 딥페이크를 금지해요.
+113. BEATRIZ: Antes da notificação, senhor Renan. E o TSE proíbe deepfake em propaganda eleitoral.
+    베아트리스: 통지 전이요, 헤낭 씨. 그리고 선거법원은 선거 선전물의 딥페이크를 금지해요.
 
 114. RENAN: Nós removemos o conteúdo assim que a análise foi concluída.
     헤낭: 저희는 검토가 끝나는 즉시 콘텐츠를 삭제했습니다.
@@ -372,14 +372,14 @@
 119. RENAN: ...Houve impulsionamento, sim. Por uma conta que já foi suspensa.
     헤낭: …부스팅이 있었습니다, 네. 이미 정지된 계정에 의해서요.
 
-120. TIAGO: Quem paga a conta, senhor Mauro? A Vibra recebeu dinheiro por esse vídeo.
-    치아구: 계산은 누가 하죠, 마우루 씨? Vibra는 그 영상으로 돈을 받았어요.
+120. TIAGO: Quem paga a conta, senhor Renan? A Vibra recebeu dinheiro por esse vídeo.
+    치아구: 계산은 누가 하죠, 헤낭 씨? Vibra는 그 영상으로 돈을 받았어요.
 
 121. RENAN: Os valores serão... reavaliados. Responderei o restante por escrito.
     헤낭: 해당 금액은… 재검토될 겁니다. 나머지는 서면으로 답변드리겠습니다.
 
-122. HELENA: Senhor Mauro, aqui é Helena Bastos. Do hospital. Uma pergunta só.
-    엘레나: 마우루 씨, 엘레나 바스투스예요. 병원에서요. 질문 하나만.
+122. HELENA: Senhor Renan, aqui é Helena Bastos. Do hospital. Uma pergunta só.
+    엘레나: 헤낭 씨, 엘레나 바스투스예요. 병원에서요. 질문 하나만.
 
 123. HELENA: O senhor já leu os termos de uso da sua empresa? Inteiros?
     엘레나: 당신 회사 이용약관, 읽어 보셨어요? 전부?
