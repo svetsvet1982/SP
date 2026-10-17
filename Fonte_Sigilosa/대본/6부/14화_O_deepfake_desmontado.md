@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 6부 14화 · 서사 기능: 명예 회복
-> - 배경: 벨라비스타 사무소(13화 다음 날 아침 8시, 아무도 집에 가지 않음) → 같은 사무소(9시, 포렌식 전문가 타이나의 프레임 단위 분석 · 이후 생중계) → 쥴리아의 학교 정문(오후 3시, 웨슬리의 오토바이로 데리러 감 · 도나 그라사의 전화) → 사무소(저녁 7시, 화상회의 — 병실의 엘레나, 「Vibra」 공공정책 이사 마우루 레사의 반론, 헤나타의 별도 링크)
+> - 배경: 벨라비스타 사무소(13화 다음 날 아침 8시, 아무도 집에 가지 않음) → 같은 사무소(9시, 포렌식 전문가 타이나의 프레임 단위 분석 · 이후 생중계) → 쥴리아의 학교 정문(오후 3시, 웨슬리의 오토바이로 데리러 감 · 도나 그라사의 전화) → 사무소(저녁 7시, 화상회의 — 병실의 엘레나, 「Vibra」 공공정책 이사 헤낭 레사의 반론, 헤나타의 별도 링크)
 > - 등장인물: ZÉ, TIAGO, DIGO, ANA CLARA, BEATRIZ, TAINÁ, WESLEY, JÚLIA, YASMIN, DAVI, DONA GRAÇA(전화), HELENA(화상), MAURO(화상), RENATA(화상)
 > - 반영 현안: 딥페이크 포렌식(반복된 배경 루프·P/B/M 입 모양·조명 방향·눈 깜빡임·메타데이터) · 플랫폼 책임 — 2025년 대법원 판결(통지 후 책임, 유료 광고·봇 네트워크에는 통지 전 주의 의무)과 2024년 선거법원의 선거 선전물 딥페이크 금지 규정 vs 「Vibra」 임원의 "신고가 들어오면 검토한다" · 조작 영상의 유료 '부스팅' 수익 · 선거법원(TRE)의 '디지털 컨설팅' 신고 캠프 회계 감사(비자금) · 학교 단톡방의 2차 확산과 사과
 > - 난이도: B2 · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
@@ -327,8 +327,8 @@
 104. HELENA: Eu descanso quando você parar de precisar de mim. Começa.
     엘레나: 네가 날 필요로 하지 않게 되면 쉴게. 시작해.
 
-105. MAURO: Boa noite. Mauro Lessa, diretor de políticas públicas da Vibra. Tenho quinze minutos.
-    마우루: 안녕하십니까. Vibra 공공정책 이사 마우루 레사입니다. 15분 드릴 수 있습니다.
+105. RENAN: Boa noite. Renan Lessa, diretor de políticas públicas da Vibra. Tenho quinze minutos.
+    헤낭: 안녕하십니까. Vibra 공공정책 이사 헤낭 레사입니다. 15분 드릴 수 있습니다.
 
 106. TIAGO: Senhor Mauro, o vídeo falso ficou quatro dias na Vibra. Seis milhões de visualizações.
     치아구: 마우루 씨, 가짜 영상이 Vibra에 나흘 동안 있었습니다. 조회수 600만.
@@ -336,14 +336,14 @@
 107. TIAGO: A nossa pergunta é simples. Por que ficou tanto tempo?
     치아구: 질문은 간단합니다. 왜 그렇게 오래 있었습니까?
 
-108. MAURO: A Vibra tem compromisso com a integridade eleitoral. Quando recebemos denúncia, analisamos.
-    마우루: Vibra는 선거의 공정성에 책임을 다하고 있습니다. 신고가 들어오면 검토합니다.
+108. RENAN: A Vibra tem compromisso com a integridade eleitoral. Quando recebemos denúncia, analisamos.
+    헤낭: Vibra는 선거의 공정성에 책임을 다하고 있습니다. 신고가 들어오면 검토합니다.
 
 109. BEATRIZ: A primeira notificação foi às oito da manhã do primeiro dia. Com print e link.
     베아트리스: 첫 통지는 첫날 아침 여덟 시였어요. 캡처와 링크까지 붙여서.
 
-110. MAURO: Recebemos milhões de conteúdos por minuto, doutora. A análise segue fluxos internos.
-    마우루: 저희는 분당 수백만 건의 콘텐츠를 받습니다, 변호사님. 검토는 내부 절차를 따릅니다.
+110. RENAN: Recebemos milhões de conteúdos por minuto, doutora. A análise segue fluxos internos.
+    헤낭: 저희는 분당 수백만 건의 콘텐츠를 받습니다, 변호사님. 검토는 내부 절차를 따릅니다.
 
 111. BEATRIZ: Desde 2025, o Supremo entende que plataforma responde após notificação. Sem esperar juiz.
     베아트리스: 2025년부터 대법원은 플랫폼이 통지 후엔 책임진다고 봐요. 판사 결정 안 기다리고요.
@@ -354,8 +354,8 @@
 113. BEATRIZ: Antes da notificação, senhor Mauro. E o TSE proíbe deepfake em propaganda eleitoral.
     베아트리스: 통지 전이요, 마우루 씨. 그리고 선거법원은 선거 선전물의 딥페이크를 금지해요.
 
-114. MAURO: Nós removemos o conteúdo assim que a análise foi concluída.
-    마우루: 저희는 검토가 끝나는 즉시 콘텐츠를 삭제했습니다.
+114. RENAN: Nós removemos o conteúdo assim que a análise foi concluída.
+    헤낭: 저희는 검토가 끝나는 즉시 콘텐츠를 삭제했습니다.
 
 115. BEATRIZ: No quarto dia. Então eu repito: por que não tiraram antes da denúncia?
     베아트리스: 나흘째에요. 그러니 다시 묻죠. 왜 신고 전에 내리지 않았어요?
@@ -363,20 +363,20 @@
 116. BEATRIZ: Três mil perfis, mesmo minuto, mesma frase. O algoritmo de vocês não viu isso?
     베아트리스: 프로필 3천 개, 같은 분, 같은 문장. 당신네 알고리즘은 그걸 못 봤어요?
 
-117. MAURO: Não comentamos casos específicos nem detalhes do nosso sistema de moderação.
-    마우루: 개별 사안이나 저희 콘텐츠 관리 시스템의 세부 사항에 대해서는 언급하지 않습니다.
+117. RENAN: Não comentamos casos específicos nem detalhes do nosso sistema de moderação.
+    헤낭: 개별 사안이나 저희 콘텐츠 관리 시스템의 세부 사항에 대해서는 언급하지 않습니다.
 
 118. TIAGO: Então um detalhe só. O vídeo foi impulsionado? Alguém pagou pra ele aparecer?
     치아구: 그럼 세부 사항 딱 하나만. 그 영상 부스팅됐습니까? 누가 노출되라고 돈 냈습니까?
 
-119. MAURO: ...Houve impulsionamento, sim. Por uma conta que já foi suspensa.
-    마우루: …부스팅이 있었습니다, 네. 이미 정지된 계정에 의해서요.
+119. RENAN: ...Houve impulsionamento, sim. Por uma conta que já foi suspensa.
+    헤낭: …부스팅이 있었습니다, 네. 이미 정지된 계정에 의해서요.
 
 120. TIAGO: Quem paga a conta, senhor Mauro? A Vibra recebeu dinheiro por esse vídeo.
     치아구: 계산은 누가 하죠, 마우루 씨? Vibra는 그 영상으로 돈을 받았어요.
 
-121. MAURO: Os valores serão... reavaliados. Responderei o restante por escrito.
-    마우루: 해당 금액은… 재검토될 겁니다. 나머지는 서면으로 답변드리겠습니다.
+121. RENAN: Os valores serão... reavaliados. Responderei o restante por escrito.
+    헤낭: 해당 금액은… 재검토될 겁니다. 나머지는 서면으로 답변드리겠습니다.
 
 122. HELENA: Senhor Mauro, aqui é Helena Bastos. Do hospital. Uma pergunta só.
     엘레나: 마우루 씨, 엘레나 바스투스예요. 병원에서요. 질문 하나만.
@@ -384,8 +384,8 @@
 123. HELENA: O senhor já leu os termos de uso da sua empresa? Inteiros?
     엘레나: 당신 회사 이용약관, 읽어 보셨어요? 전부?
 
-124. MAURO: Senhora, eu... ajudei a escrever.
-    마우루: 부인, 저는… 그걸 쓰는 데 참여했습니다.
+124. RENAN: Senhora, eu... ajudei a escrever.
+    헤낭: 부인, 저는… 그걸 쓰는 데 참여했습니다.
 
 125. HELENA: Então o senhor sabe que eles protegem mais o anúncio que a pessoa. Boa noite.
     엘레나: 그럼 그게 사람보다 광고를 더 보호한다는 것도 아시겠네요. 안녕히 가세요.
