@@ -108,8 +108,8 @@
 031. TIAGO: Os teus pais tão num dossiê, Digo. A loja deles, o endereço.
     치아구: 네 부모님이 신상 파일에 있어, 지구. 가게도, 주소도.
 
-032. DIGO: Eu sei o que tem no dossiê. Fui eu que li primeiro.
-    지구: 파일에 뭐가 있는지 알아요. 제일 먼저 읽은 게 저예요.
+032. DIGO: Eu sei o que tem no dossiê. Fui eu que organizei tudo.
+    지구: 파일에 뭐가 있는지 알아요. 그걸 정리한 게 저예요.
 
 033. TIAGO: E o Wesley. Puseram uma ficha criminal que nem é tua.
     치아구: 그리고 웨슬리. 네 것도 아닌 전과 기록을 갖다 붙였지.
