@@ -183,7 +183,7 @@
 056. MATEO: Buenos Aires: "As vinte e três contas do contador: o dinheiro que cruzou fronteiras."
     마테오: 부에노스아이레스. 「회계사의 계좌 23개 — 국경을 넘은 돈」
 
-057. NICO: Marévia: "A ordem veio de Norhaven: telegramas mostram quem fabricou um espião."
+057. NICO: Marévia: "A ordem veio de Norrhavn: telegramas mostram quem fabricou um espião."
     니코: 마레비아. 「지시는 노르하븐에서 — 외교 전문이 밝힌 간첩 조작의 배후」
 
 058. LUKAS: Genebra: "Ouro brasileiro, refinarias suíças e uma pergunta: quem paga a conta?"

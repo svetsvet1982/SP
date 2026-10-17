@@ -384,7 +384,7 @@
 123. DIGO: "Revisão estratégica." É o jeito chique de dizer "fugimos".
     지구: 「전략적 재검토」. "우리 튀었다"를 고상하게 말하는 법이죠.
 
-124. NICO: E Norhaven chamou o embaixador de volta "para consultas". Em diplomatês, isso é vergonha.
+124. NICO: E Norrhavn chamou o embaixador de volta "para consultas". Em diplomatês, isso é vergonha.
     니코: 그리고 노르하븐이 대사를 "협의차" 소환했어요. 외교 언어로는 망신이라는 뜻이죠.
 
 125. TIAGO: Wesley, liga pro Waiuru. Ele mandou mensagem às seis.

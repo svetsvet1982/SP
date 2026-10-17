@@ -348,7 +348,7 @@
 111. ERNESTO: A água descia pelos meus canos e voltava como doação. Limpa. Agradecida.
     에르네스투: 물은 제 수도관을 타고 내려가 후원금이 되어 돌아왔죠. 깨끗하게. 고마워하면서.
 
-112. TIAGO: E o dinheiro de fora? A Nordvik, as contas de Norhaven?
+112. TIAGO: E o dinheiro de fora? A Nordvik, as contas de Norrhavn?
     치아구: 그럼 해외 돈은요? 노르드비크, 노르하븐 계좌들은?
 
 113. ERNESTO: Chegou depois. Pela porta da frente, de terno, com relatório de sustentabilidade.
