@@ -9,7 +9,7 @@
 > - 반영 현안: 선거 딥페이크 — 주지사 후보를 겨냥한 조작 영상 묶음과 '선거 사흘 전' 발사 일정표 · 언론인을 '외국 첩자'로 모는 낙인 캠페인 · 잠입 취재의 법적 한계(복사·촬영만, 동료의 사생활 제외, 공익과 직결된 증거만) · 출처의 독립성 검증(내부 증언 + 문서) · 반론권(direito de resposta) — 보도 전 상대방에게 답할 기회를 주되 취재원을 드러내지 않는 질문법
 > - 난이도: B2 · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(문서·녹취 낭독 예외 최대 2회, 25단어 이내).
-> - 이번 화의 복선: 웨슬리가 휴대폰 하나를 아나 클라라의 배낭 끈에 꿰매 넣음(「celular da costura」 → 13화 실시간 전송) · USB는 부츠 속 · 서버는 네 대, 네 번째는 아래 구석·라벨 없음 — 브루누 "그건 우리 거 아냐, 위쪽 고객 거"(→13화 사라진 서버, 결론 금지) · 서버 2번 폴더: 「Projeto Castanho」(versão final / brutos / D-3, 영상 22개), 「Lume_espioes」(하위 폴더 일곱 개, 제의 것까지), 일정표 「cronograma_grande」(D-3 카스타뉴 / D-2 루미 '외국 요원' / D-1 전부 반복), 파일 「disparo_quinta」(이름만 촬영) · 복사 51%에서 중단 — 일정표 전체·완성본 9개(저화질)·루미 폴더 절반, 레이어가 있는 프로젝트 파일은 없음(→13화 "절반은 소문") · 일정표 메타데이터 작성자 「kelvin.edit」 · 브루누 "내일 밤 이 지하실은 내가 직접 청소한다, 카이우 지시"(→13화 삭제 스크립트) · 지하 비상구 하역장 쪽 문을 아나 클라라가 한 번 시험 · 반론 요청: 센티넬라 변호사 "사적 계약엔 논평하지 않는다", 카이우는 세 번째 전화에서 받아 "누가 말해 줬냐"고만 묻고 끊음(→13화 서면 요청) · 훅: 「Hoje à noite, todos os arquivos serão apagados」
+> - 이번 화의 복선: 웨슬리가 휴대폰 하나를 아나 클라라의 배낭 끈에 꿰매 넣음(「celular da costura」 → 13화 실시간 전송) · USB는 부츠 속 · 서버는 네 대, 네 번째는 아래 구석·라벨 없음 — 브루누 "그건 우리 거 아냐, 위쪽 고객 거"(→13화 사라진 서버, 결론 금지) · 서버 2번 폴더: 「Projeto Castanho」(versão final / brutos / D-3, 영상 22개), 「Lume_espioes」(하위 폴더 일곱 개, 제의 것까지), 일정표 「cronograma_grande」(D-3 카스타뉴 / D-2 루미 '외국 요원' / D-1 전부 반복), 파일 「disparo_quinta」(이름만 촬영) · 복사 51%에서 중단 — 일정표 전체·완성본 9개(저화질)·루미 폴더 절반, 레이어가 있는 프로젝트 파일은 없음(→13화 "절반은 소문") · 일정표 메타데이터 작성자 「kelvin.edit」 · 브루누 "내일 밤 이 지하실은 내가 직접 청소한다, 카이우 지시"(→13화 삭제 스크립트) · 지하 비상구 하역장 쪽 문을 아나 클라라가 두 번 시험 · 반론 요청: 센티넬라 변호사 "사적 계약엔 논평하지 않는다", 카이우는 세 번째 전화에서 받아 "누가 말해 줬냐"고만 묻고 끊음(→13화 서면 요청) · 훅: 「Hoje à noite, todos os arquivos serão apagados」
 
 ---
 
@@ -60,8 +60,8 @@
 015. ANA CLARA: Ainda não. Tô no carro. Fala, Jé.
     아나 클라라: 아직. 차 안이야. 말해, 제.
 
-016. JÉSSICA: Faxina do porão: à uma. A Dona Zuleide prende a porta com um balde.
-    제시카: 지하 청소는 한 시야. 줄레이지 아줌마가 양동이로 문을 받쳐 놔.
+016. JÉSSICA: Faxina do porão: à uma. A Dona Benedita prende a porta com um balde.
+    제시카: 지하 청소는 한 시야. 베네지타 아줌마가 양동이로 문을 받쳐 놔.
 
 017. JÉSSICA: E o Bruno sobe pra fumar lá pelas duas. Sempre. Uns quinze minutos.
     제시카: 그리고 브루누는 두 시쯤 담배 피우러 올라가. 매번. 15분쯤.
@@ -138,8 +138,8 @@
 041. WESLEY: Ana, ele saiu. Isqueiro na mão. Duas e quatro. Vai.
     웨슬리: 아나, 나왔어. 라이터 들고. 두 시 사 분. 가.
 
-042. ANA CLARA: Tô na escada. A porta do porão tá presa com o balde. Valeu, Dona Zuleide.
-    아나 클라라: 계단이야. 지하 문이 양동이로 받쳐져 있어. 고마워요, 줄레이지 아줌마.
+042. ANA CLARA: Tô na escada. A porta do porão tá presa com o balde. Valeu, Dona Benedita.
+    아나 클라라: 계단이야. 지하 문이 양동이로 받쳐져 있어. 고마워요, 베네지타 아줌마.
 
 043. ANA CLARA: Ela tá lá no fundo, de fone, cantando pagode. Nem me viu.
     아나 클라라: 저 안쪽에서 이어폰 끼고 파고지 부르고 있어. 나 보지도 못했어.
@@ -249,11 +249,11 @@
 078. BRUNO: E você desce pro porão pra chorar? Tem banheiro lá em cima.
     브루누: 그래서 울려고 지하실까지 내려와? 위층에 화장실 있잖아.
 
-079. ANA CLARA: Lá em cima todo mundo olha. A Dona Zuleide disse que aqui ninguém desce.
-    아나 클라라: 위에선 다들 쳐다봐요. 줄레이지 아줌마가 여긴 아무도 안 내려온다고 했어요.
+079. ANA CLARA: Lá em cima todo mundo olha. A Dona Benedita disse que aqui ninguém desce.
+    아나 클라라: 위에선 다들 쳐다봐요. 베네지타 아줌마가 여긴 아무도 안 내려온다고 했어요.
 
-080. BRUNO: A Dona Zuleide fala demais. Eu desço. Toda noite.
-    브루누: 줄레이지 아줌마는 말이 많아. 난 내려와. 매일 밤.
+080. BRUNO: A Dona Benedita fala demais. Eu desço. Toda noite.
+    브루누: 베네지타 아줌마는 말이 많아. 난 내려와. 매일 밤.
 
 081. BRUNO: E essa sala aberta? A tela do servidor ligada? Foi você?
     브루누: 근데 이 방은 왜 열려 있어? 서버 화면은 왜 켜져 있고? 너야?
@@ -309,8 +309,8 @@
 098. BRUNO: Então para de chorar. Amanhã à noite eu mesmo limpo esse porão. Ordem do Caio.
     브루누: 그럼 그만 울어. 내일 밤에 이 지하실은 내가 직접 청소해. 카이우 지시야.
 
-099. ANA CLARA: Limpa? Mas a Dona Zuleide já limpa.
-    아나 클라라: 청소요? 줄레이지 아줌마가 벌써 하잖아요.
+099. ANA CLARA: Limpa? Mas a Dona Benedita já limpa.
+    아나 클라라: 청소요? 베네지타 아줌마가 벌써 하잖아요.
 
 100. BRUNO: Outro tipo de limpeza. Sobe. Eu tranco aqui. E fico de olho em você.
     브루누: 다른 종류의 청소야. 올라가. 여긴 내가 잠근다. 그리고 너 계속 지켜볼 거야.
