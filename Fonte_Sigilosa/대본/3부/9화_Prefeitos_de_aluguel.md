@@ -346,7 +346,7 @@
     엘레나: 선거기금은요? 시장님 이름으로 나간 돈이 있어요?
 
 111. DIGO: Tô vendo aqui. Maria Aparecida Duarte. Cento e oitenta mil reais do fundo.
-    지구: 여기 보여요. 아파레시다 두스 산투스 리마. 기금에서 18만 헤알.
+    지구: 여기 보여요. 마리아 아파레시다 두아르치. 기금에서 18만 헤알.
 
 112. DONA CIDA: Cento e oitenta mil?! Eu nunca vi esse dinheiro. Nunca passou pela minha mão.
     도나 시다: 18만이요?! 그런 돈 본 적도 없어요. 내 손을 거친 적이 한 번도 없어요.
