@@ -334,7 +334,7 @@
     엘레나: 그 얘기는 한 번도 안 하셨잖아요.
 
 107. ARLINDO: Você tava na Europa, menina. E eu não contei pra ninguém. Nem pra Zélia.
-    아를린두: 넌 유럽에 있었잖아, 아가씨. 그리고 아무한테도 말 안 했어. 시다한테도.
+    아를린두: 넌 유럽에 있었잖아, 아가씨. 그리고 아무한테도 말 안 했어. 젤리아한테도.
 
 108. ARLINDO: Eu tinha um colega, o Nestor. Ele falou com a polícia.
     아를린두: 동료가 하나 있었어, 네스토르. 그 친구는 경찰한테 말했지.
