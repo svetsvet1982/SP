@@ -90,8 +90,8 @@
 025. DIGO: Três páginas, Wesley. Com o valor do hospital, os leitos, a planilha.
     지구: 세 장이야, 웨슬리. 병원 금액, 병상 수, 스프레드시트까지.
 
-026. DIGO: E o nome completo da Dona Cida. Que a gente só pôs na última versão.
-    지구: 그리고 도나 시다의 풀네임도요. 우리가 마지막 버전에만 넣은 건데.
+026. DIGO: E o nome completo da Dona Cida. Maria Aparecida Duarte. Só na última versão.
+    지구: 그리고 도나 시다의 풀네임. 마리아 아파레시다 두아르치. 마지막 버전에만 넣었던 거예요.
 
 027. HELENA: Ninguém lê, entende e escreve três páginas em doze minutos.
     엘레나: 12분 만에 읽고, 이해하고, 세 장을 쓰는 사람은 없어.
@@ -267,8 +267,8 @@
 084. TIAGO: E o terreno do hospital? Eles foram lá?
     치아구: 병원 부지는요? 거기 갔어요?
 
-085. DONA CIDA: Foram de manhã. Tiraram foto das vacas. O fiscal riu, depois ficou sério.
-    도나 시다: 아침에 갔어요. 소 사진 찍었어요. 감사관이 웃더니, 나중엔 심각해졌어요.
+085. DONA CIDA: Foram de manhã. Fotografaram as vacas do seu Bento. O fiscal riu, depois ficou sério.
+    도나 시다: 아침에 갔어요. 벤투 씨네 소들 사진을 찍었어요. 감사관이 웃더니, 나중엔 심각해졌어요.
 
 086. DONA CIDA: Ele perguntou: "Prefeita, cadê os duzentos leitos?" Eu disse: "Pergunta pra Brasília."
     도나 시다: 그 사람이 물었어요. 「시장님, 200병상은 어디 있습니까?」 전 말했죠. 「브라질리아에 물어보세요.」

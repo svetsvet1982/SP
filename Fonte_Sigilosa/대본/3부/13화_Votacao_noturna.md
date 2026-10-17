@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 13화 · 서사 기능: 클라이맥스 〔절정〕
-> - 배경: 아자 노르치(SQN) 임시 숙소(12화 다음 날 밤 9시, 도나 시다와 딸의 통화) → 하원 별관(Anexo) 17호 의원실(밤 10시 40분) → 별관 지하 파쇄기실 · 주차장 3번 출구(밤 11시) → 국회 본회의장 기자석(자정, 국회 합동회의) / 숙소(스캔·송출) / 상파울루 사무실(펠리피, 화상)
+> - 배경: 아자 노르치(SQN) 임시 숙소(12화 다음 날 밤 9시, 도나 시다와 딸 루아나의 통화 — 귀향을 미루고 숙소에 머묾) → 하원 별관(Anexo) 17호 의원실(밤 10시 40분) → 별관 지하 파쇄기실 · 주차장 3번 출구(밤 11시) → 국회 본회의장 기자석(자정, 국회 합동회의) / 숙소(스캔·송출) / 상파울루 사무실(펠리피, 화상)
 > - 등장인물: DONA CIDA, BEATRIZ, TIAGO, HELENA, MARCOS, DIGO, ANA CLARA, FELIPE(화상), WESLEY, SANDRA, BARRETO, RAIMUNDO(별관 청소 노동자), RONALDO(별관 검문 경비원), JOEL, VALADARES, TEODORO(회의 주재 의장, 상원의원), RAQUEL(야당 하원의원 하켈 안드라지)
 > - 반영 현안: 의원 예산 'Emendas Pix'(transferências especiais)의 추적 의무를 없애는 심야 법안 「PLN 14」 — 대법원 투명성 명령을 입법으로 무력화하려는 시도 · 증거 파쇄 지시와 원본 보존(검찰 제출) · 반론권(발라다리스 측 "국가안보 정보 유출" 협박을 따옴표로 그대로 게재)
 > - 난이도: B1+ · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
@@ -15,14 +15,14 @@
 
 ## 대본
 
-001. DONA CIDA: Filha, fala devagar. O carro da polícia ainda tá aí na porta?
-    도나 시다: 딸아, 천천히 말해. 경찰차 아직 집 앞에 있니?
+001. DONA CIDA: Luana, fala devagar. A viatura voltou hoje? Na frente de casa de novo?
+    도나 시다: 루아나, 천천히 말해. 경찰차가 오늘 또 왔어? 또 집 앞에?
 
 002. DONA CIDA: Foi embora? Graças a Deus. E o que eles queriam, minha filha?
     도나 시다: 갔다고? 다행이다. 그래서 뭘 원했대, 얘야?
 
-003. DONA CIDA: Perguntaram se a prefeita tava em casa. Só isso. Depois foram embora.
-    도나 시다: 시장님 집에 계시냐고 물었대요. 그게 다래요. 그러고는 갔대요.
+003. DONA CIDA: Ontem e hoje, a mesma pergunta: se a prefeita tava em casa. Só isso.
+    도나 시다: 어제도 오늘도 같은 질문이래요. 시장님 집에 계시냐고. 그게 다래요.
 
 004. BEATRIZ: Sem mandado, sem intimação, sem motivo. Dona Cida, isso não é visita. É recado.
     베아트리스: 영장도, 소환장도, 이유도 없이요. 도나 시다, 이건 방문이 아니에요. 경고예요.
@@ -171,8 +171,8 @@
 052. BEATRIZ: Tá. O Barreto não respondeu. A Sandra não respondeu. O Valadares mandou a ameaça.
     베아트리스: 들어갔어요. 바헤투 무응답, 산드라 무응답. 발라다리스는 협박을 보냈고요.
 
-053. BEATRIZ: "Vazamento de informação de segurança nacional." A gente publica a frase inteira, entre aspas.
-    베아트리스: 「국가안보 정보 유출.」 그 문장을 통째로, 따옴표 쳐서 실어요.
+053. BEATRIZ: "Vazamento de informações sigilosas de interesse da segurança nacional." A gente publica a frase inteira.
+    베아트리스: 「국가안보 관련 기밀 정보 유출.」 그 문장 그대로 실어요.
 
 054. FELIPE: Oi, gente! Tô aqui no escritório. As redes da Lume tão prontas pra disparar.
     펠리피: 안녕하세요, 여러분! 사무실이에요. 루미 SNS 발사 준비 끝났어요.
