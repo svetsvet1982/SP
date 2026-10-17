@@ -421,7 +421,7 @@
     치아구: 안 갚아 주죠. 근데 누가 받아 가는지는 보여 줘요.
 
 136. TIAGO: "Caso Gabriel, até esta semana." Eu vi no seu celular. Era o quê?
-    치아구: 「가브리에우 건: 금요일까지」. 당신 휴대폰에서 봤어요. 그게 뭐였어요?
+    치아구: 「가브리에우 건, 이번 주까지」. 당신 휴대폰에서 봤어요. 그게 뭐였어요?
 
 137. MARCOS: A próxima parcela. Ou o próximo favor. Com eles é a mesma coisa.
     마르쿠스: 다음 할부금. 아니면 다음 부탁. 그 사람들한텐 같은 거야.
