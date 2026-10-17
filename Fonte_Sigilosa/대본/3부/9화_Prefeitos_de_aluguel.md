@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 9화 · 서사 기능: 피해자 측 증언
 > - 배경: 남부 호텔 구역(Setor Hoteleiro Sul)의 「Hotel Cerrado Palace」 로비(8화 이틀 뒤 월요일 오후 3시, 습도 12% 경보) — 도나 시다의 도착과 증언(오후 3시~6시), 지구의 노트북 데이터 조회, 의회 화장실에 숨은 아나 클라라와 통화, 베아트리스 화상 참여 → 같은 로비(저녁 8시 반)
-> - 등장인물: HELENA, TIAGO, DIGO, WESLEY, FELIPE(전화), DONA CIDA(Aparecida dos Santos Lima, São Miguel da Vereda 시장), ANA CLARA(전화), BEATRIZ(화상)
+> - 등장인물: HELENA, TIAGO, DIGO, WESLEY, FELIPE(전화), DONA CIDA(Maria Aparecida Duarte, São Miguel da Vereda 시장), ANA CLARA(전화), BEATRIZ(화상)
 > - 반영 현안: 의원 예산 'Emendas Pix' — 지방 시장의 서명을 빌려 쓰는 구조, 거부한 도시의 예산 단절 · 2015년 기업 후원 금지 이후 공사 업체 직원·명의자의 쪼개기 '개인 후원'(1부 연금 피해 노인 명의 재등장) · 여성 후보 30% 할당과 선거기금 여성 몫을 악용한 허수아비 여성 후보
 > - 난이도: B1+ · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(문서·녹취 낭독 예외 최대 2회, 25단어 이내).
@@ -204,8 +204,8 @@
 063. DIGO: E no terreno tem vaca. Eu vi no satélite.
     지구: 그리고 부지엔 소가 있죠. 위성사진으로 봤어요.
 
-064. DONA CIDA: As vacas são do compadre Zezinho. Ele aluga o pasto. Pelo menos alguém ganha.
-    도나 시다: 그 소들은 제지뉴 영감네 거예요. 목초지를 빌려 쓰죠. 그래도 누구 하난 버네요.
+064. DONA CIDA: As vacas são do compadre Bento. O pasto é dele. Pelo menos as vacas comem.
+    도나 시다: 그 소들은 벤투 영감네 거예요. 목초지도 그 사람 거고요. 그래도 소들은 배불리 먹죠.
 
 065. HELENA: E os funcionários da Vereda Forte? A senhora conhece algum?
     엘레나: 베헤다 포르치 직원들은요? 아시는 사람 있어요?
@@ -345,7 +345,7 @@
 110. HELENA: E o dinheiro do fundo eleitoral? Saiu alguma coisa no seu nome?
     엘레나: 선거기금은요? 시장님 이름으로 나간 돈이 있어요?
 
-111. DIGO: Tô vendo aqui. Aparecida dos Santos Lima. Cento e oitenta mil reais do fundo.
+111. DIGO: Tô vendo aqui. Maria Aparecida Duarte. Cento e oitenta mil reais do fundo.
     지구: 여기 보여요. 아파레시다 두스 산투스 리마. 기금에서 18만 헤알.
 
 112. DONA CIDA: Cento e oitenta mil?! Eu nunca vi esse dinheiro. Nunca passou pela minha mão.
