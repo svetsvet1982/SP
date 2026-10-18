@@ -471,5 +471,5 @@
 
 - 핵심 어휘: o parecer técnico(기술 의견서) · a versão preliminar / final(예비본/최종본) · a lavra de pesquisa(연구 채굴) · o aquífero / o lençol freático(대수층/지하수면) · a compensação(보상) · os metadados(메타데이터) · o gabinete(비서실) · a rubrica(약식 서명) · o voto divergente(반대 의견) · afastar do conselho(자문위원에서 해임하다) · a Lei de Acesso à Informação(정보공개법) · o corpo diplomático(외교단)
 - 문법 1: 수동태(ser + 과거분사) — "O parecer foi alterado pelo gabinete", "Publicado ontem", "Ela foi afastada do conselho", "Recomenda-se a aprovação"(se 수동). 베아트리스·소피의 "수동태는 주어를 숨긴다".
-- 문법 2: 조건법·완곡어법 — "Seria imprudente da minha parte", "Seria mais seguro", "Seria possível pedir…?", "Ninguém notaria", "Digamos que…", "Com todo o respeito…".
+- 문법 2: 조건법·완곡어법 — "Seria mais seguro", "Seria possível pedir…?", "Ninguém notaria", "Digamos que…", "Com todo o respeito…".
 - 말투 대비: 소피의 리스본식 표현("estou a olhar", "estou a ver", "toda a gente", "preciso de mandar", "convosco"→"com vocês" 자기 교정) vs 팀의 브라질 구어("tá", "pra", "Valeu", "Deixa comigo").

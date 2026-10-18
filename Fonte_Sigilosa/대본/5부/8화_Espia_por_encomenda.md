@@ -471,5 +471,5 @@
 
 - 핵심 어휘: a prisão temporária(임시 구금) · o mandado de busca(수색 영장) · a espionagem / a espiã(간첩 행위/여간첩) · a adidância comercial(무역관) · a jazida(매장지) · os autos(수사·소송 기록) · a quebra do sigilo telefônico(통신 기록 조회) · a antena / o registro da antena(기지국/기지국 기록) · o vazamento(유출) · o regime de urgência(긴급 처리) · a lista de chamada(출석부) · o indício(정황 증거)
 - 문법 1: 수동태 — "A professora é presa", "os e-mails foram enviados", "o discurso parece escrito antes da prisão", "a urgência pedida à tarde", "Essa mulher vai ser salva pelo papel".
-- 문법 2: 조건법·외교적 완곡어법 — 니코 "Não seria prudente…", "Em tese…", "Eu diria que sim", "Digamos que…"; 베아트리스 "seria um tiro no próprio pé", "poderia compartilhar…?"; 소피 "Ele seria um ótimo ator", "Ela poderia ter programado o envio".
+- 문법 2: 조건법·외교적 완곡어법 — 니코 "Não seria prudente…", "Em tese…", "Digamos que…"; 베아트리스 "seria um tiro no próprio pé", "poderia compartilhar…?"; 소피 "Ele seria um ótimo ator", "Ela poderia ter programado o envio".
 - 말투 대비: 소피의 리스본식("permitam-me", "incómoda", "podes ampliar?", "o ecrã", "Tenho de ligar", "Envio já") vs 마리나의 브라질 구어("arquivinho", "Juro por Deus", "telefone é pra falar").
