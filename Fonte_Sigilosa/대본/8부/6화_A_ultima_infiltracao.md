@@ -307,7 +307,7 @@
     지구: 리스본 아파트는 제가 찾을게요. 거기 부동산 등기는 공개돼 있어요.
 
 098. TIAGO: E "o contador já tinha virado custo". Ele mesmo me disse isso ontem.
-    치아구: 그리고 「회계사는 이미 비용이 됐다」. 어젯밤 본인이 나한테 똑같은 말을 했어.
+    치아구: 그리고 「회계사는 이미 비용이 됐다」. 어젯밤 본인이 나한테 그 말을 했어.
 
 099. HELENA: Quase duas fontes. Uma de primeira mão, outra de segunda. Ainda não basta.
     엘레나: 출처 둘에 가깝네. 하나는 직접, 하나는 전해 들은 거. 아직 모자라.
