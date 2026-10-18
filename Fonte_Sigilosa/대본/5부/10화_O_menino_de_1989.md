@@ -34,7 +34,7 @@
     치아구: 그럼 마레비아로 간 이메일들은? 어디서 보낸 거야?
 
 007. DIGO: Quarenta e dois e-mails. Todos enviados do mesmo IP. Nenhum da universidade.
-    지구: 이메일 서른일곱 통. 전부 같은 IP에서 보냈어요. 대학에서 보낸 건 하나도 없고요.
+    지구: 이메일 마흔두 통. 전부 같은 IP에서 보냈어요. 대학에서 보낸 건 하나도 없고요.
 
 008. SOPHIE: Estou a ver. E esse IP seria de onde, exatamente? De uma operadora?
     소피: 그렇군요. 그럼 그 IP는 정확히 어디일까요? 통신사인가요?
@@ -112,7 +112,7 @@
     웨슬리: 단톡방에 보냈어요. 확인해 봐요.
 
 033. DIGO: Conferindo... Os mesmos números. Os quarenta e dois e-mails saíram dessa loja.
-    지구: 확인 중… 같은 숫자예요. 이메일 서른일곱 통이 그 매장에서 나갔어요.
+    지구: 확인 중… 같은 숫자예요. 이메일 마흔두 통이 그 매장에서 나갔어요.
 
 034. HELENA: Então a professora foi acusada por e-mails enviados de uma joalheria.
     엘레나: 그러니까 교수님은 보석상에서 보낸 이메일 때문에 고발당한 거네.
@@ -198,7 +198,7 @@
 061. BEATRIZ: Calma. Pode ser homônimo. Daniel, Moura, Prates. Não são nomes raros.
     베아트리스: 진정해요. 동명이인일 수 있어요. 다니에우, 모우라, 프라치스. 드문 이름도 아니고요.
 
-062. DIGO: Mesma data, mesma cidade. E os mesmos pais: Aparecida Moura e José Prates.
+062. DIGO: Mesma data, mesma cidade. E os mesmos pais: Zuleide Moura e José Prates.
     지구: 같은 날짜, 같은 도시. 부모도 같아요. 줄레이지 모우라와 조제 프라치스.
 
 063. HELENA: Homônimo com o mesmo aniversário e os mesmos pais. Isso não existe.
@@ -240,7 +240,7 @@
 075. DALVA: Certidão é pública, mas a segunda via tem taxa. E eu preciso do nome.
     달바: 증명서는 공개예요. 근데 재발급은 수수료가 있어요. 그리고 이름이 필요하고요.
 
-076. TIAGO: Daniel Moura Prates. Nascido em janeiro de 1989. Filho de Aparecida Moura.
+076. TIAGO: Daniel Moura Prates. Nascido em janeiro de 1989. Filho de Zuleide Moura.
     치아구: 다니에우 모우라 프라치스. 1989년 1월생. 줄레이지 모우라의 아들입니다.
 
 077. DALVA: Da Zuleide? Da Zuleide Moura? Meu Deus. O senhor quer saber do menino dela?
