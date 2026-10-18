@@ -438,13 +438,13 @@
 141. TIAGO: Puxou a mãe.
     치아구: 엄마 닮았네.
 
-142. RENATA: Puxou os dois. Espera. É o Arruda. Mensagem da perícia.
+142. RENATA: Puxou os dois. Espera. É a Arruda. Mensagem da perícia.
     헤나타: 둘 다 닮았지. 잠깐. 아후다야. 감정팀 메시지.
 
 143. TIAGO: Já? O HD entrou hoje de manhã.
     치아구: 벌써? 하드는 오늘 아침에 들어갔잖아.
 
-144. RENATA: Só o índice. A lista de pastas. Ele mandou uma foto da tela.
+144. RENATA: Só o índice. A lista de pastas. Ela mandou uma foto da tela.
     헤나타: 색인만. 폴더 목록. 화면 사진을 보냈어.
 
 145. TIAGO: E?

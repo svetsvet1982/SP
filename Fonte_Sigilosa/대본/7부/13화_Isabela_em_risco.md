@@ -262,7 +262,7 @@
     마르쿠스: 목소리는 안 떨렸어. 그거면 돼.
 
 083. MARCOS: Ele vai mandar o grosso pro aeroporto. Mas o carro do Cruzeiro continua com vocês.
-    마르쿠스: 치아구, 대부분은 공항으로 보낼 거야. 근데 크루제이루 차는 계속 너희한테 붙어 있어.
+    마르쿠스: 대부분은 공항으로 보낼 거야. 근데 크루제이루 차는 계속 너희한테 붙어 있어.
 
 084. WESLEY: Eu sei. Sedã preto, vidro escuro. Colado desde a saída.
     웨슬리: 알아요. 검은 세단, 짙은 유리. 출구부터 바짝 붙었어요.

@@ -442,7 +442,7 @@
     치아구: 받았어요. 다니에우, 첫 사건 때 우리 판결문 사본 달라고 했었죠. 기억나요?
 
 143. DANIEL: Lembro. Desde então, a gente estuda vocês. Com todo o respeito.
-    다니에우: 기억하죠. 그때부터 여러분을 연구했습니다. 존경을 담아서요.
+    다니에우: 기억하죠. 그때부터 여러분을 연구해 왔습니다. 존경을 담아서요.
 
 144. DANIEL: Leia o último parágrafo com atenção. Principalmente a doutora Lacerda. Boa noite.
     다니에우: 마지막 문단 잘 읽어 보세요. 특히 라세르다 변호사님께서. 안녕히 주무십시오.
@@ -472,7 +472,7 @@
 - 핵심 어휘: a raiz do HD / o arquivo "LEIA-ME"(하드 최상위 폴더 / 「읽어 주세요」 파일) · a segunda fonte(두 번째 출처) · o andar / o topo / a seta(층 / 꼭대기 / 화살표) · a rubrica(이니셜 서명) · a estrutura offshore(역외 구조) · a nota fiscal(세금계산서·영수증) · o caixa dois(비자금) · monitorado / o trajeto(감시당한 / 동선) · o fundo soberano(국부펀드) · a intimação eletrônica(전자 송달) · a liminar / o ministro relator(가처분 / 주심 대법관) · a censura prévia(사전 검열) · o crime de desobediência / a prisão em flagrante(불복종죄 / 현행범 체포)
 - 문법 1: 현재·과거 사실의 반대 가정 — "Se a gente publicasse antes da perícia, a defesa dos Ferraz faria festa", "Se alguém tivesse me mostrado isso em noventa e cinco, eu não teria acreditado".
 - 문법 2: 접속법 미래(현실적 조건)와 대비 — "Se vocês publicarem uma linha disso, o Tiago é preso"(se + 접속법 미래 + 직설법 현재 = 확정된 결과의 경고) vs 위의 가정문들(비현실).
-- 문법 3: 판결문 공문체 — 비인칭 se와 접어 전치 "Proíbe-se a Agência Lume de publicar...", "Oficie-se a Polícia Federal", 명사화 "O descumprimento configura...", "sob pena de multa" vs 거실의 구어 "Fala na língua de gente", "Quem pede pizza?".
+- 문법 3: 판결문 공문체 — 비인칭 se와 접어 후치(ênclise) "Proíbe-se a Agência Lume de publicar...", "Oficie-se a Polícia Federal", 명사화 "O descumprimento configura...", "sob pena de multa" vs 거실의 구어 "Fala na língua de gente", "Quem pede pizza?".
 
 ## 7부 마무리 메모 (제작 참고, 낭독하지 않음)
 
