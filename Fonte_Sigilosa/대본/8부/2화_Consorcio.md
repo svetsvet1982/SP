@@ -288,7 +288,7 @@
 091. DIGO: Isso é uma fonte. A Helena ia perguntar agora: cadê a segunda?
     지구: 이건 출처 하나예요. 엘레나라면 지금 물었겠죠. 두 번째는 어디 있냐고.
 
-092. TIAGO: Perguntou por ela. Lukas, a Ingrid ainda tá na sala?
+092. TIAGO: Perguntou no lugar dela. Lukas, a Ingrid ainda tá na sala?
     치아구: 엘레나 대신 물어 줬네. 루카스, 잉그리드 아직 방에 있어?
 
 093. INGRID: Estou. E ouvi. Leia o número do telegrama, por favor. Lá em cima, à direita.
