@@ -470,6 +470,6 @@
 ## 제작 메모 (낭독하지 않음)
 
 - 핵심 어휘: a publicação simultânea(동시 공개) · o consórcio internacional(국제 컨소시엄) · a manchete / o lide(헤드라인 / 리드) · a checagem(검증) · o direito de resposta(반론권) · o placar (seis a cinco)(표결 결과 6대 5) · o voto do relator(주심 의견) · o mandado / a prisão preventiva(영장 / 예방 구금) · o risco de fuga(도주 우려) · o foro (privilegiado)(의원 특권 재판 관할) · a fronteira(국경) · o grampo vs a gravação lícita(도청 vs 합법 녹음)
-- 문법 1: 과거완료(tinha + 과거분사) — "Quando o placar fechou em seis a cinco, ele já tinha saído", "Ele já tinha limpado tudo antes de a gente apertar o botão", "a rede já tinha aberto vinte e três contas", "Quando eu li as notas…, já tinha decidido vir", 수동 과거완료 "A nossa capa já tinha sido fechada".
+- 문법 1: 과거완료(tinha + 과거분사) — "Quando vocês apertaram o botão, ele já tinha saído daqui", "Ele já tinha limpado tudo antes de a gente apertar o botão", "a rede já tinha aberto vinte e três contas", "Quando eu li as notas…, já tinha decidido vir", 수동 과거완료 "A nossa capa já tinha sido fechada".
 - 문법 2: 복합 접속법(접속법 완료과거) — "Embora eu tenha planejado tudo, esqueci uma coisa", "Caso o juiz já tenha decidido me processar…", "Imagino que não tenha dormido".
 - 문법 3: 레지스터 전환 — 헤드라인 명사구·리드 문장(062·063) vs 구어(tá, pra, mano) vs 경찰 공식 발화("o senhor está preso. Aqui está o mandado") vs 킨텔라의 격식체("se o senhor me dá licença").

@@ -316,7 +316,7 @@
     웨슬리: 여기 있어요, 네이지 아주머니. 그렇게 불러도 되는 건 아주머니뿐이에요.
 
 101. DONA NEIDE: E o Tico. Ele também podia. Agora sou eu que chamo por ele.
-    도나 네이지: 그리고 치쿠도. 걔도 그렇게 불렀지. 이젠 내가 걔 대신 부르는 거야.
+    도나 네이지: 그리고 치쿠도. 걔도 그렇게 불렀지. 이젠 내가 걔를 부르는 거야.
 
 102. WESLEY: Pode chamar, dona Neide. Quantas vezes quiser.
     웨슬리: 부르세요, 아주머니. 몇 번이고요.
@@ -472,4 +472,4 @@
 - 핵심 어휘: o depoimento / depor(증언 / 증언하다) · a testemunha(증인) · a audiência(심리) · "que conste"(기록해 주십시오) · a perícia / periciar(감정 / 감정하다) · a credibilidade(신빙성) · a relatoria / a relatora(보고위원) · a cota de mulher(여성 할당) · a colaboração premiada(사법협조) · a pena(형) · a indenização(손해배상) · a câmera corporal(바디캠) · a votação nominal(기명 투표) · o livro-caixa(장부)
 - 문법 1: 과거완료 — "Eu já tinha visto o senador no porto duas vezes", "Eu achava que tinha construído pontes. Tinha construído uma rede", "o que eu ainda tinha guardado".
 - 문법 2: 복합 접속법·접속법 — "Embora eu tenha mentido a vida toda, hoje assino com meu nome", "Antes que você mude de ideia", "Se isso for suborno, pode me prender".
-- 문법 3: 레지스터 전환 — 법정 격식체("Declaro aberta a audiência", "Excelência, que conste", "Pode se retirar") · 의회 보고위원의 공식 화법("Esta relatoria…") · 외교 문체("chamou o embaixador de volta para consultas") vs 증인들의 구어("Ouvido de velha, mas a boca funciona").
+- 문법 3: 레지스터 전환 — 법정 격식체("Declaro aberta a audiência", "Excelência, que conste", "Pode se retirar") · 의회 보고위원의 공식 화법("Esta relatoria…") · 외교 문체("chamou o embaixador de volta para consultas") vs 증인들의 구어("O ouvido é de velha…").
