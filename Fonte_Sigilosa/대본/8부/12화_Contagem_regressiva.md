@@ -282,8 +282,8 @@
 089. BEATRIZ: "A Nordvik Minerals não comenta reportagens baseadas em material obtido ilegalmente."
     베아트리스: 「노르드비크 미네랄스는 불법적으로 취득한 자료에 근거한 보도에 대해 논평하지 않는다.」
 
-090. BEATRIZ: Material obtido legalmente, decidiu o Supremo há vinte minutos. Seis a cinco. Vou citar.
-    베아트리스: 합법적으로 취득한 자료라고 대법원이 20분 전에 결정했죠. 6대 5로. 그것도 인용할 거예요.
+090. BEATRIZ: Material obtido legalmente, decidiu o Supremo há quinze minutos. Seis a cinco. Vou citar.
+    베아트리스: 합법적으로 취득한 자료라고 대법원이 15분 전에 결정했죠. 6대 5로. 그것도 인용할 거예요.
 
 091. ANA CLARA: Falta um. O principal.
     아나 클라라: 하나 남았어요. 제일 중요한 사람.
@@ -310,7 +310,7 @@
     치아구: 오타비우 페하스 회장님? 루미 에이전시의 치아구 모레이라입니다. 이 통화는 녹음됩니다.
 
 099. OTÁVIO: Eu sei quem é o senhor, Moreira. Há anos eu sei.
-    오타비우: 당신이 누군지 압니다, 모레이라 씨. 몇 년 전부터 알았지요.
+    오타비우: 당신이 누군지 압니다, 모레이라 씨. 몇 년 전부터 알고 있었지요.
 
 100. OTÁVIO: A minha filha disse que o senhor ia ligar. Disse que o senhor sempre liga.
     오타비우: 내 딸이 당신이 전화할 거라더군요. 당신은 늘 전화를 한다고.
@@ -358,7 +358,7 @@
     치아구: 넷째이자 마지막으로, 기사에 대한 공식 입장을 주시겠습니까?
 
 115. OTÁVIO: A resposta oficial é a dos advogados. Negação total. Já está no seu e-mail.
-    오타비우: 공식 입장은 변호사들 몫이오. 전면 부인. 이미 당신 메일함에 있을 거요.
+    오타비우: 공식 입장은 변호사들 몫이오. 전면 부인. 이미 당신 메일함에 있소.
 
 116. TIAGO: E a sua? A resposta do Otávio, não do Grupo Ferraz?
     치아구: 회장님 본인의 입장은요? 페하스 그룹 말고, 오타비우의 입장.

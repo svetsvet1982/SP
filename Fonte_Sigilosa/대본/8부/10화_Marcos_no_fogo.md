@@ -91,7 +91,7 @@
     치아구: 근데 그날 밤 킨텔라가 이름을 불렀어요. 웨슬리가 거기 있었고요.
 
 026. RENATA: Então é um homem do Quintela seguindo a minha filha.
-    헤나타: 그러니까 킨텔라 사람이 내 딸을 따라다녔다는 거네.
+    헤나타: 그러니까 킨텔라 사람이 내 딸을 따라다니고 있다는 거네.
 
 027. RENATA: Isso não é mais matéria, Tiago. Isso é crime. Crime pra mim investigar.
     헤나타: 이건 더 이상 기사가 아니야, 치아구. 범죄야. 내가 수사할 범죄.
@@ -226,7 +226,7 @@
     지구: 강도가 아니네요. 도둑이면 지갑부터 가져가죠.
 
 071. ARRUDA: Exato. Procuravam alguma coisa. E ele pediu pra falar com o senhor.
-    아후다: 맞습니다. 뭔가를 찾고 있었어요. 그리고 그가 당신을 찾습니다.
+    아후다: 맞습니다. 뭔가를 찾고 있었어요. 그리고 그가 당신과 얘기하게 해 달라고 했습니다.
 
 072. TIAGO: Comigo?
     치아구: 저를요?

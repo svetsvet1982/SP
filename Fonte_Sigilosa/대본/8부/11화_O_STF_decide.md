@@ -19,7 +19,7 @@
     베아트리스: 오후 1시 40분. 화상 구두 변론은 2시. 기사를 살릴 시간 15분.
 
 002. TIAGO: Você ensaiou a noite toda aqui em cima. O Zé ouviu lá de baixo.
-    치아구: 밤새 여기 위층에서 연습하던데요. 제가 아래층에서 다 들었대요.
+    치아구: 밤새 여기 위층에서 연습하던데요. 제 아저씨가 아래층에서 다 들었대요.
 
 003. BEATRIZ: Ensaiei pra uma parede. Hoje é uma câmera e onze ministros do outro lado.
     베아트리스: 벽 앞에서 연습한 거죠. 오늘은 카메라 하나, 그 너머에 대법관 열한 명이에요.
@@ -256,7 +256,7 @@
     베아트리스: 못 먹겠어요. 먹으면 집중이 풀려요.
 
 081. TIAGO: Se não comer, você desmaia no sexto voto. Toma. Pastel do Zé.
-    치아구: 안 먹으면 여섯 번째 표에서 쓰러져요. 받아요. 제가 보낸 파스텔.
+    치아구: 안 먹으면 여섯 번째 표에서 쓰러져요. 받아요. 제 아저씨가 보낸 파스텔.
 
 082. BEATRIZ: De queijo?
     베아트리스: 치즈 파스텔이에요?

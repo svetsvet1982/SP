@@ -108,8 +108,8 @@
 031. TIAGO: Visto onde?
     치아구: 어디서 봤는데?
 
-032. ANA CLARA: Anteontem, na Sala São Paulo. Na porta da cozinha. Fumando.
-    아나 클라라: 그저께 살라 상파울루에서요. 주방 문 앞에서. 담배 피우고 있었어요.
+032. ANA CLARA: Ontem à noite, na Sala São Paulo. Na porta da cozinha. Fumando.
+    아나 클라라: 어젯밤 살라 상파울루에서요. 주방 문 앞에서. 담배 피우고 있었어요.
 
 033. TIAGO: Ele tá olhando pra você?
     치아구: 너 쳐다보고 있어?
