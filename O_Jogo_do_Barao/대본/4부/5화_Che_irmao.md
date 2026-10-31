@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 5화 · 서사 기능: 아르헨티나 강경파의 '브라질 고농축' 보고서, 신뢰를 요구하지 않고 증명하는 깜짝 상호사찰
 > - 배경: 2027년 9월 20일(월)~23일(목). 108블록 선술집, 장관실(화상), 상파울루주 이페로 아라마르 해군 센터 정문, 아르헨티나 필카니예우(화상)
-> - 등장인물: Tomás, Luíza, Dito, Bermúdez, Almirante Cardoso, Vera, Lucía Ferrer(ABACC 아르헨티나 사찰관, 신규), Diputado Martín Ocampo(아르헨티나 강경파 하원의원, TV, 신규), Marina(전화)
+> - 등장인물: Tomás, Luíza, Dito, Bermúdez, Almirante Cardoso, Vera, Lucía Ferrer(ABACC 아르헨티나 사찰관, 신규), Diputado Martín Ocampo(아르헨티나 강경파 하원의원, TV, 신규), Marina(전화), Seu Lourenço(108블록 선술집 주인), Dufresne(프랑스 측, 전화)
 > - 반영 현안: N15(양국 대통령 간 갈등 지속), 핵잠수함 연료 검증(4부 4화 후속). 해군 원자로용 저농축(20% 미만) 원칙은 실제 계획을 반영
 > - 역사 사례: H8 1987년 사르네이의 필카니예우 방문, 1988년 알폰신의 아라마르 방문, 1991년 ABACC — 061~080
 > - 기법 장면: 거짓말(강경파 보고서) — 001~040 · 설득 — 081~130(깜짝 상호사찰)
@@ -243,8 +243,8 @@
 073. TOMÁS: Sempre é assim, Luíza. A gente imagina que primeiro se confia e depois se abre a porta, mas é o contrário. Abre-se a porta, olha-se lá dentro, e só então, aos poucos, vem a confiança.
      토마스: 늘 그래요, 루이자. 사람들은 먼저 믿고 나서 문을 연다고 생각하지만, 거꾸로예요. 문을 열고, 안을 들여다보고, 그다음에야 조금씩 신뢰가 오는 거죠.
 
-074. BERMÚDEZ: E amanhã a gente faz de novo. Trinta e sete anos depois.
-     베르무데스: 그리고 내일 우리가 또 하는 거야. 37년 만에.
+074. BERMÚDEZ: E amanhã a gente faz de novo. Quarenta anos depois.
+     베르무데스: 그리고 내일 우리가 또 하는 거야. 40년 만에.
 
 075. ALMIRANTE: Só que sem presidente. Só técnico.
      제독: 다만 대통령 없이. 기술자만.

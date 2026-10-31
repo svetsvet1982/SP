@@ -41,7 +41,7 @@
 007. LUÍZA: O infectado? Tomás, ele escuta tudo por aquele aparelho, cada palavra, cada respiração. É como entrar lá com ele no seu bolso.
      루이자: 감염된 거요? 토마스, 그 사람이 그 기계로 다 듣잖아요. 한마디 한마디, 숨소리까지. 그 사람을 주머니에 넣고 들어가는 거나 마찬가지예요.
 
-008. TOMÁS: Precisamente. Ele vai achar que está gravando a conversa dele, no servidor dele, sob controle dele. E quem se sente no controle fala à vontade.
+008. TOMÁS: Exatamente. Ele vai achar que está gravando a conversa dele, no servidor dele, sob controle dele. E quem se sente no controle fala à vontade.
      토마스: 바로 그거예요. 자기 서버에, 자기 통제하에 대화를 녹음한다고 생각하겠죠. 그리고 통제하고 있다고 느끼는 사람은 편하게 말해요.
 
 009. PRATES: E nós?
