@@ -7,7 +7,7 @@
 > - 배경: Mooca, Padaria Bertolini (일요일 오전 7시) → Bertolini 가족의 집 (같은 날 저녁 7시)
 > - 등장인물: Marcelo, Antônio, Dona Cida, Seu Nino(단골), Gilson(빵집 점원), Luciana, Enzo
 > - 난이도: A2+ · 턴 수: 150 (도입 001–020 · 장면1 021–060 · 장면2 061–100 · 절정·전환 101–130 · 마무리 131–150)
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 턴 길이 3단계(1부 기준) — 일반 15단어 이내 · 중간 16~35단어(화당 15~25개) · 장문 36~40단어(화당 3~6개).
 > - 핵심 표현: 「Pão bom não precisa de propaganda.」(010·109·139) · 「Tá difícil, pai.」(040·090·145)
 > - 이번 화의 복선 설치: #1 아버지 「Pão bom não precisa de propaganda.」(→4부 14화) · 「contas vermelhas」(→1부 2화 「O relatório vermelho」) · 마르셀루의 「Orra, meu.」(→1부 14화) · 「Pão o povo compra todo dia.」(→시리즈 핵심 착상)
 
@@ -38,8 +38,8 @@
 007. MARCELO: Seu Nino! O senhor ainda vem a pé todo dia?
      마르셀루: 니누 아저씨! 아직도 매일 걸어서 오세요?
 
-008. SEU NINO: Todo dia, meu filho. Seis quarteirões. É o meu remédio.
-     세우 니누: 매일이지, 얘야. 여섯 블록. 그게 내 약이야.
+008. SEU NINO: Todo dia, meu filho. Seis quarteirões, ida e volta. O médico mandou caminhar, e eu caminho até o pão.
+     세우 니누: 매일이지, 얘야. 여섯 블록, 왕복으로. 의사가 걸으라고 해서, 난 빵 있는 데까지 걷지.
 
 009. DONA CIDA: E o pão continua o melhor da Mooca!
      도나 시다: 그리고 빵은 여전히 무까 최고지!
@@ -47,8 +47,8 @@
 010. ANTÔNIO: Pão bom não precisa de propaganda, Cida.
      안토니우: 좋은 빵은 광고가 필요 없어, 시다.
 
-011. SEU NINO: Teu pai fala isso desde mil novecentos e setenta e cinco.
-     세우 니누: 네 아버지는 1975년부터 그 말을 하셨어.
+011. SEU NINO: Teu pai fala isso desde mil novecentos e setenta e cinco, quando abriu esta porta pela primeira vez.
+     세우 니누: 네 아버지는 1975년에 이 문을 처음 열 때부터 그 말을 하셨어.
 
 012. ANTÔNIO: E continua verdade. Gilson, uma média e um pão na chapa pro meu filho.
      안토니우: 그리고 여전히 맞는 말이지. 질송, 우리 아들한테 밀크커피 하나랑 버터 토스트 하나.
@@ -71,8 +71,8 @@
 018. MARCELO: Estão bem. O Enzo tem quinze anos agora. Só fica no celular.
      마르셀루: 잘 지내요. 엔주가 이제 열다섯 살이에요. 휴대폰만 붙들고 있어요.
 
-019. DONA CIDA: Quinze! Ontem ele corria aqui atrás de sonho de creme.
-     도나 시다: 열다섯! 엊그제만 해도 여기서 크림빵 쫓아 뛰어다녔는데.
+019. DONA CIDA: Quinze! Parece que foi ontem que ele corria aqui dentro atrás de sonho de creme, com a boca toda suja de açúcar.
+     도나 시다: 열다섯! 입에 설탕을 잔뜩 묻히고 크림빵 쫓아 여기서 뛰어다니던 게 엊그제 같은데.
 
 020. ANTÔNIO: Hoje ele corre atrás do wi-fi. Senta, filho. Come.
      안토니우: 요즘은 와이파이를 쫓아다니지. 앉아, 아들. 먹어.
@@ -82,20 +82,20 @@
 021. SEU NINO: E o trabalho, Marcelo? Ainda vende aquelas máquinas de laser?
      세우 니누: 일은 어때, 마르셀루? 아직도 그 레이저 기계 팔아?
 
-022. MARCELO: Ainda vendo, seu Nino. Laser pra clínica de dermatologia.
-     마르셀루: 아직 팔아요, 니누 아저씨. 피부과 병원용 레이저요.
+022. MARCELO: Ainda vendo, seu Nino. Laser pra clínica de dermatologia, de cirurgia plástica, de estética. Já são quinze anos nisso.
+     마르셀루: 아직 팔아요, 니누 아저씨. 피부과, 성형외과, 미용 클리닉용 레이저요. 이 일만 벌써 15년째예요.
 
 023. DONA CIDA: Laser pra quê, exatamente? Eu nunca entendi direito.
      도나 시다: 레이저로 정확히 뭘 하는 거야? 난 한 번도 제대로 이해를 못 했어.
 
-024. MARCELO: Pra pele, dona Cida. Mancha, pelo, cicatriz, ruga.
-     마르셀루: 피부요, 아주머니. 기미, 털, 흉터, 주름.
+024. MARCELO: Pra pele, dona Cida. O médico usa a luz do laser pra tirar mancha, pelo, cicatriz e diminuir ruga.
+     마르셀루: 피부요, 아주머니. 의사가 레이저 빛으로 기미, 털, 흉터를 없애고 주름을 줄여요.
 
 025. DONA CIDA: Mancha? Olha aqui a minha mão. Tem jeito pra isso?
      도나 시다: 기미? 여기 내 손 좀 봐. 이것도 방법이 있어?
 
-026. MARCELO: Tem, sim. Mas quem decide é o médico, não eu.
-     마르셀루: 있죠. 그런데 결정은 제가 아니라 의사가 해요.
+026. MARCELO: Tem, sim. Mas quem decide é o médico, não eu. Eu só vendo a máquina e ensino a usar.
+     마르셀루: 있죠. 그런데 결정은 제가 아니라 의사가 해요. 전 기계를 팔고 쓰는 법을 가르칠 뿐이에요.
 
 027. DONA CIDA: Ai, que chique. Vou ficar parecendo atriz de novela.
      도나 시다: 어머, 고급스러워라. 나 드라마 여배우처럼 되겠네.
@@ -115,8 +115,8 @@
 032. DONA CIDA: Agora sim. Continua, Marcelinho. A máquina é cara?
      도나 시다: 이제야 됐네. 계속해, 마르셀리뉴. 그 기계 비싸?
 
-033. MARCELO: Muito cara. Uma custa como um carro bom.
-     마르셀루: 엄청 비싸요. 한 대가 좋은 차 한 대 값이에요.
+033. MARCELO: Muito cara. Uma máquina boa custa como um carro bom, às vezes como um apartamento pequeno.
+     마르셀루: 엄청 비싸요. 좋은 기계 한 대가 좋은 차 한 대 값이고, 가끔은 작은 아파트 한 채 값이에요.
 
 034. SEU NINO: Um carro? Então você está rico, rapaz!
      세우 니누: 차 한 대? 그럼 너 부자구나, 이 친구야!
@@ -130,8 +130,8 @@
 037. MARCELO: Está... normal, pai. Normal.
      마르셀루: 그냥... 평범해요, 아빠. 평범해요.
 
-038. ANTÔNIO: Eu conheço esse "normal". Você falava assim da escola.
-     안토니우: 나 그 "평범"이 뭔지 안다. 너 학교 얘기할 때 그렇게 말했지.
+038. ANTÔNIO: Eu conheço esse "normal". Você falava assim quando tirava nota baixa na escola e escondia o boletim na mochila.
+     안토니우: 나 그 "평범"이 뭔지 안다. 너 학교에서 점수 나쁘게 받고 성적표를 가방에 숨길 때 그렇게 말했지.
 
 039. DONA CIDA: Ih, lá vem. Pai sempre sabe, Marcelinho.
      도나 시다: 어이쿠, 시작됐다. 아빠는 다 알아, 마르셀리뉴.
@@ -148,20 +148,20 @@
 043. SEU NINO: Menos quanto?
      세우 니누: 얼마나 덜?
 
-044. MARCELO: Três trimestres seguidos de queda. E o ano passado já foi fraco.
-     마르셀루: 세 분기 연속 하락이에요. 작년도 이미 약했고요.
+044. MARCELO: Três trimestres seguidos de queda, pai. No ano passado, no mesmo período, vendi trinta máquinas. Este ano, vendi vinte e três. E o mercado não vai voltar a crescer como antes, porque quem precisava de laser já comprou.
+     마르셀루: 세 분기 연속 하락이에요, 아빠. 작년 같은 기간엔 기계 서른 대를 팔았어요. 올해는 스물세 대고요. 그리고 시장은 예전처럼 다시 크지 않을 거예요. 레이저가 필요한 곳은 이미 다 샀거든요.
 
-045. ANTÔNIO: E por quê? As clínicas fecharam?
-     안토니우: 왜 그런데? 병원들이 문을 닫았니?
+045. ANTÔNIO: Quem precisava já comprou? Como assim?
+     안토니우: 필요한 곳은 이미 다 샀다고? 그게 무슨 말이야?
 
-046. MARCELO: Não. As clínicas estão cheias. Esse é o problema.
-     마르셀루: 아뇨. 병원들은 꽉 차 있어요. 그게 문제예요.
+046. MARCELO: As clínicas estão cheias, pai. Mas todas já têm máquina.
+     마르셀루: 병원들은 손님으로 꽉 차 있어요, 아빠. 그런데 다들 이미 기계가 있어요.
 
 047. DONA CIDA: Cheias e não compram? Não entendi nada.
      도나 시다: 꽉 찼는데 안 산다고? 하나도 모르겠네.
 
-048. MARCELO: Elas já compraram, dona Cida. Uma máquina dura dez anos.
-     마르셀루: 이미 샀거든요, 아주머니. 기계 한 대가 10년을 가요.
+048. MARCELO: Elas já compraram, dona Cida. Uma máquina boa dura dez anos. Ninguém troca antes disso se ela ainda funciona.
+     마르셀루: 이미 샀거든요, 아주머니. 좋은 기계는 10년을 가요. 아직 잘 돌아가면 그 전에 바꾸는 사람은 없어요.
 
 049. SEU NINO: Ah, é como geladeira. Ninguém compra geladeira todo mês.
      세우 니누: 아, 냉장고 같은 거구나. 냉장고를 매달 사는 사람은 없지.
@@ -172,8 +172,8 @@
 051. ANTÔNIO: E tem concorrência? Gente vendendo mais barato?
      안토니우: 경쟁도 있니? 더 싸게 파는 사람들?
 
-052. MARCELO: Muita. Máquina chinesa, máquina usada, revenda pela internet.
-     마르셀루: 많아요. 중국산 기계, 중고 기계, 인터넷 재판매.
+052. MARCELO: Muita. Tem máquina chinesa pela metade do preço, tem máquina usada que a clínica revende pela internet, e tem empresa grande que dá desconto que eu não consigo dar. Eu fico no meio, apertado, sem saída.
+     마르셀루: 많아요. 반값짜리 중국산 기계가 있고, 병원이 인터넷으로 되파는 중고 기계가 있고, 제가 못 해 주는 할인을 해 주는 대기업도 있어요. 전 그 사이에 끼어서 빠져나갈 데가 없어요.
 
 053. GILSON: Aqui, Marcelo. Média e pão na chapa. Bastante manteiga.
      질송: 여기요, 마르셀루. 밀크커피랑 버터 토스트. 버터 듬뿍.
@@ -196,8 +196,8 @@
 059. MARCELO: Joga, sim. Às onze. O senhor vai?
      마르셀루: 해요. 열한 시에요. 가세요?
 
-060. SEU NINO: Claro. Cinquenta anos de arquibancada. Não vou parar agora.
-     세우 니누: 당연하지. 관중석 50년이야. 이제 와서 그만둘 순 없지.
+060. SEU NINO: Claro. Cinquenta anos de arquibancada na Javari. Vi o Juventus ganhar, perder, cair. Não vou parar agora.
+     세우 니누: 당연하지. 자바리 관중석에서 50년이야. 유벤투스가 이기고, 지고, 강등되는 것까지 다 봤어. 이제 와서 그만둘 순 없지.
 
 ### 장면2 (061–100) — 단골들이 떠난 뒤, 부자 둘만 남은 빵집
 
@@ -207,8 +207,8 @@
 062. MARCELO: Tchau, dona Cida. Reza um pouquinho por mim.
      마르셀루: 안녕히 가세요, 아주머니. 저를 위해서도 기도 좀 해 주세요.
 
-063. DONA CIDA: Rezo por você desde o batizado, menino. Não precisa pedir.
-     도나 시다: 너 세례받을 때부터 기도하고 있어, 얘야. 부탁할 필요 없어.
+063. DONA CIDA: Rezo por você desde o batizado, menino. Fui eu que segurei você na igreja, lembra? Não precisa pedir.
+     도나 시다: 너 세례받을 때부터 기도하고 있어, 얘야. 성당에서 너 안고 있던 게 나잖아, 기억나? 부탁할 필요 없어.
 
 064. SEU NINO: Eu também vou. Passo em casa pra pegar o radinho.
      세우 니누: 나도 간다. 집에 들러서 라디오 챙겨야지.
@@ -225,8 +225,8 @@
 068. ANTÔNIO: É cedo ainda, filho. O povo dorme mais no domingo.
      안토니우: 아직 이르잖아, 아들. 사람들이 일요일엔 늦잠을 자지.
 
-069. MARCELO: Sete e meia, pai. Antigamente tinha fila até a porta.
-     마르셀루: 일곱 시 반이에요, 아빠. 예전엔 문 앞까지 줄이 있었잖아요.
+069. MARCELO: Sete e meia, pai. Quando eu era criança, domingo tinha fila até a porta, e o senhor nem conseguia sentar.
+     마르셀루: 일곱 시 반이에요, 아빠. 제가 어릴 땐 일요일마다 문 앞까지 줄이 있어서, 아빠는 앉지도 못하셨잖아요.
 
 070. ANTÔNIO: Antigamente eu tinha cabelo também.
      안토니우: 예전엔 나도 머리카락이 있었지.
@@ -252,14 +252,14 @@
 077. MARCELO: Que mercado novo, pai?
      마르셀루: 무슨 새 마트요, 아빠?
 
-078. ANTÔNIO: Um mercado grande. Abriu há três meses. Tem padaria dentro.
-     안토니우: 큰 마트야. 석 달 전에 열었어. 안에 빵집이 있어.
+078. ANTÔNIO: Um mercado grande, desses de rede. Abriu há três meses. Tem açougue, farmácia e padaria lá dentro.
+     안토니우: 큰 마트야, 체인점 같은 거. 석 달 전에 열었어. 안에 정육점, 약국, 빵집까지 있어.
 
 079. MARCELO: E o pão de lá é bom?
      마르셀루: 거기 빵은 맛있어요?
 
-080. ANTÔNIO: Pão de máquina. Congelado. Mas é barato. E tem estacionamento.
-     안토니우: 기계 빵이지. 냉동이고. 그래도 싸. 그리고 주차장이 있어.
+080. ANTÔNIO: Pão de máquina, filho. Congelado, vem de uma fábrica não sei de onde. Mas é barato, tem estacionamento, e a pessoa compra pão, sabão e carne no mesmo lugar. Pra quem trabalha a semana inteira, isso pesa.
+     안토니우: 기계 빵이지, 아들. 냉동이고, 어디 공장에서 오는지도 몰라. 그래도 싸고, 주차장도 있고, 빵이랑 비누랑 고기를 한곳에서 다 사. 일주일 내내 일하는 사람한테는 그게 크지.
 
 081. MARCELO: E aqui, caiu quanto? Me fala, pai.
      마르셀루: 그럼 여기는 얼마나 줄었어요? 말해 주세요, 아빠.
@@ -294,8 +294,8 @@
 091. MARCELO: E o senhor? Está difícil também?
      마르셀루: 그럼 아빠는요? 아빠도 힘드세요?
 
-092. ANTÔNIO: Padeiro não reclama, filho. Padeiro acorda às quatro e trabalha.
-     안토니우: 빵쟁이는 불평 안 한다, 아들. 빵쟁이는 새벽 네 시에 일어나서 일하지.
+092. ANTÔNIO: Padeiro não reclama, filho. Padeiro acorda às quatro, acende o forno e trabalha. Reclamar não faz o pão crescer.
+     안토니우: 빵쟁이는 불평 안 한다, 아들. 빵쟁이는 새벽 네 시에 일어나서 오븐 켜고 일하지. 불평한다고 빵이 부풀진 않아.
 
 093. MARCELO: Isso não é resposta, pai.
      마르셀루: 그건 대답이 아니잖아요, 아빠.
@@ -303,17 +303,17 @@
 094. ANTÔNIO: É a resposta que eu tenho. Come o pão.
      안토니우: 내가 가진 대답은 그거야. 빵이나 먹어.
 
-095. MARCELO: O senhor quer ajuda? Eu posso olhar as contas.
-     마르셀루: 도와드릴까요? 제가 장부 봐 드릴 수 있어요.
+095. MARCELO: O senhor quer ajuda? Eu posso olhar as contas, ver os custos, pensar numa promoção pro fim de semana.
+     마르셀루: 도와드릴까요? 제가 장부도 보고, 비용도 따져 보고, 주말 할인 행사도 생각해 볼 수 있어요.
 
 096. ANTÔNIO: Você tem as suas contas. Cuida delas primeiro.
      안토니우: 너도 네 장부가 있잖아. 그것부터 챙겨.
 
-097. MARCELO: As minhas estão vermelhas, pai.
-     마르셀루: 제 건 빨간색이에요, 아빠.
+097. MARCELO: As minhas estão vermelhas, pai. Se continuar assim, no fim do ano eu tenho que demitir gente.
+     마르셀루: 제 건 빨간색이에요, 아빠. 이대로 가면 연말엔 직원을 내보내야 해요.
 
-098. ANTÔNIO: Vermelhas quanto?
-     안토니우: 얼마나 빨간데?
+098. ANTÔNIO: Demitir? Vermelhas quanto, filho?
+     안토니우: 내보낸다고? 얼마나 빨간데, 아들?
 
 099. MARCELO: Agora quem faz auditoria é o senhor?
      마르셀루: 이제는 아빠가 감사하시는 거예요?
@@ -332,14 +332,14 @@
 103. MARCELO: Vinte pãezinhos todo dia? Todo dia mesmo?
      마르셀루: 매일 빵 스무 개요? 정말 매일요?
 
-104. ANTÔNIO: Há trinta anos. Ele, a mulher, os filhos, agora os netos.
-     안토니우: 30년째야. 그 양반, 부인, 자식들, 이젠 손주들까지.
+104. ANTÔNIO: Há trinta anos. Primeiro era só ele, depois ele e a mulher, depois vieram os filhos. Hoje os filhos estão casados, e quem vem buscar o pão são os netos. É a terceira geração comprando aqui.
+     안토니우: 30년째야. 처음엔 그 양반 혼자, 그다음엔 부부가, 그다음엔 자식들이 왔지. 이젠 자식들은 결혼했고, 빵 가지러 오는 건 손주들이야. 3대째 여기서 사는 거지.
 
 105. GILSON: E a dona Lurdes leva leite e pão de queijo toda manhã.
      질송: 그리고 루르지스 아주머니는 매일 아침 우유랑 치즈빵 사 가세요.
 
-106. ANTÔNIO: E o bar da esquina compra cem pães por dia.
-     안토니우: 그리고 모퉁이 술집은 하루에 빵 백 개를 사 가지.
+106. ANTÔNIO: E o bar da esquina compra cem pães por dia, pro sanduíche de mortadela dos trabalhadores da obra.
+     안토니우: 그리고 모퉁이 술집은 공사장 인부들 모르타델라 샌드위치용으로 하루에 빵 백 개를 사 가지.
 
 107. MARCELO: Mesmo com o mercado novo?
      마르셀루: 새 마트가 생겼는데도요?
@@ -356,8 +356,8 @@
 111. MARCELO: Mas, pai, o senhor vende pouco por vez. Centavos.
      마르셀루: 근데 아빠, 한 번에 조금씩 파시잖아요. 몇 푼씩요.
 
-112. ANTÔNIO: Centavos todo dia, filho. Durante cinquenta anos.
-     안토니우: 매일 몇 푼씩이지, 아들. 50년 동안.
+112. ANTÔNIO: Centavos todo dia, filho. Durante cinquenta anos. Eu nunca vendi nada caro na vida. Mas eu nunca fiquei um mês sem vender. Foi assim que eu paguei esta loja, a tua escola e o teu casamento.
+     안토니우: 매일 몇 푼씩이지, 아들. 50년 동안. 난 평생 비싼 걸 판 적이 없어. 그래도 한 달도 못 판 적은 없지. 그렇게 이 가게 값, 네 학비, 네 결혼식 비용을 냈다.
 
 113. MARCELO: Todo dia...
      마르셀루: 매일...
@@ -386,20 +386,20 @@
 121. ANTÔNIO: Como é que eu vou saber? Eu sou padeiro.
      안토니우: 내가 그걸 어떻게 알아? 난 빵쟁이야.
 
-122. MARCELO: Não, eu sei. Eu vejo nas visitas. Luva, agulha, seringa...
-     마르셀루: 아니요, 전 알아요. 방문할 때 봐요. 장갑, 바늘, 주사기...
+122. MARCELO: Não, eu sei. Eu vejo nas visitas. A máquina fica parada no canto, mas o armário de luva, agulha e seringa esvazia toda semana.
+     마르셀루: 아니요, 전 알아요. 방문할 때 봐요. 기계는 구석에 서 있는데, 장갑이랑 바늘이랑 주사기 넣는 장은 매주 비어요.
 
 123. GILSON: Seringa? Pra quê?
      질송: 주사기요? 뭐 하러요?
 
-124. MARCELO: Preenchimento, Gilson. Aquele gel que o médico aplica no rosto.
-     마르셀루: 필러야, 질송. 의사가 얼굴에 넣는 그 젤 말이야.
+124. MARCELO: Preenchimento, Gilson. Aquele gel que o médico aplica no rosto, na boca, nas olheiras. Ácido hialurônico.
+     마르셀루: 필러야, 질송. 의사가 얼굴, 입술, 눈 밑에 넣는 그 젤 말이야. 히알루론산.
 
 125. ANTÔNIO: E isso acaba rápido?
      안토니우: 그건 금방 떨어지니?
 
-126. MARCELO: Acaba. O paciente volta. A clínica compra de novo. Todo mês.
-     마르셀루: 떨어지죠. 환자가 다시 와요. 병원이 또 사요. 매달요.
+126. MARCELO: Acaba. O efeito dura uns meses, o paciente volta, a clínica compra de novo. Todo mês, pai. Todo mês.
+     마르셀루: 떨어지죠. 효과가 몇 달 가고, 환자가 다시 오고, 병원이 또 사요. 매달요, 아빠. 매달.
 
 127. ANTÔNIO: Igual pão.
      안토니우: 빵이랑 똑같네.
@@ -424,8 +424,8 @@
 133. ENZO: O Juventus ganhou?
      엔주: 유벤투스 이겼어요?
 
-134. MARCELO: Perdeu de dois a zero. Mas o seu Nino gritou o jogo inteiro.
-     마르셀루: 2 대 0으로 졌어. 그래도 니누 아저씨는 경기 내내 소리 질렀지.
+134. MARCELO: Perdeu de dois a zero. Mas o seu Nino gritou o jogo inteiro, xingou o juiz e ainda comprou pipoca pra mim.
+     마르셀루: 2 대 0으로 졌어. 그래도 니누 아저씨는 경기 내내 소리 지르고, 심판 욕하고, 나한테 팝콘까지 사 주셨어.
 
 135. ENZO: Normal. Ele grita até em velório.
      엔주: 늘 그렇죠. 그 할아버지는 장례식장에서도 소리 지르잖아요.
@@ -448,8 +448,8 @@
 141. MARCELO: Que cara?
      마르셀루: 무슨 표정?
 
-142. LUCIANA: Cara de ideia. Da última vez, você abriu uma empresa.
-     루시아나: 아이디어 있는 표정. 지난번엔 그 표정으로 회사를 차렸지.
+142. LUCIANA: Cara de ideia. Eu conheço. Da última vez que você fez essa cara, você saiu do emprego e abriu uma empresa.
+     루시아나: 아이디어 있는 표정. 나 그거 알아. 지난번에 그 표정 지었을 때, 당신 회사 그만두고 창업했잖아.
 
 143. ENZO: E a minha prova de matemática amanhã? Ninguém pergunta?
      엔주: 그리고 저 내일 수학 시험인데요? 아무도 안 물어봐요?
@@ -466,21 +466,22 @@
 147. LUCIANA: Que clube? Marcelo, tem alguma coisa que eu não sei?
      루시아나: 무슨 클럽? 마르셀루, 내가 모르는 일 있어?
 
-148. MARCELO: Amor, amanhã eu quero falar sério com você. Sobre a empresa.
-     마르셀루: 여보, 내일 당신이랑 진지하게 얘기하고 싶어. 회사에 대해서.
+148. MARCELO: Amor, amanhã eu quero falar sério com você. Sobre a empresa, sobre o futuro, sobre uma coisa que eu pensei hoje.
+     마르셀루: 여보, 내일 당신이랑 진지하게 얘기하고 싶어. 회사에 대해서, 앞날에 대해서, 오늘 생각한 게 하나 있어서.
 
 149. ENZO: Ih. "Falar sério." Vou pro meu quarto.
      엔주: 아이고. "진지하게 얘기"래. 저 방에 갈게요.
 
-150. LUCIANA: Eu já sei, Marcelo. Amanhã eu te mostro os números.
-     루시아나: 나 이미 알아, 마르셀루. 내일 숫자 보여 줄게.
+150. LUCIANA: Eu já sei, Marcelo. Eu fechei o relatório do trimestre ontem à noite. Amanhã eu te mostro os números.
+     루시아나: 나 이미 알아, 마르셀루. 어젯밤에 분기 보고서 마감했어. 내일 숫자 보여 줄게.
 
 ---
 
 ## 확인용 메모 (제작 참고, 낭독하지 않음)
 
 - **턴 배분(실측)**: Marcelo 59 · Antônio 41 · Dona Cida 14 · Seu Nino 14 · Gilson 10 · Luciana 6 · Enzo 6 = 150턴. (시리즈 도입 화라 마르셀루 비중 39%로 기준 25~30%를 초과 — 2화부터 기준 적용.)
-- **구간 배분**: 도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20 = 150턴. 1턴 15단어 이내 준수(최장 14단어).
+- **구간 배분**: 도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20 = 150턴. 턴 길이 실측: 일반 121 · 중간 24 · 장문 5 (최장 044번 38단어).
+- **장문 턴(36단어 이상)**: 044 마르셀루 — 레이저 시장 정체 설명(판매 대수 30→23) · 052 마르셀루 — 경쟁 구도(중국산·중고·대기업) · 080 안토니우 — 대형 마트가 손님을 빼앗는 이유 · 104 안토니우 — 3대째 단골 이야기 · 112 안토니우 — 「매일 몇 푼」으로 50년을 버틴 철학(→ 착상의 직접 계기). 각 장문 턴 뒤에는 상대가 되묻거나(045·113) 반응하는(053·081·105) 짧은 턴을 배치.
 - **호칭 규칙 반영**: 마르셀루→아버지·니누 `o senhor` 고정(Mooca 이탈리아계 가정의 존중 표현, 087·089·095·099·130번), 아버지→마르셀루 `você`·`filho`. 도나 시다→마르셀루 애칭 `Marcelinho`. 질송→안토니우 `seu Antônio`, 마르셀루에겐 이름만(같은 동네 또래 대우). 부부 간 `amor`/`você`.
 - **핵심 표현 반복**: 「Pão bom não precisa de propaganda.」 010(아버지) → 109(마르셀루가 되묻기) → 139(마르셀루가 아들에게 전수) / 「Tá difícil, pai.」 040(고백) → 090(아버지의 인용) → 145(엔주 — 대물림 개그).
 - **지역색**: Mooca 구어 `Orra, meu`(128) · `média`·`pão na chapa`(빵집 아침 메뉴) · Juventus·Rua Javari(Mooca 연고 클럽과 구장) · Radial Leste(대형 마트 위치).
