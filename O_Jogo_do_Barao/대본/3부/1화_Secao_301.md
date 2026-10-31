@@ -447,7 +447,7 @@
 139. TOMÁS: O mérito sempre foi do governo, chanceler. Eu trabalho pra ele.
      토마스: 공은 늘 정부 거였습니다, 장관님. 전 정부를 위해 일하니까요.
 
-140. VERA: Eu sei. Mas dessa vez não posso te defender em público. Deu errado, é seu. Deu certo, é nosso.
+140. VERA: Eu sei. Mas não posso te defender em público. Deu errado, é seu. Deu certo, é nosso.
      베라: 알아요. 하지만 이번엔 공개적으로 당신을 감싸 줄 수 없어요. 잘못되면 당신 탓, 잘되면 우리 공.
 
 141. TOMÁS: Isso tem nome, chanceler.
@@ -477,5 +477,5 @@
 149. LUÍZA: Senador.
      루이자: 상원의원이라.
 
-150. PRATES: A última ligação foi em nove de fevereiro. Às oito e quatro da noite. Durante o discurso da presidenta.
+150. PRATES: A última ligação foi em nove de fevereiro. Oito e quatro da noite. Durante o discurso da presidenta.
      프라치스: 마지막 통화는 2월 9일. 밤 8시 4분. 임시 대통령 연설 도중이었어요.
