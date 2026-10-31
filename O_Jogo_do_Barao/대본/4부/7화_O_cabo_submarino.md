@@ -121,8 +121,8 @@
 033. TOMÁS: Fala.
      토마스: 말해요.
 
-034. DITO: Eu nunca dirigi pro Azeredo. Entrei no Itamaraty em noventa e um. Ele já tinha saído.
-     디투: 전 아제레두 장관을 모신 적이 없어요. 91년에 이타마라치에 들어왔거든요. 그분은 이미 나가셨고요.
+034. DITO: Eu nunca dirigi pro Azeredo. Entrei no Itamaraty em oitenta e nove. Ele já tinha saído.
+     디투: 전 아제레두 장관을 모신 적이 없어요. 89년에 이타마라치에 들어왔거든요. 그분은 이미 나가셨고요.
 
 035. LUÍZA: Mas o senhor fala "no tempo do Azeredo" toda hora.
      루이자: 그런데 맨날 "아제레두 장관 시절엔" 하시잖아요.
