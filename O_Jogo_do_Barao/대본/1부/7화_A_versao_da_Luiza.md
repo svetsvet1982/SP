@@ -444,8 +444,8 @@
 139. LUÍZA: Aceito. Com um café. Do bom, não o do depósito.
      루이자: 받아 줄게요. 커피 한 잔으로. 창고 커피 말고 좋은 걸로.
 
-140. DITO: Ei! O meu café é ótimo. Trinta e cinco anos coando café nesta casa e ninguém nunca reclamou na minha frente.
-     디투: 저기요! 내 커피 훌륭하거든요. 이 집에서 35년 커피 내렸는데, 내 앞에서 불평한 사람은 한 명도 없었어요.
+140. DITO: Ei! O meu café é ótimo. Trinta e sete anos coando café nesta casa e ninguém nunca reclamou na minha frente.
+     디투: 저기요! 내 커피 훌륭하거든요. 이 집에서 37년 커피 내렸는데, 내 앞에서 불평한 사람은 한 명도 없었어요.
 
 141. TOMÁS: Dito, a senha dos visitantes fica na portaria. A portaria tem um livro, não tem?
      토마스: 디투, 방문자 비밀번호가 경비실에 있다면서요. 경비실엔 방문 대장이 있잖아요?

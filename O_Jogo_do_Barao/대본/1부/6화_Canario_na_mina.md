@@ -193,8 +193,8 @@
 057. LUÍZA: Fecha a lata. Perfeito. O senhor devia ser ator, seu Dito.
      루이자: 통 닫아요. 완벽해요. 배우 하셨어야 했어요, 디투 아저씨.
 
-058. DITO: Trinta e cinco anos de Itamaraty, moça. Isso aqui é o maior teatro do país, só que o público nunca compra ingresso.
-     디투: 이타마라치 35년이에요, 아가씨. 여기가 이 나라 최고의 극장이에요. 다만 관객이 표를 안 살 뿐이지.
+058. DITO: Trinta e sete anos de Itamaraty, moça. Isso aqui é o maior teatro do país, só que o público nunca compra ingresso.
+     디투: 이타마라치 37년이에요, 아가씨. 여기가 이 나라 최고의 극장이에요. 다만 관객이 표를 안 살 뿐이지.
 
 059. HELENA: Imprimam as versões. Cada uma com uma marca d'água diferente, invisível. Se alguém fotografar a página, a marca vai junto.
      엘레나: 버전별로 출력해요. 각자 다른 보이지 않는 워터마크를 넣어서. 누가 페이지를 사진 찍어도 워터마크는 같이 따라가요.
