@@ -85,8 +85,8 @@
 021. RECEPCIONISTA: Boa tarde. Atlântida Consultoria. O senhor tem horário marcado?
      안내 직원: 안녕하세요. 아틀란치다 컨설팅입니다. 예약하셨나요?
 
-022. TOMÁS: Tenho um convite. Diga que é o Rangel. Ele sabe o resto.
-     토마스: 초대를 받았어요. 랑제우라고 전해 주세요. 나머진 그분이 알아요.
+022. TOMÁS: Tenho um convite, que é melhor do que horário. Diga que é o Rangel. Ele sabe o resto.
+     토마스: 초대를 받았어요. 예약보다 낫죠. 랑제우라고 전해 주세요. 나머진 그분이 알아요.
 
 023. RECEPCIONISTA: Ele está esperando o senhor. Sala do canto, no fim do corredor. Mas, por norma da casa, o senhor pode deixar o celular aqui comigo?
      안내 직원: 기다리고 계세요. 복도 끝 모서리 방이요. 그런데 사내 규정상, 휴대폰은 여기 저한테 맡겨 주시겠어요?
@@ -219,8 +219,8 @@
 065. SÁ: Um erro de estagiário, imperdoável. Já foi demitido, coitado, no mesmo dia em que a imprensa descobriu. Eu sou um patrão severo, mas justo.
      사: 인턴 실수예요. 용서할 수 없는. 언론이 알아낸 그날 바로 해고했어요, 불쌍하게도. 난 엄하지만 공정한 사장이거든요.
 
-066. TOMÁS: O relatório da Abin. Aquela frase nova, que não estava em nenhuma versão, e que quase me custou a carreira e a Luíza.
-     토마스: 아빈 보고서. 어느 버전에도 없던 그 새 문장. 하마터면 제 경력도, 루이자도 잃을 뻔했던.
+066. TOMÁS: O relatório da Abin. Aquela frase nova, que não estava em nenhuma versão, e que alguém escreveu imitando a voz da Luíza.
+     토마스: 아빈 보고서. 어느 버전에도 없던 그 새 문장. 누군가 루이자 말투를 흉내 내서 쓴.
 
 067. SÁ: Ah, essa é a minha favorita, de longe. A Luíza escreve bem, com aquela precisão de quem conta tudo. Mas eu escrevo como ela escreveria com medo, e ninguém percebeu a diferença.
      사: 아, 그게 내 최애예요. 단연코. 루이자는 글을 잘 쓰죠. 뭐든 세어 보는 사람 특유의 정확함으로. 하지만 난 그녀가 겁먹었을 때 쓸 법하게 써요. 그리고 아무도 차이를 못 알아챘죠.
@@ -276,8 +276,8 @@
 084. SÁ: O homem que você venera, que tem estátua e nome de instituto, foi o maior operador de informação deste país. Antes de mim, naturalmente.
      사: 당신이 숭배하는 그 사람, 동상도 있고 연수원에 이름까지 붙은 그 사람은 이 나라 최고의 정보 공작가였어요. 물론 나 이전에는.
 
-085. TOMÁS: Escrevia artigo, sim. Disso eu não discordo. Mas o senhor esqueceu o telegrama número nove.
-     토마스: 기사를 쓴 건 맞아요. 거기엔 이견이 없어요. 하지만 9호 전보를 잊으셨네요.
+085. TOMÁS: Escrevia artigo, sim, e com pseudônimo, disso eu não discordo, e não vou fingir que ele era santo. Mas o senhor esqueceu o telegrama número nove.
+     토마스: 기사를 쓴 건 맞아요. 가명으로요. 거기엔 이견이 없고, 그분이 성인이었던 척할 생각도 없어요. 하지만 9호 전보를 잊으셨네요.
 
 086. SÁ: Refresca a minha memória.
      사: 기억 좀 되살려 줘요.
@@ -359,8 +359,8 @@
 111. SÁ: Você veio porque eu sou o único que te entende. Nós dois fomos traídos pela casa, Tomás. A diferença é que eu já parei de esperar que ela peça desculpas.
      사: 내가 당신을 이해하는 유일한 사람이라서 온 거예요. 우리 둘 다 그 집에 배신당했죠, 토마스. 차이는 난 그 집이 사과하길 기다리는 걸 이미 그만뒀다는 거예요.
 
-112. TOMÁS: E a sua resposta foi vender a casa.
-     토마스: 그리고 당신의 답은 그 집을 파는 거였고요.
+112. TOMÁS: E a sua resposta foi vender a casa, cômodo por cômodo, a quem pagasse mais.
+     토마스: 그리고 당신의 답은 그 집을 방 하나씩, 제일 비싸게 부르는 사람한테 파는 거였고요.
 
 113. SÁ: A casa vendeu a mim primeiro, meu caro, e muito barato. Por uma pá de cal e uma foto do presidente na primeira página.
      사: 그 집이 먼저 날 팔았어요, 친구. 그것도 아주 싸게. 석회 한 삽이랑 1면에 실린 대통령 사진 한 장에.
@@ -407,8 +407,8 @@
 127. SÁ: Duvido.
      사: 그럴 리가.
 
-128. TOMÁS: O contrato de manutenção de Fortaleza. Página quatro. "L. de Sá. Conselheiro estratégico." Com assinatura.
-     토마스: 포르탈레자 정비 계약서. 4페이지. "L. 지 사. 전략 고문." 서명까지.
+128. TOMÁS: O contrato de manutenção de Fortaleza, guardado num estepe por um homem mais prudente que o senhor. Página quatro. "L. de Sá. Conselheiro estratégico." Com assinatura.
+     토마스: 포르탈레자 정비 계약서. 당신보다 신중한 사람이 스페어타이어에 보관해 둔. 4페이지. "L. 지 사. 전략 고문." 서명까지.
 
 129. SÁ: Uma assinatura de consultor num contrato de manutenção, meu caro. Existem milhares assim no país. Meu advogado chama isso de terça-feira.
      사: 정비 계약서에 있는 컨설턴트 서명 하나라니, 친구. 이 나라에 그런 건 수천 개예요. 내 변호사는 그걸 평범한 화요일이라고 불러요.
