@@ -1,0 +1,479 @@
+# O Jogo do Barão — 3부 7화
+
+## Lagosta é peixe? (랍스터는 물고기인가?)
+
+> **표기 전용 정보 (낭독하지 않음)**
+> - 부/화: 3부 7화 · 서사 기능: 메르코수르-EU 협정 반대 여론에 맞선 공개 반박, '잘못된 인용'이라는 거짓의 역사
+> - 배경: 2027년 6월 21일(월)~22일(화). 스트라스부르 유럽의회 앞 트랙터 시위, 브라질 EU 대표부 회의실, 의회 위원회 공청회장, 일강(L'Ill) 강변
+> - 등장인물: Tomás, Luíza(전화), Dito(전화), Embaixadora Lúcia Barros(주EU 브라질 대사, 신규), Klaus Becker(독일, 첫 등장), Dufresne, Hélène Marchand(프랑스 출신 유럽의회 의원, 신규), Zé Raimundo(화상)
+> - 반영 현안: N12(메르코수르-EU 협정 2026년 5월 잠정 적용, 유럽의회의 EU 사법재판소 회부와 판단 대기), N18(COP30 이후 열대우림 기금)
+> - 역사 사례: H14 랍스터 전쟁(1961~63) — "랍스터가 뛰어서 움직이니 물고기라면 캥거루는 새" — 061~080 · "브라질은 진지한 나라가 아니다"의 실제 발화자(드골이 아닌 브라질 대사) — 071~080
+> - 기법 장면: 거짓말(역사의 오인용) — 001~020, 101~120 · 설득 — 101~130
+> - 난이도: B2+ · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·반전 30 · 마무리 20)
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내(인용 낭독 예외 1회: 003).
+> - 복선 설치: 마르샹 의원에게 인용문을 준 "브라질 컨설턴트"(→3부 11화) · 뒤프렌의 "누군가 그 청구서를 당신에게 내밀 것"(→3부 9~12화) · 베커의 열대우림 조항(→4부 6화)
+> - 2부 4화 회수: 제 하이문두와 귀환 프로그램
+
+---
+
+## 대본
+
+### 도입 (001~020) — 트랙터와 드골
+
+001. LÚCIA: Bem-vindo a Estrasburgo, Rangel. Cuidado com os tratores. Os agricultores franceses chegaram às seis.
+     루시아: 스트라스부르에 온 걸 환영해요, 랑제우. 트랙터 조심해요. 프랑스 농민들이 6시에 왔어요.
+
+002. TOMÁS: Quantos?
+     토마스: 몇 대나요?
+
+003. LÚCIA: Uns quatrocentos. E uma faixa enorme: "Le Brésil n'est pas un pays sérieux. Charles de Gaulle."
+     루시아: 400대쯤요. 그리고 거대한 현수막. 「브라질은 진지한 나라가 아니다. 샤를 드골」.
+
+004. TOMÁS: De novo essa frase.
+     토마스: 또 그 문장이네요.
+
+005. LÚCIA: Ontem a deputada Hélène Marchand usou no plenário. Hoje está na faixa. Amanhã vai estar na audiência.
+     루시아: 어제 엘렌 마르샹 의원이 본회의에서 썼어요. 오늘은 현수막에 있고. 내일은 공청회에 나오겠죠.
+
+006. LUÍZA: Tomás, eu tô vendo pela televisão daqui. O trator da frente tem uma lagosta de plástico amarrada.
+     루이자: 토마스, 여기서 TV로 보고 있어요. 맨 앞 트랙터에 플라스틱 랍스터가 묶여 있어요.
+
+007. TOMÁS: Uma lagosta. Então eles conhecem a história.
+     토마스: 랍스터라. 그럼 그 이야기를 아는 거네요.
+
+008. DITO: Doutor, a guerra da lagosta? No tempo do Jango? Meu pai falava disso.
+     디투: 박사님, 랍스터 전쟁이요? 장구 대통령 때? 우리 아버지가 그 얘길 하셨어요.
+
+009. TOMÁS: Essa mesma, Dito.
+     토마스: 바로 그거예요, 디투.
+
+010. LÚCIA: O acordo vale provisoriamente desde maio passado. Mas o Tribunal de Justiça europeu ainda vai opinar.
+     루시아: 협정은 작년 5월부터 잠정 적용 중이에요. 하지만 유럽 사법재판소가 아직 의견을 내야 해요.
+
+011. TOMÁS: E se o tribunal disser que a divisão do acordo foi ilegal?
+     토마스: 재판소가 협정 분리가 위법이라고 하면요?
+
+012. LÚCIA: A aplicação provisória fica em risco. E a deputada Marchand quer exatamente isso.
+     루시아: 잠정 적용이 위태로워지죠. 그리고 마르샹 의원은 바로 그걸 원해요.
+
+013. TOMÁS: Com que argumento?
+     토마스: 무슨 논거로요?
+
+014. LÚCIA: Três. Desmatamento. Carne. E um país "que não é sério". Ela repete a frase em toda entrevista.
+     루시아: 셋이요. 벌채. 쇠고기. 그리고 "진지하지 않은" 나라. 인터뷰마다 그 문장을 반복해요.
+
+015. TOMÁS: E a audiência de amanhã?
+     토마스: 내일 공청회는요?
+
+016. LÚCIA: Comissão de comércio internacional. A Marchand fala primeiro. O Brasil tem dez minutos de resposta.
+     루시아: 국제통상위원회예요. 마르샹이 먼저 발언하고, 브라질은 10분 답변권이 있어요.
+
+017. TOMÁS: Dez minutos.
+     토마스: 10분이라.
+
+018. LÚCIA: Mais do que você teve com o secretário de Estado americano, pelo que me contaram.
+     루시아: 듣기론 미국 국무장관이랑 했을 때보다 많던데요.
+
+019. TOMÁS: O dobro. Vou me sentir um aristocrata.
+     토마스: 두 배네요. 귀족이 된 기분이겠어요.
+
+020. LÚCIA: Antes, o alemão quer te ver. E a francesa também. Separados.
+     루시아: 그 전에 독일 사람이 보자고 해요. 프랑스 사람도요. 따로따로.
+
+### 장면1 (021~060) — 베를린과 파리
+
+021. BECKER: Herr Rangel. Klaus Becker. Eu coordeno a contribuição alemã ao fundo das florestas tropicais. Lançado em Belém.
+     베커: 랑제우 씨. 클라우스 베커입니다. 벨렝에서 출범한 열대우림 기금의 독일 분담을 조정하고 있습니다.
+
+022. TOMÁS: Senhor Becker. A Alemanha apoia o acordo, imagino.
+     토마스: 베커 씨. 독일은 협정을 지지하시겠죠.
+
+023. BECKER: A indústria alemã apoia. Carros, máquinas, química. O governo também. Mas há um problema.
+     베커: 독일 산업계는 지지합니다. 자동차, 기계, 화학. 정부도요. 하지만 문제가 하나 있어요.
+
+024. TOMÁS: O tribunal.
+     토마스: 재판소요.
+
+025. BECKER: O tribunal e a opinião pública. O eleitor alemão quer prova de que o acordo não derruba floresta.
+     베커: 재판소와 여론이요. 독일 유권자들은 협정이 숲을 베지 않는다는 증거를 원해요.
+
+026. TOMÁS: E o desmatamento caiu no Brasil. Desde dois mil e vinte e três.
+     토마스: 브라질 벌채는 줄었습니다. 2023년부터요.
+
+027. BECKER: Caiu. Mas eleitor não lê estatística. Lê faixa de trator.
+     베커: 줄었죠. 하지만 유권자는 통계를 안 읽어요. 트랙터 현수막을 읽죠.
+
+028. TOMÁS: Então o que a Alemanha precisa?
+     토마스: 그럼 독일엔 뭐가 필요하죠?
+
+029. BECKER: Uma cláusula. Verificável. Que ligue o acordo comercial ao fundo das florestas. Um mecanismo, não uma promessa.
+     베커: 조항 하나요. 검증 가능한. 무역협정을 열대우림 기금과 연결하는. 약속이 아니라 장치로.
+
+030. TOMÁS: Por exemplo?
+     토마스: 예를 들면요?
+
+031. BECKER: Satélite. Se o desmatamento numa região exportadora subir, a Europa paga menos ao fundo naquela região. Automático.
+     베커: 위성이요. 수출 지역 벌채가 늘면 유럽은 그 지역 기금 지급을 줄이는 거죠. 자동으로.
+
+032. TOMÁS: E se cair?
+     토마스: 줄면요?
+
+033. BECKER: Se cair, a Europa paga mais. Pra quem preserva.
+     베커: 줄면 유럽이 더 내죠. 보존하는 쪽에.
+
+034. TOMÁS: Então não é punição. É prêmio.
+     토마스: 그럼 처벌이 아니라 상이네요.
+
+035. BECKER: Exatamente. Os seus agricultores ganham dinheiro por floresta em pé. Os meus eleitores dormem tranquilos.
+     베커: 바로 그거예요. 당신네 농민들은 서 있는 숲으로 돈을 벌고, 우리 유권자들은 편히 자고.
+
+036. TOMÁS: E o tribunal lê isso como garantia ambiental.
+     토마스: 그리고 재판소는 그걸 환경 보장으로 읽겠죠.
+
+037. BECKER: Ja. O tribunal adora mecanismos. Odeia promessas.
+     베커: 네. 재판소는 장치를 좋아하고 약속을 싫어하죠.
+
+038. DUFRESNE: Monsieur Rangel. Do mato da Guiana às salas de Estrasburgo. O senhor viaja muito.
+     뒤프렌: 랑제우 씨. 기아나 숲에서 스트라스부르 회의실까지. 많이 다니시네요.
+
+039. TOMÁS: Madame Dufresne. A senhora agora trabalha em Bruxelas?
+     토마스: 뒤프렌 씨. 이제 브뤼셀에서 일하세요?
+
+040. DUFRESNE: Em Paris. Mas Paris me mandou acompanhar o acordo. Agricultura francesa é defesa nacional, sabia?
+     뒤프렌: 파리에서요. 하지만 파리가 협정을 챙기라고 보냈어요. 프랑스 농업은 국방 문제거든요, 아세요?
+
+041. TOMÁS: Imaginei.
+     토마스: 그럴 줄 알았어요.
+
+042. DUFRESNE: A deputada Marchand não fala pelo governo francês. Mas o governo francês tem medo dela.
+     뒤프렌: 마르샹 의원은 프랑스 정부를 대변하지 않아요. 하지만 프랑스 정부는 그 사람을 두려워하죠.
+
+043. TOMÁS: Por quê?
+     토마스: 왜요?
+
+044. DUFRESNE: Porque os agricultores votam nela. E os agricultores fecham estradas. E estrada fechada derruba ministro.
+     뒤프렌: 농민들이 그 사람을 찍으니까요. 농민들은 도로를 막고. 막힌 도로는 장관을 끌어내리죠.
+
+045. TOMÁS: E a frase do de Gaulle?
+     토마스: 드골 문장은요?
+
+046. DUFRESNE: Todo francês acha que o general disse. Todo brasileiro também. É a frase mais famosa que ninguém ouviu.
+     뒤프렌: 프랑스 사람은 다 장군이 말했다고 생각해요. 브라질 사람도요. 아무도 직접 듣지 못한 가장 유명한 문장이죠.
+
+047. TOMÁS: Porque ele não disse.
+     토마스: 그가 말하지 않았으니까요.
+
+048. DUFRESNE: ...O senhor sabe disso?
+     뒤프렌: ...그걸 아세요?
+
+049. TOMÁS: Todo diplomata brasileiro que estudou a guerra da lagosta sabe. Quase ninguém mais.
+     토마스: 랍스터 전쟁을 공부한 브라질 외교관은 다 알죠. 그 밖엔 거의 아무도 모르고요.
+
+050. DUFRESNE: E o senhor vai dizer isso amanhã? Na audiência?
+     뒤프렌: 그걸 내일 공청회에서 말할 건가요?
+
+051. TOMÁS: Vou.
+     토마스: 할 겁니다.
+
+052. DUFRESNE: Mon Dieu. A deputada vai passar vergonha em público.
+     뒤프렌: 세상에. 그 의원이 공개 망신을 당하겠네요.
+
+053. TOMÁS: Não é esse o objetivo.
+     토마스: 그게 목적은 아니에요.
+
+054. DUFRESNE: Qual é, então?
+     뒤프렌: 그럼 뭔데요?
+
+055. TOMÁS: Mostrar que mentira repetida sessenta anos vira verdade. E que os argumentos dela podem ser iguais.
+     토마스: 60년 반복된 거짓말이 진실이 된다는 걸 보여 주는 거죠. 그리고 협정 반대 논거도 같은 종류일 수 있다는 걸.
+
+056. DUFRESNE: Isso é perigoso. Os franceses não gostam de ser corrigidos sobre o de Gaulle.
+     뒤프렌: 위험해요. 프랑스 사람들은 드골 얘기로 정정당하는 걸 싫어해요.
+
+057. TOMÁS: Mas gostam de uma boa história. Principalmente se for engraçada.
+     토마스: 하지만 좋은 이야기는 좋아하죠. 특히 웃기면.
+
+058. DUFRESNE: A guerra da lagosta não é engraçada. A França mandou um contratorpedeiro.
+     뒤프렌: 랍스터 전쟁은 웃기지 않아요. 프랑스는 구축함을 보냈다고요.
+
+059. TOMÁS: E o Brasil mandou um almirante com senso de humor. Essa é a parte engraçada.
+     토마스: 그리고 브라질은 유머 감각 있는 제독을 보냈죠. 그게 웃긴 부분이에요.
+
+060. DUFRESNE: O canguru.
+     뒤프렌: 캥거루군요.
+
+### 장면2 (061~100) — 캥거루는 새인가
+
+061. LUÍZA: Tomás, me explica o canguru. Eu tô anotando pra Bia. Ela tem trabalho de história.
+     루이자: 토마스, 캥거루 얘기 설명해 줘요. 비아한테 적어 주려고요. 역사 숙제가 있대요.
+
+062. TOMÁS: Mil novecentos e sessenta e um. Pescadores franceses começam a pescar lagosta na costa de Pernambuco.
+     토마스: 1961년. 프랑스 어부들이 페르남부쿠 해안에서 랍스터를 잡기 시작해요.
+
+063. DITO: Na plataforma continental. Meu pai dizia que era lagosta nossa.
+     디투: 대륙붕에서요. 우리 아버지는 우리 랍스터라고 하셨어요.
+
+064. TOMÁS: O Brasil disse: a lagosta anda no fundo do mar. É recurso da plataforma. É brasileira.
+     토마스: 브라질은 말했죠. 랍스터는 바다 밑바닥을 걷는다. 대륙붕 자원이다. 그러니 브라질 것이다.
+
+065. DUFRESNE: E a França disse: a lagosta nada. É peixe. E peixe em alto-mar é de quem pescar.
+     뒤프렌: 프랑스는 말했죠. 랍스터는 헤엄친다. 물고기다. 공해의 물고기는 잡는 사람 것이다.
+
+066. LUÍZA: E a briga virou guerra por causa de um bicho?
+     루이자: 동물 하나 때문에 다툼이 전쟁이 됐어요?
+
+067. TOMÁS: Quase. A França mandou um contratorpedeiro, o Tartu. O Brasil mobilizou a Marinha.
+     토마스: 거의요. 프랑스는 구축함 타르튀를 보냈고, 브라질은 해군을 동원했어요.
+
+068. DUFRESNE: E ninguém atirou. Felizmente.
+     뒤프렌: 그리고 아무도 쏘지 않았죠. 다행히도.
+
+069. TOMÁS: E um almirante brasileiro, o Paulo Moreira da Silva, resolveu o debate científico com uma frase.
+     토마스: 그리고 브라질 제독 파울루 모레이라 다 시우바가 문장 하나로 과학 논쟁을 끝냈죠.
+
+070. DUFRESNE: "Se a lagosta é peixe porque se desloca dando saltos, então o canguru é ave."
+     뒤프렌: "랍스터가 뛰어서 움직이니 물고기라면, 캥거루는 새다."
+
+071. LUÍZA: Eu vou colocar isso no trabalho da Bia. Com nota de rodapé.
+     루이자: 그거 비아 숙제에 넣을래요. 각주까지 달아서.
+
+072. TOMÁS: No meio da crise, um jornalista brasileiro em Paris ouviu: "O Brasil não é um país sério."
+     토마스: 그리고 위기 한복판에, 파리의 브라질 기자가 한 문장을 들었어요. "브라질은 진지한 나라가 아니다."
+
+073. DUFRESNE: Do general de Gaulle.
+     뒤프렌: 드골 장군한테서.
+
+074. TOMÁS: Do embaixador brasileiro na França. Carlos Alves de Souza. Que estava irritado com o próprio governo.
+     토마스: 주프랑스 브라질 대사한테서요. 카를루스 알비스 지 소우자. 자기 정부한테 화가 나 있던.
+
+075. LUÍZA: O embaixador brasileiro? Falando mal do Brasil?
+     루이자: 브라질 대사가요? 브라질 욕을 했다고요?
+
+076. TOMÁS: Ele contou nas memórias. Disse a frase a um jornalista, que atribuiu ao de Gaulle. Soava melhor.
+     토마스: 그 사람이 회고록에 직접 썼어요. 기자한테 그 말을 했고, 기자가 드골한테 갖다 붙였죠. 그게 더 그럴듯했으니까.
+
+077. DUFRESNE: Sessenta anos. E todo mundo acredita que foi o general.
+     뒤프렌: 60년이라. 그런데 다들 장군이 했다고 믿죠.
+
+078. TOMÁS: É melhor história. Um grande francês desprezando o Brasil. Melhor que um brasileiro cansado do próprio país.
+     토마스: 더 좋은 이야기니까요. 위대한 프랑스인이 브라질을 깔보는 쪽이, 지친 브라질인이 제 나라를 깔보는 쪽보다.
+
+079. DITO: Igual o seu Dito inventando citação do Barão, doutor.
+     디투: 제가 남작님 인용을 지어내는 거랑 똑같네요, 박사님.
+
+080. TOMÁS: Igualzinho, Dito. Só que a sua é bonita. A do embaixador virou arma.
+     토마스: 똑같죠, 디투. 다만 당신 건 아름답고, 그 대사 건 무기가 됐어요.
+
+081. LÚCIA: E a carne? Ela vai falar de carne também.
+     루시아: 쇠고기는요? 그 사람이 쇠고기 얘기도 할 텐데요.
+
+082. TOMÁS: A carne brasileira exportada pra Europa tem rastreamento individual. Do pasto ao porto.
+     토마스: 유럽으로 수출되는 브라질 쇠고기는 개체별 이력 추적이 돼요. 목장에서 항구까지.
+
+083. LÚCIA: E o desmatamento?
+     루시아: 벌채는요?
+
+084. TOMÁS: O mecanismo do senhor Becker. Satélite, prêmio e corte automático.
+     토마스: 베커 씨의 장치요. 위성, 보상, 자동 감축.
+
+085. LUÍZA: E o garimpo? Ela vai falar do garimpo na Guiana Francesa. É território europeu.
+     루이자: 금 채굴은요? 프랑스령 기아나 금 채굴 얘기도 할 거예요. 유럽 영토니까.
+
+086. TOMÁS: Pro garimpo eu tenho uma testemunha.
+     토마스: 금 채굴엔 증인이 있어요.
+
+087. LUÍZA: Quem?
+     루이자: 누구요?
+
+088. TOMÁS: O seu Zé Raimundo.
+     토마스: 제 하이문두 씨요.
+
+089. LUÍZA: O garimpeiro do Maranhão? O do pé infeccionado?
+     루이자: 마라냥 출신 그 채굴꾼이요? 발 감염됐던?
+
+090. TOMÁS: Ele mesmo. Lembra do programa de retorno? A União Europeia financiou a metade.
+     토마스: 그 사람이요. 귀환 프로그램 기억나요? EU가 절반을 댔잖아요.
+
+091. LÚCIA: E deu certo?
+     루시아: 효과가 있었어요?
+
+092. TOMÁS: Voltaram 312 garimpeiros. 280 estão empregados no Amapá. O Zé opera guindaste no porto de Santana.
+     토마스: 채굴꾼 312명이 돌아왔어요. 280명이 아마파에서 일하고 있고요. 제 씨는 산타나 항구에서 크레인을 몰아요.
+
+093. DUFRESNE: E o garimpo na Guiana caiu?
+     뒤프렌: 기아나 채굴은 줄었나요?
+
+094. TOMÁS: Trinta por cento em seis meses. A senhora deve ter o número da gendarmaria.
+     토마스: 6개월 만에 30퍼센트요. 헌병대 숫자를 갖고 계실 텐데요.
+
+095. DUFRESNE: Tenho. Vinte e oito por cento. O senhor arredondou pra cima.
+     뒤프렌: 있죠. 28퍼센트예요. 반올림하셨네요.
+
+096. TOMÁS: Então eu digo vinte e oito. Com a fonte francesa.
+     토마스: 그럼 28이라고 할게요. 프랑스 출처로.
+
+097. DUFRESNE: O senhor vai usar os números da França contra a deputada francesa.
+     뒤프렌: 프랑스 숫자로 프랑스 의원을 반박하겠다는 거군요.
+
+098. TOMÁS: Vou usar os números da França a favor da França. A gendarmaria fez um ótimo trabalho.
+     토마스: 프랑스 숫자로 프랑스를 칭찬하는 거죠. 헌병대가 훌륭하게 해냈으니까.
+
+099. DUFRESNE: Você é impossível.
+     뒤프렌: 당신은 못 말리겠네요.
+
+100. TOMÁS: Me dizem isso em várias línguas.
+     토마스: 여러 언어로 그 말을 들어요.
+
+### 절정·반전 (101~130) — 공청회의 10분
+
+101. MARCHAND: Senhoras e senhores. O general de Gaulle disse, há sessenta anos: o Brasil não é um país sério.
+     마르샹: 신사 숙녀 여러분. 60년 전 드골 장군은 말했습니다. 브라질은 진지한 나라가 아니라고.
+
+102. MARCHAND: Um país que queima a floresta, que manda garimpeiros pra Guiana, que vende carne sem controle.
+     마르샹: 숲을 태우고, 기아나로 채굴꾼을 보내고, 통제 없이 쇠고기를 파는 나라.
+
+103. MARCHAND: E é com esse país que a Europa quer abrir os seus mercados? Os nossos agricultores dizem não.
+     마르샹: 그런 나라에 유럽이 시장을 열겠다고요? 우리 농민들은 거부합니다.
+
+104. LÚCIA: Pela delegação brasileira, o ministro Tomás Rangel. Dez minutos.
+     루시아: 브라질 대표단의 토마스 랑제우 외교관입니다. 10분.
+
+105. TOMÁS: Obrigado, senhora presidente. Começo pela frase do general.
+     토마스: 감사합니다, 위원장님. 장군의 문장부터 시작하겠습니다.
+
+106. TOMÁS: O general de Gaulle nunca disse que o Brasil não é um país sério.
+     토마스: 드골 장군은 브라질이 진지한 나라가 아니라고 말한 적이 없습니다.
+
+107. MARCHAND: Isso é uma tentativa de reescrever a história.
+     마르샹: 그건 역사를 다시 쓰려는 시도예요.
+
+108. TOMÁS: É uma tentativa de ler a história, deputada. Quem disse foi o embaixador brasileiro em Paris. Ele confessou.
+     토마스: 역사를 읽으려는 시도입니다, 의원님. 그 말을 한 건 파리 주재 브라질 대사였어요. 본인이 고백했죠.
+
+109. TOMÁS: Um brasileiro irritado com o próprio governo. Um jornalista que preferiu um autor mais famoso.
+     토마스: 자기 정부에 화가 난 브라질 사람 하나. 더 유명한 저자를 선호한 기자 하나.
+
+110. TOMÁS: E sessenta anos depois, a frase está num trator em Estrasburgo. Com uma lagosta de plástico.
+     토마스: 그리고 60년 뒤, 그 문장은 스트라스부르의 트랙터 위에 있죠. 플라스틱 랍스터와 함께.
+
+111. LÚCIA: Eles estão rindo. Até os franceses da comissão.
+     루시아: 다들 웃고 있어요. 위원회의 프랑스 의원들까지.
+
+112. TOMÁS: Uma mentira repetida por sessenta anos vira história. Por isso vale checar as outras afirmações da deputada.
+     토마스: 60년 반복된 거짓말은 역사가 됩니다. 그래서 의원님의 다른 주장도 확인해 볼 가치가 있죠.
+
+113. TOMÁS: Garimpo na Guiana Francesa. Segundo a gendarmaria francesa, caiu vinte e oito por cento em seis meses.
+     토마스: 프랑스령 기아나 금 채굴. 프랑스 헌병대에 따르면 6개월 만에 28퍼센트 줄었습니다.
+
+114. TOMÁS: Graças a uma patrulha conjunta franco-brasileira e a um programa de retorno financiado pela União Europeia.
+     토마스: 프랑스-브라질 공동 순찰과 EU가 자금을 댄 귀환 프로그램 덕분이죠.
+
+115. TOMÁS: Senhora presidente, posso apresentar uma testemunha por vídeo? Dois minutos.
+     토마스: 위원장님, 화상으로 증인 한 명을 소개해도 될까요? 2분이면 됩니다.
+
+116. ZÉ RAIMUNDO: Boa tarde, Europa. Sou o Zé Raimundo. Doze anos garimpando na Guiana. Hoje opero guindaste em Santana.
+     제 하이문두: 안녕하세요, 유럽. 저는 제 하이문두예요. 기아나에서 12년 금을 캤어요. 지금은 산타나 항구에서 크레인을 몰아요.
+
+117. ZÉ RAIMUNDO: Com carteira assinada. A Europa pagou o meu curso. Obrigado. Eu não volto pro mato nunca mais.
+     제 하이문두: 정식 고용으로요. 유럽이 제 교육비를 내줬어요. 고마워요. 다신 숲으로 안 돌아가요.
+
+118. MARCHAND: Um caso isolado.
+     마르샹: 개별 사례일 뿐이에요.
+
+119. TOMÁS: Duzentos e oitenta casos isolados, deputada. Todos empregados.
+     토마스: 280건의 개별 사례죠, 의원님. 전부 취업했어요.
+
+120. TOMÁS: Sobre a floresta: o Brasil propõe, com a Alemanha, um mecanismo ligado ao fundo das florestas tropicais.
+     토마스: 그리고 숲에 관해서는, 브라질은 독일과 함께 열대우림 기금과 연계된 장치를 제안합니다.
+
+121. BECKER: Confirmo pela Alemanha. Satélite. Prêmio pra quem preserva. Corte automático pra quem desmata. Verificável.
+     베커: 독일이 확인합니다. 위성. 보존하는 쪽엔 보상. 벌채하는 쪽엔 자동 감축. 검증 가능.
+
+122. MARCHAND: E a carne?
+     마르샹: 쇠고기는요?
+
+123. TOMÁS: Rastreada do pasto ao porto. Os inspetores europeus podem visitar quando quiserem. Os chineses visitaram mês passado.
+     토마스: 목장에서 항구까지 추적됩니다. 유럽 검역관은 언제든 방문하셔도 돼요. 중국 검역관들도 지난달 왔고요.
+
+124. LÚCIA: O presidente da comissão vai propor uma recomendação favorável ao tribunal. Com a cláusula alemã.
+     루시아: 위원장이 재판소에 우호적 권고를 내자고 제안할 거예요. 독일 조항을 넣어서.
+
+125. TOMÁS: E a deputada?
+     토마스: 그 의원은요?
+
+126. LÚCIA: Vai votar contra. Mas perdeu a frase.
+     루시아: 반대표를 던지겠죠. 하지만 그 문장은 잃었어요.
+
+127. TOMÁS: Sem a frase, sobra só o trator.
+     토마스: 문장이 없으면 트랙터만 남죠.
+
+128. MARCHAND: Ministro Rangel. Uma pergunta fora da ata. Como o senhor sabia do embaixador?
+     마르샹: 랑제우 외교관. 기록 밖 질문 하나요. 그 대사 얘기를 어떻게 알았죠?
+
+129. TOMÁS: Está nos livros, deputada. Quem lhe deu a frase não leu os livros.
+     토마스: 책에 나옵니다, 의원님. 그 문장을 드린 사람은 책을 안 읽었겠죠.
+
+130. MARCHAND: Quem me deu a frase... Bom. Não importa.
+     마르샹: 그 문장을 준 사람이라... 됐어요. 중요하지 않아요.
+
+### 마무리 (131~150) — 일강 강변의 청구서
+
+131. DUFRESNE: Bravo, monsieur. Eu nunca vi a Marchand perder a voz.
+     뒤프렌: 브라보예요. 마르샹이 말문 막힌 건 처음 봐요.
+
+132. TOMÁS: Ela não perdeu a voz. Perdeu uma frase.
+     토마스: 말문이 막힌 게 아니라 문장 하나를 잃었죠.
+
+133. DUFRESNE: Pra um político francês, é a mesma coisa.
+     뒤프렌: 프랑스 정치인한텐 그게 같은 거예요.
+
+134. LUÍZA: Tomás. A Bia mandou mensagem. "Pai, a professora adorou o canguru."
+     루이자: 토마스. 비아가 문자 보냈어요. "아빠, 선생님이 캥거루 엄청 좋아했어."
+
+135. TOMÁS: Diz pra ela que a nota de rodapé foi sua.
+     토마스: 각주는 당신이 단 거라고 전해 줘요.
+
+136. DITO: Doutor, todo mundo aqui no Itamaraty viu. Até a dona Helena riu.
+     디투: 박사님, 여기 이타마라치 사람들 다 봤어요. 엘레나 사무총장님도 웃으셨어요.
+
+137. TOMÁS: A Helena rindo. Isso vale mais que a recomendação.
+     토마스: 엘레나가 웃었다니. 그게 권고보다 값지네요.
+
+138. DUFRESNE: Monsieur Rangel. Uma última coisa. Aqui, na beira do rio. Longe das câmeras.
+     뒤프렌: 랑제우 씨. 마지막으로 하나만요. 여기, 강가에서. 카메라에서 멀리.
+
+139. TOMÁS: Pois não.
+     토마스: 말씀하세요.
+
+140. DUFRESNE: A deputada Marchand não encontrou a frase do de Gaulle sozinha. Recebeu um dossiê.
+     뒤프렌: 마르샹 의원은 드골 문장을 혼자 찾은 게 아니에요. 자료집을 받았어요.
+
+141. TOMÁS: De quem?
+     토마스: 누구한테서요?
+
+142. DUFRESNE: De uma consultoria. Brasileira. Que oferece "argumentos" contra o acordo a quem pagar.
+     뒤프렌: 컨설팅사요. 브라질 거. 협정 반대 "논거"를 돈 내는 쪽에 팔죠.
+
+143. TOMÁS: A mesma que me ofereceu a vocês na Guiana.
+     토마스: 기아나에서 당신들한테 제 전문을 팔려던 그 회사군요.
+
+144. DUFRESNE: A mesma. Vende pros dois lados. Vendeu o dossiê pra Marchand. E ofereceu a Paris um contra ela.
+     뒤프렌: 같은 회사예요. 양쪽에 다 팔아요. 마르샹한테 자료집을 팔았고, 파리엔 마르샹을 공격할 자료집을 제안했죠.
+
+145. TOMÁS: Ele ganha com a briga. Não com o resultado.
+     토마스: 그 사람은 결과가 아니라 싸움으로 돈을 버는 거네요.
+
+146. DUFRESNE: Exatamente. E hoje o senhor acabou com uma briga que ele vendeu caro.
+     뒤프렌: 바로 그거예요. 그리고 오늘 당신은 그 사람이 비싸게 판 싸움 하나를 끝내 버렸죠.
+
+147. TOMÁS: Então ele perdeu dinheiro.
+     토마스: 그럼 그 사람이 돈을 잃었겠네요.
+
+148. DUFRESNE: Perdeu dinheiro e perdeu a cara. Na frente de clientes.
+     뒤프렌: 돈도 잃고 체면도 잃었죠. 고객들 앞에서.
+
+149. DUFRESNE: Bravo, Rangel. Mas alguém vai cobrar essa conta de você.
+     뒤프렌: 브라보예요, 랑제우. 하지만 누군가 그 청구서를 당신한테 내밀 거예요.
+
+150. TOMÁS: Que cobre, madame. Eu já estou acostumado a pagar as contas dos outros.
+     토마스: 내밀라고 하세요, 뒤프렌 씨. 남의 계산서 치르는 건 이미 익숙하니까요.
