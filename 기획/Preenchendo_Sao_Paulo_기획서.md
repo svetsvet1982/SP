@@ -3,7 +3,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 장르: 비즈니스 성장 드라마 (가족·우정·경쟁 서브플롯)
 > - 배경: 브라질 상파울루 (Mooca · Vila Olímpia · Faria Lima · Liberdade · Bom Retiro · 공항 Viracopos/Guarulhos · 산투스 항)
-> - 분량: **7부 × 14화 = 98화 · 각 부 150턴 · 총 1,050턴**
+> - 분량: **7부 × 14화 = 98화 · 각 화 150턴 · 부당 2,100턴 · 총 14,700턴**
 > - 규칙(기존 시리즈와 동일): 지문(narração) 없음. 전 화 100% 「화자명: 대사」 + 한국어 번역 병기. 1턴 15단어 이내(문서·계약서 낭독은 화당 1회까지 25단어 예외).
 > - 언어: 브라질 포르투갈어, 상파울루 구어(paulistano) 기준. 업계 용어는 실제 사용 표현을 쓰되, **회사·제품·브랜드는 모두 가상**.
 
@@ -89,167 +89,183 @@
 
 ---
 
-## 6. 턴 배분 원칙 (각 부 150턴)
+## 6. 턴 배분 원칙 (각 화 150턴)
 
-| 화 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 합계 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 턴 | 12 | 10 | 10 | 11 | 10 | 10 | 12 | 10 | 10 | 11 | 10 | 11 | 11 | 12 | **150** |
-| 기능 | 도입 | 전개 | 전개 | 갈등↑ | 전개 | 전개 | **중간 전환** | 전개 | 전개 | 갈등↑ | 전개 | 위기 | 절정 | **결말·다음 부 예고** |  |
+**총량: 7부 × 14화 × 150턴 = 14,700턴** (1부당 2,100턴)
 
-- 화당 구조(10턴 기준): **도입 2 · 장면 6 · 전환 1 · 마무리 1** / 12턴 화는 장면 8턴.
-- 1화당 등장인물 3~4명 이하(짧은 분량 → 화자 과밀 방지). 주인공 마르셀루는 각 부 150턴 중 **약 40~45턴(30%)**.
-- 각 화 마지막 턴은 다음 화로 이어지는 "훅" 대사.
+| 구간 | 턴 번호 | 턴 수 | 기능 |
+|---|---|---|---|
+| 도입 | 001–020 | 20 | 장소·시간 제시, 인물 입버릇, 전 화 연결 |
+| 장면1 (A스토리) | 021–060 | 40 | 그 화의 메인 사건 전개 |
+| 장면2 (B스토리) | 061–100 | 40 | 서브플롯(가족·동료·라이벌), A와 교차 |
+| 절정·전환 | 101–130 | 30 | A·B가 만나는 결정적 대화 / 문서 낭독 1회(25단어 예외) |
+| 마무리 | 131–150 | 20 | 정리·여운 → 150번 턴은 다음 화 "훅" 대사 |
+
+- **부 내부 리듬**: 1화 도입 · 2~6화 전개 · **7화 중간 전환** · 8~11화 갈등 심화 · 12화 위기 · 13화 절정 · 14화 결말 + 다음 부 예고.
+- **화자 수**: 화당 주요 화자 5~7명 + 단역 1~2명. 마르셀루는 화당 **약 35~45턴(25~30%)**, 그 외 한 인물이 60턴을 넘지 않게 분산.
+- **장소**: 화당 장면 2~3곳(장면1·장면2 장소 분리 권장). 장소 전환은 지문 없이 대사로 알림(예: 「Chegamos no galpão.」).
+- **학습 장치**: 화별 핵심 표현 2개는 각각 **최소 3회** 등장(도입·장면·마무리에 분산). 업계 용어는 처음 나올 때 인물이 쉬운 말로 풀어 설명하는 대사 1턴을 붙임.
+- **확인용 메모**(낭독하지 않음): 각 화 끝에 실측 턴 배분 · 호칭 규칙 · 복선 설치/회수 번호 · 다음 화 예고를 기존 시리즈와 같은 형식으로 기재.
 
 ---
 
 ## 7. 부별 · 화별 기획
 
-### 1부 「A aposta」 (승부수) — 150턴 · A2+
+> 표 읽는 법: **A** = 장면1 메인 사건(021–060) · **B** = 장면2 서브플롯(061–100) · **훅** = 절정·마무리를 거쳐 150번 턴에 남기는 마지막 장면/대사.
+
+### 1부 「A aposta」 (승부수) — 14화 × 150턴 · A2+
 
 > 레이저 장비 판매가 3분기 연속 하락. 병원들은 "장비는 한 번 사면 끝, 매달 사는 건 소모품"이라 말한다. 마르셀루는 매달 다시 팔리는 제품 = 필러에 회사를 걸기로 한다.
+> **부 서브플롯**: 루시아나와의 신뢰(돈 문제) · 아버지 빵집의 매출 감소 · 투타의 첫 리더 역할.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **Domingo na padaria** / 빵집의 일요일 | Mooca, Padaria Bertolini | 12 | 아버지 빵집에서 아침. 아버지 "빵은 매일 팔려." 마르셀루, 장비 매출 하락 고백 | `Pão bom não precisa de propaganda.` · `Tá difícil, pai.` |
-| 2 | **O relatório vermelho** / 빨간 보고서 | Vila Olímpia 사무실 | 10 | 루시아나와 분기 실적 검토. 매출 -22% | `Põe no papel.` · `caiu 22 por cento` |
-| 3 | **Equipamento não volta** / 장비는 다시 오지 않는다 | Moema 클리닉 | 10 | 레이저 A/S 방문, 원장이 필러 재고 보여줌 "매달 사요" | `todo mês` · `estoque` |
-| 4 | **A ideia do Tuta** / 투타의 아이디어 | 사무실 회의실 | 11 | 투타 "필러 하자" 제안, 파트리시아 "등록 없으면 존재 안 해" 반대 | `Sem registro, não existe.` · `Deixa comigo, chefe.` |
-| 5 | **Café na Liberdade** / 리베르다지의 커피 | Liberdade 카페 | 10 | 사토 박사에게 시장 조언 구함. "안전이 먼저" | `Primeiro, não causar dano.` · `o mercado está saturado` |
-| 6 | **A intérprete do Bom Retiro** / 봉헤치루의 통역사 | Bom Retiro 한식당 | 10 | 소피아 첫 만남, 한국 제조사 소개 | `Calma, 천천히.` · `prazer em conhecer` |
-| 7 | **Bora resolver** / 해 보자 | Mooca 집 부엌 | 12 | **중간 전환**: 루시아나와 담판, 집 담보 대출 없이 하는 조건으로 결심 | `Bora resolver.` · `Se der errado, a gente volta.` |
-| 8 | **Voo para Seul** / 서울행 비행기 | Guarulhos 공항 | 10 | 출국. 소피아에게 한국어 인사 배우기 | `Annyeonghaseyo, né?` · `embarque` |
-| 9 | **A fábrica de Osong** / 오송 공장 | 한빛바이오 공장 | 10 | 공장 견학, 김도윤 상무 "Very good" | `limpeza` · `sala limpa` |
-| 10 | **Soju e números** / 소주와 숫자 | 서울 회식 | 11 | 회식 중 가격 협상, 최소 주문량(MOQ) 압박 | `pedido mínimo` · `Isso é caro demais.` |
-| 11 | **O e-mail do Fábio** / 파비우의 이메일 | 서울 호텔 | 10 | 라이벌 파비우도 한빛과 접촉 중임을 알게 됨 | `Negócio é negócio, Celo.` · `concorrente` |
-| 12 | **Exclusividade** / 독점 | 한빛 회의실 | 11 | 독점 조건: "2년 내 ANVISA 등록 못 하면 계약 해지" | `cláusula de exclusividade` · `prazo de dois anos` |
-| 13 | **A assinatura em Seul** / 서울에서의 서명 | 한빛 회의실 | 11 | **절정**: 서명. 소피아에게 입사 제안 | `Vamos assinar.` · `Você topa trabalhar com a gente?` |
-| 14 | **De volta à Mooca** / 다시 무까로 | Padaria Bertolini | 12 | 귀국, 아버지에게 보고. 파트리시아: "이제 진짜 시작" (→2부) | `Agora começa de verdade.` · `Orra, meu.` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **Domingo na padaria** / 빵집의 일요일 | Padaria Bertolini → 집 | 빵집 아침, 동네 단골들과 수다. 마르셀루가 장비 매출 하락을 처음 털어놓음 | 아버지 빵집도 대형마트 때문에 손님 감소 — 부자가 서로 걱정을 숨김 | 「Pão o povo compra todo dia.」→ 소모품 착상. 귀가 후 루시아나: 「Amanhã eu te mostro os números.」 | `Pão bom não precisa de propaganda.` · `Tá difícil, pai.` |
+| 2 | **O relatório vermelho** / 빨간 보고서 | Vila Olímpia 사무실 | 분기 실적 회의, 매출 -22%. 직원 감원 가능성 | 루시아나가 아들 엔주의 학비·가계 사정 정리 | 루시아나: 「Se não mudar nada, a gente fecha em um ano.」 | `Põe no papel.` · `caiu 22 por cento` |
+| 3 | **Equipamento não volta** / 장비는 다시 오지 않는다 | Moema 클리닉 | 레이저 A/S 방문, 원장이 필러 재고실을 보여 줌 "매달 사요" | 투타가 클리닉 직원들에게서 업계 소문(병행수입·가격) 수집 | 원장: 「Você vende máquina. Eu compro seringa todo mês.」 | `todo mês` · `estoque` |
+| 4 | **A ideia do Tuta** / 투타의 아이디어 | 사무실 회의실 | 투타 "필러 하자" 제안, 파트리시아 규제 장벽으로 반대 → 격론 | 파트리시아가 과거 회사에서 등록 없이 팔다 망한 사례 고백 | 마르셀루: 「Patrícia, me mostra o caminho certo.」 | `Sem registro, não existe.` · `Deixa comigo, chefe.` |
+| 5 | **Café na Liberdade** / 리베르다지의 커피 | Liberdade 카페·클리닉 | 사토 박사에게 시장·안전 조언, 한국산 HA의 평판 | 사토 박사의 일본계 가족사, 아버지 세대의 이민 이야기 → 마르셀루의 이탈리아계 가족사와 공명 | 사토: 「Traga o produto. Eu decido depois de testar.」 | `Primeiro, não causar dano.` · `o mercado está saturado` |
+| 6 | **A intérprete do Bom Retiro** / 봉헤치루의 통역사 | Bom Retiro 한식당·의류상가 | 소피아 첫 만남, 한국 제조사 3곳 비교 설명 | 소피아 어머니의 옷가게, 한국계 2세의 정체성 대화 | 소피아: 「A Hanbit respondeu. Querem vocês em Seul.」 | `Calma, 천천히.` · `prazer em conhecer` |
+| 7 | **Bora resolver** / 해 보자 | Mooca 집 부엌 | **중간 전환**: 루시아나와 담판 — 집 담보 금지·투자 상한·6개월 점검 조건 | 엔주가 몰래 엿듣고 "아빠 회사 망해?" 질문, 부자 대화 | 루시아나 서명 후: 「Bora resolver, então.」 | `Bora resolver.` · `Se der errado, a gente volta.` |
+| 8 | **Voo para Seul** / 서울행 비행기 | Guarulhos 공항 → 기내 | 출국, 협상 전략 리허설(가격·MOQ·독점) | 소피아에게 한국어 인사·식사 예절 배우기, 문화 차이 개그 | 착륙 방송 후 소피아: 「Bem-vindo à Coreia. Agora é sério.」 | `Annyeonghaseyo, né?` · `embarque` |
+| 9 | **A fábrica de Osong** / 오송 공장 | 한빛바이오 공장 | 공장 견학, 클린룸·품질관리 설명, 김 상무 첫 대면 | 투타(서울 원격)와 화상통화 — 한국 경쟁사 가격 정보 전달 | 김 상무: 「Tonight, dinner. Very good.」 | `sala limpa` · `controle de qualidade` |
+| 10 | **Soju e números** / 소주와 숫자 | 서울 고깃집 회식 | 술자리 가격 협상, MOQ 3배 요구 | 소피아가 한국식 회식 문화와 '진짜 대답' 읽는 법 설명 | 김 상무: 「Another Brazilian company also called us.」 | `pedido mínimo` · `Isso é caro demais.` |
+| 11 | **O e-mail do Fábio** / 파비우의 이메일 | 서울 호텔 | 라이벌 파비우도 한빛과 접촉 중 확인, 전화 대결 | 마르셀루·파비우의 과거(같은 회사 신입 시절) 회상 대화 | 파비우: 「Negócio é negócio, Celo. Que vença o melhor.」 | `Negócio é negócio, Celo.` · `concorrente` |
+| 12 | **Exclusividade** / 독점 | 한빛 회의실 | 독점 조건 협상: "2년 내 등록 실패 시 해지" | 파트리시아(원격)가 2년이 현실적인지 계산, 루시아나가 계약 조항 검토 | 마르셀루: 「Dois anos. Aceito.」 — 팀 전원 침묵 | `cláusula de exclusividade` · `prazo de dois anos` |
+| 13 | **A assinatura em Seul** / 서울에서의 서명 | 한빛 회의실 → 한강 | **절정**: 계약서 낭독·서명 | 한강변에서 소피아에게 입사 제안, 소피아의 망설임 | 소피아: 「Eu topo. Mas com uma condição.」 | `Vamos assinar.` · `Você topa trabalhar com a gente?` |
+| 14 | **De volta à Mooca** / 다시 무까로 | 공항 → Padaria | 귀국 보고, 팀 환영 파티 | 아버지가 처음으로 「Padaria não fecha domingo.」를 말함(설명 없이) | 파트리시아가 37종 서류 목록을 내밂: 「Agora começa de verdade.」 (→2부) | `Agora começa de verdade.` · `Orra, meu.` |
 
-### 2부 「O registro」 (등록) — 150턴 · B1
+### 2부 「O registro」 (등록) — 14화 × 150턴 · B1
 
 > 서명은 끝났지만, 브라질에선 서류가 제품보다 먼저 도착해야 한다. ANVISA, AFE, CBPF, 위생국 점검 — 그리고 달러가 폭등한다.
+> **부 서브플롯**: 자금난 속 직원 지키기 · 소피아의 회사 적응 · 아버지의 건강 이상 첫 징후.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **A lista da Patrícia** / 파트리시아의 목록 | 사무실 | 12 | 등록에 필요한 서류 37종 목록 공개. 모두 경악 | `Tem RDC pra isso.` · `dossiê técnico` |
-| 2 | **Ampliar a AFE** / AFE 범위 확대 | 사무실 | 10 | 장비용 AFE를 필러까지 확장 신청 | `protocolar o pedido` · `ampliação` |
-| 3 | **O galpão da Mooca** / 무까 창고 | Mooca 창고 | 10 | 창고 개조, 온도 기록계 설치. 투타 "그냥 창고잖아" | `controle de temperatura` · `Não é só um galpão.` |
-| 4 | **Dona Elaine** / 엘라이니 감독관 | Mooca 창고 | 11 | 위생국 점검. 습도계 누락 지적 → 재점검 | `A senhora tem razão.` · `exigência` |
-| 5 | **Tradução juramentada** / 공증 번역 | Bom Retiro | 10 | 소피아, 한국 서류 공증번역 물량 폭탄 | `tradutor juramentado` · `apostila de Haia` |
-| 6 | **A fila da CBPF** / CBPF 대기열 | 사무실 (화상회의) | 10 | ANVISA 해외 공장 실사 대기 1년 이상 통보 | `fila` · `inspeção internacional` |
-| 7 | **O dólar disparou** / 달러 폭등 | 사무실 | 12 | **중간 전환**: 환율 급등, 계약 단가 재계산 → 마진 소멸 | `O dólar disparou.` · `margem` |
-| 8 | **Conversa de banco** / 은행 상담 | Av. Paulista 은행 | 10 | 대출 거절. 루시아나 "집은 안 돼" | `garantia` · `Infelizmente não.` |
-| 9 | **O pai paga o café** / 아버지가 커피를 산다 | Padaria | 10 | 아버지가 빵집 저축을 내놓으려 함, 마르셀루 거절 | `Isso não, pai.` · `poupança` |
-| 10 | **Vender o laser velho** / 낡은 레이저를 팔다 | 클리닉 순회 | 11 | 재고 장비 할인 판매로 현금 확보, 투타 활약 | `queima de estoque` · `Tá suave.` |
-| 11 | **Exigência técnica** / 기술 보완 요구 | 사무실 | 10 | ANVISA 보완 요구(exigência) 도착, 30일 내 답변 | `cumprir exigência` · `prazo` |
-| 12 | **Videochamada com Osong** / 오송과의 화상통화 | 사무실 밤 | 11 | 한빛 측 자료 제출 지연, 김 상무 "파비우는 기다려준대요" 암시 | `Isso foi uma ameaça?` · `fuso horário` |
-| 13 | **O Diário Oficial** / 관보 | 사무실 아침 | 11 | **절정**: 관보(DOU)에 CBPF·등록 승인 게재 | `Saiu no Diário Oficial!` · `deferido` |
-| 14 | **Registro na parede** / 벽에 건 등록증 | 사무실 | 12 | 등록증 출력해 액자에. 그러나 첫 주문 대금 송금 기한 30일 (→3부) | `Agora tem que vender.` · `remessa` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **A lista da Patrícia** / 파트리시아의 목록 | 사무실 | 등록 서류 37종 설명회, 역할 분담 | 소피아 첫 출근, 사내 호칭·문화 적응 | 「Prazo médio da ANVISA? Ninguém sabe.」 | `Tem RDC pra isso.` · `dossiê técnico` |
+| 2 | **Ampliar a AFE** / AFE 범위 확대 | 사무실 → 컨설팅사 | AFE 범위 확대 신청, 규제 컨설턴트의 비싼 견적 | 투타가 영업팀에 "필러 아직 말하지 마" 단속 | 신청 접수번호 수신: 「Protocolado!」 | `protocolar o pedido` · `ampliação` |
+| 3 | **O galpão da Mooca** / 무까 창고 | Mooca 창고 | 창고 개조·온도기록계 설치 | 창고 옆 이웃(정비소 주인)과 소음 갈등·화해 | 공사 중 발견된 누수: 「Chove aqui dentro?」 | `controle de temperatura` · `Não é só um galpão.` |
+| 4 | **Dona Elaine** / 엘라이니 감독관 | Mooca 창고 | 위생국 점검, 습도계 누락·출입 기록 미비 지적 | 투타가 감독관에게 농담하다 혼남 → 격식체 교육 | 엘라이니: 「Volto em trinta dias.」 | `A senhora tem razão.` · `exigência` |
+| 5 | **Tradução juramentada** / 공증 번역 | Bom Retiro 번역사무소 | 한국 서류 공증번역·아포스티유 물량 폭탄 | 소피아 어머니가 가게 일 돕기를 바라며 딸과 갈등 | 번역 오류 발견: 「"Esterilizado" virou "estilizado".」 | `tradutor juramentado` · `apostila de Haia` |
+| 6 | **A fila da CBPF** / CBPF 대기열 | 사무실 화상회의 | 해외 공장 실사 대기 1년 이상 통보, 대안 경로 검토 | 루시아나가 계약 '2년 조항' 리스크 재경고 | 파트리시아: 「Tem um caminho. Mas é estreito.」 | `fila` · `inspeção internacional` |
+| 7 | **O dólar disparou** / 달러 폭등 | 사무실 | **중간 전환**: 환율 급등, 단가 재계산 → 마진 소멸 | 직원들 사이 감원 소문 확산 | 마르셀루: 「Ninguém vai ser demitido. Ninguém.」 | `O dólar disparou.` · `margem` |
+| 8 | **Conversa de banco** / 은행 상담 | Av. Paulista 은행 | 대출 상담 거절 | 루시아나와 은행 앞 말다툼 "집은 안 돼" | 은행 문 앞에서 아버지의 전화: 「Passa aqui, filho.」 | `garantia` · `Infelizmente não.` |
+| 9 | **O pai paga o café** / 아버지가 커피를 산다 | Padaria | 아버지가 저축을 내놓으려 함, 마르셀루 거절 | 아버지가 숨차하는 모습, 도나 시다가 몰래 걱정 | 도나 시다: 「Teu pai foi ao médico, sabia?」 | `Isso não, pai.` · `poupança` |
+| 10 | **Vender o laser velho** / 낡은 레이저를 팔다 | 클리닉 순회 | 재고 장비 할인 판매로 현금 확보 | 투타가 처음으로 팀 리더로 신입을 이끔 | 목표액 달성 문자: 「Tá suave, chefe. Bateu a meta.」 | `queima de estoque` · `Tá suave.` |
+| 11 | **Exigência técnica** / 기술 보완 요구 | 사무실 | ANVISA 보완요구 도착, 30일 답변 기한 | 소피아·파트리시아 첫 충돌 → 밤샘 공동작업으로 화해 | 「Faltam dados de estabilidade.」 | `cumprir exigência` · `prazo` |
+| 12 | **Videochamada com Osong** / 오송과의 화상통화 | 사무실 밤 | 한빛의 자료 제출 지연, 파비우 암시 | 아버지 검사 결과(경미한 심장 이상) 전화 | 마르셀루: 「Isso foi uma ameaça, senhor Kim?」 | `Isso foi uma ameaça?` · `fuso horário` |
+| 13 | **O Diário Oficial** / 관보 | 사무실 아침 | **절정**: 관보(DOU)에 등록 승인 게재 | 전 직원이 새벽부터 새로고침, 투타 생중계 | 「Deferido!」 — 환호 | `Saiu no Diário Oficial!` · `deferido` |
+| 14 | **Registro na parede** / 벽에 건 등록증 | 사무실 → Padaria | 등록증 액자, 첫 주문 결정 | 아버지가 "검사는 괜찮다"고 거짓말하는 장면 | 첫 송금 기한 30일 공지: 「Agora tem que vender.」 (→3부) | `Agora tem que vender.` · `remessa` |
 
-### 3부 「Primeiro lote」 (첫 물량) — 150턴 · B1
+### 3부 「Primeiro lote」 (첫 물량) — 14화 × 150턴 · B1
 
-> 첫 컨테이너가 아닌 '첫 냉장 항공화물'. 공항에 묶이고, 팔기 전에 의사들의 신뢰부터 사야 한다.
+> 첫 냉장 항공화물. 공항에 묶이고, 팔기 전에 의사들의 신뢰부터 사야 한다.
+> **부 서브플롯**: 투타의 연애(클리닉 매니저 카롤) · 비앙카와의 미묘한 경쟁심 · 파비우의 소문 공세.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **Seu Jair** / 자이르 아저씨 | Santos 관세사 사무소 | 12 | 관세사와 통관 전략. 세금 계산에 마르셀루 절망 | `Porto tem seu tempo.` · `imposto em cima de imposto` |
-| 2 | **Viracopos, segunda-feira** / 월요일의 비라코푸스 | Viracopos 공항 | 10 | 항공화물 도착, 서류 불일치(로트 번호 오타)로 보류 | `carga retida` · `divergência` |
-| 3 | **Uma letra errada** / 글자 하나 | 사무실 | 10 | 한국에 정정 서류 요청, 소피아 새벽 통화 | `Foi só uma letra.` · `retificação` |
-| 4 | **Liberado!** / 통관 완료 | Viracopos | 11 | 통관 완료, 창고 입고. 온도 기록 확인 | `Liberado!` · `rastreabilidade` |
-| 5 | **A primeira visita** / 첫 방문 | Jardins 클리닉 | 10 | 투타 첫 영업, 원장 "모르는 브랜드는 안 써요" 거절 | `Não conheço essa marca.` · `amostra` |
-| 6 | **Convencer o doutor Henrique** / 엔히키 박사 설득 | Liberdade 클리닉 | 10 | 사토 박사에게 임상 데이터 제시, 조건부 시험 사용 | `estudo clínico` · `Vou testar, com calma.` |
-| 7 | **Os primeiros pacientes** / 첫 환자들 | Liberdade 클리닉 | 12 | **중간 전환**: 시술 결과 우수, 사토 박사가 KOL 수락 | `resultado natural` · `Gostei.` |
-| 8 | **A doutora dos 800 mil** / 80만 팔로워 원장 | Itaim Bibi 클리닉 | 10 | 비앙카 원장과 협업, 마르셀루는 과장 광고 문구 거절 | `Gente, olha que lindo!` · `propaganda enganosa` |
-| 9 | **Tabela de preços** / 가격표 | 사무실 | 10 | 가격 정책 논쟁: 저가 공세 vs 프리미엄 | `posicionamento` · `Barato sai caro.` |
-| 10 | **Fábio no corredor** / 복도의 파비우 | 의학회 학술대회 | 11 | 파비우가 "한국산은 싸구려" 소문 유포 | `boato` · `Ele falou o quê?` |
-| 11 | **Workshop no sábado** / 토요일 워크숍 | 사무실 교육실 | 10 | 첫 의사 교육 워크숍, 해부학·안전 강조 | `anatomia` · `zona de perigo` |
-| 12 | **Estande vazio** / 텅 빈 부스 | Beauty Fair 준비 | 11 | 박람회 전날 부스 자재 미도착, 밤샘 | `Ninguém dorme hoje.` · `estande` |
-| 13 | **Beauty Fair** / 뷰티 페어 | Expo Center Norte | 11 | **절정**: 런칭. 사토 박사 라이브 시연, 주문 폭주 | `Esgotou!` · `lançamento` |
-| 14 | **O segundo pedido** / 두 번째 주문 | Padaria | 12 | 3배 재주문 결정. 그날 밤, 모르는 번호로 걸려온 전화 (→4부) | `Triplica o pedido.` · `Quem fala?` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **Seu Jair** / 자이르 아저씨 | Santos 관세사 사무소 | 통관 전략, 세금 계산(II·IPI·PIS/COFINS·ICMS) | 자이르의 산투스 항 30년 무용담 | 「Avião chega segunda. Reza até lá.」 | `Porto tem seu tempo.` · `imposto em cima de imposto` |
+| 2 | **Viracopos, segunda-feira** / 월요일의 비라코푸스 | Viracopos 공항 | 화물 도착, 로트 번호 오타로 보류 | 온도 유지 시간 카운트다운 | 「Carga retida. Sem previsão.」 | `carga retida` · `divergência` |
+| 3 | **Uma letra errada** / 글자 하나 | 사무실 새벽 | 한국에 정정서류 요청, 시차 속 통화 | 소피아의 한국 측 '체면' 다루기 노하우 | 정정서류 도착 메일: 「Chegou!」 | `Foi só uma letra.` · `retificação` |
+| 4 | **Liberado!** / 통관 완료 | Viracopos → 창고 | 통관 완료, 입고·온도기록 확인 | 엘라이니 감독관의 불시 방문 → 무사 통과 | 엘라이니: 「Parabéns. Está tudo certo.」 | `Liberado!` · `rastreabilidade` |
+| 5 | **A primeira visita** / 첫 방문 | Jardins 클리닉 | 투타 첫 영업, 거절당함 | 클리닉 매니저 카롤과 투타의 첫 만남 | 카롤: 「Volta semana que vem. Eu falo com ela.」 | `Não conheço essa marca.` · `amostra` |
+| 6 | **Convencer o doutor Henrique** / 엔히키 박사 설득 | Liberdade 클리닉 | 임상 데이터 제시, 조건부 시험 사용 | 사토 박사 딸(의대생)이 SNS 마케팅 제안 | 「Vou testar, com calma. Três pacientes.」 | `estudo clínico` · `Vou testar, com calma.` |
+| 7 | **Os primeiros pacientes** / 첫 환자들 | Liberdade 클리닉 | **중간 전환**: 시술 결과 우수, KOL 수락 | 환자 3명의 개인 사연(결혼식·면접·자존감) | 사토: 「Gostei. Pode colocar meu nome.」 | `resultado natural` · `Gostei.` |
+| 8 | **A doutora dos 800 mil** / 80만 팔로워 원장 | Itaim Bibi 클리닉 | 비앙카와 협업, 과장 광고 문구 거절 | 비앙카의 인플루언서 압박·고민 | 비앙카: 「Você é o primeiro que me diz não.」 | `Gente, olha que lindo!` · `propaganda enganosa` |
+| 9 | **Tabela de preços** / 가격표 | 사무실 | 저가 vs 프리미엄 가격 논쟁 | 루시아나가 회계 자문으로 회의 참여, 부부 공적 대화 | 결정: 「Preço justo. Não o mais barato.」 | `posicionamento` · `Barato sai caro.` |
+| 10 | **Fábio no corredor** / 복도의 파비우 | 학술대회장 | 파비우의 "한국산 싸구려" 소문 유포 | 사토 박사가 공개 석상에서 마르셀루 편을 듦 | 파비우: 「Isso é só o começo, Celo.」 | `boato` · `Ele falou o quê?` |
+| 11 | **Workshop no sábado** / 토요일 워크숍 | 사무실 교육실 | 첫 의사 교육 워크숍, 해부학·위험부위 | 엔주가 아빠 회사 견학, 처음으로 일에 관심 | 참석 의사: 「Quando sai o próximo curso?」 | `anatomia` · `zona de perigo` |
+| 12 | **Estande vazio** / 텅 빈 부스 | Expo Center Norte | 박람회 전날 부스 자재 미도착, 밤샘 | 투타·카롤 연애 공개, 팀 놀림 | 새벽 5시 트럭 도착: 「Ninguém dorme hoje!」 | `Ninguém dorme hoje.` · `estande` |
+| 13 | **Beauty Fair** / 뷰티 페어 | Beauty Fair 부스 | **절정**: 런칭, 사토 박사 라이브 시연, 주문 폭주 | 파비우 부스는 한산 — 두 사람의 짧은 눈빛 교환 | 「Esgotou!」 | `Esgotou!` · `lançamento` |
+| 14 | **O segundo pedido** / 두 번째 주문 | 사무실 → Padaria | 재주문 3배 결정 | 아버지·도나 시다가 박람회 사진에 감격 | 한밤중 모르는 번호: 「Quem fala?」 (→4부) | `Triplica o pedido.` · `Quem fala?` |
 
-### 4부 「A crise」 (위기) — 150턴 · B1+
+### 4부 「A crise」 (위기) — 14화 × 150턴 · B1+
 
 > 무자격 시술자에게서 혈관 폐색 사고가 났다. 기사 제목엔 「Vellura」가 박혔다. 그런데 그 제품, 정말 우리 것일까?
+> **부 서브플롯**: 엔주와의 부자 갈등(SNS) · 투타의 죄책감(숨기자고 했던 일) · 환자 가족과의 관계.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **A ligação da madrugada** / 새벽 전화 | 집 → 병원 | 12 | 환자 가족의 항의 전화, 응급실 이송 소식 | `oclusão vascular` · `Calma, me explica.` |
-| 2 | **Hialuronidase** / 히알루로니다아제 | 병원 응급실 | 10 | 사토 박사가 응급 대응 지휘, 환자 회복 가능성 | `Chegou a tempo.` · `protocolo de emergência` |
-| 3 | **Notivisa** / 노치비자 | 사무실 | 10 | 파트리시아 즉시 부작용 보고 결정, 투타는 "숨기자" | `A gente notifica. Ponto.` · `esconder` |
-| 4 | **Manchete** / 헤드라인 | 사무실 | 11 | 언론 기사, 브랜드명 노출. 거래처 주문 취소 연쇄 | `Saiu no jornal.` · `cancelaram o pedido` |
-| 5 | **Enzo e os comentários** / 엔주와 댓글 | 집 | 10 | 아들이 SNS 악플 보여줌, 부자 갈등 | `Pai, isso é cringe.` · `comentário` |
-| 6 | **O número do lote** / 로트 번호 | 창고 | 10 | 사고 제품 사진 확인 → 로트 번호가 존재하지 않음 | `Esse lote não existe.` · `Tem certeza?` |
-| 7 | **Falsificado** / 위조품 | 사무실 | 12 | **중간 전환**: 위조품 판명. 라벨 폰트까지 다름 | `É falsificado.` · `Quem faria isso?` |
-| 8 | **O pai e a farinha ruim** / 아버지와 나쁜 밀가루 | Padaria | 10 | 아버지가 70년대 불량 밀가루 사건 회고 — 정직한 공개가 답 | `Fala a verdade, filho.` · `naquela época` |
-| 9 | **Coletiva de imprensa** / 기자회견 | 호텔 회의실 | 10 | 마르셀루 기자회견, 진정품 확인법 공개 | `Gostaríamos de esclarecer...` · `QR code de autenticidade` |
-| 10 | **A pista de Santa Ifigênia** / 산타 이피제니아의 단서 | 센트로 상가 | 11 | 위조품 유통처 추적, 파비우 회사 영업사원의 흔적 | `Segue o rastro.` · `nota fiscal` |
-| 11 | **A visita à paciente** / 환자 방문 | 환자 자택 | 10 | 회복 중인 환자 방문, 진심 어린 대화 | `Sinto muito pelo que aconteceu.` · `recuperação` |
-| 12 | **Frente a frente** / 정면 대결 | Vértice Med 사무실 | 11 | 파비우와 대면. 파비우는 "직원 개인 일" 회피 | `Você sabia, Fábio.` · `Não tenho nada a ver com isso.` |
-| 13 | **A apreensão** / 압수 | ANVISA·경찰 합동 단속 현장 | 11 | **절정**: 위조품 창고 압수. 브랜드 신뢰 회복 기사 | `apreensão` · `Justiça foi feita.` |
-| 14 | **Pão bom** / 좋은 빵 | Padaria | 12 | 사토 박사 "이제 다음 단계를 봐요" — PLLA 제안 (→5부) | `Pão bom não precisa de propaganda... mas precisa de verdade.` · `bioestimulador` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **A ligação da madrugada** / 새벽 전화 | 집 → 병원 | 환자 가족 항의 전화, 응급실로 출발 | 루시아나가 운전하며 법적 대응 순서 정리 | 환자 언니: 「Se ela perder a visão, a culpa é sua.」 | `oclusão vascular` · `Calma, me explica.` |
+| 2 | **Hialuronidase** / 히알루로니다아제 | 병원 응급실 | 사토 박사 응급 대응 지휘 | 대기실에서 환자 언니와 마르셀루의 긴 대화 | 사토: 「Chegou a tempo. Por pouco.」 | `Chegou a tempo.` · `protocolo de emergência` |
+| 3 | **Notivisa** / 노치비자 | 사무실 | 즉시 부작용 보고 결정 | 투타 "숨기자" → 파트리시아와 격돌 | 파트리시아: 「A gente notifica. Ponto.」 | `A gente notifica. Ponto.` · `esconder` |
+| 4 | **Manchete** / 헤드라인 | 사무실 | 언론 기사, 주문 취소 연쇄 | 비앙카가 협업 중단 통보 | 「Cancelaram mais doze pedidos.」 | `Saiu no jornal.` · `cancelaram o pedido` |
+| 5 | **Enzo e os comentários** / 엔주와 댓글 | 집 | SNS 악플·밈 확산 | 엔주가 학교에서 놀림받은 사실, 부자 갈등 폭발 | 엔주: 「Pai, isso é cringe. Eu tenho vergonha.」 | `Pai, isso é cringe.` · `comentário` |
+| 6 | **O número do lote** / 로트 번호 | 창고 | 사고 제품 사진 대조 → 존재하지 않는 로트 | 투타가 창고 출고 기록을 밤새 전수 확인 | 파트리시아: 「Esse lote não existe.」 | `Esse lote não existe.` · `Tem certeza?` |
+| 7 | **Falsificado** / 위조품 | 사무실 | **중간 전환**: 위조품 판명(라벨 폰트·홀로그램) | 한빛 김 상무의 화상 확인, 계약 리스크 언급 | 「É falsificado. Mas quem faria isso?」 | `É falsificado.` · `Quem faria isso?` |
+| 8 | **O pai e a farinha ruim** / 아버지와 나쁜 밀가루 | Padaria | 아버지의 70년대 불량 밀가루 사건 회고 | 도나 시다의 증언 "그때 네 아버지가 다 말했어" | 아버지: 「Fala a verdade, filho. Toda.」 | `Fala a verdade, filho.` · `naquela época` |
+| 9 | **Coletiva de imprensa** / 기자회견 | 호텔 회의실 | 기자회견, 진정품 확인법 공개(성명서 낭독) | 엔주가 회견 생중계를 보며 생각을 바꿈 | 기자: 「E quem está por trás disso?」 | `Gostaríamos de esclarecer...` · `QR code de autenticidade` |
+| 10 | **A pista de Santa Ifigênia** / 산타 이피제니아의 단서 | 센트로 상가 | 위조품 유통처 추적 | 투타가 동네 인맥으로 정보 획득, 속죄 | 영수증 속 이름: 「Esse cara trabalha na Vértice.」 | `Segue o rastro.` · `nota fiscal` |
+| 11 | **A visita à paciente** / 환자 방문 | 환자 자택 | 회복 중 환자 방문 | 무자격 시술 실태에 대한 환자의 고백 | 환자: 「Eu quero ajudar vocês a provar.」 | `Sinto muito pelo que aconteceu.` · `recuperação` |
+| 12 | **Frente a frente** / 정면 대결 | Vértice Med 사무실 | 파비우와 대면, 회피 | 파비우 회사의 재무 위기 암시 | 마르셀루: 「Você sabia, Fábio.」 | `Você sabia, Fábio.` · `Não tenho nada a ver com isso.` |
+| 13 | **A apreensão** / 압수 | 단속 현장 → 사무실 | **절정**: 위조품 창고 압수, 신뢰 회복 기사 | 비앙카 복귀 연락, 엔주의 사과 | 엔주: 「Pai... foi bonito o que você fez.」 | `apreensão` · `Justiça foi feita.` |
+| 14 | **Pão bom** / 좋은 빵 | Padaria | 팀·의사·환자 가족이 모인 감사 모임 | 사토 박사가 PLLA 이야기를 꺼냄 | 사토: 「Agora, vamos falar de bioestimulador.」 (→5부) | `Pão bom não precisa de propaganda... mas precisa de verdade.` · `bioestimulador` |
 
-### 5부 「Bioestimulador」 (바이오스티뮬레이터) — 150턴 · B2
+### 5부 「Bioestimulador」 (바이오스티뮬레이터) — 14화 × 150턴 · B2
 
 > 채우는 제품(HA)에서 '스스로 콜라겐을 만들게 하는' 제품(PLLA)으로, 그리고 피부 자체를 가꾸는 스킨부스터로. 이번엔 교육이 영업이다.
+> **부 서브플롯**: 파트리시아의 번아웃과 성장 · 소피아의 독립 · 한빛의 견제 시작.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **Encher não é tudo** / 채우는 게 전부가 아니다 | 사토 클리닉 | 12 | 사토 박사의 PLLA 강의: 즉시 효과 vs 점진적 콜라겐 | `estimula a produção de colágeno` · `efeito gradual` |
-| 2 | **Saeum Medical** / 새움메디컬 | 원주 공장 (화상 + 방문) | 10 | 새 제조사 협상, 한빛 김 상무의 견제 | `portfólio` · `conflito de interesse` |
-| 3 | **Diluição** / 희석 | 사무실 교육실 | 10 | PLLA는 희석·재구성 기술이 핵심 → 교육 없이 팔면 위험 | `reconstituir` · `Não é igual ao ácido hialurônico.` |
-| 4 | **Milão em três dias** / 사흘간의 밀라노 | 밀라노 Fioretti | 11 | 스킨부스터 계약 협상, 이탈리아식 협상에 진땀 | `Andiamo... quer dizer, vamos.` · `contrato de distribuição` |
-| 5 | **A Academia** / 아카데미 | Vila Olímpia 신축 교육장 | 10 | 「Academia Bertolini」 설립 결정, 사토 박사 교장 | `Ensinar vende mais que vender.` · `grade curricular` |
-| 6 | **Quem pode aplicar?** / 누가 시술할 수 있나 | 회의실 | 10 | 직역별 시술 자격 논쟁, 영업 대상 원칙 수립 | `habilitação` · `conselho profissional` |
-| 7 | **A Bia discorda** / 비아의 반대 | 비앙카 클리닉 | 12 | **중간 전환**: 비앙카 "치과의사 배제냐" 항의 → 자격·교육 기준 공동 수립 | `Não é sobre diploma, é sobre preparo.` · `Eu discordo.` |
-| 8 | **Patrícia cansada** / 지친 파트리시아 | 사무실 밤 | 10 | 제품 3개 동시 등록에 RT 과로, 사직 암시 | `Eu não dou conta sozinha.` · `sobrecarga` |
-| 9 | **Uma equipe pra Patrícia** / 파트리시아의 팀 | 사무실 | 10 | 규제팀 3명 채용, 파트리시아 이사 승진 | `diretora` · `Você merece.` |
-| 10 | **O nódulo** / 결절 | 사토 클리닉 | 11 | 교육 미이수 의사의 PLLA 결절 부작용, 교육 의무화 결정 | `nódulo` · `Só vende com certificado.` |
-| 11 | **Sofia vai a Seul** / 서울로 가는 소피아 | 공항 | 10 | 소피아가 단독으로 한국 협상 맡음, 성장 | `Confio em você.` · `representar a empresa` |
-| 12 | **Aquavie no Brasil** / 아쿠아비 브라질 상륙 | 창고 | 11 | 스킨부스터 첫 입고, 콜드체인 이슈 해결 | `cadeia fria` · `Deu tudo certo.` |
-| 13 | **Lançamento triplo** / 트리플 런칭 | Beauty Fair 2년차 | 11 | **절정**: 3개 라인 동시 런칭, 아카데미 수강 대기 500명 | `lista de espera` · `Superou a expectativa.` |
-| 14 | **Uma ligação da Faria Lima** / 파리아 리마에서 온 전화 | 사무실 | 12 | 사모펀드 헤나타의 투자 미팅 요청 (→6부) | `Qual é o EBITDA?` · `investidor` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **Encher não é tudo** / 채우는 게 전부가 아니다 | 사토 클리닉 | PLLA 원리 강의(즉시 vs 점진) | 팀 내부 "또 확장?" 회의론 | 마르셀루: 「Patrícia, quanto tempo pra registrar?」 | `estimula a produção de colágeno` · `efeito gradual` |
+| 2 | **Saeum Medical** / 새움메디컬 | 원주 공장 | 새 제조사 협상 | 한빛 김 상무의 견제 전화 | 김 상무: 「We need to talk about loyalty.」 | `portfólio` · `conflito de interesse` |
+| 3 | **Diluição** / 희석 | 교육실 | 희석·재구성 기술 시연 | 신입 영업사원의 실수, 투타의 멘토링 | 「Sem treino, isso vira problema.」 | `reconstituir` · `Não é igual ao ácido hialurônico.` |
+| 4 | **Milão em três dias** / 사흘간의 밀라노 | 밀라노 Fioretti | 스킨부스터 계약 협상 | 마르셀루가 이탈리아 친척을 찾아가 뿌리 확인 | 계약 성사: 「Andiamo... quer dizer, vamos!」 | `Andiamo... quer dizer, vamos.` · `contrato de distribuição` |
+| 5 | **A Academia** / 아카데미 | 신축 교육장 | 「Academia Bertolini」 설립, 사토 교장 | 교육장 부지 계약, 루시아나의 협상 실력 | 「Ensinar vende mais que vender.」 | `Ensinar vende mais que vender.` · `grade curricular` |
+| 6 | **Quem pode aplicar?** / 누가 시술할 수 있나 | 회의실 | 직역별 시술 자격 논쟁, 영업 원칙 | 비앙카에게 결정 전달 방법 고민 | 「Ela não vai gostar.」 | `habilitação` · `conselho profissional` |
+| 7 | **A Bia discorda** / 비아의 반대 | 비앙카 클리닉 | **중간 전환**: 비앙카 항의 → 공동 교육기준 수립 | 비앙카가 털어놓는 업계 내 차별 경험 | 비앙카: 「Então eu quero dar aula na Academia.」 | `Não é sobre diploma, é sobre preparo.` · `Eu discordo.` |
+| 8 | **Patrícia cansada** / 지친 파트리시아 | 사무실 밤 | 제품 3개 동시 등록, RT 과로 | 파트리시아 가족(어머니 간병) 사정 | 사직서: 「Eu não dou conta sozinha.」 | `Eu não dou conta sozinha.` · `sobrecarga` |
+| 9 | **Uma equipe pra Patrícia** / 파트리시아의 팀 | 사무실 | 규제팀 채용 면접 | 파트리시아 이사 승진, 직원들 축하 | 파트리시아: 「Diretora? Eu?」 | `diretora` · `Você merece.` |
+| 10 | **O nódulo** / 결절 | 사토 클리닉 | 교육 미이수 의사의 결절 부작용 | 해당 의사의 반발·소송 위협 | 결정: 「Só vende com certificado.」 | `nódulo` · `Só vende com certificado.` |
+| 11 | **Sofia vai a Seul** / 서울로 가는 소피아 | 공항 → 서울 | 소피아 단독 한국 협상 | 소피아 어머니가 딸을 공항에서 배웅하며 화해 | 소피아(서울): 「Fechei. Sozinha.」 | `Confio em você.` · `representar a empresa` |
+| 12 | **Aquavie no Brasil** / 아쿠아비 브라질 상륙 | 창고 | 스킨부스터 첫 입고, 콜드체인 이슈 | 자이르의 은퇴 예고와 후계자 소개 | 「Deu tudo certo. Dessa vez, sem drama.」 | `cadeia fria` · `Deu tudo certo.` |
+| 13 | **Lançamento triplo** / 트리플 런칭 | Beauty Fair 2년차 | **절정**: 3개 라인 동시 런칭 | 비앙카·사토 공동 강연 | 「Lista de espera: quinhentos médicos.」 | `lista de espera` · `Superou a expectativa.` |
+| 14 | **Uma ligação da Faria Lima** / 파리아 리마에서 온 전화 | 사무실 | 사모펀드 투자 미팅 요청 | 루시아나 "돈이 들어오면 주인이 바뀐다" 경고 | 헤나타: 「Qual é o EBITDA de vocês?」 (→6부) | `Qual é o EBITDA?` · `investidor` |
 
-### 6부 「Expansão」 (확장) — 150턴 · B2
+### 6부 「Expansão」 (확장) — 14화 × 150턴 · B2
 
 > 돈이 들어오면 질문도 들어온다. 전국으로 커지는 회사, 낯선 임원들, 그리고 무너지기 시작하는 집안의 일상.
+> **부 서브플롯**: 부부 위기 · 투타의 이탈과 복귀 · 아버지의 입원.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **Faria Lima, 23º andar** / 파리아 리마 23층 | Atlântico Capital | 12 | 헤나타와 첫 미팅, 지분 40% 요구 | `valuation` · `participação societária` |
-| 2 | **Luciana faz as contas** / 루시아나의 계산 | 집 | 10 | 루시아나, 지배권 상실 위험 경고 | `controle da empresa` · `Põe no papel.` |
-| 3 | **Due diligence** / 실사 | 사무실 | 10 | 실사팀이 서류를 뒤짐, 파트리시아의 완벽한 서류가 빛남 | `Está tudo documentado.` · `auditoria` |
-| 4 | **25 por cento** / 25퍼센트 | Atlântico Capital | 11 | 재협상: 지분 25% + 이사회 1석으로 타결 | `contraproposta` · `Fechado.` |
-| 5 | **Filial no Rio** / 리우 지사 | Rio de Janeiro, Barra | 10 | 리우 지사 개설, 카리오카 말투와 충돌 개그 | `Ô, mermão!` vs `Orra, meu!` · `filial` |
-| 6 | **BH e Recife** / 벨루오리존치와 헤시피 | 출장 몽타주 (화상) | 10 | 지역별 영업 전략, 북동부 ICMS 차이 | `diferença de alíquota` · `logística` |
-| 7 | **O novo diretor** / 새 임원 | 사무실 | 12 | **중간 전환**: 투자사가 보낸 COO 등장, 투타와 즉시 충돌 | `processo` · `Aqui sempre funcionou assim.` |
-| 8 | **Tuta pede demissão** / 투타의 사표 | Itaquera 거리 | 10 | 투타 사표. 마르셀루가 그의 동네까지 찾아감 | `Você é a cara dessa empresa.` · `Não me sinto mais em casa.` |
-| 9 | **Jantar esquecido** / 잊힌 저녁 | 집 | 10 | 결혼기념일 잊음. 루시아나와 냉전 | `Você nem lembrou.` · `Desculpa, amor.` |
-| 10 | **O pai no hospital** / 병원의 아버지 | Hospital, Mooca | 11 | 아버지 심장 이상으로 입원 | `Ele vai ficar bem?` · `UTI` |
-| 11 | **Enzo salva o dia** / 엔주가 해낸 날 | 집 | 10 | 엔주가 가짜 계정 사기 캠페인 발견, 해결 아이디어 제공 | `perfil falso` · `Valeu, filho.` |
-| 12 | **Hedge** / 헤지 | 이사회 | 11 | 환율 재급등, 지난번 교훈으로 헤지 덕분에 생존 | `Dessa vez a gente estava preparado.` · `proteção cambial` |
-| 13 | **Cem funcionários** / 직원 백 명 | 신사옥 개소식 | 11 | **절정**: 직원 100명 돌파 파티, 투타 복귀 | `Voltei, chefe.` · `Discurso! Discurso!` |
-| 14 | **A carta de Osong** / 오송에서 온 편지 | 사무실 | 12 | 한빛바이오 공문: "독점 계약 갱신 불가, 브라질 직진출 예정" (→7부) | `não renovação` · `Eles querem vir sozinhos.` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **Faria Lima, 23º andar** / 파리아 리마 23층 | Atlântico Capital | 첫 미팅, 지분 40% 요구 | 엘리베이터에서 만난 Faria Lima 문화 충격 | 헤나타: 「Quarenta por cento. É pegar ou largar.」 | `valuation` · `participação societária` |
+| 2 | **Luciana faz as contas** / 루시아나의 계산 | 집 | 지배권 상실 위험 분석 | 부부가 창업 초기를 회상 | 루시아나: 「Contraproposta. Vinte e cinco.」 | `controle da empresa` · `Põe no papel.` |
+| 3 | **Due diligence** / 실사 | 사무실 | 실사팀의 서류 검증 | 투타가 실사팀 질문에 당황, 반감 시작 | 실사팀장: 「Nunca vi documentação tão limpa.」 | `Está tudo documentado.` · `auditoria` |
+| 4 | **25 por cento** / 25퍼센트 | Atlântico Capital | 재협상 타결(25%+이사 1석) | 헤나타의 개인사(창업 실패 경험) | 「Fechado.」 — 악수 | `contraproposta` · `Fechado.` |
+| 5 | **Filial no Rio** / 리우 지사 | Rio, Barra da Tijuca | 리우 지사 개설 | 카리오카 직원과 사투리 충돌 개그 | 「Ô, mermão... digo, orra, meu!」 | `Ô, mermão!` vs `Orra, meu!` · `filial` |
+| 6 | **BH e Recife** / 벨루오리존치와 헤시피 | 출장지 (화상 교차) | 지역별 전략, 주별 ICMS 차이 | 소피아가 북동부 지사장 후보 발굴 | 「Recife vai ser a nossa surpresa.」 | `diferença de alíquota` · `logística` |
+| 7 | **O novo diretor** / 새 임원 | 사무실 | **중간 전환**: 투자사 파견 COO 등장 | 투타와 즉시 충돌, 직원들 편 갈림 | COO: 「Aqui agora tem processo.」 | `processo` · `Aqui sempre funcionou assim.` |
+| 8 | **Tuta pede demissão** / 투타의 사표 | 사무실 → Itaquera | 투타 사표 | 마르셀루가 투타 동네·어머니를 찾아감 | 투타: 「Não me sinto mais em casa, chefe.」 | `Você é a cara dessa empresa.` · `Não me sinto mais em casa.` |
+| 9 | **Jantar esquecido** / 잊힌 저녁 | 집 | 결혼기념일 잊음, 냉전 | 엔주가 부모 사이를 중재 | 루시아나: 「Você nem lembrou.」 | `Você nem lembrou.` · `Desculpa, amor.` |
+| 10 | **O pai no hospital** / 병원의 아버지 | 병원 | 아버지 심장 이상 입원 | 루시아나가 병원에 먼저 와 있음 → 부부 화해 시작 | 의사: 「Ele precisa parar de trabalhar.」 | `Ele vai ficar bem?` · `UTI` |
+| 11 | **Enzo salva o dia** / 엔주가 해낸 날 | 집 → 사무실 | 가짜 계정 사기 캠페인 발견 | 엔주 아이디어로 정품 인증 앱 캠페인 | 마르셀루: 「Valeu, filho. Você tá contratado.」 | `perfil falso` · `Valeu, filho.` |
+| 12 | **Hedge** / 헤지 | 이사회 | 환율 재급등, 헤지로 생존 | COO와 마르셀루가 처음으로 서로 인정 | COO: 「O Tuta faz falta.」 | `Dessa vez a gente estava preparado.` · `proteção cambial` |
+| 13 | **Cem funcionários** / 직원 백 명 | 신사옥 개소식 | **절정**: 직원 100명 파티, 투타 복귀 | 아버지가 휠체어로 참석, 연설 요청 | 투타: 「Voltei, chefe.」 | `Voltei, chefe.` · `Discurso! Discurso!` |
+| 14 | **A carta de Osong** / 오송에서 온 편지 | 사무실 | 한빛 공문: 독점 갱신 불가·직진출 | 파트리시아가 등록증을 다시 꺼내 봄 | 「Eles querem vir sozinhos.」 (→7부) | `não renovação` · `Eles querem vir sozinhos.` |
 
-### 7부 「Legado」 (유산) — 150턴 · B2+~C1
+### 7부 「Legado」 (유산) — 14화 × 150턴 · B2+~C1
 
 > 시장을 열어 준 대가로 돌아온 건 계약 종료 통보. 그러나 등록증의 이름은 Bertolini다. 마지막 협상, 마지막 빵집의 일요일.
+> **부 서브플롯**: 소피아의 선택 · 아버지와의 이별 · 엔주의 진로.
 
-| 화 | 제목 (PT / KR) | 장소 | 턴 | 핵심 사건 | 핵심 표현 |
-|---|---|---|---|---|---|
-| 1 | **Quem é o dono do registro?** / 등록증의 주인은 누구인가 | 사무실 | 12 | 파트리시아: 등록 보유자는 우리 회사 → 협상 카드 | `detentor do registro` · `Sem a gente, eles não vendem amanhã.` |
-| 2 | **Fábio liga** / 파비우의 전화 | 레스토랑 | 10 | 파비우가 한빛 측 현지 파트너로 내정된 사실, 합병 제안 | `Vamos juntar forças, Celo.` · `Nem pensar.` |
-| 3 | **Sofia entre dois mundos** / 두 세계 사이의 소피아 | Bom Retiro | 10 | 한빛이 소피아에게 브라질 법인장 제안 — 갈등 | `Eu fico dividida.` · `lealdade` |
-| 4 | **A escolha da Sofia** / 소피아의 선택 | 사무실 옥상 | 11 | 소피아 잔류 선택, 한빛의 내부 사정(본사 압박) 귀띔 | `Eu fico.` · `Eles estão sob pressão também.` |
-| 5 | **O plano B** / 플랜 B | 회의실 | 10 | 자체 브랜드 개발 구상: 브라질 피부·체형 맞춤 | `marca própria` · `pele brasileira` |
-| 6 | **Saeum diz sim** / 새움의 승낙 | 원주 (화상) | 10 | 새움메디컬이 OEM 협력 + 공동 연구 수락 | `parceria` · `cocriação` |
-| 7 | **Seul, de novo** / 다시 서울 | 한빛 본사 | 12 | **중간 전환**: 김 상무와 재회. 마르셀루가 직접 포르투갈어+서툰 한국어로 협상 | `Nós abrimos esse mercado juntos.` · `Kamsahamnida... mas não aceito.` |
-| 8 | **Joint venture** / 합작 | 한빛 본사 | 10 | 제안: 합작법인(51:49) + 등록 이전은 단계적으로 | `joint venture` · `de forma gradual` |
-| 9 | **O conselho decide** / 이사회의 결정 | Faria Lima | 10 | 헤나타·루시아나가 합작안 지지, 이사회 승인 | `aprovado por unanimidade` · `Põe no papel — agora pode.` |
-| 10 | **O último pão** / 마지막 빵 | 병원 | 11 | 아버지 병세 악화. 「Padaria não fecha domingo」의 의미 전수 | `Padaria não fecha domingo.` · `Cuida da tua gente.` |
-| 11 | **Mooca de luto** / 상중의 무까 | Mooca 성당·빵집 | 10 | 아버지 장례, 동네 사람들·사토 박사·투타·소피아 모두 모임 | `Meus pêsames.` · `Ele era a Mooca.` |
-| 12 | **Mooca Lab** / 무까 랩 | 신규 연구소 | 11 | 자체 브랜드 「Mooca Lab」 첫 시제품, 빵집 자리에 교육 공간 | `homenagem` · `Esse nome tem história.` |
-| 13 | **Cinco anos depois** / 5년 후 | 창립 20주년 행사 | 11 | **절정**: 마르셀루의 연설, 파비우도 찾아와 악수 | `Quem diria...` · `Obrigado a cada um de vocês.` |
-| 14 | **Domingo na padaria** / 빵집의 일요일 | Padaria Bertolini (리모델링) | 12 | **피날레**: 1부 1화 수미상관. 엔주가 빵을 굽고, 마르셀루가 커피를 따름 | `Padaria não fecha domingo.` · `Bora resolver... o café da manhã.` |
+| 화 | 제목 (PT / KR) | 장소 | A (메인) | B (서브) | 훅 (150턴) | 핵심 표현 |
+|---|---|---|---|---|---|---|
+| 1 | **Quem é o dono do registro?** / 등록증의 주인은 누구인가 | 사무실 | 등록 보유자 = 우리 회사 → 협상 카드 | 이사회에서 헤나타가 '매각' 옵션 언급 | 파트리시아: 「Sem a gente, eles não vendem amanhã.」 | `detentor do registro` · `Sem a gente, eles não vendem amanhã.` |
+| 2 | **Fábio liga** / 파비우의 전화 | 레스토랑 | 파비우가 한빛 현지 파트너 내정, 합병 제안 | 파비우의 몰락한 회사 사정·이혼 | 「Vamos juntar forças, Celo.」 「Nem pensar.」 | `Vamos juntar forças, Celo.` · `Nem pensar.` |
+| 3 | **Sofia entre dois mundos** / 두 세계 사이의 소피아 | Bom Retiro | 한빛의 법인장 제안 | 소피아 어머니의 조언 | 소피아: 「Eu fico dividida.」 | `Eu fico dividida.` · `lealdade` |
+| 4 | **A escolha da Sofia** / 소피아의 선택 | 사무실 옥상 | 소피아 잔류, 한빛 내부 사정 귀띔 | 1부 6화 첫 만남 회상 | 「Eu fico. E eles estão sob pressão também.」 | `Eu fico.` · `Eles estão sob pressão também.` |
+| 5 | **O plano B** / 플랜 B | 회의실 | 자체 브랜드 구상 | 엔주(대학생)가 브랜드 네이밍 회의 참가 | 엔주: 「E se o nome fosse Mooca?」 | `marca própria` · `pele brasileira` |
+| 6 | **Saeum diz sim** / 새움의 승낙 | 원주 (화상) | OEM·공동연구 수락 | 사토 박사의 임상 설계 참여 | 「Parceria fechada. Agora, Seul.」 | `parceria` · `cocriação` |
+| 7 | **Seul, de novo** / 다시 서울 | 한빛 본사 | **중간 전환**: 김 상무와 재협상, 마르셀루의 직접 협상 | 소피아에게 「Calma, 천천히」를 되돌려 줌 | 「Kamsahamnida... mas não aceito.」 | `Nós abrimos esse mercado juntos.` · `de igual pra igual` |
+| 8 | **Joint venture** / 합작 | 한빛 본사 | 합작법인(51:49)·단계적 등록 이전 안 | 김 상무가 포르투갈어로 진심을 말함 | 김 상무: 「Muito bom, Marcelo. Muito bom.」 | `joint venture` · `de forma gradual` |
+| 9 | **O conselho decide** / 이사회의 결정 | Faria Lima | 이사회 표결 | 헤나타·루시아나의 지지 연설 | 「Põe no papel — agora pode.」 | `aprovado por unanimidade` · `Põe no papel — agora pode.` |
+| 10 | **O último pão** / 마지막 빵 | 병원 | 아버지 병세 악화, 「Padaria não fecha domingo」 의미 전수 | 엔주와 할아버지의 마지막 대화 | 아버지: 「Cuida da tua gente.」 | `Padaria não fecha domingo.` · `Cuida da tua gente.` |
+| 11 | **Mooca de luto** / 상중의 무까 | 성당 → 빵집 | 장례, 동네·동료 모두 모임 | 파비우의 조문, 짧은 화해 | 도나 시다: 「Ele era a Mooca.」 | `Meus pêsames.` · `Ele era a Mooca.` |
+| 12 | **Mooca Lab** / 무까 랩 | 연구소 → 빵집 | 「Mooca Lab」 첫 시제품 | 빵집 2층을 교육 공간으로 바꾸기로 | 「Esse nome tem história.」 | `homenagem` · `Esse nome tem história.` |
+| 13 | **Cinco anos depois** / 5년 후 | 창립 20주년 행사 | **절정**: 마르셀루의 연설(연설문 낭독) | 파비우가 처음으로 「Marcelo」라 부르며 악수 | 「Obrigado a cada um de vocês.」 | `Quem diria...` · `Obrigado a cada um de vocês.` |
+| 14 | **Domingo na padaria** / 빵집의 일요일 | Padaria Bertolini (리모델링) | **피날레**: 1부 1화 수미상관, 엔주가 빵을 굽고 마르셀루가 커피를 따름 | 전 인물 카메오(사토·소피아·투타·파트리시아·비앙카) | 「Padaria não fecha domingo.」 | `Padaria não fecha domingo.` · `Bora resolver... o café da manhã.` |
 
 ---
 
@@ -270,13 +286,13 @@
 
 ---
 
-## 9. 샘플 대본 — 1부 1화 「Domingo na padaria」 (12턴)
+## 9. 샘플 대본 — 1부 1화 「Domingo na padaria」 도입부 발췌 (001–012 / 150턴)
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 1화 · 서사 기능: 시리즈 도입
 > - 배경: Mooca, Padaria Bertolini, 일요일 오전 7시
-> - 등장인물: Marcelo, Antônio, Dona Cida
-> - 난이도: A2+ · 턴 수: 12 (도입 2 · 장면 8 · 전환 1 · 마무리 1)
+> - 등장인물: Marcelo, Antônio, Dona Cida, Seu Nino(단골), Luciana, Enzo
+> - 난이도: A2+ · 턴 수: 150 (도입 20 · 장면1 40 · 장면2 40 · 절정·전환 30 · 마무리 20) — 아래는 도입부 앞 12턴 견본
 > - 복선 설치: #1 「Pão bom não precisa de propaganda.」
 
 01. DONA CIDA: Ô Marcelinho! Domingo cedo na padaria do pai?
@@ -316,14 +332,15 @@
     마르셀루: 매일이라... 어라, 이거 봐라. 아빠, 방금 아이디어를 주신 것 같아요.
 
 > **확인용 메모 (낭독하지 않음)**
-> - 턴 배분: Marcelo 5 · Antônio 5 · Dona Cida 2 = 12턴. 1턴 15단어 이내 준수.
+> - 발췌 턴 배분: Marcelo 5 · Antônio 5 · Dona Cida 2 = 12턴. 1턴 15단어 이내 준수.
+> - 1화 전체 흐름: 001–020 빵집 아침(발췌분 포함, 12번 「아이디어」는 이후 장면에서 구체화) · 021–060 단골들과 수다 속 장비 매출 하락 고백 · 061–100 아버지 빵집의 손님 감소, 부자가 서로 걱정을 숨김 · 101–130 「Pão o povo compra todo dia」 → 매달 팔리는 소모품 = 필러 착상 · 131–150 귀가해 루시아나·엔주와 저녁, 150번 턴 「Amanhã eu te mostro os números.」(루시아나)
 > - 호칭: 마르셀루는 평소 아버지에게 `você`를 쓰지만, 진지한 순간(12번)에 `o senhor`로 전환 — 상파울루 이탈리아계 가정의 존중 표현. 이후 부자 간 진지한 장면마다 반복.
-> - 다음 화 예고: 월요일 아침, 루시아나가 분기 보고서를 펼친다 — 매출 -22% (1부 2화 「O relatório vermelho」).
+> - 다음 화 예고: 월요일 아침, 사무실에서 분기 보고서를 펼친다 — 매출 -22% (1부 2화 「O relatório vermelho」).
 
 ---
 
 ## 10. 제작 순서 제안
 
-1. 본 기획서 확정 → 2. 1부 1~14화 대본(150턴) 작성 → 3. 화별 문장 분석(기존 `분석/` 형식: 단어·문법·시제·표현) → 4. 부 단위 워드 통합본 → 5. 2부 이후 반복.
+1. 본 기획서 확정 → 2. 1부 1~14화 대본(화당 150턴, 1부 2,100턴) 작성 → 3. 화별 문장 분석(기존 `분석/` 형식: 단어·문법·시제·표현) → 4. 부 단위 워드 통합본 → 5. 2부 이후 반복.
 
 - 폴더 구성안: `기획/` (본 문서) · `필러_대본/1부~7부/` · `필러_분석/1부~7부/` (기존 시리즈 `대본/`·`분석/`과 분리)
