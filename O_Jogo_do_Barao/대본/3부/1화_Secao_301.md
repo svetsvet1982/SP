@@ -245,7 +245,7 @@
 073. TOMÁS: Não. A gente diz de outro jeito. Vamos trocar a pergunta.
      토마스: 아니죠. 다르게 말하는 거예요. 질문을 바꿉시다.
 
-074. TOMÁS: Não é "o que cedemos no Pix". É "o que o Pix já oferece e os americanos não usam".
+074. TOMÁS: Não é "o que cedemos no Pix". É "o que o Pix oferece e eles não usam".
      토마스: "우리가 Pix에서 뭘 양보하나"가 아니라 "Pix가 이미 주고 있는데 미국이 안 쓰는 게 뭔가"예요.
 
 075. TELES: Um grupo de trabalho técnico. Pra acelerar a autorização de fintechs americanas no Pix.
