@@ -291,8 +291,8 @@
 089. DITO: Não sei, doutor. Mas devia ter dito.
      디투: 모르겠어요, 박사님. 근데 그랬어야 했죠.
 
-090. LUÍZA: Seu Dito inventa citações, Tomás, já reparou? Faz isso desde o primeiro dia em que eu entrei naquele carro. Igual à da lagosta.
-     루이자: 디투 아저씨는 인용을 지어내세요, 토마스. 눈치챘어요? 제가 그 차에 처음 탄 날부터 그러셨어요. 랍스터 그 말처럼요.
+090. LUÍZA: Seu Dito inventa citações, Tomás, já reparou? Faz isso desde o primeiro dia em que eu entrei naquele carro.
+     루이자: 디투 아저씨는 인용을 지어내세요, 토마스. 눈치챘어요? 제가 그 차에 처음 탄 날부터 그러셨어요.
 
 091. DITO: Moça, quem inventa citação boa merece estátua.
      디투: 아가씨, 좋은 인용을 지어내는 사람은 동상을 받아야 해요.

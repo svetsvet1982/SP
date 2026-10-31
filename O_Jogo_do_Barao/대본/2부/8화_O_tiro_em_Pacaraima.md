@@ -35,8 +35,8 @@
 005. TOMÁS: E a interiorização?
      토마스: 내륙 재정착은요?
 
-006. ALINE: Voo de amanhã cedo pra Campo Grande, junto com outras famílias da lista. Depois, ônibus pra Corumbá. Tudo como o senhor pediu, sem nenhuma marcação especial na lista.
-     알리니: 내일 아침 명단의 다른 가족들이랑 같이 캄푸그란지행 비행기를 타요. 그다음 코룸바행 버스요. 명단에 특별 표시 하나 없이, 다 말씀하신 대로요.
+006. ALINE: Voo de amanhã cedo pra Campo Grande, junto com outras famílias da lista. Depois, ônibus pra Corumbá. Tudo como o senhor pediu, sem nenhuma marcação especial na lista, nada que chame atenção.
+     알리니: 내일 아침 명단의 다른 가족들이랑 같이 캄푸그란지행 비행기를 타요. 그다음 코룸바행 버스요. 명단에 눈에 띌 만한 특별 표시 하나 없이, 다 말씀하신 대로요.
 
 007. LUÍZA: O menino mais novo está com uma camisa do Flamengo.
      루이자: 작은 애가 플라멩구 셔츠를 입었네요.
@@ -127,8 +127,8 @@
 035. TOMÁS: Que vídeo, Caio?
      토마스: 무슨 영상, 카이우?
 
-036. CAIO: Soldados venezuelanos atravessando o marco BV-8, de arma na mão. Atirando. E uma soldada brasileira caindo no chão. Tá tudo filmado, Tomás, não tem o que discutir.
-     카이우: 베네수엘라 군인들이 총을 들고 BV-8 표지석을 넘어오면서 쏴. 그리고 브라질 여군이 땅에 쓰러지고. 다 찍혀 있어, 토마스. 따질 것도 없다고.
+036. CAIO: Soldados venezuelanos atravessando o marco BV-8, de arma na mão. Atirando. E uma soldada brasileira caindo no chão. Tá tudo filmado, Tomás, com som e tudo, não tem o que discutir.
+     카이우: 베네수엘라 군인들이 총을 들고 BV-8 표지석을 넘어오면서 쏴. 그리고 브라질 여군이 땅에 쓰러지고. 소리까지 다 찍혀 있어, 토마스. 따질 것도 없다고.
 
 037. LUÍZA: Isso é impossível. A Jéssica foi atingida no portão dois, longe do marco, de costas pra fronteira. Eu estava a vinte metros dela.
      루이자: 그럴 리가 없어요. 제시카는 표지석에서 먼 2번 게이트에서, 국경을 등진 채 맞았어요. 전 20미터 거리에 있었고요.
@@ -145,8 +145,8 @@
 041. CAIO: Você sempre pede uma hora. Hoje não tem hora, irmão. Hoje o país quer resposta antes do almoço.
      카이우: 넌 늘 한 시간을 달래. 오늘은 그런 거 없어, 형제. 오늘 나라는 점심 전에 대답을 원해.
 
-042. VERA: Rangel, é a chanceler. O Planalto está rachado ao meio. O Caio quer resposta militar imediata. O Teles quer esperar. E os dois estão gritando na mesma sala.
-     베라: 랑제우, 장관이에요. 대통령실이 반으로 쪼개졌어요. 카이우는 즉각 군사 대응을, 텔리스는 기다리자고 해요. 둘이 한 방에서 고함을 지르고 있어요.
+042. VERA: Rangel, é a chanceler. O Planalto está rachado ao meio. O Caio quer resposta militar imediata. O Teles quer esperar. E os dois estão gritando na mesma sala, na frente de todo mundo.
+     베라: 랑제우, 장관이에요. 대통령실이 반으로 쪼개졌어요. 카이우는 즉각 군사 대응을, 텔리스는 기다리자고 해요. 둘이 한 방에서, 다들 보는 앞에서 고함을 지르고 있어요.
 
 043. TOMÁS: E o presidente?
      토마스: 대통령은요?
@@ -184,8 +184,8 @@
 054. RIVAS: Pro meu comando. E pro ministério em Caracas, como manda o protocolo. E de lá... eu não sei mais, hermano. Lá, papel anda sozinho.
      리바스: 우리 사령부로. 그리고 규정대로 카라카스 국방부로. 거기서부턴... 모르겠소, 형제. 거기선 서류가 혼자 걸어 다니니까.
 
-055. BRANDÃO: Rangel. A cidade está se juntando na praça central. Os comerciantes, os moradores, gente com faixa. Estão furiosos, e cada vez que o vídeo passa, chega mais gente.
-     브랑당: 랑제우. 시민들이 중앙 광장에 모이고 있소. 상인들, 주민들, 현수막 든 사람들. 화가 잔뜩 났고, 영상이 한 번 돌 때마다 사람이 더 몰려오오.
+055. BRANDÃO: Rangel. A cidade está se juntando na praça central. Os comerciantes, os moradores, gente com faixa. Estão furiosos, e cada vez que o vídeo passa no celular de alguém, chega mais gente.
+     브랑당: 랑제우. 시민들이 중앙 광장에 모이고 있소. 상인들, 주민들, 현수막 든 사람들. 화가 잔뜩 났고, 누군가의 휴대폰에서 영상이 한 번 돌 때마다 사람이 더 몰려오오.
 
 056. ALINE: Isso me assusta mais que o tiro, general.
      알리니: 총보다 그게 더 무서워요, 장군님.
@@ -213,8 +213,8 @@
 063. LUÍZA: O tiro foi às sete e quarenta da manhã. Sol baixo, no leste, quase batendo no olho. Então as sombras têm que ser compridas, deitadas pro oeste.
      루이자: 총격은 오전 7시 40분이었어요. 해는 동쪽에 낮게, 거의 눈높이에 있었죠. 그러니 그림자는 서쪽으로 길게 누워 있어야 해요.
 
-064. LUÍZA: No vídeo, as sombras dos soldados são curtas, bem curtinhas, e caem pra baixo, quase embaixo das botas. Isso é sol do meio-dia, general, não das sete.
-     루이자: 영상 속 군인들 그림자는 짧아요, 아주 짧고, 거의 군화 밑으로 떨어져요. 그건 7시가 아니라 한낮의 해예요, 장군님.
+064. LUÍZA: No vídeo, as sombras dos soldados são curtas, bem curtinhas, e caem pra baixo, quase embaixo das botas. Isso é sol do meio-dia, general, não das sete da manhã. Não tem discussão.
+     루이자: 영상 속 군인들 그림자는 짧아요, 아주 짧고, 거의 군화 밑으로 떨어져요. 그건 아침 7시가 아니라 한낮의 해예요, 장군님. 따질 것도 없어요.
 
 065. BRANDÃO: Gravado em outra hora.
      브랑당: 다른 시간에 찍은 거군.
@@ -222,8 +222,8 @@
 066. LUÍZA: Ou montado com pedaços de horas diferentes, colados um no outro. Segunda coisa: o marco.
      루이자: 아니면 서로 다른 시간대 조각을 하나하나 이어 붙였거나. 둘째, 표지석이요.
 
-067. LUÍZA: No vídeo, o marco BV-8 é branco, liso, meio encardido. Só que o verdadeiro foi pintado de verde e amarelo no ano passado. Qualquer criança daqui sabe disso.
-     루이자: 영상 속 BV-8 표지석은 흰색에 매끈하고 좀 꼬질꼬질해요. 근데 진짜는 작년에 초록색과 노란색으로 칠했어요. 여기 애들은 다 알아요.
+067. LUÍZA: No vídeo, o marco BV-8 é branco, liso, meio encardido. Só que o verdadeiro foi pintado de verde e amarelo no ano passado. Qualquer criança daqui sabe disso, porque tirou foto lá na festa.
+     루이자: 영상 속 BV-8 표지석은 흰색에 매끈하고 좀 꼬질꼬질해요. 근데 진짜는 작년에 초록색과 노란색으로 칠했어요. 행사 때 거기서 사진을 찍었으니 여기 애들은 다 알아요.
 
 068. ALINE: É verdade. A prefeitura pintou pra festa da independência. Teve até banda e discurso do prefeito.
      알리니: 맞아요. 시청이 독립기념일 행사 때 칠했어요. 악단도 오고 시장 연설까지 있었죠.
@@ -234,8 +234,8 @@
 070. TOMÁS: Terceira coisa?
      토마스: 셋째는요?
 
-071. LUÍZA: Os uniformes. A insígnia é da Guarda Nacional Bolivariana de antes de janeiro. O governo interino trocou em março, e ninguém mais usa a antiga, nem pra foto.
-     루이자: 군복이요. 휘장이 1월 이전 볼리바르 국가방위대 거예요. 임시정부가 3월에 바꿨고, 이젠 사진 찍을 때도 옛날 걸 안 써요.
+071. LUÍZA: Os uniformes. A insígnia é da Guarda Nacional Bolivariana de antes de janeiro. O governo interino trocou em março, e ninguém mais usa a antiga, nem pra foto, nem em desfile.
+     루이자: 군복이요. 휘장이 1월 이전 볼리바르 국가방위대 거예요. 임시정부가 3월에 바꿨고, 이젠 사진 찍을 때도, 행진할 때도 옛날 걸 안 써요.
 
 072. BRANDÃO: Então é falso.
      브랑당: 그럼 가짜군.
@@ -282,8 +282,8 @@
 086. TOMÁS: O vídeo é falso, senhora. Eu posso mostrar onde, um por um, se a senhora me der cinco minutos.
      토마스: 그 영상은 가짜예요, 아주머니. 5분만 주시면 어디가 가짜인지 하나하나 보여 드릴 수 있어요.
 
-087. SOCORRO: Falso é o governo, que deixa entrar dois mil por dia e não dá nada pra gente daqui! Nem posto de saúde que funcione, nem escola com vaga, nada!
-     소코후: 가짜는 정부지! 하루 2천 명씩 들여보내면서 여기 사람들한텐 아무것도 안 주잖아! 제대로 돌아가는 보건소도, 자리 있는 학교도, 아무것도!
+087. SOCORRO: Falso é o governo, que deixa entrar dois mil por dia e não dá nada pra gente daqui! Nem posto de saúde que funcione, nem escola com vaga, nem segurança na rua, nada!
+     소코후: 가짜는 정부지! 하루 2천 명씩 들여보내면서 여기 사람들한텐 아무것도 안 주잖아! 제대로 돌아가는 보건소도, 자리 있는 학교도, 거리 치안도, 아무것도!
 
 088. TOMÁS: A senhora tem comércio aqui?
      토마스: 여기서 장사하세요?
@@ -297,11 +297,11 @@
 091. TOMÁS: O que aconteceu em dois mil e dezoito, major?
      토마스: 2018년에 무슨 일이 있었죠, 소령님?
 
-092. ALINE: Um comerciante daqui foi assaltado e espancado. Disseram que tinham sido venezuelanos, e a notícia correu mais rápido que qualquer investigação. No dia seguinte, a cidade inteira foi pra rua.
-     알리니: 여기 상인 한 명이 강도를 당하고 폭행당했어요. 베네수엘라 사람들 짓이라는 말이 돌았고, 그 소문이 어떤 수사보다 빨리 퍼졌죠. 다음 날 도시 전체가 거리로 나왔어요.
+092. ALINE: Um comerciante daqui foi assaltado e espancado. Disseram que tinham sido venezuelanos, e a notícia correu mais rápido que qualquer investigação. No dia seguinte, a cidade inteira foi pra rua, com pau e gasolina.
+     알리니: 여기 상인 한 명이 강도를 당하고 폭행당했어요. 베네수엘라 사람들 짓이라는 말이 돌았고, 그 소문이 어떤 수사보다 빨리 퍼졌죠. 다음 날 도시 전체가 몽둥이랑 휘발유를 들고 거리로 나왔어요.
 
-093. ALINE: Queimaram as barracas dos migrantes, as roupas, os documentos, tudo. Expulsaram mais de mil pessoas pela fronteira, a pé, com criança no colo. Numa tarde só.
-     알리니: 이주민 천막을 불태웠어요. 옷도 서류도 전부 다요. 천 명 넘는 사람을 아이를 안은 채 걸어서 국경 밖으로 쫓아냈죠. 하루 오후 만에요.
+093. ALINE: Queimaram as barracas dos migrantes, as roupas, os documentos, tudo. Expulsaram mais de mil pessoas pela fronteira, a pé, com criança no colo. Numa tarde só, doutor. Eu estava lá.
+     알리니: 이주민 천막을 불태웠어요. 옷도 서류도 전부 다요. 천 명 넘는 사람을 아이를 안은 채 걸어서 국경 밖으로 쫓아냈죠. 하루 오후 만에요, 박사님. 제가 거기 있었어요.
 
 094. SOCORRO: Eu não queimei nada. Mas também não impedi.
      소코후: 난 아무것도 안 태웠어요. 하지만 말리지도 않았지.
@@ -309,8 +309,8 @@
 095. TOMÁS: E depois, a senhora se arrependeu?
      토마스: 그 뒤에 후회하셨어요?
 
-096. SOCORRO: Depois veio a Acolhida, com os abrigos, com o Exército, com ordem. E vieram as moças venezuelanas que trabalham no meu mercadinho até hoje, honestas, trabalhadeiras.
-     소코후: 그다음에 아콜리다가 왔죠. 보호소랑 군대랑 질서를 데리고. 그리고 지금까지 우리 가게에서 일하는 베네수엘라 아가씨들이 왔어요. 정직하고 부지런한 애들이에요.
+096. SOCORRO: Depois veio a Acolhida, com os abrigos, com o Exército, com ordem. E vieram as moças venezuelanas que trabalham no meu mercadinho até hoje, honestas, trabalhadeiras, melhores que muito brasileiro.
+     소코후: 그다음에 아콜리다가 왔죠. 보호소랑 군대랑 질서를 데리고. 그리고 지금까지 우리 가게에서 일하는 베네수엘라 아가씨들이 왔어요. 정직하고 부지런해서, 웬만한 브라질 사람보다 나아요.
 
 097. SOCORRO: Uma delas, inclusive, é madrinha do meu neto.
      소코후: 그중 하나는 우리 손주 대모이기까지 해요.
@@ -356,8 +356,8 @@
 110. JÉSSICA: Boa tarde. Eu sou a cabo Jéssica Lima, da Guarda. Nasci aqui, na rua da igreja. Muitos de vocês me conhecem desde pequena.
      제시카: 안녕하세요. 저는 국가방위군 제시카 리마 상병입니다. 여기, 성당 길에서 태어났어요. 많은 분들이 저를 어릴 때부터 아실 거예요.
 
-111. JÉSSICA: Eu estava no portão dois, de costas pra fronteira, organizando a fila. O tiro veio da minha frente. Da rua. Eu vi o clarão antes de sentir a dor.
-     제시카: 전 국경을 등지고 2번 게이트에서 줄을 정리하고 있었어요. 총은 제 앞에서, 길 쪽에서 왔어요. 아픔을 느끼기 전에 불빛을 먼저 봤어요.
+111. JÉSSICA: Eu estava no portão dois, de costas pra fronteira, organizando a fila. O tiro veio da minha frente. Da rua. Eu vi o clarão do disparo antes mesmo de sentir a dor.
+     제시카: 전 국경을 등지고 2번 게이트에서 줄을 정리하고 있었어요. 총은 제 앞에서, 길 쪽에서 왔어요. 아픔을 느끼기도 전에 총구의 불빛을 먼저 봤어요.
 
 112. JÉSSICA: Não veio da Venezuela. Veio do lado de cá. De uma caminhonete.
      제시카: 베네수엘라에서 온 게 아니에요. 이쪽에서 왔어요. 픽업트럭에서요.
@@ -371,8 +371,8 @@
 115. JÉSSICA: E as pessoas da fila não fizeram nada contra mim. Pelo contrário: uma senhora venezuelana segurou a minha mão, apertado, até o médico chegar.
      제시카: 줄 서 있던 사람들은 저한테 아무 짓도 안 했어요. 오히려 베네수엘라 아주머니 한 분이 의사 올 때까지 제 손을 꽉 잡아 줬어요.
 
-116. JÉSSICA: Por favor. Não façam com eles o que fizeram em 2018. Eu era criança, mas eu lembro da fumaça e do choro. Eu lembro de tudo.
-     제시카: 제발요. 2018년에 했던 일을 저 사람들한테 하지 마세요. 그때 전 어렸지만 연기랑 울음소리를 기억해요. 다 기억해요.
+116. JÉSSICA: Por favor. Não façam com eles o que fizeram em 2018. Eu era criança, mas eu lembro da fumaça e do choro. Eu lembro de tudo, e não quero ver de novo.
+     제시카: 제발요. 2018년에 했던 일을 저 사람들한테 하지 마세요. 그때 전 어렸지만 연기랑 울음소리를 기억해요. 다 기억해요. 다시는 보고 싶지 않아요.
 
 117. SOCORRO: ...Gente. Vamos pra casa. A menina falou.
      소코후: ...여러분. 집에 갑시다. 그 애가 말했잖아요.
@@ -383,8 +383,8 @@
 119. BRANDÃO: Quinhentas pessoas desfeitas por uma cabo de vinte e dois anos, deitada numa cama de hospital. Em toda a minha carreira de farda, eu nunca vi isso.
      브랑당: 병원 침대에 누운 스물두 살 상병 하나가 500명을 돌려보냈군. 군복 입고 평생 이런 건 처음 보오.
 
-120. TOMÁS: E pela verdade, general. Só que a verdade só funciona quando quem diz é alguém de casa. Se fosse eu falando, eles teriam jogado pedra no telão.
-     토마스: 그리고 진실이요, 장군님. 다만 진실은 집안사람이 말할 때만 먹히죠. 제가 말했으면 스크린에 돌을 던졌을 거예요.
+120. TOMÁS: E pela verdade, general. Só que a verdade só funciona quando quem diz é alguém de casa. Se fosse eu falando, um diplomata de Brasília, eles teriam jogado pedra no telão.
+     토마스: 그리고 진실이요, 장군님. 다만 진실은 집안사람이 말할 때만 먹히죠. 브라질리아에서 온 외교관인 제가 말했으면 스크린에 돌을 던졌을 거예요.
 
 121. RIVAS: Hermano. Eu vi tudo pela transmissão da internet. Posso falar com a sua cidade? Só um minuto.
      리바스: 형제여. 인터넷 중계로 다 봤소. 당신네 도시에 말을 해도 되겠소? 1분만.
@@ -398,8 +398,8 @@
 124. JÉSSICA: Obrigada, coronel. Cuida da sua fronteira. Que eu cuido da minha.
      제시카: 감사합니다, 대령님. 대령님 국경 잘 지키세요. 제 국경은 제가 지킬게요.
 
-125. VERA: Rangel. O presidente viu a transmissão inteira, do começo ao fim. Nenhuma resposta militar. A promessa está de pé, e ele vai dizer isso em público hoje à noite.
-     베라: 랑제우. 대통령이 중계를 처음부터 끝까지 다 보셨어요. 군사 대응은 없어요. 약속은 유효하고, 오늘 밤 공개적으로 그렇게 말씀하실 거예요.
+125. VERA: Rangel. O presidente viu a transmissão inteira, do começo ao fim. Nenhuma resposta militar. A promessa está de pé, e ele mesmo vai dizer isso em público, em rede nacional, hoje à noite.
+     베라: 랑제우. 대통령이 중계를 처음부터 끝까지 다 보셨어요. 군사 대응은 없어요. 약속은 유효하고, 오늘 밤 전국 방송으로 직접 공개적으로 그렇게 말씀하실 거예요.
 
 126. TOMÁS: E o Caio?
      토마스: 카이우는요?
@@ -418,8 +418,8 @@
 
 ### 마무리 (131~150) — 수술실에서 나온 총알
 
-131. PRATES: Rangel. Hospital Geral de Boa Vista. A cirurgia da cabo terminou agora há pouco. Correu tudo bem, ela está acordada e já pediu pra ver a mãe.
-     프라치스: 랑제우. 보아비스타 종합병원이에요. 상병 수술이 방금 끝났어요. 다 잘됐고, 깨어나서 벌써 엄마를 찾고 있어요.
+131. PRATES: Rangel. Hospital Geral de Boa Vista. A cirurgia da cabo terminou agora há pouco. Correu tudo bem, ela está acordada e a primeira coisa que fez foi pedir pra ver a mãe.
+     프라치스: 랑제우. 보아비스타 종합병원이에요. 상병 수술이 방금 끝났어요. 다 잘됐고, 깨어나자마자 맨 먼저 엄마를 보고 싶다고 했어요.
 
 132. TOMÁS: Graças a Deus.
      토마스: 다행이네요.

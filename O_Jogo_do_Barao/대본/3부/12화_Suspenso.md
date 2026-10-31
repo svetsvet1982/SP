@@ -32,8 +32,8 @@
 004. TOMÁS: Mesmo depois do Senado. Mesmo com o extrato falso, com a data no formato errado. Mesmo com a nota oficial da China dizendo que nunca falou comigo naquele aplicativo.
      토마스: 상원 청문회 뒤에도. 날짜 형식까지 틀린 가짜 내역서인데도. 그 앱으로 나랑 연락한 적 없다는 중국 공식 성명이 나왔는데도.
 
-005. HELENA: A manchete andou mais rápido que a perícia, Tomás. Você mesmo vive dizendo isso nas reuniões, com outras palavras.
-     엘레나: 헤드라인이 감정보다 빨랐어요, 토마스. 당신이 회의 때마다 말만 바꿔서 늘 하던 얘기잖아요.
+005. HELENA: A manchete andou mais rápido que a perícia, Tomás. Você mesmo vive dizendo isso nas reuniões, com outras palavras. Só que dessa vez a manchete era sobre você.
+     엘레나: 헤드라인이 감정보다 빨랐어요, 토마스. 당신이 회의 때마다 말만 바꿔서 늘 하던 얘기잖아요. 다만 이번엔 그 헤드라인이 당신에 관한 거였을 뿐이죠.
 
 006. TOMÁS: Eu dizia isso pros outros.
      토마스: 남들한테 하던 말이었죠.
@@ -56,8 +56,8 @@
 012. TOMÁS: A chave do depósito fica com a Luíza, se a senhora não se importa. O núcleo não fecha só porque eu saí. Tem trabalho correndo, e ela sabe tudo que eu sei.
      토마스: 괜찮으시다면 창고 열쇠는 루이자가 가져요. 내가 나간다고 전담반이 문 닫는 건 아니니까. 진행 중인 일이 있고, 루이자는 내가 아는 걸 다 알아요.
 
-013. HELENA: Eu concordo. Ela fica como responsável interina, a partir de hoje. Eu assino.
-     엘레나: 동의해요. 오늘부터 루이자가 임시 책임자를 맡아요. 내가 서명할게요.
+013. HELENA: Eu concordo. Ela fica como responsável interina, a partir de hoje. Eu assino ainda nesta manhã, antes que alguém tenha outra ideia.
+     엘레나: 동의해요. 오늘부터 루이자가 임시 책임자를 맡아요. 누가 다른 생각을 하기 전에 오늘 오전 중에 서명할게요.
 
 014. TOMÁS: E a senhora?
      토마스: 사무총장님은요?
@@ -100,8 +100,8 @@
 026. TOMÁS: Serve pra lembrar que eles sempre souberam.
      토마스: 그쪽이 늘 알고 있었다는 걸 기억하는 데는 쓸모가 있죠.
 
-027. TELES: Rangel. Eu vim me despedir. Não do Itamaraty, que eu continuo indo e vindo. De você, por uns tempos.
-     텔리스: 랑제우. 작별하러 왔어요. 이타마라치 말고요, 거긴 계속 드나들 거니까. 당신이랑. 당분간.
+027. TELES: Rangel. Eu vim me despedir. Não do Itamaraty, que eu continuo indo e vindo com papel do Planalto. De você, por uns tempos.
+     텔리스: 랑제우. 작별하러 왔어요. 이타마라치 말고요, 거긴 대통령실 서류 들고 계속 드나들 거니까. 당신이랑. 당분간.
 
 028. TOMÁS: Obrigado, Teles.
      토마스: 고마워요, 텔리스.
@@ -294,8 +294,8 @@
 090. TOMÁS: Repete.
      토마스: 전해 줘.
 
-091. MARINA: "Diz pro pai que o Barão também foi chamado de traidor. O seu Dito me contou."
-     마리나: "아빠한테, 남작도 배신자 소리를 들었다고 전해 줘. 디투 아저씨가 말해 줬어."
+091. MARINA: "Diz pro pai que o Barão também foi chamado de traidor. O seu Dito me contou." Ela falou isso bem séria, Tomás.
+     마리나: "아빠한테, 남작도 배신자 소리를 들었다고 전해 줘. 디투 아저씨가 말해 줬어." 아주 진지하게 말하더라, 토마스.
 
 092. TOMÁS: O Dito conta coisa demais pra ela. Daqui a pouco ela sabe mais história do Itamaraty do que eu.
      토마스: 디투가 걔한테 너무 많이 얘기해. 좀 있으면 걔가 나보다 이타마라치 역사를 더 알겠어.
@@ -418,8 +418,8 @@
 
 ### 마무리 (131~150) — 디투의 상자
 
-131. DITO: Chegamos. A minha garagem. Espera aqui, doutor, que eu vou buscar lá no fundo, atrás das ferramentas.
-     디투: 도착했어요. 우리 집 차고예요. 여기서 기다리세요, 박사님. 저 안쪽 공구 뒤에서 꺼내 올게요.
+131. DITO: Chegamos. A minha garagem. Espera aqui, doutor, que eu vou buscar lá no fundo, atrás das ferramentas e das caixas de Natal da minha mulher.
+     디투: 도착했어요. 우리 집 차고예요. 여기서 기다리세요, 박사님. 저 안쪽 공구랑 집사람 크리스마스 장식 상자 뒤에서 꺼내 올게요.
 
 132. TOMÁS: Dito, o que é isso?
      토마스: 디투, 이게 뭐예요?
@@ -436,8 +436,8 @@
 136. TOMÁS: E nunca abriu?
      토마스: 한 번도 안 열어 봤어요?
 
-137. DITO: Abri uma vez, em noventa e um. Li duas páginas. Fechei. E não dormi uma semana.
-     디투: 91년에 한 번 열었어요. 두 장 읽었고요. 닫았어요. 그리고 일주일 못 잤어요.
+137. DITO: Abri uma vez, faz muitos anos. Li duas páginas. Fechei. E não dormi uma semana.
+     디투: 아주 오래전에 한 번 열었어요. 두 장 읽었고요. 닫았어요. 그리고 일주일 못 잤어요.
 
 138. TOMÁS: Por quê?
      토마스: 왜요?
