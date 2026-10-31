@@ -250,7 +250,7 @@
 075. REARDON: Então eu decidi uma avaliação com base numa frase falsa.
      리어든: 그럼 난 가짜 문장을 근거로 검토를 결정한 셈이군요.
 
-076. TOMÁS: O senhor decidiu com o que chegou à sua mesa. Como qualquer um. A culpa é de quem fabricou.
+076. TOMÁS: O senhor decidiu com o que chegou à mesa. Como qualquer um. A culpa é de quem fabricou.
      토마스: 장관님은 책상에 올라온 걸로 결정하셨죠. 누구라도 그랬을 겁니다. 잘못은 만든 쪽에 있어요.
 
 077. REARDON: O senhor é generoso com o meu erro.
