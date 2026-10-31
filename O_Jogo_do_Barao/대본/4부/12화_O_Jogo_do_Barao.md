@@ -25,8 +25,8 @@
 002. TOMÁS: Quantos copatrocinadores?
      토마스: 공동제안국은 몇이에요?
 
-003. LUÍZA: Os vinte e quatro da Zona de Paz, todos, sem exceção. E mais a Índia, desde ontem à noite, o que muda bastante a matemática.
-     루이자: 평화지대 24개국 전부요, 하나도 빠짐없이. 그리고 어젯밤부터 인도까지. 그러면 계산이 꽤 달라지죠.
+003. LUÍZA: Os vinte e quatro da Zona de Paz, todos, sem exceção, até os que costumam faltar. E mais a Índia, desde ontem à noite, o que muda bastante a matemática do plenário.
+     루이자: 평화지대 24개국 전부요, 하나도 빠짐없이. 늘 빠지던 나라들까지. 그리고 어젯밤부터 인도까지. 그러면 본회의 계산이 꽤 달라지죠.
 
 004. MENON: Eu devia um voto, Rangel, e na Índia a gente não esquece dívida, nem pequena. Pagamos com juros. Trinta e dois países do G77 vêm junto com a gente, já confirmados por escrito.
      메논: 한 표 빚졌었죠, 랑제우. 인도에선 빚을 잊지 않아요. 작은 빚이라도요. 이자까지 쳐서 갚죠. G77 32개국이 우리와 함께 와요. 서면으로 이미 확인했어요.
@@ -64,8 +64,8 @@
 015. DITO: Doutor. O Maracanazo não. Por favor. Eu tinha um tio que nunca se recuperou, morreu falando do gol do Ghiggia.
      디투: 박사님. 마라카나소 얘긴 하지 마세요. 제발요. 끝내 못 이겨 낸 삼촌이 있었어요. 돌아가실 때까지 기지아 골 얘기를 하셨죠.
 
-016. HELENA: Dito, aliás, o que você está fazendo em Nova York?
-     엘레나: 그나저나 디투, 뉴욕엔 왜 왔어요?
+016. HELENA: Dito, aliás, o que você está fazendo em Nova York? Eu não lembro de ter visto o seu nome na lista da delegação.
+     엘레나: 그나저나 디투, 뉴욕엔 왜 왔어요? 대표단 명단에서 이름을 본 기억이 없는데.
 
 017. DITO: A dona Helena pediu um motorista de confiança, lembra? E de confiança, de verdade, nesse Itamaraty, eu sou o único que sobrou.
      디투: 엘레나 여사님이 믿을 만한 운전기사를 찾으셨잖아요, 기억나세요? 그리고 이 이타마라치에서 진짜로 믿을 만한 건 저 하나 남았고요.
@@ -90,8 +90,8 @@
 023. OKAFOR: A Guerra Fria no nosso quintal.
      오카포르: 우리 뒷마당의 냉전이었죠.
 
-024. TOMÁS: E as Malvinas, quatro anos antes, ainda frescas na memória. Um país do Norte contra um do Sul, com submarino e porta-aviões. No nosso mar.
-     토마스: 그리고 4년 전 말비나스가 아직 생생했고요. 북쪽 나라 대 남쪽 나라, 잠수함과 항공모함까지 동원해서. 우리 바다에서.
+024. TOMÁS: E as Malvinas, quatro anos antes, ainda frescas na memória de todo mundo aqui. Um país do Norte contra um do Sul, com submarino e porta-aviões. No nosso mar, a poucos dias de navio de casa.
+     토마스: 그리고 4년 전 말비나스가 여기 모두의 기억에 아직 생생했고요. 북쪽 나라 대 남쪽 나라, 잠수함과 항공모함까지 동원해서. 우리 바다에서, 배로 며칠이면 닿는 곳에서.
 
 025. SOFÍA: E aí o Brasil propôs uma zona sem armas nucleares, sem disputas de fora, com cooperação entre as duas margens. Uma ideia bonita, bo.
      소피아: 그래서 브라질이 핵무기도, 바깥의 분쟁도 없이 양쪽 해안이 협력하는 지대를 제안했지. 근사한 생각이었어.
@@ -102,8 +102,8 @@
 027. MENON: E as potências?
      메논: 강대국들은요?
 
-028. TOMÁS: Os Estados Unidos votaram contra. Disseram que uma zona regional limitava a liberdade dos mares, que o oceano não podia ter dono, nem dono coletivo.
-     토마스: 미국은 반대했어요. 지역 지대가 해양의 자유를 제한한다고, 바다엔 주인이 있을 수 없다고, 공동 주인도 안 된다고 했죠.
+028. TOMÁS: Os Estados Unidos votaram contra. Disseram que uma zona regional limitava a liberdade dos mares, que o oceano não podia ter dono, nem dono coletivo. O argumento de sempre, com gravata nova.
+     토마스: 미국은 반대했어요. 지역 지대가 해양의 자유를 제한한다고, 바다엔 주인이 있을 수 없다고, 공동 주인도 안 된다고 했죠. 늘 하던 논리에 새 넥타이만 맨 거예요.
 
 029. LUÍZA: E agora, aposto, eles vão dizer que proteger cabo limita a liberdade da internet. Eu já até sei o parágrafo de cor.
      루이자: 그리고 이번엔, 장담하는데, 케이블 보호가 인터넷의 자유를 제한한다고 하겠죠. 그 문단은 벌써 외울 정도예요.
@@ -123,8 +123,8 @@
 034. TOMÁS: Estava. Três anos ouvindo Lagos, Luanda, Brasília, cada mensagem que passava pela fibra, cada ligação de ministro. E ninguém de fora do Atlântico Sul se importou, porque não era com eles.
      토마스: 그랬죠. 3년 동안 라고스, 루안다, 브라질리아를, 광섬유를 지나는 메시지 하나하나, 장관들 통화 하나하나를 엿들었어요. 그런데 남대서양 밖에선 아무도 신경 안 썼어요. 자기 일이 아니었으니까.
 
-035. HELENA: E agora o que a gente propõe, exatamente? Em linguagem de gente, não de jurista. Pra eu saber o que estou defendendo amanhã no plenário.
-     엘레나: 그럼 정확히 뭘 제안하는 거예요? 법률가 말 말고 사람 말로요. 내일 본회의에서 내가 뭘 변호하는지 알아야죠.
+035. HELENA: E agora o que a gente propõe, exatamente? Em linguagem de gente, não de jurista. Pra eu saber o que estou defendendo amanhã no plenário, e pra eu não gaguejar se alguém perguntar.
+     엘레나: 그럼 정확히 뭘 제안하는 거예요? 법률가 말 말고 사람 말로요. 내일 본회의에서 내가 뭘 변호하는지 알아야죠. 누가 물어봐도 말 더듬지 않게.
 
 036. LUÍZA: Artigo um: inspeção conjunta das estações de chegada. Feita pelos dois países de cada ponta do cabo, juntos, com acesso igual.
      루이자: 1조: 육양국 공동 점검. 케이블 양 끝의 두 나라가 함께, 똑같은 접근 권한을 갖고 하는 거예요.
@@ -141,8 +141,8 @@
 040. MENON: Simples. Por isso vão odiar. As potências odeiam o que é simples, porque o simples não deixa espaço pra exceção.
      메논: 단순하네요. 그래서 싫어할 거예요. 강대국은 단순한 걸 싫어하죠. 단순한 건 예외가 들어갈 틈이 없으니까.
 
-041. HELENA: Tomás. Você está nervoso. Em vinte anos, eu nunca te vi nervoso.
-     엘레나: 토마스. 긴장했군요. 20년 동안 당신이 긴장한 건 처음 봐요.
+041. HELENA: Tomás. Você está nervoso. Em vinte anos, eu nunca te vi nervoso, nem em Genebra, nem no pior dia.
+     엘레나: 토마스. 긴장했군요. 20년 동안 당신이 긴장한 건 처음 봐요. 제네바에서도, 제일 나빴던 날에도.
 
 042. TOMÁS: Eu estou pensando no Sérgio Vieira de Mello.
      토마스: 세르지우 비에이라 지 멜루를 생각하고 있었어요.
@@ -192,22 +192,22 @@
 057. MENON: Um blefe triplo. Na Assembleia Geral, na frente de cento e noventa e três delegações. Você é louco, Rangel. Louco e, talvez, genial.
      메논: 3중 블러핑이라. 총회에서, 193개 대표단 앞에서. 미쳤군요, 랑제우. 미쳤고, 어쩌면 천재고.
 
-058. TOMÁS: O Barão fazia isso com Buenos Aires, Londres e Washington. Ao mesmo tempo. Com telégrafo, que demorava dias. Eu tenho celular e um corredor.
-     토마스: 남작은 부에노스아이레스, 런던, 워싱턴을 상대로 그렇게 했어요. 동시에. 며칠씩 걸리는 전신으로. 전 휴대폰이랑 복도 하나가 있잖아요.
+058. TOMÁS: O Barão fazia isso com Buenos Aires, Londres e Washington. Ao mesmo tempo. Com telégrafo, que demorava dias pra levar uma frase. Eu tenho celular e um corredor. Seria vergonha não conseguir.
+     토마스: 남작은 부에노스아이레스, 런던, 워싱턴을 상대로 그렇게 했어요. 동시에. 문장 하나 보내는 데 며칠씩 걸리는 전신으로. 전 휴대폰이랑 복도 하나가 있잖아요. 못 하면 창피한 일이죠.
 
 059. HELENA: E se uma delas ligar pra outra pra conferir?
      엘레나: 그중 하나가 다른 데 전화해서 확인하면요?
 
-060. TOMÁS: Essas três não se ligam, chanceler. Não confiam uma na outra nem pra perguntar as horas. É exatamente por isso que o blefe funciona.
-     토마스: 이 셋은 서로 전화 안 해요, 장관님. 몇 시냐고 물어볼 만큼도 서로를 안 믿어요. 그래서 블러핑이 통하는 거예요.
+060. TOMÁS: Essas três não se ligam, chanceler. Não confiam uma na outra nem pra perguntar as horas, quanto mais pra confessar o que vão fazer na segunda. É exatamente por isso que o blefe funciona.
+     토마스: 이 셋은 서로 전화 안 해요, 장관님. 몇 시냐고 물어볼 만큼도 서로를 안 믿어요. 월요일에 뭘 할지 털어놓는 건 말할 것도 없고요. 그래서 블러핑이 통하는 거예요.
 
 ### 장면2 (061~100) — 세 개의 복도
 
 061. HOLLIS: Rangel. Agora eu estou na missão da ONU, acredita? Me promoveram por causa do nosso acordo do ano passado. Ironia, né?
      홀리스: 랑제우. 이젠 UN 대표부에 있어요. 믿겨요? 작년 우리 합의 덕에 승진했죠. 아이러니하죠?
 
-062. TOMÁS: Parabéns, Megan. Então eu vou ser direto, que você gosta.
-     토마스: 축하해요, 메건. 그럼 단도직입으로 갈게요. 그걸 좋아하잖아요.
+062. TOMÁS: Parabéns, Megan, merecido. Então eu vou ser direto, que você gosta, e a gente economiza o café.
+     토마스: 축하해요, 메건. 받을 만하죠. 그럼 단도직입으로 갈게요. 그걸 좋아하잖아요. 커피값도 아끼고요.
 
 063. HOLLIS: Também vou ser. Washington vai pedir votação. A indústria de cabos não gosta do artigo dois, e a indústria tem amigos no Congresso.
      홀리스: 나도 그럴게요. 워싱턴은 표결을 요구할 거예요. 케이블 업계가 2조를 싫어하고, 업계는 의회에 친구가 많거든요.
@@ -215,8 +215,8 @@
 064. TOMÁS: Pequim não vai bloquear. Moscou também não. Se vocês pedirem votação, vão votar contra sozinhos, na frente de todo mundo.
      토마스: 베이징은 막지 않을 거예요. 모스크바도요. 표결을 요구하면 당신들 혼자 모두가 보는 앞에서 반대하게 될 거예요.
 
-065. HOLLIS: Pequim aceitou o registro de quem faz manutenção? Duvido muito.
-     홀리스: 베이징이 정비 업체 등록을 받아들였다고요? 정말 못 믿겠네요.
+065. HOLLIS: Pequim aceitou o registro de quem faz manutenção? Pequim? Duvido muito, Rangel, e você sabe por quê.
+     홀리스: 베이징이 정비 업체 등록을 받아들였다고요? 베이징이? 정말 못 믿겠네요, 랑제우. 이유는 당신도 알잖아요.
 
 066. TOMÁS: Pergunta pra eles. Mas pensa numa coisa, com calma, antes de ligar pra Washington. A Atlântida tinha clientes lá, com nome e sobrenome. Está no caderno, que agora é prova num inquérito.
      토마스: 직접 물어봐요. 하지만 워싱턴에 전화하기 전에 하나만 차분히 생각해 봐요. 아틀란치다엔 거기 고객들이 있었어요. 이름이랑 성까지 다. 공책에 있고, 그 공책은 이제 수사의 증거예요.
@@ -245,8 +245,8 @@
 074. TOMÁS: Washington não vai bloquear. Moscou também não. Se a China pedir emenda, vai ser a única, embaixador, a reabrir um texto que o Sul inteiro já fechou, na frente das delegações africanas.
      토마스: 워싱턴은 막지 않을 거예요. 모스크바도요. 중국이 수정을 요청하면, 대사님, 남반구 전체가 이미 닫은 문안을 아프리카 대표단들 앞에서 다시 여는 유일한 나라가 될 거예요.
 
-075. LIU: Os americanos aceitaram? Com a indústria deles reclamando?
-     리우: 미국이 받아들였다고요? 자국 업계가 반발하는데도?
+075. LIU: Os americanos aceitaram? Com a indústria deles reclamando no Congresso todo santo dia?
+     리우: 미국이 받아들였다고요? 자국 업계가 날마다 의회에서 반발하는데도?
 
 076. TOMÁS: Eles têm um problema com um caderno, embaixador. O senhor lembra dele. E a Atlântida, aliás, também vendeu pra Pequim.
      토마스: 그쪽은 공책 하나가 문제라서요, 대사님. 기억하시죠. 그리고 아틀란치다는 베이징에도 팔았어요.
@@ -269,8 +269,8 @@
 082. TOMÁS: Washington não vai bloquear. Pequim também não. Só Moscou pediria adiamento, e todo mundo ia ver quem segurou o Atlântico Sul.
      토마스: 워싱턴은 막지 않을 거예요. 베이징도요. 연기를 요청하는 건 모스크바뿐일 테고, 남대서양을 붙잡은 게 누군지 다들 보게 되겠죠.
 
-083. VOLKOV: Sozinhos, nós não pedimos nada, não é o nosso estilo. Mas eu não acredito que os americanos aceitaram. Não acredito mesmo.
-     볼코프: 우리 혼자선 아무것도 요청 안 해요. 우리 스타일이 아니죠. 하지만 미국이 받아들였다는 건 못 믿겠네요. 정말로요.
+083. VOLKOV: Sozinhos, nós não pedimos nada, não é o nosso estilo, nunca foi. Mas eu não acredito que os americanos aceitaram. Não acredito mesmo, senhor Rangel.
+     볼코프: 우리 혼자선 아무것도 요청 안 해요. 우리 스타일이 아니죠, 예전부터. 하지만 미국이 받아들였다는 건 못 믿겠네요. 정말로요, 랑제우 씨.
 
 084. TOMÁS: Então espera a segunda-feira. E veja quem levanta a mão.
      토마스: 그럼 월요일까지 기다리세요. 누가 손을 드는지 보시고.
@@ -308,8 +308,8 @@
 095. TOMÁS: Aí, pela primeira vez em quarenta anos, as três concordam com o Atlântico Sul. Sem saber que concordaram, e sem poder voltar atrás.
      토마스: 그럼 40년 만에 처음으로 셋이 남대서양에 동의하는 거죠. 동의한 줄도 모르고, 되돌릴 수도 없이.
 
-096. DITO: Doutor. No tempo do meu pai, lá no cais, isso se chamava "jogar com as cartas dos outros". E quem fazia isso bem, ninguém pegava.
-     디투: 박사님. 우리 아버지 시절 부두에선 그걸 "남의 패로 치기"라고 했어요. 그리고 그걸 잘하는 사람은 아무도 못 잡았죠.
+096. DITO: Doutor. No tempo do meu pai, nos corredores desta casa, isso se chamava "jogar com as cartas dos outros". E quem fazia isso bem, ninguém pegava.
+     디투: 박사님. 우리 아버지 시절 이 집 복도에선 그걸 "남의 패로 치기"라고 했어요. 그리고 그걸 잘하는 사람은 아무도 못 잡았죠.
 
 097. TOMÁS: E no tempo do Barão, Dito?
      토마스: 남작 시절엔요, 디투?
