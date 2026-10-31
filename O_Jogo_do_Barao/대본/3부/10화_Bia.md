@@ -333,7 +333,7 @@
 102. TOMÁS: Eu sei, delegada. Uma menina de quinze anos me convenceu hoje.
      토마스: 압니다, 경정님. 열다섯 살짜리가 오늘 절 설득했어요.
 
-103. PRATES: Então agradece a menina. Primeiro: a Bia sai de Brasília hoje. Com a mãe. Pra onde só eu sei.
+103. PRATES: Agradece a menina. Primeiro: a Bia sai de Brasília hoje. Com a mãe. Pra onde só eu sei.
      프라치스: 그럼 그 애한테 고마워해요. 첫째, 비아는 오늘 브라질리아를 떠나요. 엄마랑. 나만 아는 데로.
 
 104. MARINA: Nem eu vou saber até chegar?
