@@ -210,7 +210,7 @@
 062. TOMÁS: Por favor.
      토마스: 그러세요.
 
-063. ESTEVES: Vinte e dois de agosto de 2003. Eu tinha vinte e sete anos. Estava a dois quilômetros da torre.
+063. ESTEVES: Vinte e dois de agosto de 2003. Eu tinha vinte e sete anos. Estava a dois quilômetros.
      이스테비스: 2003년 8월 22일. 전 스물일곱 살이었어요. 발사탑에서 2킬로미터 떨어져 있었죠.
 
 064. LUÍZA: O VLS.
