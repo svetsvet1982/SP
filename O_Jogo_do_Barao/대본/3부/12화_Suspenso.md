@@ -258,8 +258,8 @@
 078. TOMÁS: O Senado não riu.
      토마스: 상원은 안 웃었죠.
 
-079. HOLLIS: O Senado brasileiro não tem conta em Genebra. Eu tenho. Herança de uma tia. O dia sempre antes do mês, todo extrato.
-     홀리스: 브라질 상원은 제네바 계좌가 없으니까요. 난 있어요. 이모한테 물려받았죠. 내역서마다 늘 일이 월보다 먼저예요.
+079. HOLLIS: O Senado brasileiro não tem conta em Genebra. Eu tenho. Herança de uma tia. E em todo extrato que chega, sem exceção, o dia vem antes do mês.
+     홀리스: 브라질 상원은 제네바 계좌가 없으니까요. 난 있어요. 이모한테 물려받았죠. 그리고 오는 내역서마다 예외 없이 일이 월보다 먼저예요.
 
 080. TOMÁS: Todo mundo tem uma tia em Genebra.
      토마스: 다들 제네바에 이모가 있네요.
@@ -418,8 +418,8 @@
 
 ### 마무리 (131~150) — 디투의 상자
 
-131. DITO: Chegamos. A minha garagem. Espera aqui, doutor, que eu vou buscar lá no fundo, atrás das ferramentas e das caixas de Natal da minha mulher.
-     디투: 도착했어요. 우리 집 차고예요. 여기서 기다리세요, 박사님. 저 안쪽 공구랑 집사람 크리스마스 장식 상자 뒤에서 꺼내 올게요.
+131. DITO: Chegamos. A minha garagem. Espera aqui, doutor, que eu vou buscar lá no fundo, atrás das ferramentas e das tralhas velhas que ninguém olha há anos.
+     디투: 도착했어요. 우리 집 차고예요. 여기서 기다리세요, 박사님. 저 안쪽 공구랑 몇 년째 아무도 안 보는 낡은 잡동사니 뒤에서 꺼내 올게요.
 
 132. TOMÁS: Dito, o que é isso?
      토마스: 디투, 이게 뭐예요?
@@ -451,8 +451,8 @@
 141. TOMÁS: "Recomenda-se atribuir a responsabilidade pelo vazamento ao segundo-secretário Leonardo Sá. Assinado: terceira-secretária Helena Prado."
      토마스: 「유출 책임을 2등 서기관 레오나르두 사에게 돌릴 것을 권고함. 서명: 3등 서기관 엘레나 프라두.」
 
-142. DITO: A doutora Helena. Com vinte e um anos.
-     디투: 엘레나 사무총장님이요. 스물한 살 때.
+142. DITO: A doutora Helena. Com vinte e um anos. Recém-saída do Instituto Rio Branco, ainda aprendendo o caminho dos corredores.
+     디투: 엘레나 사무총장님이요. 스물한 살 때. 히우브랑쿠 외교관 학교를 막 나와서 아직 복도 길을 익히던 때죠.
 
 143. TOMÁS: Leonardo Sá. L. S.
      토마스: 레오나르두 사. L. S.
@@ -463,8 +463,8 @@
 145. TOMÁS: Dois jovens diplomatas. Na escada do Itamaraty. Sorrindo, como quem acha que o mundo ainda vai ser deles.
      토마스: 젊은 외교관 둘. 이타마라치 계단에서. 세상이 아직 자기들 것이 될 거라 믿는 얼굴로 웃고 있네요.
 
-146. DITO: A doutora Helena. E o rapaz do lado.
-     디투: 엘레나 사무총장님. 그리고 옆에 있는 청년.
+146. DITO: A doutora Helena. E o rapaz do lado, o mais sorridente dos dois.
+     디투: 엘레나 사무총장님. 그리고 옆에 있는, 둘 중에 더 환하게 웃는 청년.
 
 147. TOMÁS: Quem é ele, Dito?
      토마스: 그 사람 누구예요, 디투?

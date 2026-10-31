@@ -20,8 +20,8 @@
 
 ### 도입 (001~020) — 약속한 별도 테이블
 
-001. TELES: Em dezembro, em Washington, o Brasil prometeu uma mesa própria pras terras raras. Separada do resto da negociação, e com licitação pública, aberta a quem quisesse participar.
-     텔리스: 12월 워싱턴에서 브라질은 희토류용 별도 테이블을 약속했어요. 나머지 협상과 분리해서, 누구든 참여할 수 있는 공개 입찰로요.
+001. TELES: Em dezembro, em Washington, o Brasil prometeu uma mesa própria pras terras raras. Separada do resto da negociação, e com licitação pública, aberta a quem quisesse participar, sem acordo fechado por baixo da mesa.
+     텔리스: 12월 워싱턴에서 브라질은 희토류용 별도 테이블을 약속했어요. 나머지 협상과 분리해서, 누구든 참여할 수 있는 공개 입찰로요. 테이블 밑에서 미리 짜 놓은 합의 없이.
 
 002. TOMÁS: Em janeiro, Teles. A promessa era pra janeiro. Já estamos em abril.
      토마스: 1월이었죠, 텔리스. 약속은 1월이었어요. 벌써 4월이에요.
@@ -41,8 +41,8 @@
 007. VERA: Não se vende crua. Foi o que ele quis dizer, e é o que a gente vai dizer que ele disse. Agora a gente precisa transformar essa frase de palanque num edital de verdade.
      베라: 원광으로는 안 판다는 뜻이었어요. 그분이 그런 뜻이었다고 우리가 말할 거고요. 이제 그 유세장 문장을 진짜 입찰 공고로 바꿔야 해요.
 
-008. TELES: O problema é que ninguém no Brasil sabe separar terra rara em escala industrial. Ninguém. Em laboratório, sim, a gente faz; numa fábrica, de tonelada em tonelada, não.
-     텔리스: 문제는 브라질에 희토류를 산업 규모로 분리할 줄 아는 데가 없다는 거예요. 하나도요. 실험실에선 해요. 그런데 공장에서 톤 단위로는 못 해요.
+008. TELES: O problema é que ninguém no Brasil sabe separar terra rara em escala industrial. Ninguém. Em laboratório, sim, a gente faz, e faz bem; numa fábrica, de tonelada em tonelada, todo dia, não.
+     텔리스: 문제는 브라질에 희토류를 산업 규모로 분리할 줄 아는 데가 없다는 거예요. 하나도요. 실험실에선 해요, 잘하기도 하고요. 그런데 공장에서 매일 톤 단위로는 못 해요.
 
 009. LUÍZA: Quem sabe?
      루이자: 누가 알아요?
@@ -62,8 +62,8 @@
 014. TOMÁS: Em salas diferentes?
      토마스: 다른 방에서요?
 
-015. VERA: Em salas diferentes. E nenhum deles pode cruzar com o outro no corredor, nem no elevador, nem no banheiro.
-     베라: 다른 방에서요. 그리고 누구도 복도에서, 엘리베이터에서, 화장실에서 마주치면 안 돼요.
+015. VERA: Em salas diferentes, com café diferente e porta diferente. E nenhum deles pode cruzar com o outro no corredor, nem no elevador, nem no banheiro.
+     베라: 다른 방에서요. 커피도 따로, 문도 따로. 그리고 누구도 복도에서, 엘리베이터에서, 화장실에서 마주치면 안 돼요.
 
 016. DITO: Deixa comigo, doutor. Já fiz isso com árabe e israelense no tempo do Azeredo. Um subia pela escada de serviço, o outro pelo elevador, e eu no meio cronometrando. Ninguém se viu.
      디투: 저한테 맡기세요, 박사님. 아제레두 장관 시절에 아랍 사람이랑 이스라엘 사람으로 해 봤어요. 하나는 직원용 계단으로, 하나는 엘리베이터로 올리고, 저는 가운데서 시간을 쟀죠. 아무도 안 마주쳤어요.
@@ -121,8 +121,8 @@
 033. TOMÁS: O Itamaraty não tem segredo pro senhor, conselheiro.
      토마스: 이타마라치는 참사관님께 비밀이 없죠.
 
-034. LIU: O Itamaraty tem segredos, ministro, mas o corredor tem janelas. Então vou direto à proposta: a China compra tudo. Toda a produção. Preço de mercado mais dez por cento.
-     리우: 이타마라치엔 비밀이 많죠, 외교관님. 하지만 복도엔 창문이 있어요. 그러니 바로 제안으로 가겠습니다. 중국은 전량을 삽니다. 생산량 전부. 시장가에 10퍼센트 얹어서.
+034. LIU: O Itamaraty tem segredos, ministro, mas o corredor tem janelas. Então vou direto à proposta, sem rodeios: a China compra tudo. Toda a produção. Preço de mercado mais dez por cento.
+     리우: 이타마라치엔 비밀이 많죠, 외교관님. 하지만 복도엔 창문이 있어요. 그러니 돌려 말하지 않고 바로 제안으로 가겠습니다. 중국은 전량을 삽니다. 생산량 전부. 시장가에 10퍼센트 얹어서.
 
 035. TELES: Tudo? Concentrado?
      텔리스: 전부요? 정광으로요?
@@ -237,7 +237,7 @@
 071. MORI: Com uma diferença. Dessa vez, o óxido fica com quem ensinou também. Uma parte, pelo menos. Aprendemos com a soja.
      모리: 하나 다른 점이 있습니다. 이번엔 가르친 쪽도 산화물을 갖는 겁니다. 적어도 일부는. 대두에서 배웠습니다.
 
-072. TOMÁS: Então temos três peças, Teles. O americano tem dinheiro. O japonês tem tecnologia. O chinês tem o mercado. Nenhum deles tem tudo, e isso é o que nos salva.
+072. TOMÁS: Então temos três peças, Teles. O americano tem dinheiro. O japonês tem tecnologia. O chinês tem o mercado. Nenhum deles tem tudo, e é exatamente isso que nos salva.
      토마스: 그럼 조각이 셋이네요, 텔리스. 미국은 돈, 일본은 기술, 중국은 시장. 누구도 전부를 갖고 있진 않아요. 그게 우릴 살리는 거고요.
 
 073. TELES: E nenhum quer exatamente a mesma coisa que o outro.
@@ -276,8 +276,8 @@
 084. TOMÁS: Assim cada um entra com o que tem. O americano financia. O japonês ensina. O chinês compra a parte dele. E ninguém sai com a sensação de ter perdido tudo.
      토마스: 그럼 각자 가진 걸로 들어오는 거죠. 미국은 돈을 대고, 일본은 가르치고, 중국은 자기 몫을 사고. 그리고 다 잃었다는 기분으로 나가는 사람은 없고요.
 
-085. VERA: E o presidente pode subir no palanque e dizer que a terra rara não saiu crua.
-     베라: 그리고 대통령은 연단에 올라 희토류가 날것으로 나가지 않았다고 말할 수 있고요.
+085. VERA: E o presidente pode subir no palanque e dizer, sem mentir, que a terra rara não saiu crua do Brasil.
+     베라: 그리고 대통령은 연단에 올라, 거짓말 하나 없이, 희토류가 날것으로 브라질을 떠나지 않았다고 말할 수 있고요.
 
 086. TOMÁS: Nem um grama.
      토마스: 1그램도요.
@@ -300,8 +300,8 @@
 092. TELES: Como?
      텔리스: 어떻게요?
 
-093. TOMÁS: A gente coloca o mesmo número falso numa planilha do Ministério de Minas. Uma daquelas que vazam fácil, que circulam por e-mail sem ninguém perguntar de onde vieram.
-     토마스: 그 가짜 숫자를 광물에너지부 스프레드시트에도 넣는 거죠. 잘 새는 그런 거요. 어디서 왔는지 아무도 묻지 않고 이메일로 돌아다니는 거.
+093. TOMÁS: A gente coloca o mesmo número falso, com os mesmos centavos, numa planilha do Ministério de Minas. Uma daquelas que vazam fácil, que circulam por e-mail sem ninguém perguntar de onde vieram.
+     토마스: 그 가짜 숫자를 센트까지 똑같이 광물에너지부 스프레드시트에도 넣는 거죠. 잘 새는 그런 거요. 어디서 왔는지 아무도 묻지 않고 이메일로 돌아다니는 거.
 
 094. LUÍZA: Duas fontes confirmando a mesma mentira.
      루이자: 같은 거짓말을 확인해 주는 출처 둘.
@@ -374,8 +374,8 @@
 116. TOMÁS: Mais ou menos?
      토마스: 그럭저럭이요?
 
-117. WHITCOMB: Quarenta por cento, não setenta. E óxido, não concentrado. Não é o que eu prometi em Washington. Mas pelo menos não foi a China, e isso, lá, vale muito.
-     휘트컴: 70이 아니라 40퍼센트. 정광이 아니라 산화물. 내가 워싱턴에 약속한 건 아니죠. 그래도 적어도 중국은 아니었고, 거기선 그게 아주 큰 의미예요.
+117. WHITCOMB: Quarenta por cento, não setenta. E óxido, não concentrado. Não é o que eu prometi ao meu chefe em Washington. Mas pelo menos não foi a China, e isso, lá, vale muito.
+     휘트컴: 70이 아니라 40퍼센트. 정광이 아니라 산화물. 내가 워싱턴에서 상관한테 약속한 건 아니죠. 그래도 적어도 중국은 아니었고, 거기선 그게 아주 큰 의미예요.
 
 118. LIU: Ministro Rangel. Parabéns. A China compra a sua parte. Vinte por cento. Devagar, como eu disse.
      리우: 랑제우 외교관님. 축하드립니다. 중국은 자기 몫을 삽니다. 20퍼센트. 말씀드렸듯이, 천천히.
@@ -383,8 +383,8 @@
 119. TOMÁS: E os navios, conselheiro?
      토마스: 그럼 배는요, 참사관님?
 
-120. LIU: Os navios chegam no horário. Por enquanto.
-     리우: 배는 제시간에 도착합니다. 당분간은.
+120. LIU: Os navios chegam no horário, ministro. Por enquanto.
+     리우: 배는 제시간에 도착합니다, 외교관님. 당분간은.
 
 121. MORI: Senhor Rangel. O Japão agradece. Em dez anos, o Brasil vai separar terra rara melhor que nós. Eu acredito nisso. Meu pai acreditaria também.
      모리: 랑제우 씨. 일본이 감사드립니다. 10년이면 브라질이 우리보다 희토류를 잘 분리할 겁니다. 저는 그렇게 믿습니다. 아버지도 그렇게 믿으셨을 겁니다.
@@ -424,8 +424,8 @@
 132. TOMÁS: Fala.
      토마스: 말해요.
 
-133. PRATES: A Aurum foi criada há três meses, em Delaware. Nunca minerou nada. Nunca comprou nada. Não tem funcionário, não tem site, não tem nada além de um endereço.
-     프라치스: 아우룸은 석 달 전에 델라웨어에서 설립됐어요. 채굴한 적도, 산 적도 없어요. 직원도 없고, 웹사이트도 없고, 주소 하나 말곤 아무것도 없어요.
+133. PRATES: A Aurum foi criada há três meses, em Delaware. Nunca minerou nada. Nunca comprou nada. Não tem funcionário, não tem site, não tem nada além de um endereço numa caixa postal.
+     프라치스: 아우룸은 석 달 전에 델라웨어에서 설립됐어요. 채굴한 적도, 산 적도 없어요. 직원도 없고, 웹사이트도 없고, 사서함 주소 하나 말곤 아무것도 없어요.
 
 134. LUÍZA: Uma empresa de fachada. Feita pra participar de um leilão só.
      루이자: 유령 회사네요. 입찰 하나에 참여하려고 만든.
@@ -439,8 +439,8 @@
 137. LUÍZA: Ele usou uma empresa dele pra perder o leilão de propósito?
      루이자: 자기 회사로 일부러 입찰에서 졌다고요?
 
-138. TOMÁS: Pra gente achar que o canal do Caio funciona. Pra gente acreditar que ele engoliu o número falso, e que o memorando da soja foi só um acidente.
-     토마스: 우리가 카이우 채널이 작동한다고 믿게 하려고요. 그 사람이 가짜 숫자를 삼켰고, 대두 메모는 그냥 사고였다고 믿게.
+138. TOMÁS: Pra gente achar que o canal do Caio funciona perfeitamente. Pra gente acreditar que ele engoliu o número falso, e que o memorando da soja foi só um acidente.
+     토마스: 우리가 카이우 채널이 완벽하게 작동한다고 믿게 하려고요. 그 사람이 가짜 숫자를 삼켰고, 대두 메모는 그냥 사고였다고 믿게.
 
 139. TELES: Ele sacrificou uma peça.
      텔리스: 말 하나를 희생했군요.

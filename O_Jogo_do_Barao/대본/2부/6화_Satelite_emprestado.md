@@ -204,8 +204,8 @@
 
 ### 장면2 (061~100) — 알칸타라의 상처, 인도의 전화
 
-061. ESTEVES: Doutor Rangel, posso falar não como diretor, mas como servidor que trabalha lá em Alcântara há vinte anos?
-     이스테비스: 랑제우 박사님, 국장이 아니라 알칸타라에서 20년 일한 공무원으로서 말씀드려도 될까요?
+061. ESTEVES: Doutor Rangel, posso falar não como diretor, mas como servidor que trabalha lá em Alcântara há quase trinta anos?
+     이스테비스: 랑제우 박사님, 국장이 아니라 알칸타라에서 30년 가까이 일한 공무원으로서 말씀드려도 될까요?
 
 062. TOMÁS: Por favor.
      토마스: 그러세요.
