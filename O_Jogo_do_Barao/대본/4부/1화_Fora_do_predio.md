@@ -475,5 +475,5 @@
 149. ROSA: No seu. Ou o seu governo voltou a nos espionar, ou alguém espiona os dois. Quero saber qual.
      로사: 당신 거요. 그러니까 당신네 정부가 다시 파라과이를 염탐하든지, 누군가 둘 다 염탐하든지. 어느 쪽인지 알고 싶어요.
 
-150. ROSA: O Anexo C vence em dezembro. E o seu governo mente pra nós de novo. Ou alguém mente por ele.
-     로사: 부속서 C는 12월에 만료돼요. 그리고 당신네 정부가 또 우리한테 거짓말하고 있어요. 아니면 누군가 정부 대신 거짓말하고 있거나.
+150. ROSA: O Anexo C vence em dezembro. E o seu governo mente de novo. Ou alguém mente por ele.
+     로사: 부속서 C는 12월에 만료돼요. 그리고 당신네 정부가 또 거짓말하고 있어요. 아니면 누군가 정부 대신 거짓말하고 있거나.
