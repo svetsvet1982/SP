@@ -323,7 +323,7 @@
 099. TOMÁS: A gente escreve uma posição falsa. Dura. Sem nenhuma oferta sobre o Pix.
      토마스: 가짜 입장을 쓸게. 강경한 걸로. Pix에 관해선 아무 제안도 없는.
 
-100. TOMÁS: Aí, quando a gente oferecer o grupo de trabalho, a Hollis vai achar que ganhou mais que o esperado.
+100. TOMÁS: Aí, quando a gente oferecer o grupo, a Hollis vai achar que ganhou mais que o esperado.
      토마스: 그럼 내일 우리가 실무그룹을 제안할 때 홀리스는 기대 이상을 얻었다고 생각하겠지.
 
 ### 절정·반전 (101~130) — 다음 날 아침 9시
