@@ -20,8 +20,8 @@
 
 ### 도입 (001~020) — 상자 전부
 
-001. LUÍZA: A caixa inteira, Tomás. Do jeito que a Helena pediu, documento por documento, sem pular nada. Você está pronto?
-     루이자: 상자 전부예요, 토마스. 엘레나가 요구한 대로, 문서 하나하나, 하나도 건너뛰지 않고. 준비됐어요?
+001. LUÍZA: A caixa inteira, Tomás. Do jeito que a Helena pediu, documento por documento, sem pular nada. Você está pronto? Porque, depois que a gente abre, não tem mais como fingir que não viu.
+     루이자: 상자 전부예요, 토마스. 엘레나가 요구한 대로, 문서 하나하나, 하나도 건너뛰지 않고. 준비됐어요? 일단 열고 나면 못 본 척할 수 없으니까요.
 
 002. TOMÁS: Não. Abre.
      토마스: 아니요. 열어요.
@@ -29,8 +29,8 @@
 003. DITO: Então eu vou fazer um café, e dos fortes, porque isso aqui vai demorar. Trinta e sete anos não se lê numa sentada só.
      디투: 그럼 커피 탈게요, 아주 진하게. 이건 오래 걸리겠네요. 37년 치를 한자리에서 다 읽을 순 없으니까.
 
-004. LUÍZA: Primeiro documento. Um telegrama da embaixada em Washington, agosto de noventa, classificado como "secreto". O papel já está amarelo, mas dá pra ler tudo.
-     루이자: 첫 번째 문서. 워싱턴 대사관 전문, 90년 8월, "비밀" 등급. 종이는 누렇게 바랬지만 전부 읽을 수 있어요.
+004. LUÍZA: Primeiro documento. Um telegrama da embaixada em Washington, agosto de noventa, classificado como "secreto". O papel já está amarelo, mas dá pra ler tudo. Alguém guardou isso com muito cuidado, dobrado em três.
+     루이자: 첫 번째 문서. 워싱턴 대사관 전문, 90년 8월, "비밀" 등급. 종이는 누렇게 바랬지만 전부 읽을 수 있어요. 누군가 아주 조심스럽게, 세 번 접어서 보관했어요.
 
 005. TOMÁS: "Fontes deste governo demonstram conhecimento detalhado das centrífugas de Aramar. Número, modelo e localização. Informação só pode ter origem interna brasileira."
      토마스: 「이곳 정부 소식통이 아라마르 원심분리기를 상세히 알고 있음. 수량, 모델, 위치. 정보는 브라질 내부에서만 나왔을 수 있음.」
@@ -38,17 +38,17 @@
 006. LUÍZA: Aramar, o centro da Marinha em Iperó, onde fizeram as centrífugas do programa paralelo. O mesmo programa do poço da Serra do Cachimbo, que um jornal revelou em oitenta e seis.
      루이자: 아라마르. 이페루에 있는 해군 센터요. 비밀 프로그램 원심분리기를 만든 데죠. 86년에 한 신문이 폭로한 카심부 산맥 갱도와 같은 프로그램이고요.
 
-007. TOMÁS: E os americanos sabiam de tudo, em noventa. Enquanto aqui a gente ainda fingia que não tinha nada pra saber.
-     토마스: 그리고 90년에 미국은 다 알고 있었네요. 여기선 우리가 아직 알 게 아무것도 없는 척하고 있었는데.
+007. TOMÁS: E os americanos sabiam de tudo, em noventa. Enquanto aqui a gente ainda fingia que não tinha nada pra saber. Engraçado como o segredo de um país às vezes é segredo só pros próprios cidadãos.
+     토마스: 그리고 90년에 미국은 다 알고 있었네요. 여기선 우리가 아직 알 게 아무것도 없는 척하고 있었는데. 한 나라의 비밀이 때로는 자기 국민한테만 비밀이라는 게 참 묘하죠.
 
-008. LUÍZA: Segundo documento. Uma investigação interna do Itamaraty, aberta em setembro, logo depois do telegrama. Três suspeitos.
-     루이자: 두 번째 문서. 이타마라치 내부 조사, 전문 직후인 9월에 시작됐어요. 용의자 셋.
+008. LUÍZA: Segundo documento. Uma investigação interna do Itamaraty, aberta em setembro, logo depois do telegrama. Três suspeitos. Tudo datilografado, com carimbo de confidencial em cada página.
+     루이자: 두 번째 문서. 이타마라치 내부 조사, 전문 직후인 9월에 시작됐어요. 용의자 셋. 전부 타자로 쳤고, 페이지마다 대외비 도장이 찍혀 있어요.
 
 009. TOMÁS: Quem?
      토마스: 누구요?
 
-010. LUÍZA: Um conselheiro, o mais antigo da divisão. Um segundo-secretário chamado Leonardo Sá. E uma terceira-secretária chamada Helena Prado.
-     루이자: 참사관 한 명, 그 과에서 제일 고참이었어요. 레오나르두 사라는 2등 서기관. 그리고 엘레나 프라두라는 3등 서기관.
+010. LUÍZA: Um conselheiro, o mais antigo da divisão. Um segundo-secretário chamado Leonardo Sá. E uma terceira-secretária chamada Helena Prado. Os três tinham acesso aos telegramas de Washington naquele mês.
+     루이자: 참사관 한 명, 그 과에서 제일 고참이었어요. 레오나르두 사라는 2등 서기관. 그리고 엘레나 프라두라는 3등 서기관. 셋 다 그달 워싱턴 전문에 접근할 수 있었어요.
 
 011. TOMÁS: "A investigação não pôde determinar a origem. Recomenda-se, por razões de Estado, encerrar o caso com a responsabilização de um servidor."
      토마스: 「조사로는 출처를 특정할 수 없었음. 국가적 이유로, 직원 한 명에게 책임을 지워 사건을 종결할 것을 권고함.」
@@ -56,8 +56,8 @@
 012. DITO: Responsabilização de um servidor. Isso aí, no português da rua, quer dizer escolher um culpado, doutor, qualquer um, desde que caiba no papel.
      디투: 직원 한 명에게 책임을. 그거 길거리 말로 하면 범인 하나 고르라는 거예요, 박사님. 서류에만 맞으면 아무나.
 
-013. LUÍZA: E o terceiro documento é o que você já leu. O relatório assinado por ela, escolhendo o Sá.
-     루이자: 세 번째 문서는 이미 읽은 거예요. 그분이 서명한 보고서, 사를 고르는.
+013. LUÍZA: E o terceiro documento é o que você já leu. O relatório assinado por ela, escolhendo o Sá. Com a sua letra, Tomás, você reconheceu na hora.
+     루이자: 세 번째 문서는 이미 읽은 거예요. 그분이 서명한 보고서, 사를 고르는. 당신도 그 필체를 바로 알아봤잖아요, 토마스.
 
 014. TOMÁS: E o quarto?
      토마스: 네 번째는요?
@@ -68,8 +68,8 @@
 016. TOMÁS: M. L.
      토마스: M. L.
 
-017. DITO: Mário Leitão. O Secretário-Geral daquela época. Eu dirigia pra ele, doutor, e ele nunca me deu bom-dia, nem uma vez.
-     디투: 마리우 레이탕. 그 시절 사무총장이요. 제가 그분 운전을 했어요, 박사님. 그런데 아침 인사 한 번 안 해 주셨죠.
+017. DITO: Mário Leitão. O Secretário-Geral daquela época. Eu dirigia pra ele, doutor, e ele nunca me deu bom-dia, nem uma vez. Mas eu sabia o horário dele melhor que a própria secretária.
+     디투: 마리우 레이탕. 그 시절 사무총장이요. 제가 그분 운전을 했어요, 박사님. 그런데 아침 인사 한 번 안 해 주셨죠. 그래도 그분 일정은 비서보다 제가 더 잘 알았어요.
 
 018. LUÍZA: Então a Helena não escolheu o culpado. Ela recebeu a ordem de escolher, o que é bem diferente, pelo menos pra um tribunal.
      루이자: 그럼 엘레나가 범인을 고른 게 아니네요. 고르라는 명령을 받은 거지. 적어도 법정에선 그건 꽤 다른 얘기예요.
@@ -77,31 +77,31 @@
 019. TOMÁS: Com vinte e um anos. Do homem mais poderoso da casa. Eu queria ver quem, naquela idade, teria coragem de dizer não.
      토마스: 스물한 살에. 이 집에서 가장 힘센 사람한테서. 그 나이에 아니라고 말할 용기가 있는 사람이 누군지 보고 싶네요.
 
-020. DITO: E ele ainda é vivo, doutor? O Leitão?
-     디투: 그분 아직 살아 계세요, 박사님? 레이탕?
+020. DITO: E ele ainda é vivo, doutor? O Leitão? Porque, se for, eu tenho umas perguntas pra ele.
+     디투: 그분 아직 살아 계세요, 박사님? 레이탕? 살아 계시면 여쭤볼 게 좀 있거든요.
 
 ### 장면1 (021~060) — 프랑스의 조건
 
 021. LUÍZA: Morreu em dois mil e onze. Embaixador aposentado, com medalha e tudo, e um obituário de meia página dizendo que ele era um servidor exemplar.
      루이자: 2011년에 돌아가셨어요. 은퇴한 대사로, 훈장까지 받고. 모범적인 공직자였다는 반 페이지짜리 부고와 함께.
 
-022. DUFRESNE: Monsieur Rangel. O senhor parece não ter dormido, e me perdoe a franqueza, mas a sua gravata está do avesso.
-     뒤프렌: 랑제우 씨. 잠을 못 잔 얼굴이네요. 솔직해서 미안하지만, 넥타이도 뒤집혀 있어요.
+022. DUFRESNE: Monsieur Rangel. O senhor parece não ter dormido, e me perdoe a franqueza, mas a sua gravata está do avesso. Eu conheço esse olhar; é o de quem descobriu alguma coisa que não queria saber.
+     뒤프렌: 랑제우 씨. 잠을 못 잔 얼굴이네요. 솔직해서 미안하지만, 넥타이도 뒤집혀 있어요. 그 눈빛 알아요. 알고 싶지 않던 걸 알아 버린 사람의 눈빛이죠.
 
-023. TOMÁS: Eu li uma caixa de mil novecentos e noventa a noite inteira, madame. A gravata foi a menor das vítimas.
-     토마스: 밤새 1990년 상자를 읽었어요, 뒤프렌 씨. 넥타이는 피해 중에 제일 작은 거예요.
+023. TOMÁS: Eu li uma caixa de mil novecentos e noventa a noite inteira, madame. A gravata foi a menor das vítimas. A primeira foi a minha confiança numa pessoa.
+     토마스: 밤새 1990년 상자를 읽었어요, 뒤프렌 씨. 넥타이는 피해 중에 제일 작은 거예요. 첫 번째 피해는 한 사람에 대한 제 신뢰였고요.
 
-024. DUFRESNE: Que coincidência curiosa. Porque eu vim justamente falar de um assunto que começou em noventa.
-     뒤프렌: 묘한 우연이네요. 저도 마침 90년에 시작된 일 얘기하러 왔거든요.
+024. DUFRESNE: Que coincidência curiosa. Porque eu vim justamente falar de um assunto que começou em noventa. E que, pelo visto, também não acabou em noventa.
+     뒤프렌: 묘한 우연이네요. 저도 마침 90년에 시작된 일 얘기하러 왔거든요. 보아하니 90년에 끝나지도 않은 일이고요.
 
 025. TOMÁS: Em diplomacia não existe coincidência.
      토마스: 외교에 우연은 없죠.
 
-026. DUFRESNE: O senhor aprendeu bem. Então vou direto: o submarino nuclear. Paris tem uma condição nova, e ela não é negociável.
-     뒤프렌: 잘 배우셨네요. 그럼 바로 말할게요. 핵잠수함 얘기예요. 파리에 새 조건이 생겼고, 협상 대상이 아니에요.
+026. DUFRESNE: O senhor aprendeu bem. Então vou direto: o submarino nuclear. Paris tem uma condição nova, e ela não é negociável. Eu prefiro dizer isso logo, em vez de fingir que estamos conversando sobre o tempo.
+     뒤프렌: 잘 배우셨네요. 그럼 바로 말할게요. 핵잠수함 얘기예요. 파리에 새 조건이 생겼고, 협상 대상이 아니에요. 날씨 얘기하는 척하느니 바로 말하는 게 낫겠어요.
 
-027. TOMÁS: Eu estou afastado, madame. Quem decide submarino é a Marinha; a senhora devia falar com eles, não comigo.
-     토마스: 전 정지 상태예요, 뒤프렌 씨. 잠수함은 해군이 결정하죠. 제가 아니라 그쪽이랑 얘기하셔야죠.
+027. TOMÁS: Eu estou afastado, madame. Quem decide submarino é a Marinha; a senhora devia falar com eles, não comigo. Hoje eu não represento nem a mim mesmo, oficialmente.
+     토마스: 전 정지 상태예요, 뒤프렌 씨. 잠수함은 해군이 결정하죠. 제가 아니라 그쪽이랑 얘기하셔야죠. 오늘 전 공식적으로는 저 자신도 대표하지 못해요.
 
 028. DUFRESNE: Eu falei. A Marinha disse não, educadamente, mas disse. Por isso eu vim falar com quem costuma transformar "não" em outra coisa.
      뒤프렌: 했어요. 해군이 안 된대요. 정중하게, 하지만 분명히. 그래서 "아니요"를 다른 걸로 바꾸곤 하는 사람한테 온 거예요.
@@ -118,11 +118,11 @@
 032. DUFRESNE: Exatamente. Quando o submarino está no mar, o combustível dele sai das inspeções normais por meses. É uma brecha prevista nas regras, e a França precisa de uma garantia pra essa brecha.
      뒤프렌: 바로 그거예요. 잠수함이 바다에 나가 있으면 그 연료는 몇 달씩 일반 사찰에서 빠지죠. 규정에 있는 틈이에요. 프랑스엔 그 틈에 대한 보장이 필요해요.
 
-033. TOMÁS: Garantia de que o Brasil não vai desviar urânio pra fazer uma bomba.
-     토마스: 브라질이 우라늄을 빼돌려 폭탄을 만들지 않는다는 보장이요.
+033. TOMÁS: Garantia de que o Brasil não vai desviar urânio pra fazer uma bomba. Pode falar a palavra, madame, aqui ninguém vai desmaiar.
+     토마스: 브라질이 우라늄을 빼돌려 폭탄을 만들지 않는다는 보장이요. 그 단어 말씀하셔도 돼요, 뒤프렌 씨. 여기 기절할 사람 없어요.
 
-034. DUFRESNE: Foi o senhor quem disse, não eu. Eu sou mais educada.
-     뒤프렌: 당신이 말한 거예요, 제가 아니라. 전 그보다 예의 바르고요.
+034. DUFRESNE: Foi o senhor quem disse, não eu. Eu sou mais educada. Mas, sim, é exatamente isso.
+     뒤프렌: 당신이 말한 거예요, 제가 아니라. 전 그보다 예의 바르고요. 하지만 네, 정확히 그거예요.
 
 035. TOMÁS: E se o Brasil não assinar?
      토마스: 브라질이 서명 안 하면요?
@@ -133,8 +133,8 @@
 037. TOMÁS: Isso é uma ameaça, madame.
      토마스: 그건 협박이에요, 뒤프렌 씨.
 
-038. DUFRESNE: É engenharia, monsieur. Na França, as duas coisas às vezes se parecem.
-     뒤프렌: 공학이죠. 프랑스에선 가끔 둘이 비슷해 보여요.
+038. DUFRESNE: É engenharia, monsieur. Na França, as duas coisas às vezes se parecem. E os engenheiros franceses são muito, muito precisos.
+     뒤프렌: 공학이죠. 프랑스에선 가끔 둘이 비슷해 보여요. 그리고 프랑스 엔지니어들은 아주, 아주 정확하죠.
 
 039. TOMÁS: Mas por que agora? O acordo de cooperação é de dois mil e oito. Vocês tiveram quase vinte anos pra levantar essa condição.
      토마스: 그런데 왜 지금이죠? 협력 협정은 2008년 거잖아요. 그 조건을 꺼낼 시간이 20년 가까이 있었는데.
@@ -154,11 +154,11 @@
 044. DUFRESNE: A consultoria brasileira de sempre. E com uma nota, numa frase só: "O Brasil já mentiu sobre urânio. Por que não de novo?"
      뒤프렌: 늘 그 브라질 컨설팅사요. 메모 한 줄과 함께. "브라질은 우라늄에 대해 이미 거짓말했다. 왜 또 안 하겠나?"
 
-045. LUÍZA: Ele está usando a caixa contra o Brasil. Contra o próprio país que um dia ele serviu.
-     루이자: 그 사람이 그 상자를 브라질에 불리하게 쓰고 있어요. 한때 자기가 섬기던 나라에.
+045. LUÍZA: Ele está usando a caixa contra o Brasil. Contra o próprio país que um dia ele serviu. E ele sabe exatamente onde a ferida está.
+     루이자: 그 사람이 그 상자를 브라질에 불리하게 쓰고 있어요. 한때 자기가 섬기던 나라에. 그리고 상처가 어디 있는지 정확히 알고요.
 
-046. TOMÁS: Ele tem uma cópia da caixa. Desde noventa, provavelmente, e esperou trinta e sete anos pela hora certa de usar.
-     토마스: 그 사람은 상자 사본을 갖고 있어요. 아마 90년부터요. 그리고 쓸 때를 37년 동안 기다린 거죠.
+046. TOMÁS: Ele tem uma cópia da caixa. Desde noventa, provavelmente, e esperou trinta e sete anos pela hora certa de usar. Isso não é improviso, é paciência de quem planeja a vingança como quem planta árvore.
+     토마스: 그 사람은 상자 사본을 갖고 있어요. 아마 90년부터요. 그리고 쓸 때를 37년 동안 기다린 거죠. 이건 즉흥이 아니에요. 나무 심듯 복수를 계획하는 사람의 인내죠.
 
 047. DUFRESNE: Que caixa?
      뒤프렌: 무슨 상자요?
@@ -169,11 +169,11 @@
 049. ALMIRANTE: Rangel? Almirante Cardoso. A francesa me disse ontem que você ia aparecer aqui, e eu, sinceramente, não acreditei. Afastado costuma ficar em casa.
      제독: 랑제우? 카르도주 제독이오. 그 프랑스 여자가 어제 당신이 여기 나타날 거라고 했는데, 솔직히 안 믿었지. 정지된 사람은 보통 집에 있으니까.
 
-050. TOMÁS: Almirante. Eu vim sem convite, peço desculpas. Afastado não recebe convite.
-     토마스: 제독님. 초대 없이 왔습니다, 죄송해요. 정지된 사람은 초대를 못 받아서요.
+050. TOMÁS: Almirante. Eu vim sem convite, peço desculpas. Afastado não recebe convite. Mas trouxe uma ideia, e às vezes isso abre mais portas que um convite.
+     토마스: 제독님. 초대 없이 왔습니다, 죄송해요. 정지된 사람은 초대를 못 받아서요. 하지만 아이디어를 하나 가져왔어요. 그게 때로는 초대장보다 더 많은 문을 열죠.
 
-051. ALMIRANTE: E vem falar de submarino. Na minha sala, debaixo do meu quadro da Marinha.
-     제독: 그러고는 내 방에서, 해군 그림 아래서 잠수함 얘기를 하겠다고.
+051. ALMIRANTE: E vem falar de submarino. Na minha sala, debaixo do meu quadro da Marinha. Você tem coragem, eu admito, ou falta de juízo.
+     제독: 그러고는 내 방에서, 해군 그림 아래서 잠수함 얘기를 하겠다고. 배짱이 있군, 인정하오. 아니면 분별이 없거나.
 
 052. TOMÁS: De combustível de submarino.
      토마스: 잠수함 연료 얘기요.
@@ -184,14 +184,14 @@
 054. TOMÁS: Só que a agência atômica não é estrangeira, almirante. É internacional, e o Brasil é membro dela, vota nela, paga a conta dela.
      토마스: 그런데 원자력기구는 외국이 아닙니다, 제독님. 국제기구죠. 브라질도 회원국이고, 투표도 하고, 분담금도 내요.
 
-055. ALMIRANTE: Internacional é o nome bonito que se dá pros americanos olharem por cima do nosso ombro.
-     제독: 국제라는 건 미국이 우리 어깨 너머로 들여다보는 걸 예쁘게 부르는 이름이오.
+055. ALMIRANTE: Internacional é o nome bonito que se dá pros americanos olharem por cima do nosso ombro. Eu passei a carreira inteira vendo isso acontecer.
+     제독: 국제라는 건 미국이 우리 어깨 너머로 들여다보는 걸 예쁘게 부르는 이름이오. 난 경력 내내 그런 일을 지켜봤소.
 
-056. TOMÁS: O senhor tem trauma dos americanos, almirante?
-     토마스: 미국에 대한 트라우마가 있으세요, 제독님?
+056. TOMÁS: O senhor tem trauma dos americanos, almirante? Pergunto sem ironia, porque eu também teria.
+     토마스: 미국에 대한 트라우마가 있으세요, 제독님? 비꼬는 게 아니라, 저라도 그랬을 테니까요.
 
-057. ALMIRANTE: A Marinha inteira tem. Desde setenta e cinco.
-     제독: 해군 전체가 그렇소. 75년부터.
+057. ALMIRANTE: A Marinha inteira tem. Desde setenta e cinco. E não é um trauma bobo, Rangel, é memória institucional.
+     제독: 해군 전체가 그렇소. 75년부터. 그리고 그건 하찮은 트라우마가 아니오, 랑제우. 조직의 기억이지.
 
 058. TOMÁS: O acordo com a Alemanha.
      토마스: 독일과의 협정이요.
@@ -237,20 +237,20 @@
 071. ALMIRANTE: Feitas por engenheiros brasileiros, peça por peça, sem uma única planta estrangeira. Muitos deles nunca puderam contar pra família o que faziam no trabalho.
      제독: 브라질 엔지니어들이 부품 하나하나 만들었소. 외국 설계도 한 장 없이. 그중 많은 사람이 자기가 무슨 일을 하는지 가족한테도 말 못 했지.
 
-072. TOMÁS: E em noventa alguém contou aos americanos onde elas estavam.
-     토마스: 그리고 90년에 누군가 그게 어디 있는지 미국에 알려 줬죠.
+072. TOMÁS: E em noventa alguém contou aos americanos onde elas estavam. E esse alguém estava sentado numa sala do Itamaraty.
+     토마스: 그리고 90년에 누군가 그게 어디 있는지 미국에 알려 줬죠. 그리고 그 누군가는 이타마라치의 한 사무실에 앉아 있었고요.
 
 073. ALMIRANTE: ...Como você sabe disso?
      제독: ...그걸 어떻게 아시오?
 
-074. TOMÁS: Está numa caixa que eu li ontem à noite, almirante, junto com a investigação interna do Itamaraty.
-     토마스: 어젯밤 읽은 상자에 있었어요, 제독님. 이타마라치 내부 조사 기록과 함께.
+074. TOMÁS: Está numa caixa que eu li ontem à noite, almirante, junto com a investigação interna do Itamaraty. O senhor não é o único que ficou sem saber a verdade por trinta e sete anos.
+     토마스: 어젯밤 읽은 상자에 있었어요, 제독님. 이타마라치 내부 조사 기록과 함께. 37년 동안 진실을 모르고 산 사람이 제독님만은 아니에요.
 
 075. ALMIRANTE: Eu era tenente em noventa, lá em Aramar. A gente soube que tinha vazado, porque os americanos começaram a fazer perguntas certas demais. Mas ninguém nunca disse por quem.
      제독: 난 90년에 아라마르의 중위였소. 샌 건 알았지. 미국이 너무 정확한 질문을 하기 시작했으니까. 하지만 누가 그랬는지는 아무도 말 안 했소.
 
-076. TOMÁS: Disseram que foi um diplomata. Leonardo Sá. Demitido em outubro.
-     토마스: 외교관이 그랬다고 했죠. 레오나르두 사. 10월에 파면된.
+076. TOMÁS: Disseram que foi um diplomata. Leonardo Sá. Demitido em outubro. Com processo rápido e silêncio mais rápido ainda.
+     토마스: 외교관이 그랬다고 했죠. 레오나르두 사. 10월에 파면된. 빠른 절차와 더 빠른 침묵 속에서.
 
 077. ALMIRANTE: Sá. Eu lembro do nome. E lembro também de uma moça que vinha do Itamaraty com ele, pras reuniões de sigilo, sempre sentada no canto.
      제독: 사. 이름 기억나오. 그리고 그 사람이랑 같이 이타마라치에서 보안 회의에 오던 아가씨도 기억나지. 늘 구석에 앉아 있던.
@@ -264,14 +264,14 @@
 080. LUÍZA: A Secretária-Geral.
      루이자: 사무총장님이네요.
 
-081. ALMIRANTE: A Secretária-Geral? Hoje? Aquela menina? Meu Deus. O mundo é pequeno demais.
-     제독: 사무총장? 지금? 그 아가씨가? 세상에. 세상 참 좁군.
+081. ALMIRANTE: A Secretária-Geral? Hoje? Aquela menina? Meu Deus. O mundo é pequeno demais. Eu lembro dela pedindo licença pra sentar.
+     제독: 사무총장? 지금? 그 아가씨가? 세상에. 세상 참 좁군. 앉아도 되냐고 허락을 구하던 게 기억나오.
 
-082. TOMÁS: O mundo é um corredor, almirante. Todo mundo se cruza nele, mais cedo ou mais tarde.
-     토마스: 세상은 복도예요, 제독님. 다들 조만간 거기서 마주치죠.
+082. TOMÁS: O mundo é um corredor, almirante. Todo mundo se cruza nele, mais cedo ou mais tarde. E quem fica tempo demais no corredor acaba ouvindo coisas.
+     토마스: 세상은 복도예요, 제독님. 다들 조만간 거기서 마주치죠. 그리고 복도에 너무 오래 있으면 이것저것 듣게 되죠.
 
-083. ALMIRANTE: E o que você quer de mim, Rangel?
-     제독: 그래서 나한테 뭘 원하시오, 랑제우?
+083. ALMIRANTE: E o que você quer de mim, Rangel? Seja direto, porque eu não tenho paciência pra rodeio de diplomata.
+     제독: 그래서 나한테 뭘 원하시오, 랑제우? 단도직입적으로 말하시오. 외교관식 돌려 말하기엔 인내심이 없으니까.
 
 084. TOMÁS: Que a Marinha aceite a garantia. Mas não uma garantia dada aos americanos, nem só à agência. Uma garantia que a Marinha consiga engolir sem se sentir humilhada.
      토마스: 해군이 보장을 받아들이길요. 하지만 미국한테 주는 보장도, 기구한테만 주는 보장도 아니고요. 해군이 굴욕감 없이 삼킬 수 있는 보장이요.
@@ -279,8 +279,8 @@
 085. ALMIRANTE: De quem, então?
      제독: 그럼 누구한테서?
 
-086. TOMÁS: Da ABACC, a agência brasileiro-argentina. Inspetores argentinos verificando o combustível da Marinha brasileira, como já fazem em terra.
-     토마스: ABACC요. 브라질-아르헨티나 기구. 아르헨티나 사찰관이 브라질 해군 연료를 검증하는 거죠. 육지에서 이미 하고 있는 것처럼.
+086. TOMÁS: Da ABACC, a agência brasileiro-argentina. Inspetores argentinos verificando o combustível da Marinha brasileira, como já fazem em terra. Gente que a Marinha já conhece pelo nome.
+     토마스: ABACC요. 브라질-아르헨티나 기구. 아르헨티나 사찰관이 브라질 해군 연료를 검증하는 거죠. 육지에서 이미 하고 있는 것처럼. 해군이 이미 이름까지 아는 사람들이죠.
 
 087. ALMIRANTE: Argentinos. No nosso submarino.
      제독: 아르헨티나 사람들이. 우리 잠수함에.
@@ -288,8 +288,8 @@
 088. TOMÁS: Os mesmos argentinos que já inspecionam Aramar desde mil novecentos e noventa e um, almirante. E, do outro lado, brasileiros inspecionam a Argentina, com a mesma régua.
      토마스: 1991년부터 아라마르를 사찰해 온 바로 그 아르헨티나 사람들이요, 제독님. 그리고 반대편에선 브라질 사람들이 같은 잣대로 아르헨티나를 사찰하고요.
 
-089. ALMIRANTE: Isso é verdade, tenho que admitir. E nunca vazou nada da ABACC, nem uma vírgula, em trinta e seis anos.
-     제독: 그건 사실이오, 인정해야겠군. 그리고 ABACC에선 36년 동안 쉼표 하나 샌 적이 없지.
+089. ALMIRANTE: Isso é verdade, tenho que admitir. E nunca vazou nada da ABACC, nem uma vírgula, em trinta e seis anos. Isso, convenhamos, é mais do que eu posso dizer de muita repartição brasileira.
+     제독: 그건 사실이오, 인정해야겠군. 그리고 ABACC에선 36년 동안 쉼표 하나 샌 적이 없지. 솔직히 말해 그건 브라질의 많은 관청에 대해선 할 수 없는 말이지.
 
 090. TOMÁS: Porque é entre iguais. Ninguém é tutor de ninguém, e cada um sabe que, se trair, vai ser inspecionado amanhã pelo outro.
      토마스: 대등한 사이니까요. 누구도 누구의 보호자가 아니죠. 배신하면 내일 상대한테 사찰받는다는 걸 서로 알고요.
@@ -297,14 +297,14 @@
 091. ALMIRANTE: E a França aceitaria?
      제독: 프랑스가 받아들이겠소?
 
-092. DUFRESNE: A França aceita qualquer verificação que a agência atômica reconheça, almirante. E a agência reconhece a ABACC há décadas.
-     뒤프렌: 프랑스는 원자력기구가 인정하는 어떤 검증이든 받아들여요, 제독님. 그리고 기구는 수십 년째 ABACC를 인정하죠.
+092. DUFRESNE: A França aceita qualquer verificação que a agência atômica reconheça, almirante. E a agência reconhece a ABACC há décadas. Paris só quer um carimbo que Viena respeite.
+     뒤프렌: 프랑스는 원자력기구가 인정하는 어떤 검증이든 받아들여요, 제독님. 그리고 기구는 수십 년째 ABACC를 인정하죠. 파리는 빈이 존중하는 도장 하나만 원해요.
 
 093. ALMIRANTE: Você também estava ouvindo, madame?
      제독: 당신도 듣고 있었소, 부인?
 
-094. DUFRESNE: Eu sempre ouço, almirante. Como todo mundo nesta história.
-     뒤프렌: 늘 듣죠, 제독님. 이 이야기 속 모든 사람처럼.
+094. DUFRESNE: Eu sempre ouço, almirante. Como todo mundo nesta história. A diferença é que eu admito.
+     뒤프렌: 늘 듣죠, 제독님. 이 이야기 속 모든 사람처럼. 차이라면 전 인정한다는 거죠.
 
 095. ALMIRANTE: Deixa eu ver se entendi: um arranjo especial com a agência, executado pela ABACC, com argentinos e brasileiros verificando juntos. A agência assina embaixo, mas quem entra no submarino é o vizinho.
      제독: 내가 이해한 게 맞는지 봅시다. 기구와의 특별 약정을 ABACC가 실행하고, 아르헨티나와 브라질 사람이 함께 검증한다. 기구는 보증만 서고, 잠수함에 들어오는 건 이웃이다.
@@ -312,8 +312,8 @@
 096. TOMÁS: Exatamente. E a Marinha mantém o segredo do reator, porque os inspetores verificam o urânio, quanto entrou e quanto saiu. Não o projeto.
      토마스: 바로 그거예요. 그리고 해군은 원자로 비밀을 지키죠. 사찰관들은 우라늄이 얼마 들어가고 얼마 나왔는지를 검증하지, 설계를 보는 게 아니니까.
 
-097. ALMIRANTE: Isso, sim, eu posso levar ao comandante sem ser expulso da sala.
-     제독: 그거라면 참모총장한테 가져가도 쫓겨나진 않겠군.
+097. ALMIRANTE: Isso, sim, eu posso levar ao comandante sem ser expulso da sala. E talvez até sair com um café.
+     제독: 그거라면 참모총장한테 가져가도 쫓겨나진 않겠군. 어쩌면 커피 한 잔 얻어 마시고 나올 수도 있겠고.
 
 098. BERMÚDEZ: Tomás! Che, me ligaram da Marinha brasileira agora há pouco, todos muito formais. Querem saber se a ABACC topa inspecionar submarino. Submarino, Tomás!
      베르무데스: 토마스! 야, 방금 브라질 해군에서 전화 왔어. 다들 엄청 딱딱하게. ABACC가 잠수함 사찰할 생각 있냐고. 잠수함이래, 토마스!
@@ -326,11 +326,11 @@
 
 ### 절정·반전 (101~130) — 베란다의 엘레나
 
-101. LUÍZA: E a Helena? Você vai mostrar a caixa pra ela, depois de tudo?
-     루이자: 엘레나는요? 그 모든 일 다음에 상자를 보여 줄 거예요?
+101. LUÍZA: E a Helena? Você vai mostrar a caixa pra ela, depois de tudo? Ou você ainda acha que ela não merece?
+     루이자: 엘레나는요? 그 모든 일 다음에 상자를 보여 줄 거예요? 아니면 아직도 그분이 그럴 자격이 없다고 생각해요?
 
-102. TOMÁS: Ela pediu. "Só quando ele tiver lido a caixa inteira."
-     토마스: 그분이 요구했잖아요. "그 사람이 상자를 다 읽은 다음에만."
+102. TOMÁS: Ela pediu. "Só quando ele tiver lido a caixa inteira." E eu quero ver a cara dela quando eu disser que li.
+     토마스: 그분이 요구했잖아요. "그 사람이 상자를 다 읽은 다음에만." 그리고 다 읽었다고 말할 때 그분 얼굴을 보고 싶어요.
 
 103. LUÍZA: Hoje?
      루이자: 오늘이요?
@@ -347,14 +347,14 @@
 107. HELENA: Onde ela estava?
      엘레나: 어디 있었어요?
 
-108. TOMÁS: Na garagem do Dito. Desde mil novecentos e noventa.
-     토마스: 디투 차고에요. 1990년부터.
+108. TOMÁS: Na garagem do Dito. Desde mil novecentos e noventa. Debaixo de uma lona, atrás de uma bicicleta velha.
+     토마스: 디투 차고에요. 1990년부터. 방수포 밑, 낡은 자전거 뒤에요.
 
-109. HELENA: O Dito. Claro. Mandaram ele queimar tudo, eu me lembro do dia. E ele guardou.
-     엘레나: 디투라. 그렇겠죠. 전부 태우라고 했어요, 그날이 기억나요. 그런데 간직했군요.
+109. HELENA: O Dito. Claro. Mandaram ele queimar tudo, eu me lembro do dia. E ele guardou. Sempre achei que o Dito era o único homem honesto daquele prédio.
+     엘레나: 디투라. 그렇겠죠. 전부 태우라고 했어요, 그날이 기억나요. 그런데 간직했군요. 디투가 그 건물에서 유일하게 정직한 사람이라고 늘 생각했어요.
 
-110. TOMÁS: Ele achou que um dia alguém ia precisar da verdade.
-     토마스: 언젠가 누가 진실이 필요할 거라 생각했대요.
+110. TOMÁS: Ele achou que um dia alguém ia precisar da verdade. E que, nesse dia, não ia ser ele a decidir quem merecia.
+     토마스: 언젠가 누가 진실이 필요할 거라 생각했대요. 그리고 그날이 오면 누가 자격이 있는지 정하는 건 자기가 아닐 거라고.
 
 111. HELENA: Senta. A varanda é o único lugar da casa sem microfone. Eu mesma faço a varredura, toda semana, com um aparelho que comprei sem nota fiscal.
      엘레나: 앉아요. 이 베란다가 집에서 유일하게 마이크 없는 데예요. 매주 내가 직접 훑어요. 영수증 없이 산 기계로.
@@ -362,8 +362,8 @@
 112. TOMÁS: Toda semana?
      토마스: 매주요?
 
-113. HELENA: Desde dois mil e vinte e cinco.
-     엘레나: 2025년부터요.
+113. HELENA: Desde dois mil e vinte e cinco. Antes disso eu dormia tranquila, ou quase.
+     엘레나: 2025년부터요. 그 전엔 편히 잤어요. 거의요.
 
 114. TOMÁS: Por quê?
      토마스: 왜요?
@@ -383,8 +383,8 @@
 119. HELENA: Deu um bilhete, sem olhar pra mim. E disse, como quem pede um café: "Isso é o Estado, Helena. O Estado precisa de um nome."
      엘레나: 쪽지를 줬죠, 날 쳐다보지도 않고. 그리고 커피 한 잔 시키듯 말했어요. "이게 국가야, 엘레나. 국가는 이름 하나가 필요해."
 
-120. TOMÁS: E a senhora escreveu o nome do Sá.
-     토마스: 그리고 사의 이름을 쓰셨고요.
+120. TOMÁS: E a senhora escreveu o nome do Sá. E assinou embaixo, com a sua letra de aluna aplicada.
+     토마스: 그리고 사의 이름을 쓰셨고요. 그리고 모범생 같은 필체로 아래에 서명하셨죠.
 
 121. HELENA: O Sá era meu amigo, Tomás. A gente almoçava junto todo dia, no bandejão do anexo. Foi ele que me ensinou a ler telegrama, a achar o que está escrito entre as linhas.
      엘레나: 사는 내 친구였어요, 토마스. 매일 별관 구내식당에서 같이 점심을 먹었죠. 전문 읽는 법을, 행간에 쓰인 걸 찾는 법을 가르쳐 준 사람이에요.
@@ -395,14 +395,14 @@
 123. HELENA: ...Eu não sei. Até hoje eu não sei. Naquela época ninguém sabia, e o governo tinha acabado de mandar tampar o poço de Cachimbo na frente das câmeras. Por isso precisavam de um nome, e rápido.
      엘레나: ...몰라요. 지금도 몰라요. 그때는 아무도 몰랐어요. 정부는 막 카메라 앞에서 카심부 갱도를 덮어 버린 참이었죠. 그래서 이름이 필요했던 거예요. 그것도 빨리.
 
-124. TOMÁS: E ele foi demitido. E a senhora subiu.
-     토마스: 그리고 그는 파면됐고, 당신은 올라갔고요.
+124. TOMÁS: E ele foi demitido. E a senhora subiu. Ele perdeu tudo, e a senhora ganhou uma carreira.
+     토마스: 그리고 그는 파면됐고, 당신은 올라갔고요. 그는 전부 잃었고, 당신은 경력을 얻었죠.
 
 125. HELENA: Eu subi. Trinta e sete anos subindo, posto por posto, embaixada por embaixada. Com aquele bilhete no fundo do estômago, como uma pedra que nunca desce.
      엘레나: 올라갔죠. 37년 동안, 직급 하나하나, 대사관 하나하나 올라갔어요. 그 쪽지를 뱃속 깊이 품은 채로. 절대 내려가지 않는 돌멩이처럼.
 
-126. TOMÁS: E em dois mil e vinte e cinco ele voltou.
-     토마스: 그리고 2025년에 그가 돌아왔고요.
+126. TOMÁS: E em dois mil e vinte e cinco ele voltou. Depois de trinta e cinco anos de silêncio, de repente.
+     토마스: 그리고 2025년에 그가 돌아왔고요. 35년의 침묵 끝에, 갑자기요.
 
 127. HELENA: Com uma cópia do bilhete. E uma do meu relatório. E uma pergunta, feita com a voz mais calma do mundo.
      엘레나: 쪽지 사본과 내 보고서 사본을 들고. 그리고 세상에서 제일 차분한 목소리로 던진 질문 하나와 함께.
@@ -410,8 +410,8 @@
 128. TOMÁS: Qual?
      토마스: 뭐였어요?
 
-129. HELENA: "Quanto vale, Helena, a carreira de uma Secretária-Geral que destruiu um inocente aos vinte e um anos?"
-     엘레나: "엘레나, 스물한 살에 무고한 사람을 망친 사무총장의 경력은 얼마짜리지?"
+129. HELENA: "Quanto vale, Helena, a carreira de uma Secretária-Geral que destruiu um inocente aos vinte e um anos?" Foi isso que ele perguntou, sorrindo.
+     엘레나: "엘레나, 스물한 살에 무고한 사람을 망친 사무총장의 경력은 얼마짜리지?" 웃으면서 그렇게 물었어요.
 
 130. TOMÁS: E o que a senhora respondeu?
      토마스: 뭐라고 답하셨어요?
@@ -427,11 +427,11 @@
 133. HELENA: Eu não vou responder isso hoje.
      엘레나: 오늘은 그 질문에 답하지 않겠어요.
 
-134. TOMÁS: A Polícia Federal vai perguntar exatamente a mesma coisa, e com menos paciência do que eu.
-     토마스: 연방경찰도 똑같이 물을 거예요. 저보다 인내심도 적게.
+134. TOMÁS: A Polícia Federal vai perguntar exatamente a mesma coisa, e com menos paciência do que eu. E ela não vai se contentar com silêncio.
+     토마스: 연방경찰도 똑같이 물을 거예요. 저보다 인내심도 적게. 그리고 침묵에 만족하지 않을 거고요.
 
-135. HELENA: E eu vou responder pra Polícia Federal. Depois de responder pra você. Não antes.
-     엘레나: 그리고 연방경찰한테도 답할 거예요. 당신한테 답한 다음에. 그 전엔 아니고요.
+135. HELENA: E eu vou responder pra Polícia Federal. Depois de responder pra você. Não antes. Eu devo isso a você, Tomás.
+     엘레나: 그리고 연방경찰한테도 답할 거예요. 당신한테 답한 다음에. 그 전엔 아니고요. 당신한테 그 정도는 빚졌어요, 토마스.
 
 136. TOMÁS: Por que eu primeiro?
      토마스: 왜 제가 먼저죠?
@@ -457,20 +457,20 @@
 143. HELENA: Da mesma forma que eu fiquei calada sobre o Sá. Duas vezes, a mesma covardia, com trinta e quatro anos de diferença.
      엘레나: 사에 대해 입 다물었던 것처럼요. 34년을 사이에 두고 두 번, 같은 비겁함.
 
-144. TOMÁS: Helena. Quem escreveu a nota de Genebra?
-     토마스: 엘레나. 제네바 메모는 누가 썼어요?
+144. TOMÁS: Helena. Quem escreveu a nota de Genebra? Eu preciso do nome, Helena, não da metáfora.
+     토마스: 엘레나. 제네바 메모는 누가 썼어요? 비유 말고 이름이 필요해요, 엘레나.
 
 145. HELENA: Alguém que hoje está mais alto que eu.
      엘레나: 지금 나보다 높은 데 있는 누군가요.
 
-146. TOMÁS: O Caio disse a mesma coisa, quase com as mesmas palavras. "Mais alto."
-     토마스: 카이우도 같은 말을 했어요. 거의 같은 단어로. "더 높은 데."
+146. TOMÁS: O Caio disse a mesma coisa, quase com as mesmas palavras. "Mais alto." Dois caminhos diferentes, a mesma escada.
+     토마스: 카이우도 같은 말을 했어요. 거의 같은 단어로. "더 높은 데." 서로 다른 두 길에서, 같은 계단이 나오네요.
 
 147. HELENA: O Caio é esperto. Sempre foi o mais esperto da turma dele. Por isso fugiu.
      엘레나: 카이우는 영리하죠. 늘 자기 동기 중에 제일 영리했어요. 그래서 도망친 거고요.
 
-148. TOMÁS: E a senhora não foge.
-     토마스: 그리고 사무총장님은 안 도망치시고요.
+148. TOMÁS: E a senhora não foge. Mesmo sabendo o que vem pela frente.
+     토마스: 그리고 사무총장님은 안 도망치시고요. 앞에 뭐가 올지 알면서도.
 
 149. HELENA: Eu tenho cinquenta e oito anos, Tomás. Não tenho mais idade pra fugir, nem pernas, nem vontade. Só pra cavar.
      엘레나: 난 쉰여덟이에요, 토마스. 도망칠 나이는 지났어요. 다리도, 마음도 없고요. 파 내려갈 나이죠.
