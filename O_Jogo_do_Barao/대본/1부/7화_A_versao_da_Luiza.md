@@ -55,14 +55,14 @@
 012. TOMÁS: Eu defendo a lógica. E a lógica diz que ainda falta uma peça. Quando falta peça, quem acusa primeiro geralmente acusa errado.
      토마스: 논리 편을 드는 거예요. 그리고 논리상 아직 한 조각이 빠졌어요. 조각이 빠졌을 때 먼저 고발하는 사람은 대개 엉뚱한 사람을 고발하죠.
 
-013. LUÍZA: E tem outra coisa. O relatório da Abin, o primeiro vazamento. Eu escrevi aquele relatório.
-     루이자: 그리고 하나 더요. 첫 번째 유출, ABIN 보고서. 그거 제가 썼어요.
+013. LUÍZA: E tem outra coisa, doutora. O relatório da Abin, o primeiro vazamento, aquele que começou tudo. Eu escrevi aquele relatório, linha por linha.
+     루이자: 그리고 하나 더요, 사무총장님. 첫 번째 유출, 모든 게 시작된 그 ABIN 보고서요. 그거 제가 한 줄 한 줄 썼어요.
 
 014. LUÍZA: Se eu quisesse vazar, vazaria o meu texto inteiro, do jeito que eu escrevi, sem a frase falsa que alguém enfiou no meio.
      루이자: 제가 흘리려고 했으면 제 글을 제가 쓴 그대로 통째로 흘렸겠죠. 누가 중간에 끼워 넣은 가짜 문장 없이요.
 
-015. LUÍZA: Ninguém estraga o próprio trabalho pra vazar.
-     루이자: 흘리자고 자기 작품을 망치는 사람은 없어요.
+015. LUÍZA: Ninguém estraga o próprio trabalho pra vazar. Nenhum analista que eu conheço, pelo menos. É questão de orgulho.
+     루이자: 흘리자고 자기 작품을 망치는 사람은 없어요. 적어도 제가 아는 분석관 중엔요. 자존심 문제거든요.
 
 016. HELENA: A não ser que queira parecer vítima.
      엘레나: 피해자처럼 보이고 싶은 게 아니라면요.
@@ -144,8 +144,8 @@
 041. VERA: O número dela vazou, Rangel. Isso é fato, não é opinião.
      베라: 그 사람 숫자가 새 나갔어요, 랑제우. 이건 사실이지 의견이 아니에요.
 
-042. TOMÁS: O número dela vazou. Isso não quer dizer que ela vazou.
-     토마스: 그 사람 숫자가 새 나갔죠. 그게 그 사람이 흘렸다는 뜻은 아닙니다.
+042. TOMÁS: O número dela vazou. Isso não quer dizer que ela vazou. São duas frases diferentes, chanceler, e a diferença é uma carreira inteira.
+     토마스: 그 사람 숫자가 새 나갔죠. 그게 그 사람이 흘렸다는 뜻은 아닙니다. 서로 다른 두 문장이에요, 장관님. 그 차이에 한 사람의 경력 전체가 걸려 있고요.
 
 043. VERA: Que diferença tem?
      베라: 무슨 차이가 있어요?
@@ -168,8 +168,8 @@
 049. VERA: O colunista pode ter deduzido.
      베라: 칼럼니스트가 추측했을 수도 있죠.
 
-050. TOMÁS: Pode. Ou alguém contou pra ele. Alguém que ouviu a gente chamar de blefe.
-     토마스: 그럴 수 있죠. 아니면 누가 말해 줬거나. 우리가 블러핑이라고 부르는 걸 들은 누군가가.
+050. TOMÁS: Pode. Ou alguém contou pra ele. Alguém que ouviu a gente chamar de blefe, com essa palavra exata, lá dentro.
+     토마스: 그럴 수 있죠. 아니면 누가 말해 줬거나. 우리가 바로 그 단어로 블러핑이라고 부르는 걸 안에서 들은 누군가가.
 
 051. VERA: E onde vocês chamaram de blefe?
      베라: 블러핑이라고 어디서 불렀는데요?
@@ -195,8 +195,8 @@
 058. TOMÁS: E se eu provar?
      토마스: 증명하면요?
 
-059. VERA: Aí você me explica como um celular grampeado entrou na minha casa sem eu saber.
-     베라: 그럼 도청된 휴대폰이 어떻게 내 부처에 나 몰래 들어왔는지 설명해요.
+059. VERA: Aí você me explica como um celular grampeado entrou na minha casa sem eu saber, e há quanto tempo ele anda por aqui.
+     베라: 그럼 도청된 휴대폰이 어떻게 내 부처에 나 몰래 들어왔는지, 얼마나 오래 여기 돌아다녔는지 설명해요.
 
 060. TOMÁS: Combinado. Vou precisar das duas respostas de qualquer jeito.
      토마스: 알겠습니다. 어차피 두 답 다 필요하니까요.
@@ -218,8 +218,8 @@
 065. LUÍZA: O oito vem do meu papel, isso é óbvio. "Blefe" vem do seu bolso, do celular, porque foi lá no depósito que a gente usou essa palavra, em voz alta, várias vezes.
      루이자: 8은 제 종이에서 왔죠, 그건 뻔해요. "블러핑"은 당신 주머니, 휴대폰에서요. 그 단어를 소리 내서 여러 번 쓴 게 창고 안에서였으니까.
 
-066. TOMÁS: Então o vazador tem duas fontes. Um papel físico e um microfone escondido.
-     토마스: 그럼 유출자는 출처가 둘이에요. 실물 종이 한 장, 숨겨진 마이크 하나.
+066. TOMÁS: Então o vazador tem duas fontes. Um papel físico e um microfone escondido. Uma coisa que se pega com a mão e outra que se escuta de longe.
+     토마스: 그럼 유출자는 출처가 둘이에요. 실물 종이 한 장, 숨겨진 마이크 하나. 하나는 손으로 집는 거고, 하나는 멀리서 듣는 거죠.
 
 067. LUÍZA: Ou é uma pessoa com papel e uma empresa com microfone, trabalhando juntas. Uma entra no prédio, a outra entra no celular. Divisão de tarefas.
      루이자: 아니면 종이를 가진 사람 하나, 마이크를 가진 회사 하나가 같이 일하는 거죠. 하나는 건물에 들어오고, 하나는 휴대폰에 들어오고. 분업이에요.
@@ -248,8 +248,8 @@
 075. LUÍZA: Três páginas. Com a marca d'água do oito.
      루이자: 세 장이요. 8 워터마크까지.
 
-076. TOMÁS: Então a foto que o blog usou não é do seu papel.
-     토마스: 그럼 블로그가 쓴 사진은 당신 종이가 아니네요.
+076. TOMÁS: Então a foto que o blog usou não é do seu papel. É de outro.
+     토마스: 그럼 블로그가 쓴 사진은 당신 종이가 아니네요. 다른 종이예요.
 
 077. LUÍZA: Que foto?
      루이자: 무슨 사진이요?
@@ -275,14 +275,14 @@
 084. LUÍZA: Reimpressão pelo painel. Meu Deus. A impressora guarda os últimos trabalhos na memória, e eu nunca nem pensei nisso.
      루이자: 패널 재출력이라. 세상에. 프린터가 최근 작업을 메모리에 저장해 두는 거예요. 전 그 생각을 한 번도 못 했어요.
 
-085. TOMÁS: Então alguém foi até a impressora depois de você e apertou "imprimir de novo".
-     토마스: 그럼 누군가 당신 다음에 프린터에 가서 "다시 출력"을 누른 거네요.
+085. TOMÁS: Então alguém foi até a impressora depois de você e apertou "imprimir de novo". Simples assim, sem deixar nome.
+     토마스: 그럼 누군가 당신 다음에 프린터에 가서 "다시 출력"을 누른 거네요. 그렇게 간단하게, 이름도 안 남기고.
 
 086. LUÍZA: Sem senha, sem login. Só precisa estar no corredor.
      루이자: 비밀번호도, 로그인도 없이. 복도에만 있으면 되죠.
 
-087. DITO: E naquele corredor passa meio Itamaraty. E metade do Planalto, quando tem reunião.
-     디투: 그 복도로 이타마라치 절반이 지나다녀요. 회의 있는 날엔 대통령실 사람 절반도.
+087. DITO: E naquele corredor passa meio Itamaraty. E metade do Planalto, quando tem reunião. É mais movimentado que rodoviária em véspera de feriado.
+     디투: 그 복도로 이타마라치 절반이 지나다녀요. 회의 있는 날엔 대통령실 사람 절반도. 연휴 전날 버스터미널보다 북적거린다니까요.
 
 088. TOMÁS: Câmera. Tem câmera no corredor.
      토마스: 카메라요. 복도에 카메라가 있잖아요.
@@ -308,8 +308,8 @@
 095. TOMÁS: Mas o Jefferson, da informática, não está.
      토마스: 하지만 정보기술실 제페르송은 아니죠.
 
-096. DITO: O Jefferson me deve três caronas e um pão de queijo. Eu chamo.
-     디투: 제페르송은 나한테 세 번 태워 준 거랑 치즈빵 하나 빚졌어요. 제가 부를게요.
+096. DITO: O Jefferson me deve três caronas e um pão de queijo. Eu chamo, e ele vem correndo.
+     디투: 제페르송은 나한테 세 번 태워 준 거랑 치즈빵 하나 빚졌어요. 제가 부르면 뛰어올 거예요.
 
 097. LUÍZA: Tomás. Por que você tá me ajudando?
      루이자: 토마스. 왜 날 도와줘요?
@@ -352,8 +352,8 @@
 109. JEFFERSON: Reimpressão pelo painel não tem usuário. É anônima. Por isso eu odeio essa função. Já pedi não sei quantas vezes pra desligar, e ninguém assina o pedido. Segurança aqui é problema de amanhã.
      제페르송: 패널 재출력엔 사용자가 안 남아요. 익명이에요. 그래서 그 기능이 싫은 거고요. 끄자고 몇 번을 요청했는지 몰라요. 근데 아무도 결재를 안 해 줘요. 여기선 보안은 늘 내일 문제예요.
 
-110. LUÍZA: Mas prova que existiram duas cópias. E que a segunda não foi minha.
-     루이자: 하지만 두 장이 있었다는 건 증명되죠. 두 번째는 제 게 아니라는 것도.
+110. LUÍZA: Mas prova que existiram duas cópias. E que a segunda não foi minha. Isso já muda a história.
+     루이자: 하지만 두 장이 있었다는 건 증명되죠. 두 번째는 제 게 아니라는 것도. 그것만으로도 얘기가 달라져요.
 
 111. TOMÁS: Prova que existiram duas. Não prova quem pegou a segunda.
      토마스: 두 장이 있었다는 건 증명되죠. 두 번째를 누가 가져갔는지는 아니고요.
@@ -409,8 +409,8 @@
 128. TOMÁS: É o maior que eu sei fazer.
      토마스: 내가 할 줄 아는 최고의 칭찬이에요.
 
-129. HELENA: Jefferson, imprime esse registro e assina. Duas cópias. Uma pra mim, outra pra chanceler.
-     엘레나: 제페르송, 그 기록 출력해서 서명해요. 두 부요. 하나는 나, 하나는 장관님.
+129. HELENA: Jefferson, imprime esse registro e assina. Duas cópias. Uma pra mim, outra pra chanceler. Ela pediu prova, vai ter prova.
+     엘레나: 제페르송, 그 기록 출력해서 서명해요. 두 부요. 하나는 나, 하나는 장관님. 증거를 원하셨으니 증거를 드려야죠.
 
 130. JEFFERSON: Pelo painel, doutora?
      제페르송: 패널로요, 사무총장님?
@@ -453,14 +453,14 @@
 142. DITO: Tem. Todo mundo que entra sem crachá da casa assina. Nome, órgão, hora. É a única coisa nesta portaria que ninguém pula.
      디투: 있죠. 이 집 출입증 없이 들어오는 사람은 다 서명해요. 이름, 소속, 시간. 이 경비실에서 아무도 안 건너뛰는 유일한 절차예요.
 
-143. TOMÁS: Então ontem à tarde alguém do Planalto assinou aquele livro.
-     토마스: 그럼 어제 오후에 대통령실 사람 누군가가 그 대장에 서명했겠네요.
+143. TOMÁS: Então ontem à tarde alguém do Planalto assinou aquele livro, com nome e hora, sem imaginar que a gente ia procurar.
+     토마스: 그럼 어제 오후에 대통령실 사람 누군가가 그 대장에 이름과 시간을 적었겠네요. 우리가 찾아볼 줄은 꿈에도 모르고.
 
 144. DITO: Deixa eu ligar pro Severino, da portaria. Ele é meu compadre, não me nega nada.
      디투: 경비실 세베리누한테 전화해 볼게요. 제 사돈이라 저한텐 뭐든 안 거절해요.
 
-145. LUÍZA: Se tiver um nome, a gente fecha isso hoje.
-     루이자: 이름이 있으면 오늘 끝낼 수 있어요.
+145. LUÍZA: Se tiver um nome, a gente fecha isso hoje, antes do prazo da chanceler.
+     루이자: 이름이 있으면 오늘, 장관님 기한 전에 끝낼 수 있어요.
 
 146. DITO: Severino? É o Dito. Me diz quem do Planalto assinou o livro ontem à tarde.
      디투: 세베리누? 나 디투야. 어제 오후에 대통령실 누가 대장에 서명했는지 말해 줘.

@@ -173,8 +173,8 @@
 050. TOMÁS: Você aprendeu comigo.
      토마스: 나한테 배웠네요.
 
-051. DITO: Não, doutor. Com todo o respeito, foi o senhor que aprendeu comigo. Faz trinta e cinco anos que eu dirijo carro de ministério, ouço tudo no banco de trás e fico calado.
-     디투: 아니요, 박사님. 송구하지만 박사님이 저한테 배우신 거예요. 저는 35년째 부처 차를 몰면서 뒷좌석 얘기를 다 듣고도 입 다물고 있거든요.
+051. DITO: Não, doutor. Com todo o respeito, foi o senhor que aprendeu comigo. Faz quase quarenta anos que eu dirijo carro de ministério, ouço tudo no banco de trás e fico calado.
+     디투: 아니요, 박사님. 송구하지만 박사님이 저한테 배우신 거예요. 저는 40년 가까이 부처 차를 몰면서 뒷좌석 얘기를 다 듣고도 입 다물고 있거든요.
 
 052. TOMÁS: O acordo do Caio está no cofre da Polícia Federal, com sigilo judicial. Só a delegada e o juiz têm acesso. Se alguém pode tirar, é ela.
      토마스: 카이우 합의서는 연방경찰 금고에 사법 기밀로 있어요. 경정이랑 판사만 접근할 수 있죠. 누가 꺼낼 수 있다면 그 사람이에요.

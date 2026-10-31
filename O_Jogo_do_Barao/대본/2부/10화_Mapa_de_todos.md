@@ -193,8 +193,8 @@
 057. TOMÁS: Espera aí, Dito. Você reservou antes de eu decidir ir? Eu decidi agora, há dez segundos.
      토마스: 잠깐만요, 디투. 내가 가기로 정하기도 전에 예약했어요? 난 방금, 10초 전에 정했는데요.
 
-058. DITO: Doutor, eu dirijo pra chanceleres há trinta e cinco anos. Trinta e cinco! Eu sei quando alguém vai viajar antes da própria pessoa saber. É o olhar, a pessoa começa a olhar pro mapa da parede.
-     디투: 박사님, 저 35년째 장관들 운전해요. 35년이요! 본인보다 먼저 누가 출장 갈지 알죠. 눈빛이에요. 사람이 벽에 걸린 지도를 쳐다보기 시작하거든요.
+058. DITO: Doutor, eu dirijo pra chanceleres há quase quarenta anos. Quase quarenta! Eu sei quando alguém vai viajar antes da própria pessoa saber. É o olhar, a pessoa começa a olhar pro mapa da parede.
+     디투: 박사님, 저 40년 가까이 장관들 운전해요. 40년이요! 본인보다 먼저 누가 출장 갈지 알죠. 눈빛이에요. 사람이 벽에 걸린 지도를 쳐다보기 시작하거든요.
 
 059. LUÍZA: E o presidente? Você prometeu dormir uma noite inteira, e o voo sai às seis. A conta não fecha.
      루이자: 대통령은요? 하룻밤 푹 자겠다고 약속했는데 비행기는 6시에 떠요. 계산이 안 맞아요.

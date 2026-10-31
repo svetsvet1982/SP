@@ -23,8 +23,8 @@
 001. TELES: Em dezembro, em Washington, o Brasil prometeu uma mesa própria pras terras raras. Separada do resto da negociação, e com licitação pública, aberta a quem quisesse participar, sem acordo fechado por baixo da mesa.
      텔리스: 12월 워싱턴에서 브라질은 희토류용 별도 테이블을 약속했어요. 나머지 협상과 분리해서, 누구든 참여할 수 있는 공개 입찰로요. 테이블 밑에서 미리 짜 놓은 합의 없이.
 
-002. TOMÁS: Em janeiro, Teles. A promessa era pra janeiro. Já estamos em abril.
-     토마스: 1월이었죠, 텔리스. 약속은 1월이었어요. 벌써 4월이에요.
+002. TOMÁS: Em janeiro, Teles. A promessa era pra janeiro, e quem prometeu fomos nós. Já estamos em abril.
+     토마스: 1월이었죠, 텔리스. 약속은 1월이었고, 약속한 건 우리였어요. 벌써 4월이에요.
 
 003. VERA: Janeiro em Brasília é abril em qualquer lugar do mundo, Rangel. Você já devia saber disso a essa altura.
      베라: 브라질리아의 1월은 세상 어디서든 4월이에요, 랑제우. 이쯤 되면 알 때도 됐잖아요.
@@ -106,14 +106,14 @@
 028. TOMÁS: Então vocês querem levar a terra crua, Daniel. E o presidente prometeu, em praça pública, que terra rara não se vende crua.
      토마스: 그럼 날것을 가져가겠다는 거네요, 대니얼. 대통령은 광장에서 희토류를 날것으로 안 판다고 약속했는데.
 
-029. WHITCOMB: Concentrado não é cru. É beneficiado. Tecnicamente, já passou por um processo industrial.
-     휘트컴: 정광은 날것이 아니에요. 선광한 거죠. 기술적으로는 이미 산업 공정을 한 번 거친 거예요.
+029. WHITCOMB: Concentrado não é cru, Tomás. É beneficiado. Tecnicamente, já passou por um processo industrial, com engenheiro, química e tudo.
+     휘트컴: 정광은 날것이 아니에요, 토마스. 선광한 거죠. 기술적으로는 엔지니어에 화학까지 동원된 산업 공정을 이미 한 번 거친 거예요.
 
 030. TOMÁS: Pra um eleitor de Goiás, é terra num caminhão indo pro porto. Ninguém vai parar o caminhão pra explicar a diferença.
      토마스: 고이아스 유권자한텐 항구로 가는 트럭에 실린 흙이에요. 트럭을 세우고 그 차이를 설명해 줄 사람은 없어요.
 
-031. WHITCOMB: Pense nisso, meu amigo. Mas pense rápido. Antes que o chinês das onze faça a oferta dele.
-     휘트컴: 생각해 봐요, 내 친구. 하지만 빨리요. 11시 중국 사람이 제안하기 전에.
+031. WHITCOMB: Pense nisso, meu amigo, com carinho. Mas pense rápido. Antes que o chinês das onze faça a oferta dele.
+     휘트컴: 생각해 봐요, 내 친구, 잘 생각해 봐요. 하지만 빨리요. 11시 중국 사람이 제안하기 전에.
 
 032. LIU: Ministro Rangel. Obrigado por me receber depois do americano. Eu sei que foi depois do americano.
      리우: 랑제우 외교관님. 미국 사람 다음에 만나 주셔서 감사합니다. 미국 사람 다음이란 거 압니다.
@@ -130,8 +130,8 @@
 036. LIU: Concentrado. A separação, nós fazemos na China. Ninguém no mundo faz melhor nem mais barato, e isso não é propaganda, é estatística.
      리우: 정광으로요. 분리는 중국에서 합니다. 세상에 우리보다 잘하고 싸게 하는 곳은 없어요. 선전이 아니라 통계입니다.
 
-037. TOMÁS: E se o Brasil quisesse separar aqui? Com tecnologia chinesa?
-     토마스: 브라질이 여기서 분리하고 싶다면요? 중국 기술로?
+037. TOMÁS: E se o Brasil quisesse separar aqui, em Goiás? Com tecnologia chinesa, pagando por ela?
+     토마스: 브라질이 여기 고이아스에서 분리하고 싶다면요? 돈을 내고 중국 기술로?
 
 038. LIU: ...Isso não é possível, ministro. Desde dois mil e vinte e três, a lei chinesa proíbe exportar essa tecnologia. Não depende de mim, nem do embaixador.
      리우: ...그건 불가능합니다, 외교관님. 2023년부터 중국 법은 그 기술의 수출을 금지하고 있어요. 저나 대사가 정할 수 있는 일이 아닙니다.
@@ -163,8 +163,8 @@
 047. MORI: Senhor Rangel. É uma honra. Mori Kenji. Peço desculpas por ser o último. Peço desculpas também pelo horário.
      모리: 랑제우 씨. 영광입니다. 모리 겐지입니다. 마지막 순서라 송구합니다. 시간도 송구합니다.
 
-048. TOMÁS: O último a falar costuma ser o que mais ouviu, senhor Mori.
-     토마스: 마지막에 말하는 사람이 대개 제일 많이 들은 사람이죠, 모리 씨.
+048. TOMÁS: O último a falar costuma ser o que mais ouviu, senhor Mori. E, às vezes, o que mais entendeu.
+     토마스: 마지막에 말하는 사람이 대개 제일 많이 들은 사람이죠, 모리 씨. 그리고 가끔은 제일 많이 이해한 사람이고요.
 
 049. MORI: O senhor é gentil. Serei breve. O Japão não quer comprar a mina.
      모리: 친절하시군요. 짧게 말씀드리겠습니다. 일본은 광산을 사고 싶지 않습니다.
@@ -225,8 +225,8 @@
 067. MORI: O Japão não ficou com a terra. Ficou com a amizade. E com um fornecedor de soja confiável. Para nós, foi suficiente.
      모리: 일본은 땅을 갖지 않았습니다. 우정을 가졌죠. 그리고 믿을 수 있는 대두 공급처를요. 우리에겐 그걸로 충분했습니다.
 
-068. LUÍZA: E hoje a soja do Cerrado vai pra China.
-     루이자: 그런데 지금 세하두 대두는 중국으로 가잖아요.
+068. LUÍZA: E hoje a soja do Cerrado vai quase toda pra China, de navio.
+     루이자: 그런데 지금 세하두 대두는 거의 다 배에 실려 중국으로 가잖아요.
 
 069. MORI: Ironia da história, senhorita. O Japão plantou. A China colhe.
      모리: 역사의 아이러니죠, 아가씨. 일본이 심고, 중국이 거두고.
@@ -258,8 +258,8 @@
 078. ANA: O difícil é separar esse concentrado em dezessete elementos diferentes. Neodímio, disprósio, térbio, e por aí vai. Cada um tem um processo, e é aí que está o dinheiro. Isso a gente não sabe fazer.
      아나: 어려운 건 그 정광을 열일곱 가지 원소로 분리하는 거예요. 네오디뮴, 디스프로슘, 테르븀, 등등. 원소마다 공정이 다르고, 돈은 바로 거기 있어요. 그걸 우린 할 줄 몰라요.
 
-079. TOMÁS: E se o edital exigir que a separação seja feita no Brasil?
-     토마스: 입찰 공고에 분리를 브라질에서 해야 한다고 넣으면요?
+079. TOMÁS: E se o edital exigir que a separação seja feita no Brasil, em território nacional, sem exceção?
+     토마스: 입찰 공고에 분리를 브라질 영토 안에서, 예외 없이 해야 한다고 넣으면요?
 
 080. ANA: Aí só ganha quem souber ensinar. Ou quem aceitar aprender aqui, junto com a gente, o que leva tempo e custa caro.
      아나: 그럼 가르칠 줄 아는 쪽만 이기겠죠. 아니면 여기서 우리랑 같이 배우겠다는 쪽이거나요. 시간도 오래 걸리고 돈도 많이 들지만요.
@@ -288,8 +288,8 @@
 088. TELES: Sigiloso até a abertura dos envelopes. Só a comissão de licitação sabe, e a comissão não fala com ninguém.
      텔리스: 봉투 개봉 전까진 비공개예요. 입찰 위원회만 알죠. 그리고 위원회는 누구하고도 말을 안 해요.
 
-089. TOMÁS: Então vamos criar um segundo preço mínimo. Falso. Só pro Caio.
-     토마스: 그럼 두 번째 최저가를 만들죠. 가짜로. 카이우만을 위한.
+089. TOMÁS: Então vamos criar um segundo preço mínimo. Falso. Só pro Caio, e pra quem estiver escutando o Caio.
+     토마스: 그럼 두 번째 최저가를 만들죠. 가짜로. 카이우만을 위한. 그리고 카이우 말을 엿듣는 사람을 위한.
 
 090. LUÍZA: Depois do que aconteceu com o memorando da soja? Ele desconfia do Caio, Tomás. Ele mesmo mandou dizer isso.
      루이자: 대두 메모 일 겪고도요? 그 사람은 카이우를 의심해요, 토마스. 본인이 직접 그렇게 전하라고 했잖아요.
@@ -362,8 +362,8 @@
 112. TOMÁS: Funcionou.
      토마스: 먹혔네요.
 
-113. TELES: A Aurum comprou a informação. E perdeu justamente por causa dela.
-     텔리스: 아우룸이 정보를 샀고, 바로 그 정보 때문에 졌어요.
+113. TELES: A Aurum comprou a informação. E perdeu justamente por causa dela. Não dá pra pedir reembolso de segredo.
+     텔리스: 아우룸이 정보를 샀고, 바로 그 정보 때문에 졌어요. 비밀은 환불도 안 되는데.
 
 114. VERA: E o consórcio venceu, com tudo o que o presidente queria. Separação em Goiás, tecnologia transferida, nenhum comprador dono de tudo. E nem um grama cru.
      베라: 그리고 컨소시엄이 이겼어요. 대통령이 원한 그대로. 고이아스에서 분리, 기술 이전, 혼자 다 가진 구매자 없음. 그리고 날것은 1그램도 없이.
@@ -427,8 +427,8 @@
 133. PRATES: A Aurum foi criada há três meses, em Delaware. Nunca minerou nada. Nunca comprou nada. Não tem funcionário, não tem site, não tem nada além de um endereço numa caixa postal.
      프라치스: 아우룸은 석 달 전에 델라웨어에서 설립됐어요. 채굴한 적도, 산 적도 없어요. 직원도 없고, 웹사이트도 없고, 사서함 주소 하나 말곤 아무것도 없어요.
 
-134. LUÍZA: Uma empresa de fachada. Feita pra participar de um leilão só.
-     루이자: 유령 회사네요. 입찰 하나에 참여하려고 만든.
+134. LUÍZA: Uma empresa de fachada. Feita pra participar de um leilão só, e desaparecer logo depois.
+     루이자: 유령 회사네요. 입찰 하나에 참여하고 바로 사라지려고 만든.
 
 135. PRATES: E o procurador que registrou a Aurum é o mesmo que registrou a Meridian. As mesmas iniciais, L. S.
      프라치스: 그리고 아우룸 등록 대리인이 메리디언 등록 대리인이랑 같아요. 똑같은 이니셜, L. S.
@@ -436,8 +436,8 @@
 136. TOMÁS: Então a Aurum não era cliente do Consultor. Era do Consultor.
      토마스: 그럼 아우룸은 컨설턴트의 고객이 아니었네요. 컨설턴트 소유였죠.
 
-137. LUÍZA: Ele usou uma empresa dele pra perder o leilão de propósito?
-     루이자: 자기 회사로 일부러 입찰에서 졌다고요?
+137. LUÍZA: Ele usou uma empresa dele pra perder o leilão de propósito? Pagou pra perder?
+     루이자: 자기 회사로 일부러 입찰에서 졌다고요? 지려고 돈을 썼다고요?
 
 138. TOMÁS: Pra gente achar que o canal do Caio funciona perfeitamente. Pra gente acreditar que ele engoliu o número falso, e que o memorando da soja foi só um acidente.
      토마스: 우리가 카이우 채널이 완벽하게 작동한다고 믿게 하려고요. 그 사람이 가짜 숫자를 삼켰고, 대두 메모는 그냥 사고였다고 믿게.
@@ -445,8 +445,8 @@
 139. TELES: Ele sacrificou uma peça.
      텔리스: 말 하나를 희생했군요.
 
-140. TOMÁS: Um peão. Pra proteger outra peça. Que ainda não apareceu.
-     토마스: 졸 하나를요. 아직 안 나타난 다른 말을 지키려고.
+140. TOMÁS: Um peão. Pra proteger outra peça. Uma peça mais valiosa, que ainda não apareceu.
+     토마스: 졸 하나를요. 아직 안 나타난, 더 귀한 다른 말을 지키려고.
 
 141. LUÍZA: E qual peça?
      루이자: 어떤 말이요?

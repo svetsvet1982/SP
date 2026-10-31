@@ -466,8 +466,8 @@
 146. TOMÁS: Obrigado, delegada. Acho.
      토마스: 고맙습니다, 경정님. 아마도요.
 
-147. DITO: Vixe Maria. Agora o senhor é suspeito de duas coisas, doutor. Em trinta e cinco anos aqui dentro desta casa, eu nunca vi ninguém conseguir uma coisa dessas numa semana só.
-     디투: 아이고, 세상에. 이제 박사님은 두 가지 일의 용의자네요. 이 집 안에서 35년을 일했지만, 한 주 만에 이런 걸 해내는 사람은 처음 봐요.
+147. DITO: Vixe Maria. Agora o senhor é suspeito de duas coisas, doutor. Em quase quarenta anos aqui dentro desta casa, eu nunca vi ninguém conseguir uma coisa dessas numa semana só.
+     디투: 아이고, 세상에. 이제 박사님은 두 가지 일의 용의자네요. 이 집 안에서 40년 가까이 일했지만, 한 주 만에 이런 걸 해내는 사람은 처음 봐요.
 
 148. TOMÁS: Não, Dito. Agora são dois vazamentos saindo do mesmo quarteirão. Um pro jornal, outro pro piloto.
      토마스: 아니요, 디투. 이제 같은 구역에서 유출이 두 번 나온 거예요. 하나는 신문으로, 하나는 조종사한테로.

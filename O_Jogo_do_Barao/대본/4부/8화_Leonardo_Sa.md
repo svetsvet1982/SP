@@ -29,8 +29,8 @@
 003. PRATES: Rangel, a sala vai estar limpa de escuta. A deles, não a nossa, porque eles vão ter varrido tudo antes de você chegar. Leva um microfone, pelo menos um pequeno.
      프라치스: 랑제우, 그 방엔 도청기가 없을 거예요. 저쪽 게 아니라 우리 것 말이에요. 당신이 오기 전에 싹 쓸어 놨을 테니까. 마이크 하나 차고 가요. 작은 거라도.
 
-004. TOMÁS: Ele vai procurar, delegada. E quando achar, a conversa acaba antes de começar.
-     토마스: 그 사람이 찾을 거예요, 경정님. 찾으면 대화는 시작도 전에 끝나죠.
+004. TOMÁS: Ele vai procurar, delegada, e vai achar, porque é isso que ele faz há trinta anos. E quando achar, a conversa acaba antes de começar.
+     토마스: 그 사람이 찾을 거예요, 경정님. 그리고 찾아낼 거예요. 30년째 그 일만 해 온 사람이니까. 찾으면 대화는 시작도 전에 끝나죠.
 
 005. LUÍZA: Então leva pelo menos o seu celular. O normal, o novo, que a gente verificou.
      루이자: 그럼 적어도 휴대폰은 가져가요. 평소 쓰는 거, 우리가 검사한 새 거요.
@@ -50,8 +50,8 @@
 010. TOMÁS: A senhora pede à Justiça o que o servidor de Barueri recebe desse celular. Hoje à tarde, antes de eu subir, se possível.
      토마스: 경정님은 바루에리 서버가 이 휴대폰에서 받는 걸 법원에 청구하세요. 오늘 오후에. 가능하면 제가 올라가기 전에.
 
-011. PRATES: Você quer usar o espião dele como o nosso gravador.
-     프라치스: 그 사람 스파이웨어를 우리 녹음기로 쓰겠다는 거군요.
+011. PRATES: Você quer usar o espião dele como o nosso gravador. Eu já vi muita coisa nessa polícia, Rangel, mas essa é nova.
+     프라치스: 그 사람 스파이웨어를 우리 녹음기로 쓰겠다는 거군요. 랑제우, 경찰 생활하면서 별걸 다 봤지만 이건 처음이네요.
 
 012. TOMÁS: Ele mesmo instalou. Seria pena desperdiçar.
      토마스: 직접 설치해 준 건데요. 버리면 아깝죠.
@@ -74,8 +74,8 @@
 018. LUÍZA: Tomás. Se em uma hora você não sair, a delegada sobe. Com mandado ou sem mandado, isso eu já combinei com ela.
      루이자: 토마스. 한 시간 안에 안 나오면 경정님이 올라가요. 영장이 있든 없든. 그건 이미 경정님이랑 얘기 끝났어요.
 
-019. TOMÁS: Se em uma hora eu não sair, é porque ele está contando a história inteira.
-     토마스: 한 시간 안에 안 나오면, 그 사람이 이야기를 전부 하고 있다는 뜻이에요.
+019. TOMÁS: Se em uma hora eu não sair, é porque ele está contando a história inteira. E uma história de trinta e sete anos não cabe em menos que isso.
+     토마스: 한 시간 안에 안 나오면, 그 사람이 이야기를 전부 하고 있다는 뜻이에요. 37년 치 이야기가 그보다 짧을 리 없으니까요.
 
 020. PRATES: Ou porque você aceitou a proposta.
      프라치스: 아니면 당신이 제안을 받아들였거나.
@@ -124,8 +124,8 @@
 034. SÁ: O Caio foi barato. Uma criança doente sai barato, porque o pai não negocia, só implora. É triste, eu sei, mas é mercado.
      사: 카이우는 쌌어요. 아픈 아이는 싸게 먹혀요. 아버지가 흥정을 안 하고 애원만 하니까. 슬프죠, 알아요. 하지만 그게 시장이에요.
 
-035. TOMÁS: O senhor fala de mercado como quem fala do tempo.
-     토마스: 시장 얘기를 날씨 얘기하듯 하시네요.
+035. TOMÁS: O senhor fala de mercado como quem fala do tempo. Como se ninguém fosse responsável pela chuva.
+     토마스: 시장 얘기를 날씨 얘기하듯 하시네요. 비가 오는 데 책임질 사람은 아무도 없다는 듯이.
 
 036. SÁ: "Você", por favor. Somos colegas, afinal. Eu também fui do Itamaraty, também fiz concurso, também jurei servir à pátria. Até outubro de noventa.
      사: "당신"이라고 해요. 어쨌든 동료잖아요. 나도 이타마라치 사람이었어요. 나도 시험 봐서 들어갔고, 나도 조국에 봉사하겠다고 선서했죠. 90년 10월까지는.
@@ -133,8 +133,8 @@
 037. TOMÁS: Eu sei.
      토마스: 알아요.
 
-038. SÁ: Sabe o que te contaram. Quer saber o que aconteceu?
-     사: 들은 걸 알겠죠. 무슨 일이 있었는지 알고 싶어요?
+038. SÁ: Sabe o que te contaram, meu caro, que é a versão da casa. Quer saber o que aconteceu de verdade?
+     사: 들은 걸 알겠죠, 친구. 그건 그 집의 판본이고요. 진짜로 무슨 일이 있었는지 알고 싶어요?
 
 039. TOMÁS: Foi pra isso que eu vim.
      토마스: 그러려고 왔어요.
@@ -175,8 +175,8 @@
 051. SÁ: Demissão. Processo. Minha mulher foi embora em dezembro, levando os discos e a paciência. Meu pai morreu sem falar comigo, achando até o fim que o filho era traidor.
      사: 해고. 소송. 아내는 12월에 떠났어요. 음반이랑 인내심을 챙겨서. 아버지는 나와 말 한마디 없이 돌아가셨고요. 끝까지 아들이 배신자라고 믿으면서.
 
-052. SÁ: Uma noite de chuva, no Lago Sul, um carro me confundiu com um poste. Daí a bengala.
-     사: 그리고 어느 비 오는 밤 라구술에서 차 한 대가 날 전봇대로 착각했죠. 그래서 지팡이예요.
+052. SÁ: Uma noite de chuva, no Lago Sul, voltando de um jantar onde ninguém quis sentar do meu lado, um carro me confundiu com um poste. Daí a bengala.
+     사: 그리고 어느 비 오는 밤 라구술에서, 아무도 내 옆에 앉으려 하지 않던 저녁 자리에서 돌아오는 길에, 차 한 대가 날 전봇대로 착각했죠. 그래서 지팡이예요.
 
 053. TOMÁS: Acidente?
      토마스: 사고였어요?
@@ -216,11 +216,11 @@
 064. TOMÁS: Com o cartão de crédito da Atlântida.
      토마스: 아틀란치다 법인카드로.
 
-065. SÁ: Um erro de estagiário. Já foi demitido, coitado. Eu sou um patrão severo, mas justo.
-     사: 인턴 실수예요. 이미 해고했어요, 불쌍하게도. 난 엄하지만 공정한 사장이거든요.
+065. SÁ: Um erro de estagiário, imperdoável. Já foi demitido, coitado, no mesmo dia em que a imprensa descobriu. Eu sou um patrão severo, mas justo.
+     사: 인턴 실수예요. 용서할 수 없는. 언론이 알아낸 그날 바로 해고했어요, 불쌍하게도. 난 엄하지만 공정한 사장이거든요.
 
-066. TOMÁS: O relatório da Abin. Aquela frase nova, que não estava em nenhuma versão.
-     토마스: 아빈 보고서. 어느 버전에도 없던 그 새 문장.
+066. TOMÁS: O relatório da Abin. Aquela frase nova, que não estava em nenhuma versão, e que quase me custou a carreira e a Luíza.
+     토마스: 아빈 보고서. 어느 버전에도 없던 그 새 문장. 하마터면 제 경력도, 루이자도 잃을 뻔했던.
 
 067. SÁ: Ah, essa é a minha favorita, de longe. A Luíza escreve bem, com aquela precisão de quem conta tudo. Mas eu escrevo como ela escreveria com medo, e ninguém percebeu a diferença.
      사: 아, 그게 내 최애예요. 단연코. 루이자는 글을 잘 쓰죠. 뭐든 세어 보는 사람 특유의 정확함으로. 하지만 난 그녀가 겁먹었을 때 쓸 법하게 써요. 그리고 아무도 차이를 못 알아챘죠.
@@ -240,8 +240,8 @@
 072. TOMÁS: E uma cabo brasileira levou um tiro com aquela munição.
      토마스: 그리고 브라질 상병 한 명이 그 탄약에 총을 맞았죠.
 
-073. SÁ: Quem atirou foi o comprador, meu caro. Eu não atiro em ninguém. Eu nem consigo correr.
-     사: 쏜 건 구매자예요, 친구. 난 아무도 안 쏴요. 뛰지도 못하는걸요.
+073. SÁ: Quem atirou foi o comprador, meu caro. Eu vendo, não uso; é como culpar o fabricante de faca pelo jantar que deu errado. Eu não atiro em ninguém. Eu nem consigo correr.
+     사: 쏜 건 구매자예요, 친구. 난 팔 뿐이지 쓰지 않아요. 저녁 식사가 잘못됐다고 칼 제조사를 탓하는 거나 같죠. 난 아무도 안 쏴요. 뛰지도 못하는걸요.
 
 074. TOMÁS: Os números da tarifa. O "quatro vírgula um". As cartas do Brasil vendidas antes da mesa, antes de a gente ter a chance de jogar.
      토마스: 관세 숫자들. "4.1". 우리가 두어 볼 기회도 갖기 전에, 테이블에 앉기도 전에 팔린 브라질의 패.
@@ -291,8 +291,8 @@
 089. SÁ: E o Barão?
      사: 그래서 남작은요?
 
-090. TOMÁS: O Barão fez o que nenhum espião faria. Publicou a chave do próprio código.
-     토마스: 남작은 어떤 스파이도 안 할 일을 했어요. 자기 암호의 열쇠를 공개했죠.
+090. TOMÁS: O Barão fez o que nenhum espião faria, nem antes nem depois dele. Publicou a chave do próprio código.
+     토마스: 남작은 그 전에도 후에도 어떤 스파이도 안 할 일을 했어요. 자기 암호의 열쇠를 공개했죠.
 
 091. TOMÁS: Assim qualquer um podia decifrar o original, palavra por palavra. E ver, com os próprios olhos, que o texto verdadeiro dizia o contrário do que Zeballos tinha espalhado.
      토마스: 그래서 누구나 원본을 한 단어씩 해독할 수 있었어요. 그리고 진짜 문장은 세발로스가 퍼뜨린 것과 정반대라는 걸 자기 눈으로 보게 됐죠.
@@ -318,8 +318,8 @@
 098. TOMÁS: Ele teria ganhado.
      토마스: 아버지가 이겼을 거예요.
 
-099. SÁ: Talvez. Mas ele está numa placa. E eu estou no décimo oitavo andar.
-     사: 아마도. 하지만 그분은 명판에 있고, 난 18층에 있죠.
+099. SÁ: Talvez. Mas ele está numa placa, numa praça que pouca gente visita. E eu estou no décimo oitavo andar, com vista pra cidade inteira.
+     사: 아마도. 하지만 그분은 찾는 사람 별로 없는 광장의 명판에 있고, 난 도시 전체가 내려다보이는 18층에 있죠.
 
 100. TOMÁS: Por enquanto.
      토마스: 당분간은요.
@@ -362,8 +362,8 @@
 112. TOMÁS: E a sua resposta foi vender a casa.
      토마스: 그리고 당신의 답은 그 집을 파는 거였고요.
 
-113. SÁ: A casa vendeu a mim primeiro. Por uma pá de cal e uma foto do presidente.
-     사: 그 집이 먼저 날 팔았어요. 석회 한 삽이랑 대통령 사진 한 장에.
+113. SÁ: A casa vendeu a mim primeiro, meu caro, e muito barato. Por uma pá de cal e uma foto do presidente na primeira página.
+     사: 그 집이 먼저 날 팔았어요, 친구. 그것도 아주 싸게. 석회 한 삽이랑 1면에 실린 대통령 사진 한 장에.
 
 114. TOMÁS: O senhor sabe onde o Caio está.
      토마스: 카이우가 어디 있는지 아시죠.
@@ -374,8 +374,8 @@
 116. TOMÁS: E o senhor deixou.
      토마스: 그리고 그냥 두셨고요.
 
-117. SÁ: Eu gosto de ter as pessoas por perto. Principalmente as que têm um caderno.
-     사: 난 사람들을 가까이 두는 게 좋아요. 특히 공책을 가진 사람들은.
+117. SÁ: Eu gosto de ter as pessoas por perto, onde eu possa vê-las tomando café. Principalmente as que têm um caderno.
+     사: 난 사람들을 가까이 두는 게 좋아요. 커피 마시는 모습이 보이는 데에. 특히 공책을 가진 사람들은.
 
 118. TOMÁS: Um caderno.
      토마스: 공책이요.
@@ -386,8 +386,8 @@
 120. TOMÁS: Pra quem?
      토마스: 누구한테요?
 
-121. SÁ: Pra todo mundo que está mais alto que a Helena. Inclusive pra mim.
-     사: 엘레나보다 높은 모든 사람한테요. 나를 포함해서.
+121. SÁ: Pra todo mundo que está mais alto que a Helena. Ministros, generais, gente que hoje dá entrevista sobre ética. Inclusive pra mim.
+     사: 엘레나보다 높은 모든 사람한테요. 장관들, 장군들, 오늘날 윤리에 대해 인터뷰하는 사람들. 나를 포함해서.
 
 122. TOMÁS: E se eu recusar a sociedade?
      토마스: 제가 동업을 거절하면요?
@@ -401,8 +401,8 @@
 125. SÁ: Viu? Eu te conheço.
      사: 봐요. 난 당신을 알아요.
 
-126. TOMÁS: O senhor me conhece pelo celular. Mas tem uma coisa que não estava no celular.
-     토마스: 휴대폰으로 아시는 거죠. 하지만 휴대폰에 없던 게 하나 있어요.
+126. TOMÁS: O senhor me conhece pelo celular, isso eu admito, e conhece bem. Mas tem uma coisa que não estava no celular.
+     토마스: 휴대폰으로 아시는 거죠. 그건 인정해요, 그것도 잘 아세요. 하지만 휴대폰에 없던 게 하나 있어요.
 
 127. SÁ: Duvido.
      사: 그럴 리가.
@@ -436,8 +436,8 @@
 136. TOMÁS: Ótimo. Obrigado.
      토마스: 아주요. 감사합니다.
 
-137. SÁ: Volta quando quiser, Tomás. A porta fica aberta. Pra você, sempre.
-     사: 언제든 다시 와요, 토마스. 문은 열려 있어요. 당신한텐, 늘.
+137. SÁ: Volta quando quiser, Tomás. A porta fica aberta, e o café também. Pra você, sempre.
+     사: 언제든 다시 와요, 토마스. 문은 열려 있어요. 커피도요. 당신한텐, 늘.
 
 138. LUÍZA: Cinquenta e oito minutos. Eu já ia mandar a delegada subir, Tomás. Eu estava contando os segundos, literalmente.
      루이자: 58분이요. 경정님 올려 보내려던 참이었어요, 토마스. 말 그대로 초를 세고 있었다고요.
@@ -451,14 +451,14 @@
 141. PRATES: Num celular infectado. Sem mandado de interceptação. Isso não vale em tribunal, Rangel, e qualquer advogado de primeiro ano derruba em cinco minutos.
      프라치스: 감염된 휴대폰으로요. 감청 영장도 없이. 그건 법정에선 효력이 없어요, 랑제우. 1년 차 변호사도 5분이면 무너뜨려요.
 
-142. TOMÁS: Mas vale no servidor de Barueri. Que é dele. A senhora pediu o mandado?
-     토마스: 하지만 바루에리 서버에선 효력이 있죠. 그 사람 거니까. 영장 청구했어요?
+142. TOMÁS: Mas vale no servidor de Barueri, delegada. Que é dele, e que ele mesmo encheu com a própria voz. A senhora pediu o mandado?
+     토마스: 하지만 바루에리 서버에선 효력이 있죠, 경정님. 그 사람 거고, 자기 목소리로 직접 채운 서버니까. 영장 청구했어요?
 
 143. PRATES: Às duas da tarde. A juíza assinou às três. Tudo que chegar lá hoje é nosso, legalmente, do primeiro ao último byte.
      프라치스: 오후 2시에요. 판사가 3시에 서명했어요. 오늘 거기 도착하는 건 다 합법적으로 우리 거예요. 첫 바이트부터 마지막 바이트까지.
 
-144. LUÍZA: Ele gravou a própria confissão no próprio servidor.
-     루이자: 자기 자백을 자기 서버에 녹음한 거네요.
+144. LUÍZA: Ele gravou a própria confissão no próprio servidor. De tudo o que eu já vi em análise de dados, nada chega perto disso.
+     루이자: 자기 자백을 자기 서버에 녹음한 거네요. 제가 데이터 분석하면서 본 것 중에 이만한 건 없어요.
 
 145. DITO: O gato bebeu o leite, doutor.
      디투: 고양이가 우유를 마셨네요, 박사님.
