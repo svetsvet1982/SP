@@ -19,8 +19,8 @@
 
 ### 도입 (001~020) — 브라질 대표부, 뉴욕
 
-001. LUÍZA: Tomás. O texto final, revisado pelos juristas às três da manhã, sem uma vírgula fora do lugar: "Proteção da infraestrutura submarina e dos dados no Atlântico Sul."
-     루이자: 토마스. 최종 문안이에요. 새벽 3시에 법률가들이 검토해서 쉼표 하나 어긋난 데 없어요. 「남대서양 해저 기반시설 및 데이터 보호」.
+001. LUÍZA: Tomás. O texto final, revisado pelos juristas às três da manhã, sem uma vírgula fora do lugar, e eu conferi duas vezes depois deles: "Proteção da infraestrutura submarina e dos dados no Atlântico Sul."
+     루이자: 토마스. 최종 문안이에요. 새벽 3시에 법률가들이 검토해서 쉼표 하나 어긋난 데 없어요. 그 뒤에 내가 두 번 더 확인했고요. 「남대서양 해저 기반시설 및 데이터 보호」.
 
 002. TOMÁS: Quantos copatrocinadores?
      토마스: 공동제안국은 몇이에요?
@@ -28,8 +28,8 @@
 003. LUÍZA: Os vinte e quatro da Zona de Paz, todos, sem exceção. E mais a Índia, desde ontem à noite, o que muda bastante a matemática.
      루이자: 평화지대 24개국 전부요, 하나도 빠짐없이. 그리고 어젯밤부터 인도까지. 그러면 계산이 꽤 달라지죠.
 
-004. MENON: Eu devia um voto, Rangel, e na Índia a gente não esquece dívida. Pagamos com juros. Trinta e dois países do G77 vêm junto com a gente, já confirmados.
-     메논: 한 표 빚졌었죠, 랑제우. 인도에선 빚을 잊지 않아요. 이자까지 쳐서 갚죠. G77 32개국이 우리와 함께 와요. 이미 확인했어요.
+004. MENON: Eu devia um voto, Rangel, e na Índia a gente não esquece dívida, nem pequena. Pagamos com juros. Trinta e dois países do G77 vêm junto com a gente, já confirmados por escrito.
+     메논: 한 표 빚졌었죠, 랑제우. 인도에선 빚을 잊지 않아요. 작은 빚이라도요. 이자까지 쳐서 갚죠. G77 32개국이 우리와 함께 와요. 서면으로 이미 확인했어요.
 
 005. TOMÁS: Obrigado, embaixador.
      토마스: 감사합니다, 대사님.
@@ -46,14 +46,14 @@
 009. TOMÁS: Por enquanto, a senhora é a chanceler, com tudo que isso pesa. E eu preciso que a senhora esteja na sala, sentada na cadeira do Brasil.
      토마스: 당분간은 장관님이 장관이세요. 그 무게까지 전부 포함해서요. 그리고 그 방에, 브라질 자리에 앉아 계셔 주셔야 해요.
 
-010. LUÍZA: O quadro é este: os Estados Unidos querem pedir votação. A China quer emendar o artigo três. E a Rússia, como sempre, quer adiar pra ano que vem.
-     루이자: 상황은 이래요. 미국은 표결을 요구하려 해요. 중국은 3조를 수정하려 하고. 그리고 러시아는 늘 그렇듯 내년으로 연기하려 하고요.
+010. LUÍZA: O quadro é este, sem enfeite: os Estados Unidos querem pedir votação. A China quer emendar o artigo três. E a Rússia, como sempre, quer adiar pra ano que vem, sem dizer por quê.
+     루이자: 상황은 이래요, 꾸밈없이. 미국은 표결을 요구하려 해요. 중국은 3조를 수정하려 하고. 그리고 러시아는 늘 그렇듯 이유도 말 안 하고 내년으로 연기하려 하고요.
 
 011. KIALA: E se qualquer um dos três votar contra, kamba, metade da Ásia e da Europa vai junto, porque ninguém quer brigar com dono de cabo.
      키알라: 셋 중 누구든 반대하면, 친구, 아시아랑 유럽 절반이 따라가요. 케이블 주인이랑 싸우고 싶은 사람은 아무도 없으니까.
 
-012. OKAFOR: A resolução passa, isso é certo, a maioria é nossa. Mas passa fraca. Vira um texto bonito que os donos do cabo simplesmente ignoram.
-     오카포르: 결의는 통과돼요. 그건 확실해요, 다수는 우리 편이니까. 하지만 약하게 통과되죠. 케이블 주인들이 그냥 무시하는 예쁜 문서가 되고요.
+012. OKAFOR: A resolução passa, isso é certo, a maioria é nossa. Mas passa fraca, com cara de derrota. Vira um texto bonito que os donos do cabo simplesmente ignoram, e a gente volta pra casa com papel.
+     오카포르: 결의는 통과돼요. 그건 확실해요, 다수는 우리 편이니까. 하지만 패배 같은 얼굴로 약하게 통과되죠. 케이블 주인들이 그냥 무시하는 예쁜 문서가 되고, 우린 종이만 들고 집에 가는 거예요.
 
 013. TOMÁS: Precisamos de consenso. Sem votação. Os três calados.
      토마스: 컨센서스가 필요해요. 표결 없이. 셋 다 침묵하게.
@@ -84,8 +84,8 @@
 021. KIALA: Tomás, me explica uma coisa, porque em Luanda ninguém nunca me explicou direito. Por que o Brasil inventou essa zona em oitenta e seis?
      키알라: 토마스, 하나만 설명해 줘요. 루안다에선 아무도 제대로 설명해 준 적이 없거든요. 브라질은 86년에 왜 이 지대를 만들었어요?
 
-022. TOMÁS: Porque o Atlântico Sul estava virando um corredor de submarinos nucleares. Dos outros, claro. Nenhum dos países daqui tinha um, mas todos viviam embaixo deles.
-     토마스: 남대서양이 핵잠수함 회랑이 돼 가고 있었으니까요. 물론 남의 잠수함들이죠. 이쪽 나라들은 하나도 없었는데, 다들 그 밑에서 살고 있었어요.
+022. TOMÁS: Porque o Atlântico Sul estava virando um corredor de submarinos nucleares. Dos outros, claro. Nenhum dos países daqui tinha um, mas todos viviam embaixo deles, sem ser consultados, sem saber nem quantos eram.
+     토마스: 남대서양이 핵잠수함 회랑이 돼 가고 있었으니까요. 물론 남의 잠수함들이죠. 이쪽 나라들은 하나도 없었는데, 다들 그 밑에서 살고 있었어요. 아무도 의견을 묻지 않았고, 몇 척인지도 몰랐죠.
 
 023. OKAFOR: A Guerra Fria no nosso quintal.
      오카포르: 우리 뒷마당의 냉전이었죠.
@@ -114,14 +114,14 @@
 031. KIALA: E depois de oitenta e seis, a zona fez o quê?
      키알라: 86년 이후 그 지대는 뭘 했어요?
 
-032. TOMÁS: Quase nada, pra ser honesto. Algumas reuniões. Uma declaração em Montevidéu. Depois, silêncio, anos de silêncio. A zona ficou dormindo, esperando uma razão pra acordar.
-     토마스: 솔직히 거의 아무것도요. 회의 몇 번. 몬테비데오 선언 하나. 그 뒤로 침묵, 몇 년 동안의 침묵. 그 지대는 깨어날 이유를 기다리며 잠들어 있었어요.
+032. TOMÁS: Quase nada, pra ser honesto, e eu não vou fingir que foi diferente. Algumas reuniões. Uma declaração em Montevidéu. Depois, silêncio, anos de silêncio. A zona ficou dormindo, esperando uma razão pra acordar.
+     토마스: 솔직히 거의 아무것도요. 다르게 포장하진 않을게요. 회의 몇 번. 몬테비데오 선언 하나. 그 뒤로 침묵, 몇 년 동안의 침묵. 그 지대는 깨어날 이유를 기다리며 잠들어 있었어요.
 
 033. OKAFOR: E a razão estava num armário em Fortaleza.
      오카포르: 그리고 그 이유가 포르탈레자의 함 속에 있었네요.
 
-034. TOMÁS: Estava. Três anos ouvindo Lagos, Luanda, Brasília, cada mensagem que passava pela fibra. E ninguém de fora do Atlântico Sul se importou, porque não era com eles.
-     토마스: 그랬죠. 3년 동안 라고스, 루안다, 브라질리아를, 광섬유를 지나는 메시지 하나하나를 엿들었어요. 그런데 남대서양 밖에선 아무도 신경 안 썼어요. 자기 일이 아니었으니까.
+034. TOMÁS: Estava. Três anos ouvindo Lagos, Luanda, Brasília, cada mensagem que passava pela fibra, cada ligação de ministro. E ninguém de fora do Atlântico Sul se importou, porque não era com eles.
+     토마스: 그랬죠. 3년 동안 라고스, 루안다, 브라질리아를, 광섬유를 지나는 메시지 하나하나, 장관들 통화 하나하나를 엿들었어요. 그런데 남대서양 밖에선 아무도 신경 안 썼어요. 자기 일이 아니었으니까.
 
 035. HELENA: E agora o que a gente propõe, exatamente? Em linguagem de gente, não de jurista. Pra eu saber o que estou defendendo amanhã no plenário.
      엘레나: 그럼 정확히 뭘 제안하는 거예요? 법률가 말 말고 사람 말로요. 내일 본회의에서 내가 뭘 변호하는지 알아야죠.
@@ -150,8 +150,8 @@
 043. KIALA: O brasileiro da ONU.
      키알라: UN의 그 브라질 사람.
 
-044. TOMÁS: Trinta e quatro anos na ONU. Repatriou refugiados no Camboja. Administrou a transição no Timor-Leste, praticamente governou um país nascendo. E ele falava com todo mundo.
-     토마스: UN에서 34년. 캄보디아에선 난민 귀환을 맡았고, 동티모르에선 과도행정을 이끌었어요. 태어나는 나라 하나를 사실상 운영한 거죠. 그리고 모든 사람과 대화했어요.
+044. TOMÁS: Trinta e quatro anos na ONU. Repatriou refugiados no Camboja. Administrou a transição no Timor-Leste, praticamente governou um país nascendo. E ele falava com todo mundo, sem exceção, mesmo quando isso custava caro.
+     토마스: UN에서 34년. 캄보디아에선 난민 귀환을 맡았고, 동티모르에선 과도행정을 이끌었어요. 태어나는 나라 하나를 사실상 운영한 거죠. 그리고 모든 사람과 대화했어요. 예외 없이, 그게 비싼 대가를 치를 때도.
 
 045. TOMÁS: Com guerrilheiro, com general, com ditador, com quem ninguém queria sentar. Uns chamavam isso de ingenuidade. Pra ele, era simplesmente o trabalho.
      토마스: 게릴라와도, 장군과도, 독재자와도, 아무도 마주 앉고 싶어 하지 않던 사람과도. 그걸 순진하다고 부르는 사람도 있었죠. 그에겐 그냥 일이었고요.
@@ -218,8 +218,8 @@
 065. HOLLIS: Pequim aceitou o registro de quem faz manutenção? Duvido muito.
      홀리스: 베이징이 정비 업체 등록을 받아들였다고요? 정말 못 믿겠네요.
 
-066. TOMÁS: Pergunta pra eles. Mas pensa numa coisa, com calma. A Atlântida tinha clientes em Washington, com nome e sobrenome. Está no caderno, que agora é prova.
-     토마스: 직접 물어봐요. 하지만 하나만 차분히 생각해 봐요. 아틀란치다엔 워싱턴 고객들이 있었어요. 이름이랑 성까지 다. 공책에 있고, 그 공책은 이제 증거예요.
+066. TOMÁS: Pergunta pra eles. Mas pensa numa coisa, com calma, antes de ligar pra Washington. A Atlântida tinha clientes lá, com nome e sobrenome. Está no caderno, que agora é prova num inquérito.
+     토마스: 직접 물어봐요. 하지만 워싱턴에 전화하기 전에 하나만 차분히 생각해 봐요. 아틀란치다엔 거기 고객들이 있었어요. 이름이랑 성까지 다. 공책에 있고, 그 공책은 이제 수사의 증거예요.
 
 067. HOLLIS: Isso é ameaça?
      홀리스: 그거 협박이에요?
@@ -242,8 +242,8 @@
 073. LIU: Notificação de equipamento é uma questão de segurança nacional, ministro. Nenhum país sério notifica tudo que conecta. O senhor também não notificaria.
      리우: 장비 통보는 국가 안보 문제예요, 외교관님. 제대로 된 나라라면 연결하는 걸 전부 통보하진 않죠. 외교관님 나라도 안 할 거고요.
 
-074. TOMÁS: Washington não vai bloquear. Moscou também não. Se a China pedir emenda, vai ser a única a reabrir um texto que todo o Sul já fechou.
-     토마스: 워싱턴은 막지 않을 거예요. 모스크바도요. 중국이 수정을 요청하면, 남반구 전체가 이미 닫은 문안을 다시 여는 유일한 나라가 될 거예요.
+074. TOMÁS: Washington não vai bloquear. Moscou também não. Se a China pedir emenda, vai ser a única, embaixador, a reabrir um texto que o Sul inteiro já fechou, na frente das delegações africanas.
+     토마스: 워싱턴은 막지 않을 거예요. 모스크바도요. 중국이 수정을 요청하면, 대사님, 남반구 전체가 이미 닫은 문안을 아프리카 대표단들 앞에서 다시 여는 유일한 나라가 될 거예요.
 
 075. LIU: Os americanos aceitaram? Com a indústria deles reclamando?
      리우: 미국이 받아들였다고요? 자국 업계가 반발하는데도?
@@ -254,8 +254,8 @@
 077. LIU: E tentou vender a China pros outros. Eu disse isso ao senhor em julho, com todas as letras.
      리우: 그리고 중국을 남들한테 팔려고도 했죠. 7월에 분명하게 말씀드렸어요.
 
-078. TOMÁS: Disse. E pensa na foto: uma China que protege cabos africanos fica muito melhor do que uma China que emenda a proteção dos cabos africanos.
-     토마스: 하셨죠. 그리고 사진을 생각해 보세요. 아프리카 케이블을 지키는 중국이, 아프리카 케이블 보호를 수정하는 중국보다 훨씬 보기 좋죠.
+078. TOMÁS: Disse. E pensa na foto de amanhã nos jornais de Lagos e Luanda: uma China que protege cabos africanos fica muito melhor do que uma China que emenda a proteção dos cabos africanos.
+     토마스: 하셨죠. 그리고 내일 라고스와 루안다 신문에 실릴 사진을 생각해 보세요. 아프리카 케이블을 지키는 중국이, 아프리카 케이블 보호를 수정하는 중국보다 훨씬 보기 좋죠.
 
 079. LIU: O senhor disse o mesmo aos americanos?
      리우: 미국에도 똑같이 말했어요?
@@ -299,8 +299,8 @@
 092. HELENA: Tomás, e se um deles levantar a mão segunda-feira? Um só basta pra derrubar o castelo.
      엘레나: 토마스, 월요일에 그중 하나가 손을 들면요? 하나만 들어도 성이 무너지잖아요.
 
-093. TOMÁS: Aí a resolução passa por votação. Mais fraca, com três ausências que vão pesar. Mas passa. E eu peço desculpa a vocês, um por um.
-     토마스: 그럼 표결로 통과되겠죠. 더 약하게, 무게가 실릴 세 개의 빈자리와 함께. 하지만 통과해요. 그리고 여러분께 한 분 한 분 사과할게요.
+093. TOMÁS: Aí a resolução passa por votação. Mais fraca, com três ausências que vão pesar em cada estação de cabo. Mas passa. E eu peço desculpa a vocês, um por um, olhando no olho.
+     토마스: 그럼 표결로 통과되겠죠. 더 약하게, 육양국마다 무게가 실릴 세 개의 빈자리와 함께. 하지만 통과해요. 그리고 여러분께 한 분 한 분 눈을 보며 사과할게요.
 
 094. MENON: E se ninguém levantar?
      메논: 아무도 안 들면요?
@@ -367,8 +367,8 @@
 114. DITO: Doutor. A recepção. Ele chegou. Na porta da missão. De bengala, de terno claro, cumprimentando todo mundo como se fosse o anfitrião.
      디투: 박사님. 리셉션이요. 그 사람이 왔어요. 대표부 정문에. 지팡이 짚고, 밝은 정장 차림으로, 자기가 주인이라도 되는 것처럼 다들 하고 인사하면서요.
 
-115. SÁ: Tomás. Parabéns, de verdade. Consenso na Assembleia Geral, com as três grandes caladas. Eu teria apostado contra, e olha que eu raramente perco aposta.
-     사: 토마스. 진심으로 축하해요. 총회 컨센서스라니, 큰 나라 셋이 입을 다문 채로. 난 반대에 걸었을 거예요. 그리고 난 내기에서 좀처럼 안 지는 사람이죠.
+115. SÁ: Tomás. Parabéns, de verdade, sem ironia. Consenso na Assembleia Geral, com as três grandes caladas. Eu teria apostado contra, e olha que eu raramente perco aposta.
+     사: 토마스. 진심으로 축하해요, 비꼬는 거 아니에요. 총회 컨센서스라니, 큰 나라 셋이 입을 다문 채로. 난 반대에 걸었을 거예요. 그리고 난 내기에서 좀처럼 안 지는 사람이죠.
 
 116. TOMÁS: O senhor apostou. Vendeu o rascunho pra três delegações, uma de cada vez. Elas não usaram.
      토마스: 거셨죠. 초안을 세 대표단에 하나씩 파셨잖아요. 그쪽에서 안 썼고요.
@@ -379,8 +379,8 @@
 118. TOMÁS: O senhor sabia?
      토마스: 알고 계셨어요?
 
-119. SÁ: Eu teria feito igual, Tomás. Eu te disse na Faria Lima, com o chá esfriando na mesa: nós somos parecidos. Mais do que você gostaria.
-     사: 나라도 그렇게 했을 거예요, 토마스. 파리아 리마에서 차가 식어 가는 동안 말했잖아요. 우린 닮았다고. 당신이 바라는 것보다 더.
+119. SÁ: Eu teria feito igual, Tomás. Eu te disse na Faria Lima, com o chá esfriando na mesa: nós somos parecidos. Mais do que você gostaria, e mais do que você vai admitir algum dia.
+     사: 나라도 그렇게 했을 거예요, 토마스. 파리아 리마에서 차가 식어 가는 동안 말했잖아요. 우린 닮았다고. 당신이 바라는 것보다 더, 그리고 당신이 언젠가 인정할 것보다 더.
 
 120. TOMÁS: Parecidos no método. A diferença é pra quem a gente trabalha. E essa diferença, no fim, é a única que importa.
      토마스: 방법은 닮았죠. 차이는 누구를 위해 일하느냐예요. 그리고 결국 중요한 건 그 차이 하나뿐이고요.
@@ -412,8 +412,8 @@
 129. TOMÁS: Eu sei. A Vera disse a mesma coisa, no sétimo andar, com outras palavras.
      토마스: 알아요. 베라도 7층에서 같은 말을 했어요. 다른 말로.
 
-130. TOMÁS: Mas agora vinte e quatro países sabem procurar. Ele vai ter muito mais trabalho que o senhor teve. E muito menos escuro pra trabalhar.
-     토마스: 하지만 이제 24개국이 찾을 줄 알아요. 그 사람은 당신보다 훨씬 일이 많겠죠. 그리고 일할 어둠은 훨씬 적을 거고요.
+130. TOMÁS: Mas agora vinte e quatro países sabem procurar, e sabem onde. Ele vai ter muito mais trabalho que o senhor teve. E muito menos escuro pra trabalhar.
+     토마스: 하지만 이제 24개국이 찾을 줄 알아요. 어디를 찾아야 하는지도요. 그 사람은 당신보다 훨씬 일이 많겠죠. 그리고 일할 어둠은 훨씬 적을 거고요.
 
 ### 마무리 (131~150) — 지하 창고, 12월
 
@@ -432,20 +432,20 @@
 135. CAMPOS: No subsolo? Num depósito sem janela, com ar-condicionado quebrado?
      캄푸스: 지하에? 창문도 없고 에어컨도 고장 난 창고에?
 
-136. TOMÁS: Lá embaixo a gente vê melhor, presidente. Ninguém vigia quem está no porão, e é do porão que se enxerga a fundação do prédio.
-     토마스: 아래에서 더 잘 보입니다, 대통령님. 지하에 있는 사람은 아무도 안 지켜보거든요. 그리고 건물의 기초가 보이는 건 지하에서죠.
+136. TOMÁS: Lá embaixo a gente vê melhor, presidente. Ninguém vigia quem está no porão, ninguém faz fila pra descer. E é do porão que se enxerga a fundação do prédio.
+     토마스: 아래에서 더 잘 보입니다, 대통령님. 지하에 있는 사람은 아무도 안 지켜보고, 내려오겠다고 줄 서는 사람도 없거든요. 그리고 건물의 기초가 보이는 건 지하에서죠.
 
 137. CAMPOS: Você é estranho, Rangel. Mas está bem. O NAS é seu. Oficialmente, com portaria publicada. E com orçamento, que é o que conta.
      캄푸스: 이상한 사람이네요, 랑제우. 좋아요. NAS는 당신 거예요. 공식적으로, 고시까지 내서. 그리고 예산까지요. 그게 중요한 거죠.
 
-138. HELENA: Tomás. A minha carta, aquela da gaveta. Eu assinei hoje, finalmente. Saio sexta. E depois vou à Polícia Federal e falo tudo, desde noventa.
-     엘레나: 토마스. 내 사직서, 서랍에 있던 그거요. 오늘 드디어 서명했어요. 금요일에 나가요. 그다음 연방경찰에 가서 90년부터 전부 말할 거예요.
+138. HELENA: Tomás. A minha carta, aquela da gaveta, com a letra redondinha. Eu assinei hoje, finalmente. Saio sexta. E depois vou à Polícia Federal e falo tudo, desde noventa, sem pular nada.
+     엘레나: 토마스. 내 사직서, 동글동글한 글씨로 쓴 서랍 속 그거요. 오늘 드디어 서명했어요. 금요일에 나가요. 그다음 연방경찰에 가서 90년부터 전부 말할 거예요. 하나도 빼먹지 않고.
 
 139. TOMÁS: E o Sá?
      토마스: 그리고 사는요?
 
-140. HELENA: Vou depor no processo dele, como testemunha. E a primeira coisa que eu vou dizer, antes de qualquer outra, é que ele era inocente. Em noventa.
-     엘레나: 그의 재판에서 증인으로 증언할 거예요. 그리고 다른 무엇보다 먼저 할 말은 그가 무고했다는 거예요. 90년엔.
+140. HELENA: Vou depor no processo dele, como testemunha de acusação e de defesa ao mesmo tempo. E a primeira coisa que eu vou dizer, antes de qualquer outra, é que ele era inocente. Em noventa.
+     엘레나: 그의 재판에서 증언할 거예요. 기소 쪽 증인이자 동시에 변호 쪽 증인으로. 그리고 다른 무엇보다 먼저 할 말은 그가 무고했다는 거예요. 90년엔.
 
 141. BIA: Pai. O seu Dito está limpando o Barão de novo. Com aquele paninho.
      비아: 아빠. 디투 아저씨가 또 남작 닦고 있어. 그 작은 천으로.
