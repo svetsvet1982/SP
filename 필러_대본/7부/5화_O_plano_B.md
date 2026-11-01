@@ -467,7 +467,7 @@
 147. ENZO: Eu fiz a busca no INPI no ônibus. Pra classe de produto médico, está livre.
      엔주: 버스에서 INPI 검색했어요. 의료제품 분류에선 비어 있어요.
 
-148. MARCELO: O quê está livre, Enzo?
+148. MARCELO: O que está livre, Enzo?
      마르셀루: 뭐가 비어 있는데, 엔주?
 
 149. LUCIANA: Uma marca própria precisa de nome com história, filho. Você está dizendo que a gente tem um?
