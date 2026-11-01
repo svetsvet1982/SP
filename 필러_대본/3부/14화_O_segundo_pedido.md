@@ -377,7 +377,7 @@
 118. MARCELO: Está no papel. A Luciana leu três vezes. Metade antes, metade na chegada.
      마르셀루: 서류로 돼 있어요. 루시아나가 세 번 읽었어요. 절반은 먼저, 절반은 도착 후에.
 
-119. ANTÔNIO: Porque eu vou te contar uma coisa que você já sabe. Em setenta e oito, eu comprei o dobro de farinha de um moinho. No aperto de mão. O dono era meu amigo. A farinha nunca chegou. E o amigo também sumiu. Dois anos pagando.
+119. ANTÔNIO: Então eu vou te contar uma coisa que você já sabe. Em setenta e oito, eu comprei o dobro de farinha de um moinho. No aperto de mão. O dono era meu amigo. A farinha nunca chegou. E o amigo também sumiu. Dois anos pagando.
      안토니우: 네가 이미 아는 얘기를 하나 해 주마. 78년에 어느 제분소에서 밀가루를 두 배로 샀어. 악수로. 주인이 내 친구였지. 밀가루는 끝내 안 왔어. 친구도 사라졌고. 2년을 갚았다.
 
 120. MARCELO: Eu sei, pai. Por isso a Luciana lê tudo três vezes.
