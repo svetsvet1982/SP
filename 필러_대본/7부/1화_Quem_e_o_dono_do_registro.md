@@ -490,4 +490,4 @@
 - **기타**: 투타 「칼도 치즈도 쥐고 있다(estar com a faca e o queijo na mão)」 · 파트리시아 교육 노트 1쪽 「제일 귀찮은 게 제일 중요하다」 · 「이 회사는 다들 공책이 있다」 · 루시아나 「이번엔 내가 쓸게」.
 - **문법 포인트 사용**: 미래접속법(se tudo correr, se o contrato acabar, se der errado) · 인칭부정사(pra deixarem de ser reféns, antes de eles ligarem, antes de esgotarmos) · 관용구(estar com a faca e o queijo na mão, amarrar-se na própria carta).
 - **복선 설치 확인**: 「detentor do registro」(023·027·043·082·145) · 「Sem a gente, eles não vendem amanhã.」(150 + 장면) · 베르치시(128~142 → 7부 2화) · 90일(→7부 5화 플랜 B).
-- **다음 화 예고**: 목요일 밤, 마르셀루의 휴대폰에 3년 만의 이름이 뜬다. 「파비우 라세르다」. 「셀루. 저녁 한 끼 하자. 피가타리 거리의 그 집. 네가 계산 안 해도 돼. 아직은 내가 살 수 있어.」 (7부 2화 「Fábio liga」).
+- **다음 화 예고**: 목요일 밤, 마르셀루의 휴대폰에 3년 만의 이름이 뜬다. 「파비우 라세르다」. 「셀루. 저녁 한 끼 하자. 아바냔다바 거리의 그 칸티나. 네가 계산 안 해도 돼. 아직은 내가 살 수 있어.」 (7부 2화 「Fábio liga」).
