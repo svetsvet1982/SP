@@ -386,7 +386,7 @@
 121. LUCIANA: Faria Lima fala de negócio do lado do banheiro. Eu estava errada.
      루시아나: 파리아 리마는 화장실 옆에서도 사업 얘기를 하네요. 제가 틀렸어요.
 
-122. RAPAZ DO FUNDO: Só uma coisa. Da neta de uma mulher da Mooca. A Lívia sempre começa alto. Sempre. E ela respeita quem não aceita o primeiro número.
+122. RAPAZ DO FUNDO: Só uma coisa. Do neto de uma mulher da Mooca. A Lívia sempre começa alto. Sempre. E ela respeita quem não aceita o primeiro número.
      펀드 청년: 하나만요. 무까 출신 할머니의 손자로서요. 리비아는 늘 높게 시작해요. 늘요. 그리고 첫 숫자를 안 받아들이는 사람을 존중하죠.
 
 123. MARCELO: Por que você está ajudando a gente?
@@ -489,4 +489,4 @@
 - **호칭 규칙 반영**: 리비아→마르셀루 `senhor Marcelo`, 루시아나 `a senhora`/`dona Luciana` · 가브리엘→파트리시아 `a senhora`.
 - **신규 인물**: Gabriel · Executiva · Rapaz do Fundo · Recepcionista.
 - **복선 설치 확인**: 「valuation」(060·061·135·144) · 「participação societária」(071·114·117·135) · 한빛 만료 18개월(048·052~058 → 6부 14화) · 「거버넌스」(048 → 6부 7화) · 「지분 ≠ 지배권」(117 → 6부 2화).
-- **다음 화 예고**: 그날 밤 무까 집 부엌. 식탁 위에 계산기 두 대와 1999년의 낡은 공책 한 권 — 창업 첫해 루시아나의 회계 장부. 루시아나가 연필을 깎는다. 「Põe no papel.」 (6부 2화 「Luciana faz as contas」).
+- **다음 화 예고**: 그날 밤 무까 집 부엌. 식탁 위에 계산기 두 대와 낡은 공책 한 권 — 창업 첫해 루시아나의 회계 장부. 루시아나가 연필을 깎는다. 「Põe no papel.」 (6부 2화 「Luciana faz as contas」).
