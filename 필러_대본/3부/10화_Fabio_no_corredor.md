@@ -5,11 +5,11 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 10화 · 서사 기능: 갈등 — 라이벌의 소문, 공개 석상의 지지
 > - 배경: 토요일 「상파울루 피부미용 학술대회(Encontro Paulista de Dermatologia Estética)」 — 오전 9시 반 커피 브레이크(복도) → 10시 복도 구석 → 11시 사토 박사 강연 「필러 합병증: 우리가 말하지 않는 것」 질의응답 → 12시 복도
-> - 등장인물: Marcelo, Tuta, Sofia, Patrícia, Fábio, Dr. Henrique Sato, Dra. Regina, Dra. Helena, Carol, Dr. Otávio
+> - 등장인물: Marcelo, Tuta, Sofia, Patrícia, Fábio, Dr. Henrique Sato, Dra. Regina, Dra. Helena, Carol, Dr. Caio
 > - 난이도: B1 · 턴 수: 150 (도입 001–020 · 장면1 021–060 · 장면2 061–100 · 절정·전환 101–130 · 마무리 131–150)
 > - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 턴 길이 3단계(3부 기준) — 일반 15단어 이내 · 중간 16~35단어(화당 15~25개) · 장문 36~45단어(화당 3~6개).
 > - 핵심 표현: 「boato」 · 「Ele falou o quê?」
-> - 이번 화의 복선 설치: 소문의 세 조각이 모두 「비틀린 사실」(→ 정보 유출 경로, 4부 12화) · 오타비우 박사와 베르치시(→4부 10화) · 파비우의 「450헤알 한국산」 언급(→4부 위조품) · 사토 「합병증을 발표하는 사람을 믿어라」(→4부 9화 기자회견) · 헬레나 원장 공개 주문 확정(→3부 13화)
+> - 이번 화의 복선 설치: 소문의 세 조각이 모두 「비틀린 사실」(→ 정보 유출 경로, 4부 12화) · 카이우 박사와 베르치시(→4부 10화) · 파비우의 「450헤알 한국산」 언급(→4부 위조품) · 사토 「합병증을 발표하는 사람을 믿어라」(→4부 9화 기자회견) · 헬레나 원장 공개 주문 확정(→3부 13화)
 
 ---
 
@@ -323,11 +323,11 @@
 
 ### 절정·전환 (101–130) — 오전 11시, 2번 홀 질의응답
 
-101. DRA. REGINA: Obrigada, doutor Henrique. Agora, perguntas. Doutor Otávio, o senhor levantou a mão primeiro.
-     레지나 원장: 감사합니다, 엔히키 박사님. 이제 질문 받겠습니다. 오타비우 박사님, 먼저 손 드셨죠.
+101. DRA. REGINA: Obrigada, doutor Henrique. Agora, perguntas. Doutor Caio, o senhor levantou a mão primeiro.
+     레지나 원장: 감사합니다, 엔히키 박사님. 이제 질문 받겠습니다. 카이우 박사님, 먼저 손 드셨죠.
 
-102. DR. OTÁVIO: Doutor Sato, parabéns pela coragem. A minha pergunta é simples. Dizem que o senhor está usando um ácido hialurônico coreano novo. Que teve oclusão no estudo. O senhor confirma?
-     오타비우 박사: 사토 박사님, 용기에 경의를 표합니다. 질문은 간단합니다. 박사님이 새 한국산 히알루론산을 쓰신다던데요. 연구에서 폐색이 있었다고요. 확인해 주시겠습니까?
+102. DR. CAIO: Doutor Sato, parabéns pela coragem. A minha pergunta é simples. Dizem que o senhor está usando um ácido hialurônico coreano novo. Que teve oclusão no estudo. O senhor confirma?
+     카이우 박사: 사토 박사님, 용기에 경의를 표합니다. 질문은 간단합니다. 박사님이 새 한국산 히알루론산을 쓰신다던데요. 연구에서 폐색이 있었다고요. 확인해 주시겠습니까?
 
 103. TUTA: Chefe... ele falou o quê? Ele falou "dizem"?
      투타: 사장님... 저 사람 뭐라고 했어요? 「~라던데」라고 했어요?
@@ -335,17 +335,17 @@
 104. SOFIA: Shh, Tuta. Escuta.
      소피아: 쉿, 투타. 들어 봐요.
 
-105. DR. HENRIQUE: Confirmo. Duas oclusões em mil e quinhentos pacientes. Ambas resolvidas com hialuronidase, sem sequela. É a média mundial. A diferença é que alguém publicou. Doutor Otávio, quantas oclusões o produto que o senhor usa teve no último ano? O senhor sabe?
-     사토 박사: 확인합니다. 환자 1,500명 중 폐색 두 건. 둘 다 히알루로니다아제로 해결, 후유증 없음. 세계 평균입니다. 차이는 누군가 그걸 발표했다는 거죠. 오타비우 박사님, 박사님이 쓰시는 제품은 작년에 폐색이 몇 건 있었습니까? 아십니까?
+105. DR. HENRIQUE: Confirmo. Duas oclusões em mil e quinhentos pacientes. Ambas resolvidas com hialuronidase, sem sequela. É a média mundial. A diferença é que alguém publicou. Doutor Caio, quantas oclusões o produto que o senhor usa teve no último ano? O senhor sabe?
+     사토 박사: 확인합니다. 환자 1,500명 중 폐색 두 건. 둘 다 히알루로니다아제로 해결, 후유증 없음. 세계 평균입니다. 차이는 누군가 그걸 발표했다는 거죠. 카이우 박사님, 박사님이 쓰시는 제품은 작년에 폐색이 몇 건 있었습니까? 아십니까?
 
-106. DR. OTÁVIO: Eu... não tenho esse número aqui.
-     오타비우 박사: 저는... 그 숫자를 지금 갖고 있지 않습니다.
+106. DR. CAIO: Eu... não tenho esse número aqui.
+     카이우 박사: 저는... 그 숫자를 지금 갖고 있지 않습니다.
 
 107. DR. HENRIQUE: Ninguém tem. Esse é o tema da minha palestra.
      사토 박사: 아무도 없죠. 그게 제 강연 주제입니다.
 
-108. DR. OTÁVIO: E as quarenta mil seringas com defeito? Isso também dizem.
-     오타비우 박사: 그럼 불량 주사기 4만 개는요? 그것도 그렇다던데요.
+108. DR. CAIO: E as quarenta mil seringas com defeito? Isso também dizem.
+     카이우 박사: 그럼 불량 주사기 4만 개는요? 그것도 그렇다던데요.
 
 109. DR. HENRIQUE: Dizem muita coisa. Eu fui ver. Um lote saiu fora da especificação de viscosidade. A própria fábrica destruiu tudo, antes de vender. Custou um milhão e seiscentos mil dólares. Colegas, eu confio mais na fábrica que joga fora do que na fábrica que nunca joga.
      사토 박사: 말들이 많죠. 제가 직접 확인했습니다. 한 로트가 점도 규격을 벗어났어요. 공장이 판매 전에 전량 폐기했습니다. 160만 달러가 들었죠. 여러분, 저는 한 번도 안 버리는 공장보다 버리는 공장을 더 믿습니다.
@@ -353,14 +353,14 @@
 110. DRA. REGINA: Muito bem!
      레지나 원장: 옳소!
 
-111. DR. OTÁVIO: Mas o senhor ganha alguma coisa pra defender esse produto?
-     오타비우 박사: 그런데 박사님은 이 제품을 옹호하시고 뭔가 받으십니까?
+111. DR. CAIO: Mas o senhor ganha alguma coisa pra defender esse produto?
+     카이우 박사: 그런데 박사님은 이 제품을 옹호하시고 뭔가 받으십니까?
 
 112. DR. HENRIQUE: Boa pergunta. Não. Nem um centavo pelo meu nome. Quando eu der aula, recebo por hora, como qualquer professor. Se eu mudar de opinião, eu paro de usar. E aviso aqui.
      사토 박사: 좋은 질문입니다. 아니요. 제 이름값으로는 한 푼도 안 받습니다. 강의를 하게 되면 여느 교수처럼 시간당 보수를 받고요. 제 생각이 바뀌면 사용을 중단하고, 여기서 알리겠습니다.
 
-113. DR. OTÁVIO: E a exigência da ANVISA?
-     오타비우 박사: 그럼 안비자 보완 요구는요?
+113. DR. CAIO: E a exigência da ANVISA?
+     카이우 박사: 그럼 안비자 보완 요구는요?
 
 114. DR. HENRIQUE: Toda empresa séria recebe exigência. A sua também, doutor. A Vértice recebeu duas no ano passado.
      사토 박사: 진지한 회사는 다 보완 요구를 받습니다. 박사님 쪽도요. 베르치시는 작년에 두 건 받았죠.
@@ -371,8 +371,8 @@
 116. CAROL: Consultor científico deles. Desde o ano passado.
      카롤: 거기 과학 자문이에요. 작년부터요.
 
-117. DR. OTÁVIO: Eu não vim aqui representar ninguém.
-     오타비우 박사: 저는 누구를 대변하러 온 게 아닙니다.
+117. DR. CAIO: Eu não vim aqui representar ninguém.
+     카이우 박사: 저는 누구를 대변하러 온 게 아닙니다.
 
 118. DR. HENRIQUE: Nem eu, doutor. Por isso é bom dizer de onde a gente vem.
      사토 박사: 저도 아닙니다, 박사님. 그러니까 각자 어디서 왔는지 말하는 게 좋죠.
@@ -439,8 +439,8 @@
 138. TUTA: Deixa comigo, chefe.
      투타: 저한테 맡기세요, 사장님.
 
-139. PATRÍCIA: Senhor Marcelo, eu vou anotar o nome do doutor Otávio. E a data. Pra depois.
-     파트리시아: 사장님, 오타비우 박사 이름 적어 둘게요. 날짜도요. 나중을 위해서요.
+139. PATRÍCIA: Senhor Marcelo, eu vou anotar o nome do doutor Caio. E a data. Pra depois.
+     파트리시아: 사장님, 카이우 박사 이름 적어 둘게요. 날짜도요. 나중을 위해서요.
 
 140. MARCELO: Pra depois. Boa ideia.
      마르셀루: 나중을 위해서. 좋은 생각이에요.
@@ -457,11 +457,11 @@
 144. FÁBIO: E a Helena comprando na frente de todo mundo. Teatro bonito. Vocês ensaiaram?
      파비우: 그리고 헬레나가 모두 앞에서 구매 발표. 멋진 연극이네. 연습했어?
 
-145. PATRÍCIA: Ninguém ensaia uma pergunta do doutor Otávio, senhor Fábio.
-     파트리시아: 오타비우 박사의 질문을 연습하는 사람은 없죠, 파비우 씨.
+145. PATRÍCIA: Ninguém ensaia uma pergunta do doutor Caio, senhor Fábio.
+     파트리시아: 카이우 박사의 질문을 연습하는 사람은 없죠, 파비우 씨.
 
-146. FÁBIO: O Otávio? Ele falou o quê? Eu mal conheço o Otávio.
-     파비우: 오타비우? 그 사람이 뭐라고 했는데? 오타비우는 잘 몰라.
+146. FÁBIO: O Caio? Ele falou o quê? Eu mal conheço o Caio.
+     파비우: 카이우? 그 사람이 뭐라고 했는데? 카이우는 잘 몰라.
 
 147. SOFIA: Ele é consultor da Vértice desde o ano passado. O doutor Sato falou.
      소피아: 작년부터 베르치시 자문이시잖아요. 사토 박사님이 말씀하셨어요.
@@ -479,11 +479,11 @@
 
 ## 확인용 메모 (제작 참고, 낭독하지 않음)
 
-- **턴 배분(실측)**: Marcelo 32 · Fábio 25 · Patrícia 20 · Tuta 17 · Dr. Henrique 17 · Sofia 15 · Dra. Regina 8 · Carol 6 · Dr. Otávio 6 · Dra. Helena 4 = 150턴.
+- **턴 배분(실측)**: Marcelo 32 · Fábio 25 · Patrícia 20 · Tuta 17 · Dr. Henrique 17 · Sofia 15 · Dra. Regina 8 · Carol 6 · Dr. Caio 6 · Dra. Helena 4 = 150턴.
 - **턴 길이(실측)**: 일반 128 · 중간 17 · 장문 5 (최장 109번 45단어, 3부 장문 상한 45단어)
 - **장문 턴**: 036 파비우 — 소문 세 조각(폐색·보완 요구·불량 4만 개) · 079 파트리시아 — 「모두 비틀린 사실, 문제는 누가 알았느냐」 · 105 사토 박사 — 폐색 두 건 확인과 역질문 · 109 사토 박사 — 4만 개 폐기(160만 달러) 「버리는 공장을 더 믿는다」 · 128 사토 박사 — 「출처 없는 소문을 의심하라」.
-- **설정(이후 화에서 유지)**: 학회명 「Encontro Paulista de Dermatologia Estética」(토요일) · 사토는 10년 만의 학회 강연, 주제 「필러 합병증: 우리가 말하지 않는 것」(석 달 전 확정) · 소문 세 조각: ① 연구 폐색(공개 연구에 있음) ② 안비자 보완 요구(시스템상 공개) ③ **불량 4만 개(비공개 — 한빛·벨루라·레굴라 컨설트만 앎 → 유출 의심, 증거 없음)** + 변형(「정치적 승인」, 「마르타 원장 후회」 — 실제론 어제 20개 추가 주문) · 파비우 「450짜리 새 한국 제품」 언급, 「베르치시는 한국 제품 안 판다」 · **Dr. Otávio = 베르치시 과학 자문(작년부터)**, 질의응답에서 「~라던데」 질문 → 파트리시아가 이름·날짜 기록 · 베르치시는 작년 안비자 보완 요구 2건(사토 공개 발언) · 헬레나 원장 공개 발표: 루미에르 50개 정가.
+- **설정(이후 화에서 유지)**: 학회명 「Encontro Paulista de Dermatologia Estética」(토요일) · 사토는 10년 만의 학회 강연, 주제 「필러 합병증: 우리가 말하지 않는 것」(석 달 전 확정) · 소문 세 조각: ① 연구 폐색(공개 연구에 있음) ② 안비자 보완 요구(시스템상 공개) ③ **불량 4만 개(비공개 — 한빛·벨루라·레굴라 컨설트만 앎 → 유출 의심, 증거 없음)** + 변형(「정치적 승인」, 「마르타 원장 후회」 — 실제론 어제 20개 추가 주문) · 파비우 「450짜리 새 한국 제품」 언급, 「베르치시는 한국 제품 안 판다」 · **Dr. Caio = 베르치시 과학 자문(작년부터)**, 질의응답에서 「~라던데」 질문 → 파트리시아가 이름·날짜 기록 · 베르치시는 작년 안비자 보완 요구 2건(사토 공개 발언) · 헬레나 원장 공개 발표: 루미에르 50개 정가.
 - **호칭 규칙 반영**: 파비우→마르셀루 `Celo`, 소피아에게 `querida`(무례) → 파트리시아가 「아가씨들이 아니라 기술 책임자와 해외사업 매니저」로 교정 · 파비우→사토 `o velhinho` · 헬레나↔사토 이름(20년 친구).
-- **신규 인물**: Dr. Otávio. (레지나 원장이 사토 강연의 좌장)
-- **복선 설치 확인**: 「boato」(010·011·032·060·076·090·091·100·128·149) · 「Ele falou o quê?」(067·103·146, 126 변형) · 투타·카롤(005~009·074 → 3부 12화 공개) · 오타비우 기록(139 → 4부 10화) · 「이건 시작일 뿐」(150 → 4부).
+- **신규 인물**: Dr. Caio. (레지나 원장이 사토 강연의 좌장)
+- **복선 설치 확인**: 「boato」(010·011·032·060·076·090·091·100·128·149) · 「Ele falou o quê?」(067·103·146, 126 변형) · 투타·카롤(005~009·074 → 3부 12화 공개) · 카이우 기록(139 → 4부 10화) · 「이건 시작일 뿐」(150 → 4부).
 - **다음 화 예고**: 토요일 아침의 사무실 교육실. 의사 열두 명 앞에 해부학 모형이 놓이고, 맨 뒷줄엔 억지로 끌려온 엔주가 앉아 있다. 사토 박사가 모형의 한 점을 짚는다. 「여기가 위험 구역입니다.」 (3부 11화 「Workshop no sábado」).
