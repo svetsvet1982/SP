@@ -50,8 +50,8 @@
 011. AUGUSTO: Às seis da tarde. Neste formulário. Visitas, pedidos, descontos, próximos passos.
      아우구스투: 오후 여섯 시. 이 양식으로요. 방문, 주문, 할인, 다음 단계.
 
-012. TUTA: Eu mando um áudio pro chefe toda sexta. Há dezoito anos.
-     투타: 전 금요일마다 사장님한테 음성 메시지 보내요. 18년째요.
+012. TUTA: Eu mando um áudio pro chefe toda sexta. Há doze anos.
+     투타: 전 금요일마다 사장님한테 음성 메시지 보내요. 12년째요.
 
 013. AUGUSTO: Áudio não entra em planilha.
      아우구스투: 음성 메시지는 스프레드시트에 안 들어가요.
@@ -97,8 +97,8 @@
 026. BRUNA: Pela aprovação do senhor? Todo desconto?
      브루나: 이사님 승인을요? 할인마다요?
 
-027. TUTA: Cinco por cento? Eu dou dez pra clínica que paga em dia desde dois mil e oito.
-     투타: 5퍼센트요? 전 2008년부터 제때 돈 내는 클리닉엔 10퍼센트 줘요.
+027. TUTA: Cinco por cento? Eu dou dez pra clínica que paga em dia há dez anos.
+     투타: 5퍼센트요? 전 10년째 제때 돈 내는 클리닉엔 10퍼센트 줘요.
 
 028. AUGUSTO: Então você pede no sistema. E eu aprovo. Em uma hora.
      아우구스투: 그럼 시스템에 요청하세요. 제가 승인할게요. 한 시간 안에요.
@@ -318,8 +318,8 @@
 099. SEU EDU: Pra quem?
      에두 아저씨: 누구 거?
 
-100. TUTA: Pra doutora Regina. Página doze. Primeira cliente.
-     투타: 레지나 원장님요. 12쪽. 첫 고객.
+100. TUTA: Pra doutora Regina. Página doze. Cliente de sempre.
+     투타: 레지나 원장님요. 12쪽. 오랜 고객.
 
 ### 절정·전환 (101–130) — 오후 4시, 승인 대기
 
@@ -335,14 +335,14 @@
 104. AUGUSTO: Tuta. Eu vi o pedido. Quinze por cento.
      아우구스투: 투타 씨. 요청 봤어요. 15퍼센트.
 
-105. TUTA: Quinze. Pra doutora Regina. Ela comprou o primeiro laser da Bertolini. Em dois mil e sete.
-     투타: 15요. 레지나 원장님 거예요. 베르톨리니 첫 레이저를 사신 분이에요. 2007년에.
+105. TUTA: Quinze. Pra doutora Regina. Cliente há quinze anos. O primeiro CO2 dela foi em vinte e quatro vezes.
+     투타: 15요. 레지나 원장님 거예요. 15년 된 고객이에요. 첫 CO2를 24개월 할부로 사셨어요.
 
 106. AUGUSTO: Eu sei. Eu li o caderno. Mas a média dela é dez. Por que quinze?
      아우구스투: 알아요. 공책 읽었어요. 그런데 그분 평균은 10이에요. 왜 15죠?
 
-107. TUTA: Porque a clínica dela está mal. Abriu uma rede de franquia do lado, com preço de banana. Ela me contou chorando. Eu não vou deixar a primeira cliente fechar.
-     투타: 그분 클리닉이 어려워서요. 옆에 프랜차이즈 체인이 생겼어요, 헐값으로요. 울면서 말해 주셨어요. 첫 고객이 문 닫게 둘 순 없어요.
+107. TUTA: Porque a clínica dela está mal. Abriu uma rede de franquia do lado, com preço de banana. Ela me contou chorando. Eu não vou deixar uma cliente de quinze anos fechar.
+     투타: 그분 클리닉이 어려워서요. 옆에 프랜차이즈 체인이 생겼어요, 헐값으로요. 울면서 말해 주셨어요. 15년 된 고객이 문 닫게 둘 순 없어요.
 
 108. AUGUSTO: Isso não está no pedido. O pedido só diz "cliente antiga".
      아우구스투: 그건 요청서에 없어요. 요청서엔 「오래된 고객」이라고만 돼 있어요.
@@ -365,8 +365,8 @@
 114. MARCELO: Ei. Ei. O que está acontecendo aqui?
      마르셀루: 야. 야. 여기 무슨 일이야?
 
-115. TUTA: Chefe, a doutora Regina. Página doze. Ela está perdendo cliente pra franquia. Eu pedi quinze por cento no sistema há três horas. Ninguém aprovou. Ela ligou duas vezes. Eu nunca deixei ela esperando em dezoito anos. Nunca. O senhor lembra? Aqui sempre funcionou assim. A gente cuida de quem cuidou da gente.
-     투타: 사장님, 레지나 원장님요. 12쪽. 프랜차이즈한테 손님을 뺏기고 있어요. 세 시간 전에 시스템에 15퍼센트 요청했어요. 아무도 승인 안 했어요. 두 번 전화하셨어요. 18년 동안 한 번도 그분을 기다리게 한 적 없어요. 한 번도요. 기억하시죠? 여긴 늘 이렇게 해 왔어요. 우릴 돌봐 준 사람은 우리가 돌보는 거예요.
+115. TUTA: Chefe, a doutora Regina. Página doze. Ela está perdendo cliente pra franquia. Eu pedi quinze por cento no sistema há três horas. Ninguém aprovou. Ela ligou duas vezes. Eu nunca deixei ela esperando em doze anos. Nunca. O senhor lembra? Aqui sempre funcionou assim. A gente cuida de quem cuidou da gente.
+     투타: 사장님, 레지나 원장님요. 12쪽. 프랜차이즈한테 손님을 뺏기고 있어요. 세 시간 전에 시스템에 15퍼센트 요청했어요. 아무도 승인 안 했어요. 두 번 전화하셨어요. 12년 동안 한 번도 그분을 기다리게 한 적 없어요. 한 번도요. 기억하시죠? 여긴 늘 이렇게 해 왔어요. 우릴 돌봐 준 사람은 우리가 돌보는 거예요.
 
 116. MARCELO: Augusto?
      마르셀루: 아우구스투?
@@ -407,11 +407,11 @@
 128. SOFIA: Chefe, deixa ele.
      소피아: 사장님, 그냥 두세요.
 
-129. MARCELO: Ele nunca me disse "agora não". Em dezoito anos.
-     마르셀루: 18년 동안 나한테 「지금은 안 돼요」라고 한 적이 없었어.
+129. MARCELO: Ele nunca me disse "agora não". Em doze anos.
+     마르셀루: 12년 동안 나한테 「지금은 안 돼요」라고 한 적이 없었어.
 
-130. SOFIA: Em dezoito anos ninguém pediu pra ele preencher formulário.
-     소피아: 18년 동안 아무도 그한테 양식 채우라고 안 했으니까요.
+130. SOFIA: Em doze anos ninguém pediu pra ele preencher formulário.
+     소피아: 12년 동안 아무도 그한테 양식 채우라고 안 했으니까요.
 
 ### 마무리 (131–150) — 저녁 6시 1분, 사장실
 
@@ -486,8 +486,8 @@
 - **4대 변화**: ①매일 오후 6시 영업 보고(양식: 방문·주문·할인·다음 단계, 사유 칸 50자·비고란 500자) ②**할인 5% 초과 = COO 시스템 승인(「한 시간 안에」)** ③트럭 실시간 위치 추적 + 출발 체크리스트(온도·봉인·경로; 에두 공책은 유지, 태블릿 병행) · 창고 바코드 리더기(켈리) ④**품질·신고·아카데미는 COO를 거치지 않음(주주 협약) — 아우구스투 본인도 동의** · 매주 화요일 오전 8시 파이프라인 회의.
 - **회사 규모**: 직원 78명(리우 포함), 서른 명 시절과 비교.
 - **두 테이블**: 빵집(투타·브루나·켈리·에두 + 안토니우) / 회의실 도시락(호제리우·라리사·이고르 + 아우구스투) → 아우구스투 「내일은 빵집에서」 · 파트리시아는 이사 승진 후 혼자 먹다가 회의실 합류.
-- **레지나 원장(공책 12쪽, 2007년 첫 레이저 고객)**: 옆에 헐값 프랜차이즈 체인 → 투타 15% 요청(평균 10%) → 사유 칸에 「오래된 고객」만 → 세 시간 「승인 대기」, 서로 전화 기다림 → 마르셀루 「내가 책임질게」로 승인(사유: 프랜차이즈 경쟁).
-- **투타**: 18년 금요일 음성 보고 · 「핵심 인력」→「양식의 한 줄」 · 커미션 = 사장과의 구두 약속(아직 아우구스투가 묻지 않음) · 마르셀루에게 처음으로 「지금은 안 돼요」 · **오후 6시 1분 보고서, 비고란 한 줄 「Processo cumprido.」 이모지 없음**(→6부 8화).
+- **레지나 원장(공책 12쪽, 15년 고객, 첫 CO2 24개월 할부)**: 옆에 헐값 프랜차이즈 체인 → 투타 15% 요청(평균 10%) → 사유 칸에 「오래된 고객」만 → 세 시간 「승인 대기」, 서로 전화 기다림 → 마르셀루 「내가 책임질게」로 승인(사유: 프랜차이즈 경쟁).
+- **투타**: 12년 금요일 음성 보고 · 「핵심 인력」→「양식의 한 줄」 · 커미션 = 사장과의 구두 약속(아직 아우구스투가 묻지 않음) · 마르셀루에게 처음으로 「지금은 안 돼요」 · **오후 6시 1분 보고서, 비고란 한 줄 「Processo cumprido.」 이모지 없음**(→6부 8화).
 - **안토니우**: 「넌 숫자 취급에 반대하는 거다」 · 밀가루 업자와 30년 구두 약속 · 「나는 며느리가 있지. 절차보다 무섭다」.
 - **복선 설치 확인**: 「processo」(017·049·096·137·150 등) · 「Aqui sempre funcionou assim.」(044·115·149) · 「O chefe não fica doente」(016·146 → 6부 10화 아버지 입원과 대구) · 아우구스투의 눈물(085 → 6부 12화).
-- **다음 화 예고**: 2주 뒤 금요일 저녁. 마르셀루의 휴대폰에 금요일 음성 메시지가 온다. 18년 만에 처음으로, 웃음소리 없이. 「사장님, 월요일에 얘기 좀 할 수 있을까요. 사무실 말고요.」 (6부 8화 「Tuta pede demissão」).
+- **다음 화 예고**: 2주 뒤 금요일 저녁. 마르셀루의 휴대폰에 금요일 음성 메시지가 온다. 12년 만에 처음으로, 웃음소리 없이. 「사장님, 월요일에 얘기 좀 할 수 있을까요. 사무실 말고요.」 (6부 8화 「Tuta pede demissão」).
