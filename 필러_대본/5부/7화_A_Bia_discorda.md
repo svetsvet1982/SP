@@ -226,7 +226,7 @@
      두다: 차에서 말해 줬어요. 다른 이야기 하던 그날에요.
 
 069. DR. HENRIQUE: Eu não vou dizer que eu nunca pensei assim. Seria mentira. Há trinta anos, eu achava que só médico devia tocar no rosto. Hoje eu acho que quem não sabe tratar não devia tocar.
-     사토 박사: 저도 그렇게 생각한 적 없다고는 안 할게요. 30년 전엔 저도 의사만 얼굴을 만져야 한다고 생각했어요. 지금은 치료할 줄 모르는 사람은 만지면 안 된다고 생각하고요.
+     사토 박사: 그렇게 생각한 적 없다고는 안 할게요. 거짓말이니까요. 30년 전엔 저도 의사만 얼굴을 만져야 한다고 생각했어요. 지금은 치료할 줄 모르는 사람은 만지면 안 된다고 생각하고요.
 
 070. DRA. BIANCA: Quem não sabe tratar. Qualquer diploma.
      비앙카 원장: 치료할 줄 모르는 사람. 어떤 학위든.
