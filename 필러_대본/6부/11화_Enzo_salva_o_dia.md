@@ -323,8 +323,8 @@
 
 ### 절정·전환 (101–130) — 오후 4시, 여섯 시간 뒤
 
-101. CAMILA: Oi. Eu sou a Camila. Há três anos eu deitei numa cadeira de salão sem conferir. Eu quase perdi um olho. Hoje é simples. Manda pro Confere. Antes de deitar, confere.
-     카밀라: 안녕하세요. 카밀라예요. 3년 전에 확인도 안 하고 미용실 의자에 누웠어요. 한쪽 눈을 잃을 뻔했어요. 오늘은 쉬워요. 콘페리한테 보내세요. 눕기 전에, 확인하세요.
+101. CAMILA: Oi. Eu sou a Camila. Há dois anos eu deitei numa cadeira de salão sem conferir. Eu quase perdi um olho. Hoje é simples. Manda pro Confere. Antes de deitar, confere.
+     카밀라: 안녕하세요. 카밀라예요. 2년 전에 확인도 안 하고 미용실 의자에 누웠어요. 한쪽 눈을 잃을 뻔했어요. 오늘은 쉬워요. 콘페리한테 보내세요. 눕기 전에, 확인하세요.
 
 102. MARCELO: Ela gravou num take só. Às onze e meia. Sem ensaiar.
      마르셀루: 한 번에 찍었어. 열한 시 반에. 연습도 없이.
