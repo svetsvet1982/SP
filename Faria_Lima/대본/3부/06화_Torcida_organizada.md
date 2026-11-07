@@ -383,7 +383,7 @@
     치아구: 작은 회사예요. 세 사람과 돈 안 받는 고문 한 분.
 
 115. PAULA: Uma firma pequena que derrubou dois diretores em dois meses. Hospital e clube.
-    파울라: 두 달 만에 단장 둘을 끌어내린 작은 회사죠. 병원장과 클럽 단장.
+    파울라: 두 달 만에 책임자 둘을 끌어내린 작은 회사죠. 병원과 클럽에서.
 
 116. HELENA: A gente não derrubou ninguém. Os conselhos decidiram. A gente só mostrou os fatos.
     엘레나: 저흰 아무도 끌어내리지 않았어요. 이사회가 결정했죠. 저흰 사실을 보여 줬을 뿐이에요.
