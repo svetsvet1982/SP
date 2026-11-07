@@ -12,7 +12,7 @@ KO = {'HELENA':'엘레나','THIAGO':'치아구','BIA':'비아','RODRIGO':'호드
       'DONA ROSE':'도나 호지','EDINHO':'에지뉴','KIM':'김 여사','DANIEL':'다니엘','LEONARDO':'레오나르두',
       'RICARDO':'히카르두','ÂNGELO':'앙젤루','MARCELO':'마르셀루','GIOVANA':'지오바나','NEUSA':'네우자',
       'VALDIR':'발지르','JOSIANE':'조지아니','MARLENE':'마를레니','ELIAS':'엘리아스','DONA RITA':'도나 히타',
-      'JUNIOR':'주니오르','MÁRCIO':'마르시우','SR. PARK':'박 사장','TATIANE':'타치아니','FÁBIO':'파비우','LURDES':'루르지스','EXPEDITO':'이스페지투'}
+      'JUNIOR':'주니오르','MÁRCIO':'마르시우','SR. PARK':'박 사장','TATIANE':'타치아니','FÁBIO':'파비우','LURDES':'루르지스','EXPEDITO':'이스페지투','OPERÁRIO':'노동자'}
 src, dst = sys.argv[1], sys.argv[2]
 out, n, body = [], 0, False
 for l in open(src, encoding='utf-8').read().splitlines():
