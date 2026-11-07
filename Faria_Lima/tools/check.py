@@ -11,3 +11,4 @@ for src in sys.argv[1:]:
             if w > 15: bad.append((n, w))
     ok = nums == list(range(1, 121))
     print(src, '턴', len(nums), '연속' if ok else '번호오류', '15단어 초과:', bad)
+    if not ok or bad: sys.exit(1)
