@@ -23,6 +23,7 @@
 - HOMEM / MULHER — Pinheiros 포커스 그룹 참가자 (중산층)
 - IVONE — 이보니, Capão Redondo 포커스 그룹 참가자, 간병인, 48세
 - JEFFERSON — 제페르송, Capão Redondo 포커스 그룹 참가자, 오토바이 배달원, 24세
+- NELSON — 넬송 파이바, 선거대책위원장, 66세
 
 ---
 
