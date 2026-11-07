@@ -366,7 +366,7 @@
 111. DANIEL: Mãe... isso é a empresa inteira.
     다니엘: 엄마... 이게 회사 전체네요.
 
-112. KIM: Não. Isso é o seu pai e eu. A empresa é o que você vai fazer com isso.
+112. KIM: Não. Isso é seu pai e eu. A empresa é o que você fizer disso.
     김 여사: 아니. 이건 네 아빠랑 나야. 회사는 네가 이걸로 뭘 하느냐지.
 
 113. BIA: Lá na quebrada a gente chama isso de "passar o bastão".
