@@ -33,7 +33,7 @@
 02. HELENA: Bom dia, Sérgio, e obrigada por receber a gente aqui tão cedo.
     엘레나: 좋은 아침이에요, 세르지우. 이렇게 이른 시간에 맞아 주셔서 감사해요.
 
-03. SÉRGIO: Eu não recebi ninguém, o Wagner é que mandou, e isso é bem diferente.
+03. SÉRGIO: Eu não recebi ninguém, quem mandou foi o Wagner, e isso é bem diferente, minha senhora.
     세르지우: 난 아무도 맞은 적 없어요. 와그너가 시킨 거고, 그건 완전히 다르죠.
 
 04. HELENA: Entendo, mas obrigada mesmo assim.
@@ -51,11 +51,11 @@
 08. THIAGO: Os dados por produto, porque só o total da loja não mostra onde está a perda.
     치아구: 품목별 데이터요. 매장 합계만으로는 손실이 어디 있는지 안 보이거든요.
 
-09. SÉRGIO: Isso dá trabalho, e a minha equipe não está aqui para ficar fazendo planilha.
-    세르지우: 그건 손이 많이 가요. 우리 팀은 스프레드시트나 만들려고 있는 게 아니에요.
+09. SÉRGIO: Isso dá trabalho, e a minha equipe não está aqui para ficar fazendo planilha para consultor.
+    세르지우: 그건 손이 많이 가요. 우리 팀은 컨설턴트한테 스프레드시트나 만들어 주려고 있는 게 아니에요.
 
-10. HELENA: Ninguém precisa fazer nada, porque a gente só quer ver a loja e conversar.
-    엘레나: 아무도 아무것도 안 하셔도 돼요. 저흰 그냥 매장을 보고 이야기만 나누고 싶어요.
+10. HELENA: Ninguém precisa fazer nada, porque a gente só quer ver a loja funcionando e conversar com as pessoas.
+    엘레나: 아무도 아무것도 안 하셔도 돼요. 저흰 매장이 돌아가는 걸 보고 사람들이랑 이야기만 나누고 싶어요.
 
 11. SÉRGIO: Conversar com quem?
     세르지우: 누구랑 이야기를요?
@@ -113,14 +113,14 @@
 28. BIA: E se sobra?
     비아: 그럼 남으면요?
 
-29. EDINHO: Se sobra, estraga, e depois de três dias vai tudo para o lixo.
-    에지뉴: 남으면 상하죠. 사흘 지나면 다 쓰레기통으로 가요.
+29. EDINHO: Se sobra, estraga, e depois de três dias vai tudo para o lixo, caixa por caixa.
+    에지뉴: 남으면 상하죠. 사흘 지나면 상자째로 다 쓰레기통으로 가요.
 
 30. BIA: E você não pode pedir para mandarem menos?
     비아: 덜 보내 달라고 할 순 없어요?
 
-31. EDINHO: A dona Rose já pediu mil vezes, mas ninguém da central responde.
-    에지뉴: 도나 호지가 천 번은 요청했는데, 본사에선 아무도 답이 없어요.
+31. EDINHO: A dona Rose já pediu mil vezes, por e-mail e por telefone, mas ninguém da central responde.
+    에지뉴: 도나 호지가 이메일로, 전화로 천 번은 요청했는데, 본사에선 아무도 답이 없어요.
 
 32. BIA: E a câmara fria? A fruta não fica guardada lá dentro?
     비아: 냉장실은요? 과일을 거기 넣어 두지 않아요?
@@ -164,8 +164,8 @@
 45. JOSIANE: Todo mundo aqui faz isso, mas não conta pra ninguém, tá?
     조지아니: 여기 다 그래요. 근데 아무한테도 말하지 마요, 알았죠?
 
-46. BIA: Fica tranquila, porque ninguém vai saber que foi você que me contou.
-    비아: 걱정 마요. 당신이 말해 준 건 아무도 모를 거예요.
+46. BIA: Fica tranquila, porque ninguém vai saber que foi você que me contou isso, eu te garanto.
+    비아: 걱정 마요. 당신이 말해 준 건 아무도 모를 거예요, 장담해요.
 
 47. HELENA: Bia, como estão as coisas aí?
     엘레나: 비아, 거기 상황은 어때요?
@@ -220,14 +220,14 @@
 63. DONA ROSE: Fruta, verdura, pão e carne. Isso eu podia ter dito para vocês de graça.
     도나 호지: 과일, 채소, 빵, 고기. 그건 내가 공짜로도 말해 줄 수 있었는데.
 
-64. HELENA: A senhora tem razão, mas agora a gente tem o número para provar.
-    엘레나: 맞는 말씀이에요. 하지만 이제 증명할 숫자가 생겼어요.
+64. HELENA: A senhora tem razão, mas agora a gente tem o número para provar o que a senhora sempre soube.
+    엘레나: 맞는 말씀이에요. 하지만 이제 여사님이 늘 알던 걸 증명할 숫자가 생겼어요.
 
 65. DONA ROSE: E esse número vai consertar a minha câmara fria?
     도나 호지: 그 숫자가 내 냉장실을 고쳐 줘요?
 
-66. HELENA: Talvez, porque número convence diretoria, e reclamação nem sempre convence.
-    엘레나: 어쩌면요. 숫자는 경영진을 설득하지만, 불평은 늘 그렇진 않거든요.
+66. HELENA: Talvez, porque número convence diretoria, e reclamação, infelizmente, nem sempre convence quem está lá em cima.
+    엘레나: 어쩌면요. 숫자는 경영진을 설득하지만, 불평은 안타깝게도 윗사람들을 늘 설득하진 못하거든요.
 
 67. DONA ROSE: Eu escrevo tudo aqui neste caderno, e faço isso há anos.
     도나 호지: 난 이 공책에 다 적어요. 몇 년째 그래 왔어요.
@@ -259,8 +259,8 @@
 76. HELENA: Os dados batem, Thiago?
     엘레나: 데이터가 맞아요, 치아구?
 
-77. THIAGO: Não, nem perto, porque o caderno mostra quase o dobro do sistema.
-    치아구: 아니요, 근처도 안 가요. 공책이 시스템의 거의 두 배예요.
+77. THIAGO: Não, nem perto, porque o caderno da dona Rose mostra quase o dobro do que está no sistema.
+    치아구: 아니요, 근처도 안 가요. 도나 호지 공책이 시스템에 있는 것의 거의 두 배예요.
 
 78. BIA: Então quem está errado, o caderno ou o sistema?
     비아: 그럼 누가 틀린 거예요? 공책이에요, 시스템이에요?
@@ -303,14 +303,14 @@
 90. SÉRGIO: Vocês estão me acusando de alguma coisa?
     세르지우: 지금 나를 뭔가로 고발하는 거예요?
 
-91. HELENA: Não, eu estou perguntando, porque quero entender como esse número é calculado.
-    엘레나: 아니요, 묻는 거예요. 그 숫자가 어떻게 계산되는지 알고 싶어서요.
+91. HELENA: Não, eu estou só perguntando, porque quero entender direitinho como esse número é calculado.
+    엘레나: 아니요, 그냥 묻는 거예요. 그 숫자가 어떻게 계산되는지 제대로 알고 싶어서요.
 
 92. SÉRGIO: No meu relatório entra só a quebra registrada, e o resto vai para "ajuste".
     세르지우: 내 보고서엔 기록된 파손만 들어가요. 나머지는 "조정"으로 가고요.
 
-93. THIAGO: Mas ajuste também é perda, já que a mercadoria sumiu do mesmo jeito.
-    치아구: 하지만 조정도 손실이에요. 어쨌든 상품은 사라진 거니까요.
+93. THIAGO: Mas ajuste também é perda, Sérgio, já que a mercadoria sumiu da loja do mesmo jeito.
+    치아구: 하지만 조정도 손실이에요, 세르지우. 어쨌든 상품은 매장에서 사라진 거니까요.
 
 94. SÉRGIO: Contabilmente é outra linha, e não é responsabilidade das lojas.
     세르지우: 회계상으로는 다른 항목이에요. 매장 책임이 아니에요.
@@ -386,8 +386,8 @@
 117. DONA ROSE: Pode levar, filha, porque pela primeira vez alguém quer ler o que eu escrevo.
     도나 호지: 가져가, 얘야. 내가 쓴 걸 읽고 싶어 하는 사람은 처음이네.
 
-118. THIAGO: Helena, a hipótese quatro continua viva, e agora está ainda mais forte.
-    치아구: 엘레나, 가설 넷은 아직 살아 있어요. 이제 훨씬 더 강해졌고요.
+118. THIAGO: Helena, a hipótese quatro continua viva, e depois de hoje ela está ainda mais forte.
+    치아구: 엘레나, 가설 넷은 아직 살아 있어요. 오늘 이후로 훨씬 더 강해졌고요.
 
 119. HELENA: E agora ela tem nome: não é só perda, é um sistema inteiro que esconde a perda.
     엘레나: 이제 이름도 생겼어요. 그냥 손실이 아니라, 손실을 숨기는 시스템 전체예요.
