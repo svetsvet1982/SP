@@ -127,8 +127,8 @@
 28. GIL: Eu não sei, e é a primeira vez na minha carreira que eu digo isso.
     질: 모르겠어요. 경력 통틀어 이런 말 하는 건 처음이에요.
 
-29. BIA: Meu celular! É a dona Cida! Viva-voz!
-    비아: 내 휴대폰! 도나 시다예요! 스피커폰!
+29. BIA: Meu celular está tocando, é a dona Cida, coloca no viva-voz!
+    비아: 내 휴대폰 울려요, 도나 시다예요, 스피커폰으로 돌려요!
 
 30. DONA CIDA: Bia? Fala para a doutora que a Paraisópolis acabou de contar.
     도나 시다: 비아? 박사님한테 전해. 파라이조폴리스 개표 방금 끝났어.
@@ -207,8 +207,8 @@
 54. FRED: Cinquenta vírgula oito contra quarenta e nove vírgula dois!
     프레드: 50.8 대 49.2!
 
-55. NELSON: Quarenta anos... Quarenta anos de PRP...
-    넬송: 40년... PRP 40년...
+55. NELSON: Quarenta anos de PRP, quarenta anos esperando por isso...
+    넬송: PRP 40년, 이걸 40년 동안 기다렸어...
 
 56. HELENA: Seu Nelson, agora o senhor pode respirar.
     엘레나: 넬송 씨, 이제 숨 쉬셔도 돼요.
@@ -267,8 +267,8 @@
 74. CARDIM: Boa noite. Eu reconheço o resultado, e já liguei para a doutora Lúcia para desejar sorte.
     카르딩: 안녕하십니까. 결과를 인정합니다. 루시아 박사에게 이미 전화해 행운을 빌었습니다.
 
-75. FRED: Reconheceu rápido. Sem drama.
-    프레드: 빨리 인정했네요. 드라마 없이.
+75. FRED: Reconheceu rápido e sem drama.
+    프레드: 빨리, 드라마 없이 인정했네요.
 
 76. NELSON: Isso é democracia, Fred, a parte dela que funciona.
     넬송: 그게 민주주의야, 프레드. 제대로 돌아가는 부분이지.

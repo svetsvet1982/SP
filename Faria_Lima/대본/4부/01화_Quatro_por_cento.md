@@ -76,8 +76,8 @@
 
 ### A REGRA CINCO (규칙 다섯)
 
-16. HELENA: Eu preciso de vocês quatro, porque o assunto é a doutora Lúcia.
-    엘레나: 넷 다 좀 모여 주세요. 루시아 박사님 일이에요.
+16. HELENA: Eu preciso de vocês quatro aqui na mesa, porque o assunto de hoje é a doutora Lúcia.
+    엘레나: 넷 다 여기 좀 앉아 주세요. 오늘 얘기는 루시아 박사님 일이에요.
 
 17. THIAGO: Você está pensando em aceitar, dá para ver na sua cara.
     치아구: 수락할 생각이군요. 얼굴에 다 보여요.
@@ -88,11 +88,11 @@
 19. BIA: E a regra cinco? Está ali na parede, bem atrás da cadeira do cliente.
     비아: 그럼 규칙 다섯은요? 저기 벽에, 고객 의자 바로 뒤에 있잖아요.
 
-20. HELENA: A regra cinco é da Lupa, e quem não audita política é a Lupa.
-    엘레나: 규칙 다섯은 루파의 규칙이에요. 정치를 감사하지 않는 건 루파고요.
+20. HELENA: A regra cinco é da Lupa, e quem não audita política é a Lupa, não eu.
+    엘레나: 규칙 다섯은 루파의 규칙이에요. 정치를 감사하지 않는 건 루파지, 내가 아니고요.
 
-21. ERNESTO: E a senhora é a Lupa, já que o seu nome está na manchete.
-    에르네스투: 그리고 당신이 루파요. 당신 이름이 헤드라인에 있으니까.
+21. ERNESTO: E a senhora é a Lupa, senhora Helena, já que o seu nome está na manchete.
+    에르네스투: 그리고 당신이 루파요, 엘레나 씨. 당신 이름이 헤드라인에 있으니까.
 
 22. HELENA: Por isso eu pensei numa saída: se eu for, eu saio da Lupa, com licença total.
     엘레나: 그래서 출구를 생각했어요. 간다면 루파를 떠날 거예요. 완전 휴직으로요.
@@ -133,11 +133,11 @@
 34. HELENA: E agora ele vai fazer isso com doze milhões de pessoas, com a cidade inteira.
     엘레나: 이제 그걸 천2백만 명에게, 도시 전체에 하려는 거예요.
 
-35. BIA: E se a doutora Lúcia também mentir? Político mente, todo mundo sabe disso.
-    비아: 루시아 박사님도 거짓말하면요? 정치인은 거짓말하잖아요. 다들 알아요.
+35. BIA: E se a doutora Lúcia também mentir? Político mente, e todo mundo sabe disso, Helena.
+    비아: 루시아 박사님도 거짓말하면요? 정치인은 거짓말하잖아요, 엘레나. 다들 알아요.
 
-36. HELENA: Então eu saio no mesmo dia, e essa vai ser a minha condição.
-    엘레나: 그럼 그날로 나와요. 그게 내 조건이 될 거예요.
+36. HELENA: Então eu saio no mesmo dia em que ela mentir, e essa vai ser a minha condição.
+    엘레나: 그럼 박사님이 거짓말하는 그날로 나와요. 그게 내 조건이 될 거예요.
 
 37. THIAGO: Eu fico e seguro a Lupa, com três auditorias ao mesmo tempo, como diz a regra três.
     치아구: 내가 남아서 루파를 맡을게요. 규칙 셋대로 감사 세 건 동시에요.
