@@ -83,8 +83,8 @@
 14. FRED: E se perder, o senhor vai conferir o quê?
     프레드: 그럼 지면 뭘 확인하실 건데요?
 
-15. ERNESTO: Se as contas da campanha fecham. Fecham, Thiago?
-    에르네스투: 캠프 회계가 맞는지. 맞소, 치아구?
+15. ERNESTO: Se as contas da campanha fecham. E então, elas fecham, Thiago?
+    에르네스투: 캠프 회계가 맞는지. 그래서, 맞소, 치아구?
 
 ### A VIRADA (역전)
 
@@ -106,8 +106,8 @@
 21. APRESENTADOR: Com quarenta por cento apurado, Cardim tem cinquenta e dois, e Lúcia, quarenta e oito.
     앵커: 개표율 40%, 카르딩 52%, 루시아 48%입니다.
 
-22. LÚCIA: Quatro. Ainda quatro, e parece que esse número me persegue desde o começo.
-    루시아: 4. 아직도 4네요. 처음부터 이 숫자가 날 따라다니는 것 같아요.
+22. LÚCIA: Ainda quatro pontos, e parece que esse número me persegue desde o começo.
+    루시아: 아직도 4%포인트네요. 처음부터 이 숫자가 날 따라다니는 것 같아요.
 
 23. HELENA: Esse número é o nosso começo, doutora, e não o nosso fim.
     엘레나: 그 숫자는 우리의 시작이에요, 박사님. 끝이 아니라요.
@@ -157,8 +157,8 @@
 38. APRESENTADOR: Oitenta por cento apurado: Cardim, cinquenta vírgula quatro, e Lúcia, quarenta e nove vírgula seis.
     앵커: 개표율 80%, 카르딩 50.4%, 루시아 49.6%입니다.
 
-39. NELSON: Oito décimas, Helena. São só oito décimas.
-    넬송: 0.8%포인트야, 엘레나. 겨우 0.8이라고.
+39. NELSON: Oito décimas, Helena, são só oito décimas de diferença.
+    넬송: 0.8%포인트야, 엘레나. 차이가 겨우 0.8이라고.
 
 40. HELENA: Eu sei, seu Nelson. Respira.
     엘레나: 알아요, 넬송 씨. 숨 쉬세요.
@@ -225,8 +225,8 @@
 60. THIAGO: Apuração encerrada. A diferença final foi de cento e doze mil votos.
     치아구: 개표 종료. 최종 차이는 11만 2천 표예요.
 
-61. ERNESTO: Conferi, e bate com os boletins de urna. Agora eu comemoro.
-    에르네스투: 확인했소, 투표함 집계표랑 맞소. 이제 축하하겠소.
+61. ERNESTO: Conferi, e bate com os boletins de urna, então agora eu comemoro.
+    에르네스투: 확인했소, 투표함 집계표랑 맞소. 그러니 이제 축하하겠소.
 
 62. ZULEICA: Café para todo mundo! E bolo, assim que a dona Neusa chegar!
     조이레이카: 모두 커피! 네우자 씨 오면 케이크도!
@@ -267,8 +267,8 @@
 74. CARDIM: Boa noite. Eu reconheço o resultado, e já liguei para a doutora Lúcia para desejar sorte.
     카르딩: 안녕하십니까. 결과를 인정합니다. 루시아 박사에게 이미 전화해 행운을 빌었습니다.
 
-75. FRED: Ele reconheceu rápido, e sem nenhum drama.
-    프레드: 빨리 인정했네요, 드라마도 없이.
+75. FRED: Reconheceu rápido. Sem drama.
+    프레드: 빨리 인정했네요. 드라마 없이.
 
 76. NELSON: Isso é democracia, Fred, a parte dela que funciona.
     넬송: 그게 민주주의야, 프레드. 제대로 돌아가는 부분이지.
@@ -314,8 +314,8 @@
 89. JURANDIR: O fiscal mais chato da cidade, como eu prometi.
     주란지르: 이 도시에서 제일 까다로운 감시자. 약속한 대로요.
 
-90. THIAGO: Espera, que eu nem fui consultado.
-    치아구: 잠깐만요, 전 의견도 안 물어봤잖아요.
+90. THIAGO: Ninguém me consultou, hein.
+    치아구: 전 의견도 안 물어봤잖아요.
 
 91. HELENA: Agora foi. Quer?
     엘레나: 지금 묻는 거야. 할래?
@@ -332,8 +332,8 @@
 95. LÚCIA: Bia, a Paraisópolis pediu você para o conselho de saúde do bairro.
     루시아: 비아, 파라이조폴리스에서 동네 보건위원회에 당신을 보내 달래요.
 
-96. BIA: Foi a dona Cida que pediu?
-    비아: 도나 시다가 부탁하신 거예요?
+96. BIA: A dona Cida pediu?
+    비아: 도나 시다가요?
 
 97. LÚCIA: Foi, e ela disse assim: "Manda a menina do bilhete único."
     루시아: 맞아요. 이렇게 말씀하셨어요. "교통카드 그 아가씨 보내."
@@ -353,8 +353,8 @@
 102. HELENA: Liga para a Lupa, que a Zuleica atende, e a fila de espera é de duas semanas.
     엘레나: 루파에 전화하세요. 조이레이카가 받을 거고, 대기는 2주예요.
 
-103. ZULEICA: Três. Para prefeita são três, para não parecer favor.
-    조이레이카: 3주예요. 시장님은 3주. 특혜처럼 안 보이게.
+103. ZULEICA: São três semanas para prefeita, para não parecer favor.
+    조이레이카: 시장님은 3주예요. 특혜처럼 안 보이게.
 
 104. NELSON: Moça teimosa, você teria sido uma grande política, sabia?
     넬송: 고집쟁이 아가씨, 당신은 훌륭한 정치인이 됐을 거야, 알아?
@@ -373,14 +373,14 @@
 108. ZULEICA: Ainda não, porque são oito e meia, e crise só chega às nove.
     조이레이카: 아직요. 여덟 시 반이잖아요. 위기는 아홉 시에나 와요.
 
-109. ERNESTO: O jornal. Você saiu na foto de costas, descendo do palco.
-    에르네스투: 신문이오. 무대에서 내려가는 뒷모습으로 사진에 나왔소.
+109. ERNESTO: Saiu no jornal, e você aparece na foto de costas, descendo do palco.
+    에르네스투: 신문에 났소. 무대에서 내려가는 뒷모습으로 사진에 나왔더군.
 
 110. HELENA: É a foto certa, porque consultor sai de costas.
     엘레나: 제대로 된 사진이네요. 컨설턴트는 뒷모습으로 나가니까요.
 
-111. ERNESTO: Auditor não tem amigo, tem evidência. Mas hoje eu abro uma exceção. Parabéns.
-    에르네스투: 감사인은 친구가 없고 증거만 있소. 하지만 오늘은 예외를 두지. 축하하오.
+111. ERNESTO: Auditor não tem amigo, tem evidência. Mas hoje eu abro uma exceção e lhe dou os parabéns.
+    에르네스투: 감사인은 친구가 없고 증거만 있소. 하지만 오늘은 예외를 두고 축하하겠소.
 
 112. BIA: Helena, a página "Cada real tem nome" ainda recebe mensagem, e olha só essa aqui.
     비아: 엘레나, "1헤알마다 이름이 있다" 페이지에 아직도 메시지가 와요. 이거 좀 봐요.
