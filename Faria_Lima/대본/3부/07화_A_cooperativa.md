@@ -27,115 +27,115 @@
 ## 대본
 ### QUATRO HORAS DE ÔNIBUS (버스로 네 시간)
 
-01. BIA: Quatro horas de ônibus. E ainda falta meia hora.
-    비아: 버스로 네 시간. 그런데 아직 30분 남았어요.
+01. BIA: Já são quatro horas de ônibus, e ainda falta meia hora pra gente chegar.
+    비아: 버스로 벌써 네 시간인데, 도착하려면 아직 30분 남았어요.
 
-02. THIAGO: Você nunca saiu de São Paulo?
+02. THIAGO: Você nunca tinha saído de São Paulo?
     치아구: 상파울루를 한 번도 안 벗어나 봤어요?
 
-03. BIA: Fui para a praia duas vezes. Interior, nunca.
-    비아: 바다는 두 번 가 봤어요. 내륙은 한 번도요.
+03. BIA: Fui pra praia duas vezes, mas pro interior, nunca.
+    비아: 바다는 두 번 가 봤는데, 내륙은 한 번도 없어요.
 
-04. HELENA: Olha pela janela. Cana até onde o olho alcança.
+04. HELENA: Olha pela janela, que tem cana até onde o olho alcança.
     엘레나: 창밖을 봐요. 눈 닿는 데까지 사탕수수예요.
 
 05. BIA: Parece um mar verde.
     비아: 초록 바다 같아요.
 
-06. THIAGO: Um mar que vale bilhões. Ribeirão Preto é a capital do agronegócio.
-    치아구: 수십억짜리 바다죠. 히베이랑프레투는 농업 비즈니스의 수도예요.
+06. THIAGO: Um mar que vale bilhões, porque Ribeirão Preto é a capital do agronegócio.
+    치아구: 수십억짜리 바다죠. 히베이랑프레투는 농업 비즈니스의 수도니까요.
 
-07. BIA: E quem pediu a auditoria?
-    비아: 감사는 누가 의뢰했어요?
+07. BIA: E quem foi que pediu essa auditoria?
+    비아: 그런데 이 감사는 누가 의뢰한 거예요?
 
-08. HELENA: Um grupo de cooperados. Jovens. Eles juntaram dinheiro para pagar a gente.
-    엘레나: 조합원 한 그룹이요. 젊은 사람들. 돈을 모아서 우리 수수료를 냈어요.
+08. HELENA: Um grupo de cooperados jovens, que juntaram dinheiro do próprio bolso para pagar a gente.
+    엘레나: 젊은 조합원 한 그룹이요. 자기 주머니를 털어 돈을 모아서 우리 수수료를 냈어요.
 
 09. BIA: Os próprios donos?
     비아: 주인들이 직접요?
 
-10. HELENA: Numa cooperativa, os cooperados são os donos. Cada um tem um voto.
-    엘레나: 협동조합에선 조합원이 주인이에요. 각자 한 표씩 가져요.
+10. HELENA: Numa cooperativa, os cooperados são os donos, e cada um deles tem um voto.
+    엘레나: 협동조합에선 조합원이 주인이에요. 그리고 각자 한 표씩 가져요.
 
-11. THIAGO: Rico ou pobre, grande ou pequeno. Um voto. É bonito no papel.
-    치아구: 부자든 가난하든, 크든 작든. 한 표. 서류상으론 아름답죠.
+11. THIAGO: Rico ou pobre, grande ou pequeno, é um voto para cada um, o que é muito bonito no papel.
+    치아구: 부자든 가난하든, 크든 작든 한 사람당 한 표예요. 서류상으론 참 아름답죠.
 
 12. BIA: E na prática?
     비아: 실제로는요?
 
-13. THIAGO: É isso que a gente veio descobrir.
+13. THIAGO: É exatamente isso que a gente veio descobrir.
     치아구: 그걸 알아보러 온 거예요.
 
-14. HELENA: Chegamos. Coopervale. Fundada em mil novecentos e sessenta.
-    엘레나: 도착했어요. 쿠페르발리. 1960년 창립.
+14. HELENA: Chegamos à Coopervale, que foi fundada em mil novecentos e sessenta.
+    엘레나: 도착했어요. 1960년에 세워진 쿠페르발리예요.
 
 15. BIA: Uai, sô! Que lugar grande.
     비아: 우와! 엄청 넓네요.
 
 ### O PRESIDENTE (조합장)
 
-16. OSVALDO: Sejam bem-vindos. Osvaldo Ribeiro. Presidente da Coopervale.
-    오스발두: 환영합니다. 오스발두 히베이루. 쿠페르발리 조합장이오.
+16. OSVALDO: Sejam bem-vindos. Eu sou o Osvaldo Ribeiro, presidente da Coopervale.
+    오스발두: 환영합니다. 쿠페르발리 조합장 오스발두 히베이루요.
 
-17. HELENA: Muito prazer, seu Osvaldo. Sou a Helena, da Lupa. Thiago e Bia.
-    엘레나: 반갑습니다, 세우 오스발두. 루파의 엘레나예요. 치아구와 비아고요.
+17. HELENA: Muito prazer, seu Osvaldo. Sou a Helena, da Lupa, e estes são o Thiago e a Bia.
+    엘레나: 반갑습니다, 세우 오스발두. 루파의 엘레나예요. 이쪽은 치아구와 비아고요.
 
-18. OSVALDO: A moça disse "uai, sô" na porta. É mineira?
-    오스발두: 아가씨가 문 앞에서 "우아이, 소"라고 하던데. 미나스 출신이오?
+18. OSVALDO: A moça disse "uai, sô" lá na porta. Por acaso é mineira?
+    오스발두: 아가씨가 문 앞에서 "우아이, 소"라고 하던데. 혹시 미나스 출신이오?
 
-19. BIA: Não, sou do Capão Redondo. Ouvi numa novela.
-    비아: 아니요, 카팡 헤동두 출신이에요. 드라마에서 들었어요.
+19. BIA: Não, sou do Capão Redondo, e ouvi isso numa novela.
+    비아: 아니요, 카팡 헤동두 출신이에요. 드라마에서 들은 거예요.
 
-20. OSVALDO: Aqui é interior paulista. Mas a gente aceita. Café?
-    오스발두: 여긴 상파울루 내륙이오. 그래도 받아 주지. 커피?
+20. OSVALDO: Aqui é interior paulista, mas a gente aceita assim mesmo. Aceitam um café?
+    오스발두: 여긴 상파울루 내륙이지만, 그래도 받아 주지. 커피 한잔하겠소?
 
-21. HELENA: Aceito. Seu Osvaldo, há quanto tempo o senhor é presidente?
-    엘레나: 마실게요. 세우 오스발두, 조합장 하신 지 얼마나 되셨어요?
+21. HELENA: Aceito, obrigada. Seu Osvaldo, há quanto tempo o senhor é presidente da cooperativa?
+    엘레나: 마실게요, 고맙습니다. 세우 오스발두, 조합장 하신 지 얼마나 되셨어요?
 
-22. OSVALDO: Vinte e cinco anos. Seis eleições. Ganhei todas.
-    오스발두: 25년이오. 선거 여섯 번. 다 이겼지.
+22. OSVALDO: Vinte e cinco anos, com seis eleições, e ganhei todas elas.
+    오스발두: 25년이오. 선거를 여섯 번 치렀는데, 다 이겼지.
 
-23. THIAGO: Teve outro candidato?
-    치아구: 다른 후보가 있었어요?
+23. THIAGO: E teve outro candidato?
+    치아구: 다른 후보는 있었어요?
 
-24. OSVALDO: Na primeira, sim. Depois, ninguém quis. O pessoal confia.
-    오스발두: 첫 번째엔 있었소. 그 뒤론 아무도 안 나왔고. 다들 믿으니까.
+24. OSVALDO: Na primeira, teve, mas depois ninguém mais quis, porque o pessoal confia em mim.
+    오스발두: 첫 번째엔 있었소. 그 뒤론 아무도 안 나섰고. 다들 날 믿으니까.
 
 25. HELENA: E quantos cooperados são hoje?
     엘레나: 지금 조합원은 몇 명이에요?
 
-26. OSVALDO: Trezentos e dez. Pequenos e médios produtores. Cana e café.
-    오스발두: 310명. 중소 생산자들이오. 사탕수수랑 커피.
+26. OSVALDO: Trezentos e dez, todos pequenos e médios produtores de cana e de café.
+    오스발두: 310명이오. 다 사탕수수랑 커피를 하는 중소 생산자들이지.
 
-27. THIAGO: E o resultado? Como estão as sobras?
-    치아구: 실적은요? 잉여금은 어때요?
+27. THIAGO: E como anda o resultado? Como estão as sobras dos últimos anos?
+    치아구: 실적은 어때요? 최근 몇 년 잉여금은요?
 
 28. BIA: Sobras?
     비아: 잉여금이요?
 
-29. THIAGO: Em cooperativa não se fala lucro, e sim sobra. Ela volta aos cooperados.
-    치아구: 협동조합에선 이익이라고 안 해요. 잉여금이라고 하죠. 남는 건 조합원에게 돌아가요.
+29. THIAGO: Em cooperativa não se fala lucro, e sim sobra, porque o que sobra volta para os cooperados.
+    치아구: 협동조합에선 이익이라고 안 하고 잉여금이라고 해요. 남는 건 조합원에게 돌아가니까요.
 
-30. OSVALDO: As sobras caíram. Cinco anos seguidos. O mercado está difícil.
-    오스발두: 잉여금은 줄었소. 5년 연속. 시장이 어려워서.
+30. OSVALDO: As sobras caíram cinco anos seguidos, porque o mercado está difícil.
+    오스발두: 잉여금은 5년 연속 줄었소. 시장이 어려워서.
 
-31. THIAGO: O preço do café subiu nesses cinco anos. O da cana também.
-    치아구: 그 5년 동안 커피값은 올랐어요. 사탕수수값도요.
+31. THIAGO: Mas o preço do café subiu nesses cinco anos, e o da cana também.
+    치아구: 그런데 그 5년 동안 커피값은 올랐어요. 사탕수수값도요.
 
-32. OSVALDO: Subiu o preço. Mas subiu o custo também. Adubo, diesel, frete.
+32. OSVALDO: Subiu o preço, sô, mas subiu o custo também: adubo, diesel e frete.
     오스발두: 값은 올랐지. 하지만 비용도 올랐소. 비료, 경유, 운송비.
 
-33. OSVALDO: Essa auditoria foi ideia de meia dúzia de jovens. Que não entendem a história daqui.
-    오스발두: 이 감사는 젊은 애들 몇 명의 생각이오. 여기 역사를 모르는 애들.
+33. OSVALDO: Essa auditoria foi ideia de meia dúzia de jovens que não entendem a história daqui.
+    오스발두: 이 감사는 여기 역사를 모르는 젊은 애들 몇 명의 생각이오.
 
-34. HELENA: Eles são cooperados, seu Osvaldo. São donos também.
-    엘레나: 그분들도 조합원이에요, 세우 오스발두. 주인이기도 하고요.
+34. HELENA: Eles também são cooperados, seu Osvaldo. O cooperado é o dono.
+    엘레나: 그분들도 조합원이에요, 세우 오스발두. 조합원이 주인이고요.
 
-35. OSVALDO: São donos de dez hectares. Eu tenho dois mil.
-    오스발두: 10헥타르 주인이지. 난 2천 헥타르요.
+35. OSVALDO: São donos de dez hectares, enquanto eu tenho dois mil.
+    오스발두: 10헥타르 주인이지. 난 2천 헥타르고.
 
-36. THIAGO: Mas cada um tem um voto. Igual ao senhor.
-    치아구: 하지만 각자 한 표예요. 조합장님이랑 똑같이.
+36. THIAGO: Mas cada um tem um voto, igualzinho ao senhor.
+    치아구: 하지만 각자 한 표예요. 조합장님이랑 똑같이요.
 
 37. OSVALDO: No papel.
     오스발두: 서류상으론.
@@ -143,32 +143,32 @@
 38. HELENA: Quem manda aqui, seu Osvaldo?
     엘레나: 여기서 누가 결정해요, 세우 오스발두?
 
-39. OSVALDO: A assembleia. Uma vez por ano. Está no estatuto.
-    오스발두: 총회요. 1년에 한 번. 정관에 있소.
+39. OSVALDO: A assembleia, que se reúne uma vez por ano, como está no estatuto.
+    오스발두: 총회요. 정관대로 1년에 한 번 모이지.
 
 40. HELENA: E no resto do ano?
     엘레나: 나머지 기간엔요?
 
-41. OSVALDO: No resto do ano, a diretoria. Que a assembleia elegeu.
-    오스발두: 나머지 기간엔 이사회가. 총회가 뽑은.
+41. OSVALDO: No resto do ano, quem manda é a diretoria que a assembleia elegeu.
+    오스발두: 나머지 기간엔 총회가 뽑은 이사회가 결정하오.
 
-42. THIAGO: E quem é a diretoria?
-    치아구: 이사회는 누구예요?
+42. THIAGO: E quem faz parte da diretoria?
+    치아구: 이사회엔 누가 있어요?
 
-43. OSVALDO: Eu, o meu genro e o meu compadre Zezinho. Gente de confiança.
-    오스발두: 나, 내 사위, 그리고 내 대부 친구 제지뉴. 믿을 만한 사람들이오.
+43. OSVALDO: Eu, o meu genro e o meu compadre Zezinho, tudo gente de confiança.
+    오스발두: 나, 내 사위, 그리고 내 대부 친구 제지뉴. 다 믿을 만한 사람들이오.
 
 44. BIA: O genro e o compadre...
     비아: 사위와 대부 친구라...
 
-45. OSVALDO: Aqui no interior, confiança é família. Vocês da capital não entendem.
-    오스발두: 여기 내륙에선 신뢰가 곧 가족이오. 수도 사람들은 모르지.
+45. OSVALDO: Aqui no interior, confiança é família, e isso vocês da capital não entendem.
+    오스발두: 여기 내륙에선 신뢰가 곧 가족이오. 그건 수도 사람들은 모르지.
 
-46. HELENA: Talvez a gente não entenda. Por isso a gente veio ouvir.
-    엘레나: 저희가 모를 수도 있죠. 그래서 들으러 온 거예요.
+46. HELENA: Talvez a gente não entenda mesmo, e é por isso que a gente veio ouvir o senhor.
+    엘레나: 정말 저희가 모를 수도 있죠. 그래서 조합장님 말씀을 들으러 온 거예요.
 
-47. OSVALDO: Então ouçam. Eu dei a vida a essa cooperativa. Sem salário, nos primeiros dez anos.
-    오스발두: 그럼 들으시오. 난 이 조합에 인생을 바쳤소. 처음 10년은 월급도 없이.
+47. OSVALDO: Então ouçam: eu dei a vida a essa cooperativa e fiquei sem salário nos primeiros dez anos.
+    오스발두: 그럼 들으시오. 난 이 조합에 인생을 바쳤고, 처음 10년은 월급도 없이 일했소.
 
 48. HELENA: Isso eu respeito muito.
     엘레나: 그건 정말 존중해요.
@@ -176,52 +176,52 @@
 49. OSVALDO: Então não venham me tratar como ladrão.
     오스발두: 그럼 날 도둑 취급하지 마시오.
 
-50. HELENA: Ninguém está fazendo isso. A gente olha os números. E pergunta. Só isso.
-    엘레나: 아무도 그러지 않아요. 저희는 숫자를 보고 질문할 뿐이에요.
+50. HELENA: Ninguém está fazendo isso, porque a gente só olha os números e faz perguntas, nada mais.
+    엘레나: 아무도 그러지 않아요. 저희는 숫자를 보고 질문할 뿐이에요. 그 이상은 없어요.
 
 ### A MARIANA (마리아나)
 
-51. MARIANA: Vocês vieram! Eu sou a Mariana. Fui eu que liguei para a Lupa.
+51. MARIANA: Vocês vieram! Eu sou a Mariana, e fui eu que liguei para a Lupa.
     마리아나: 와 주셨네요! 저 마리아나예요. 루파에 전화한 사람이 저예요.
 
-52. HELENA: Muito prazer, Mariana. Obrigada pelo convite. E pelo jantar.
-    엘레나: 반가워요, 마리아나. 초대해 줘서 고마워요. 저녁도요.
+52. HELENA: Muito prazer, Mariana, e obrigada pelo convite e pelo jantar.
+    엘레나: 반가워요, 마리아나. 초대해 줘서, 저녁까지 차려 줘서 고마워요.
 
-53. MARIANA: É simples. Arroz, feijão, frango caipira. E café da nossa fazenda.
-    마리아나: 소박해요. 밥, 콩, 토종닭. 그리고 우리 농장 커피.
+53. MARIANA: É coisa simples: arroz, feijão, frango caipira e o café da nossa própria fazenda.
+    마리아나: 소박해요. 밥, 콩, 토종닭, 그리고 우리 농장에서 난 커피요.
 
-54. HELENA: Mariana, por que você chamou uma auditoria?
-    엘레나: 마리아나, 왜 감사를 의뢰했어요?
+54. HELENA: Mariana, por que você resolveu chamar uma auditoria?
+    엘레나: 마리아나, 왜 감사를 의뢰하기로 했어요?
 
-55. MARIANA: Porque cinco anos de sobras caindo não fazem sentido. O café nunca foi tão caro.
-    마리아나: 잉여금이 5년이나 줄어드는 게 말이 안 되니까요. 커피가 이렇게 비싼 적이 없었는데.
+55. MARIANA: Porque cinco anos de sobras caindo não fazem sentido, já que o café nunca foi tão caro.
+    마리아나: 잉여금이 5년이나 줄어드는 게 말이 안 되니까요. 커피가 이렇게 비싼 적이 없었는데요.
 
-56. THIAGO: O seu Osvaldo diz que o custo subiu.
-    치아구: 세우 오스발두는 비용이 올랐대요.
+56. THIAGO: O seu Osvaldo diz que foi o custo que subiu.
+    치아구: 세우 오스발두는 비용이 올라서 그렇대요.
 
-57. MARIANA: Subiu para todo mundo. Mas a cooperativa do lado distribuiu o dobro.
-    마리아나: 모두에게 올랐죠. 그런데 옆 조합은 두 배를 나눠 줬어요.
+57. MARIANA: Subiu para todo mundo, mas a cooperativa do lado distribuiu o dobro pros cooperados dela.
+    마리아나: 비용은 모두에게 올랐죠. 그런데 옆 조합은 자기 조합원들한테 두 배를 나눠 줬어요.
 
-58. HELENA: Como são tomadas as decisões na Coopervale?
-    엘레나: 쿠페르발리에선 결정이 어떻게 내려져요?
+58. HELENA: E como são tomadas as decisões aqui na Coopervale?
+    엘레나: 그럼 여기 쿠페르발리에선 결정이 어떻게 내려져요?
 
-59. MARIANA: No papel, na diretoria. Na prática, no jantar de domingo. Na casa do seu Osvaldo.
-    마리아나: 서류상으론 이사회에서요. 실제로는 일요일 저녁 식사 자리에서. 세우 오스발두 집에서.
+59. MARIANA: No papel, na diretoria, mas na prática é no jantar de domingo, na casa do seu Osvaldo.
+    마리아나: 서류상으론 이사회에서요. 하지만 실제로는 일요일 저녁, 세우 오스발두 집 식탁에서요.
 
-60. MARIANA: Ele, o genro, o compadre e o filho. Entre a carne e o pudim, decidem.
-    마리아나: 그분, 사위, 대부 친구, 그리고 아들. 고기와 푸딩 사이에서 다 결정해요.
+60. MARIANA: Ele, o genro, o compadre e o filho decidem tudo entre a carne e o pudim.
+    마리아나: 그분하고 사위, 대부 친구, 아들이 고기와 푸딩 사이에서 다 결정해요.
 
-61. THIAGO: O filho? Ele não está na diretoria.
-    치아구: 아들이요? 이사회에 없잖아요.
+61. THIAGO: O filho? Mas ele nem está na diretoria.
+    치아구: 아들이요? 그 사람은 이사회에도 없잖아요.
 
-62. MARIANA: Não está. Mas o armazém é dele.
-    마리아나: 없죠. 하지만 저장고는 그 사람 거예요.
+62. MARIANA: Não está, mas o armazém é dele.
+    마리아나: 없죠. 하지만 저장고가 그 사람 거예요.
 
-63. MARIANA: Onde a cooperativa guarda o café e o açúcar antes de vender. Armazéns Ribeiro.
+63. MARIANA: É onde a cooperativa guarda o café e o açúcar antes de vender, a Armazéns Ribeiro.
     마리아나: 조합이 커피와 설탕을 팔기 전에 보관하는 곳이요. 아르마젱스 히베이루.
 
-64. HELENA: Isso tem nome na teoria. Problema de agência.
-    엘레나: 이론에선 그걸 부르는 이름이 있어요. 대리인 문제.
+64. HELENA: Isso tem um nome na teoria, que é problema de agência.
+    엘레나: 이론에선 그걸 부르는 이름이 있어요. 대리인 문제라고 해요.
 
 65. MARIANA: Agência? Como agência de banco?
     마리아나: 대리인이요? 은행 지점 같은 거요?
@@ -229,115 +229,115 @@
 66. HELENA: Não. Quando o dono contrata alguém para cuidar do negócio, essa pessoa é o agente.
     엘레나: 아니요. 주인이 사업을 맡길 사람을 고용하면, 그 사람이 대리인이에요.
 
-67. HELENA: O problema é o agente cuidar mais dos interesses dele que dos do dono.
-    엘레나: 문제는 대리인이 주인의 이익보다 자기 이익을 더 챙길 때예요.
+67. HELENA: E o problema aparece quando o agente cuida mais dos interesses dele do que dos interesses do dono.
+    엘레나: 문제는 대리인이 주인의 이익보다 자기 이익을 더 챙길 때 생겨요.
 
-68. MARIANA: Então os trezentos cooperados são os donos. E o seu Osvaldo é o agente.
+68. MARIANA: Então os trezentos cooperados são os donos, e o seu Osvaldo é o agente.
     마리아나: 그럼 조합원 310명이 주인이고, 세우 오스발두가 대리인이네요.
 
-69. HELENA: Exato. E quanto mais tempo sem fiscalização, maior o problema.
-    엘레나: 맞아요. 그리고 감시 없이 오래 갈수록 문제가 커지죠.
+69. HELENA: Exato, e quanto mais tempo ele passa sem fiscalização, maior fica o problema.
+    엘레나: 맞아요. 그리고 감시 없이 오래 갈수록 문제는 커지죠.
 
-70. MARIANA: Vinte e cinco anos sem fiscalização.
-    마리아나: 25년 동안 감시가 없었어요.
+70. MARIANA: E já são vinte e cinco anos sem fiscalização nenhuma.
+    마리아나: 그런데 벌써 25년째 아무 감시가 없어요.
 
-71. THIAGO: E o conselho fiscal? Toda cooperativa tem.
-    치아구: 감사위원회는요? 협동조합마다 있잖아요.
+71. THIAGO: E o conselho fiscal, que toda cooperativa tem?
+    치아구: 협동조합마다 있는 감사위원회는요?
 
-72. MARIANA: Tem. Três pessoas. A mulher do compadre é uma delas.
-    마리아나: 있죠. 세 명. 대부 친구 부인이 그중 하나예요.
+72. MARIANA: Tem, com três pessoas, e a mulher do compadre é uma delas.
+    마리아나: 있죠. 세 명인데, 대부 친구 부인이 그중 하나예요.
 
-73. MARIANA: E tem mais. Eu fui ao armazém no ano passado. Estava meio vazio.
+73. MARIANA: E tem mais: eu fui ao armazém no ano passado, e ele estava meio vazio.
     마리아나: 그리고 더 있어요. 작년에 저장고에 가 봤는데, 반쯤 비어 있었어요.
 
-74. THIAGO: E a cooperativa paga o armazém cheio?
-    치아구: 그런데 조합은 꽉 찬 저장고 값을 내고요?
+74. THIAGO: E mesmo assim a cooperativa paga o armazém como se estivesse cheio?
+    치아구: 그런데도 조합은 꽉 찬 것처럼 저장고 값을 내고요?
 
-75. MARIANA: Não sei. Ninguém mostra o contrato. Eu pedi duas vezes.
-    마리아나: 몰라요. 아무도 계약서를 안 보여 줘요. 두 번이나 요청했어요.
+75. MARIANA: Não sei, porque ninguém mostra o contrato, e eu já pedi duas vezes.
+    마리아나: 몰라요. 아무도 계약서를 안 보여 주거든요. 두 번이나 요청했는데요.
 
-76. HELENA: Agora a gente pede. Com o contrato de auditoria na mão.
-    엘레나: 이제 우리가 요청할게요. 감사 계약서를 손에 들고.
+76. HELENA: Agora quem pede somos nós, com o contrato de auditoria na mão.
+    엘레나: 이제 우리가 요청할게요. 감사 계약서를 손에 들고요.
 
-77. MARIANA: Vocês vão ficar quanto tempo?
+77. MARIANA: E vocês vão ficar quanto tempo?
     마리아나: 얼마나 계실 거예요?
 
-78. HELENA: Até a assembleia. Daqui a duas semanas, não é?
-    엘레나: 총회까지요. 2주 뒤죠?
+78. HELENA: Até a assembleia, que é daqui a duas semanas, não é?
+    엘레나: 총회까지요. 2주 뒤 맞죠?
 
-79. MARIANA: É. Trezentos cooperados. A maioria com mais de sessenta anos. Muitos não leem bem.
-    마리아나: 맞아요. 조합원 310명. 대부분 예순이 넘었어요. 글을 잘 못 읽는 분도 많고요.
+79. MARIANA: É, com trezentos cooperados, a maioria com mais de sessenta anos, e muitos não leem bem.
+    마리아나: 맞아요. 조합원 310명인데, 대부분 예순이 넘었고 글을 잘 못 읽는 분도 많아요.
 
 80. HELENA: Então o nosso relatório não vai ser em papel.
     엘레나: 그럼 우리 보고서는 종이로 하지 않을게요.
 
 ### O ARMAZÉM (저장고)
 
-81. THIAGO: Contrato com a Armazéns Ribeiro. Achei no contador. Dez anos. Renovação automática.
-    치아구: 아르마젱스 히베이루와의 계약서. 회계사한테서 찾았어요. 10년. 자동 갱신.
+81. THIAGO: Achei no contador o contrato com a Armazéns Ribeiro, de dez anos e com renovação automática.
+    치아구: 회계사한테서 아르마젱스 히베이루와의 계약서를 찾았어요. 10년짜리에 자동 갱신이에요.
 
-82. THIAGO: A cooperativa paga por espaço reservado. Não por espaço usado. Cheio ou vazio, paga igual.
-    치아구: 조합은 사용한 공간이 아니라 예약한 공간 기준으로 내요. 차든 비든 똑같이 내죠.
+82. THIAGO: A cooperativa paga por espaço reservado, e não por espaço usado, então, cheio ou vazio, paga igual.
+    치아구: 조합은 사용한 공간이 아니라 예약한 공간 기준으로 내요. 그러니까 차든 비든 똑같이 내는 거죠.
 
-83. THIAGO: Quatro milhões por ano. Pesquisei três armazéns na região. O mais caro cobraria dois.
-    치아구: 1년에 4백만. 지역 저장고 세 곳을 알아봤어요. 제일 비싼 데도 2백만이면 돼요.
+83. THIAGO: São quatro milhões por ano, e pesquisei três armazéns na região: o mais caro cobraria dois.
+    치아구: 1년에 4백만이에요. 지역 저장고 세 곳을 알아봤는데, 제일 비싼 데도 2백만이면 돼요.
 
-84. BIA: O dobro do mercado. Para o filho do presidente.
-    비아: 시장 가격의 두 배. 조합장 아들한테.
+84. BIA: O dobro do mercado, e indo pro filho do presidente.
+    비아: 시장 가격의 두 배네요. 그것도 조합장 아들한테.
 
-85. THIAGO: Em dez anos, vinte milhões a mais. Mais do que as sobras perdidas.
-    치아구: 10년이면 2천만이 더 나가요. 줄어든 잉여금보다 많아요.
+85. THIAGO: Em dez anos, são vinte milhões a mais, o que é mais do que todas as sobras perdidas.
+    치아구: 10년이면 2천만이 더 나가요. 줄어든 잉여금을 다 합친 것보다 많아요.
 
-86. COOPERADO: Vocês são os da capital? Os que vieram mexer nas contas?
-    조합원: 당신들이 수도에서 온 사람들이오? 장부 들추러 온?
+86. COOPERADO: Vocês são os da capital, que vieram mexer nas contas?
+    조합원: 당신들이 장부 들추러 수도에서 왔다는 사람들이오?
 
 87. HELENA: Somos. O senhor é cooperado?
     엘레나: 그래요. 조합원이세요?
 
-88. COOPERADO: Há quarenta anos. Café. Cinco hectares. Seu Osvaldo é meu compadre de batismo.
-    조합원: 40년째요. 커피. 5헥타르. 세우 오스발두는 내 아이 대부요.
+88. COOPERADO: Há quarenta anos, com cinco hectares de café, e o seu Osvaldo é meu compadre de batismo.
+    조합원: 40년째요. 커피 5헥타르. 세우 오스발두는 내 아이 대부요.
 
-89. HELENA: E o que o senhor acha da cooperativa?
-    엘레나: 조합에 대해 어떻게 생각하세요?
+89. HELENA: E o que o senhor acha da cooperativa hoje em dia?
+    엘레나: 요즘 조합에 대해 어떻게 생각하세요?
 
-90. COOPERADO: Antigamente era melhor. A sobra pagava a festa de São João. Hoje, nem a festa.
-    조합원: 옛날엔 더 좋았지. 잉여금으로 상주앙 축제를 했는데. 요즘은 축제도 못 해.
+90. COOPERADO: Antigamente era melhor, sô, porque a sobra pagava a festa de São João, e hoje nem a festa tem.
+    조합원: 옛날엔 더 좋았지. 잉여금으로 상주앙 축제를 했는데, 요즘은 축제도 못 해.
 
-91. OSVALDO: Que reunião é essa no meu armazém?
+91. OSVALDO: Que reunião é essa aqui no meu armazém?
     오스발두: 내 저장고에서 이게 무슨 모임이오?
 
 92. THIAGO: No armazém do seu filho, seu Osvaldo.
     치아구: 아드님 저장고죠, 세우 오스발두.
 
-93. OSVALDO: Do meu filho. Que guarda o café daqui há dez anos sem perder um saco.
-    오스발두: 내 아들 거지. 10년 동안 여기 커피를 보관했소. 한 자루도 안 잃어버리고.
+93. OSVALDO: Do meu filho, que guarda o café daqui há dez anos sem perder um saco.
+    오스발두: 내 아들 거지. 10년 동안 여기 커피를 보관하면서 한 자루도 안 잃어버렸소.
 
-94. HELENA: Ninguém duvida da qualidade, seu Osvaldo. A pergunta é o preço.
-    엘레나: 품질은 아무도 의심하지 않아요, 세우 오스발두. 질문은 가격이에요.
+94. HELENA: Ninguém duvida da qualidade, seu Osvaldo, porque a pergunta é sobre o preço.
+    엘레나: 품질은 아무도 의심하지 않아요, 세우 오스발두. 질문은 가격에 관한 거예요.
 
-95. OSVALDO: O preço é justo. Ele investiu muito no armazém.
+95. OSVALDO: O preço é justo, uai, porque ele investiu muito no armazém.
     오스발두: 가격은 적정하오. 아들이 저장고에 많이 투자했으니까.
 
-96. THIAGO: O dobro dos outros três armazéns da região. E paga cheio, mesmo vazio.
-    치아구: 지역 다른 저장고 세 곳의 두 배예요. 그리고 비어 있어도 꽉 찬 값을 내고요.
+96. THIAGO: É o dobro dos outros três armazéns da região, e a cooperativa paga cheio mesmo quando está vazio.
+    치아구: 지역 다른 저장고 세 곳의 두 배예요. 그리고 조합은 비어 있을 때도 꽉 찬 값을 내고요.
 
-97. OSVALDO: Quem disse isso para vocês? A Mariana?
-    오스발두: 누가 그런 말을 했소? 마리아나?
+97. OSVALDO: Quem disse isso para vocês? Foi a Mariana?
+    오스발두: 누가 그런 말을 했소? 마리아나요?
 
-98. HELENA: O contrato disse. Está assinado pelo senhor. Dos dois lados.
-    엘레나: 계약서가 말해 줬어요. 조합장님 서명이 있어요. 양쪽 다.
+98. HELENA: Quem disse foi o contrato, que está assinado pelo senhor dos dois lados.
+    엘레나: 계약서가 말해 줬어요. 양쪽 다 조합장님 서명이 있거든요.
 
 99. OSVALDO: Dos dois lados?
     오스발두: 양쪽 다?
 
-100. THIAGO: Como presidente da cooperativa. E como avalista do armazém do seu filho.
-    치아구: 조합장으로서. 그리고 아드님 저장고의 보증인으로서.
+100. THIAGO: Como presidente da cooperativa e também como avalista do armazém do seu filho.
+    치아구: 조합장으로서, 그리고 아드님 저장고의 보증인으로서도요.
 
-101. OSVALDO: Isso é coisa de família. Vocês não entendem.
+101. OSVALDO: Isso é coisa de família, e vocês não entendem.
     오스발두: 그건 집안일이오. 당신들은 모르오.
 
-102. HELENA: Talvez. Mas os outros trezentos cooperados também são a família da cooperativa.
-    엘레나: 그럴지도요. 하지만 나머지 조합원 309명도 조합의 가족이에요.
+102. HELENA: Talvez, mas os outros trezentos cooperados também são a família da cooperativa.
+    엘레나: 그럴지도요. 하지만 나머지 조합원들도 조합의 가족이에요.
 
 103. COOPERADO: Seu Osvaldo... é verdade? O dobro?
     조합원: 세우 오스발두... 사실이오? 두 배라는 게?
@@ -345,55 +345,55 @@
 104. OSVALDO: Compadre, depois a gente conversa.
     오스발두: 대부, 나중에 얘기하세.
 
-105. COOPERADO: Depois não, Osvaldo. Quarenta anos de "depois". Agora.
-    조합원: 나중 말고, 오스발두. 40년이나 "나중에"였소. 지금 하세.
+105. COOPERADO: Depois não, Osvaldo, porque já são quarenta anos de "depois". Agora.
+    조합원: 나중 말고, 오스발두. 벌써 40년이나 "나중에"였소. 지금 하세.
 
 ### DUAS SEMANAS (2주)
 
 106. OSVALDO: Vocês vão levar isso para a assembleia?
     오스발두: 이걸 총회에 가져갈 거요?
 
-107. HELENA: Vamos. É o nosso trabalho. Os cooperados contrataram a gente.
-    엘레나: 가져갈 거예요. 그게 저희 일이에요. 조합원들이 저희를 고용했으니까요.
+107. HELENA: Vamos, porque esse é o nosso trabalho e foram os cooperados que contrataram a gente.
+    엘레나: 가져갈 거예요. 그게 저희 일이고, 저희를 고용한 건 조합원들이니까요.
 
-108. OSVALDO: Seis cooperados contrataram vocês. Não trezentos.
+108. OSVALDO: Seis cooperados contrataram vocês, e não trezentos.
     오스발두: 조합원 여섯 명이 고용했지. 310명이 아니라.
 
-109. HELENA: Os trezentos vão decidir o que fazer com o relatório. Não a Lupa.
-    엘레나: 보고서로 뭘 할지는 310명이 정할 거예요. 루파가 아니라.
+109. HELENA: Mas quem vai decidir o que fazer com o relatório são os trezentos, e não a Lupa.
+    엘레나: 하지만 보고서로 뭘 할지는 310명이 정할 거예요. 루파가 아니라요.
 
-110. OSVALDO: Vinte e cinco anos. Agora uns jovens e três da capital querem acabar com tudo.
+110. OSVALDO: Vinte e cinco anos, e agora uns jovens e três da capital querem acabar com tudo.
     오스발두: 25년이오. 그런데 이제 젊은 애들 몇이랑 수도에서 온 셋이 다 끝장내려 하는군.
 
-111. HELENA: Ninguém quer acabar com nada. Queremos a cooperativa viva por mais sessenta anos.
-    엘레나: 아무도 끝장내려 하지 않아요. 조합이 앞으로 60년 더 살아 있길 바라는 거예요.
+111. HELENA: Ninguém quer acabar com nada, porque o que a gente quer é a cooperativa viva por mais sessenta anos.
+    엘레나: 아무도 끝장내려 하지 않아요. 저희가 바라는 건 조합이 앞으로 60년 더 살아 있는 거예요.
 
 112. OSVALDO: Sem mim.
     오스발두: 나 없이.
 
-113. HELENA: Isso quem decide é a assembleia. Não eu.
-    엘레나: 그건 총회가 정해요. 제가 아니라.
+113. HELENA: Isso quem decide é a assembleia, e não eu.
+    엘레나: 그건 총회가 정해요. 제가 아니라요.
 
-114. MARIANA: Duas semanas. Trezentos cooperados. Metade não lê bem. Como a gente explica contrato de armazém?
-    마리아나: 2주. 조합원 310명. 절반은 글을 잘 못 읽어요. 저장고 계약서를 어떻게 설명해요?
+114. MARIANA: São duas semanas e trezentos cooperados, e metade não lê bem. Como a gente explica contrato de armazém?
+    마리아나: 2주 남았고 조합원은 310명인데, 절반은 글을 잘 못 읽어요. 저장고 계약서를 어떻게 설명하죠?
 
-115. BIA: Com grãos de café. Cem grãos. Mostramos quantos ficam com o cooperado.
-    비아: 커피콩으로요. 콩 100알. 조합원한테 몇 알이 남는지 보여 주는 거예요.
+115. BIA: Com grãos de café: a gente pega cem grãos e mostra quantos ficam com o cooperado.
+    비아: 커피콩으로요. 콩 100알을 가지고, 조합원한테 몇 알이 남는지 보여 주는 거예요.
 
-116. THIAGO: Sem slide, sem planilha. Só grão de café. A Bia é um gênio.
-    치아구: 슬라이드도, 스프레드시트도 없이. 커피콩만. 비아는 천재예요.
+116. THIAGO: Sem slide e sem planilha, só com grão de café. A Bia é um gênio.
+    치아구: 슬라이드도, 스프레드시트도 없이 커피콩만으로요. 비아는 천재예요.
 
-117. BIA: Não sou gênio. A minha mãe me ensinou matemática com feijão.
-    비아: 천재 아니에요. 우리 엄마가 콩으로 수학을 가르쳐 줬거든요.
+117. BIA: Não sou gênio, não, é que a minha mãe me ensinou matemática com feijão.
+    비아: 천재는 무슨요. 우리 엄마가 콩으로 수학을 가르쳐 줬을 뿐이에요.
 
-118. HELENA: Então em duas semanas, a assembleia vai entender tudo. Com cem grãos.
-    엘레나: 그럼 2주 뒤 총회는 다 이해할 거예요. 콩 100알로.
+118. HELENA: Então, em duas semanas, a assembleia vai entender tudo com cem grãos.
+    엘레나: 그럼 2주 뒤 총회는 콩 100알로 다 이해하게 될 거예요.
 
-119. MARIANA: E o seu Osvaldo? Ele vai brigar. Ele sabe falar. Sabe emocionar.
-    마리아나: 그럼 세우 오스발두는요? 싸울 거예요. 말을 잘하시거든요. 감동시킬 줄 알고요.
+119. MARIANA: E o seu Osvaldo? Ele vai brigar, porque sabe falar e sabe emocionar as pessoas.
+    마리아나: 그럼 세우 오스발두는요? 싸울 거예요. 말을 잘하시고, 사람들을 감동시킬 줄 아시거든요.
 
-120. HELENA: Então a gente vai precisar de duas coisas. Os números. E respeito por ele.
-    엘레나: 그럼 두 가지가 필요해요. 숫자. 그리고 그분에 대한 존중.
+120. HELENA: Então a gente vai precisar de duas coisas: os números e o respeito por ele.
+    엘레나: 그럼 두 가지가 필요해요. 숫자, 그리고 그분에 대한 존중이요.
 
 ---
 
