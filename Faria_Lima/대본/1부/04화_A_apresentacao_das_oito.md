@@ -99,8 +99,8 @@
 23. HELENA: Desse jeito, a nossa história não faz sentido nenhum, porque a prova principal desapareceu.
     엘레나: 이러면 우리 이야기가 전혀 말이 안 돼요. 핵심 증거가 사라졌으니까.
 
-24. THIAGO: Ontem à noite estava tudo certo, e eu conferi duas vezes antes de sair.
-    치아구: 어젯밤엔 다 맞았어요. 나가기 전에 두 번이나 확인했고요.
+24. THIAGO: Ontem à noite estava tudo certo, e eu conferi os números duas vezes antes de sair.
+    치아구: 어젯밤엔 다 맞았어요. 나가기 전에 숫자를 두 번이나 확인했고요.
 
 25. BIA: Quem mexeu no arquivo?
     비아: 누가 파일을 건드렸어요?
@@ -159,8 +159,8 @@
 43. BIA: A gerente de lá, a dona Rose, anota cada caixa que vai para o lixo.
     비아: 거기 점장인 도나 호지는 쓰레기통에 가는 상자를 하나하나 다 적어요.
 
-44. BIA: Ela anota num caderno, à mão, e faz isso há vinte e cinco anos.
-    비아: 공책에 손으로 적는데, 그걸 25년째 해 오셨어요.
+44. BIA: Ela anota tudo num caderno, à mão, e faz isso há vinte e cinco anos, sem falhar.
+    비아: 공책에 손으로 하나도 빠짐없이 적는데, 그걸 25년째 해 오셨어요.
 
 45. WAGNER: A Rose ainda está lá? Ela foi a minha primeira gerente, sabia?
     와그너: 호지가 아직 거기 있어요? 내 첫 점장이었던 거 알아요?
@@ -239,8 +239,8 @@
 69. WAGNER: Três números diferentes para a mesma loja?
     와그너: 같은 매장에 숫자가 세 개라고요?
 
-70. THIAGO: E a mesma diferença aparece em quarenta das sessenta e duas lojas da rede.
-    치아구: 그리고 같은 차이가 체인 62개 매장 중 40개에서 나타납니다.
+70. THIAGO: E a mesma diferença aparece em quarenta das sessenta e duas lojas da rede, não só em Itaquera.
+    치아구: 그리고 같은 차이가 이타케라뿐 아니라 체인 62개 매장 중 40개에서 나타납니다.
 
 71. WAGNER: Quarenta lojas... e quanto isso significa em dinheiro?
     와그너: 40개 매장이라... 돈으로 치면 얼마예요?
@@ -280,8 +280,8 @@
 82. WAGNER: Fala, Sérgio.
     와그너: 말해 봐요, 세르지우.
 
-83. SÉRGIO: Vocês ficaram um dia numa loja, enquanto eu estou há vinte anos nesta empresa.
-    세르지우: 여러분은 매장에 하루 있었죠. 나는 이 회사에 20년 있었어요.
+83. SÉRGIO: Vocês ficaram um dia numa loja, enquanto eu estou há vinte anos nesta empresa, carregando ela nas costas.
+    세르지우: 여러분은 매장에 하루 있었죠. 나는 20년 동안 이 회사를 등에 지고 왔어요.
 
 84. SÉRGIO: E agora a culpa da margem é minha, por causa de um caderno?
     세르지우: 그런데 이제 공책 하나 때문에 이익률이 내 탓이라고요?
@@ -292,8 +292,8 @@
 86. SÉRGIO: Disseram que o meu relatório estava errado, e na frente de todo mundo.
     세르지우: 내 보고서가 틀렸다고 했잖아요. 그것도 모두 앞에서.
 
-87. HELENA: O seu relatório seguiu a regra, Sérgio, e é a regra que está errada.
-    엘레나: 당신 보고서는 규칙을 따랐어요, 세르지우. 틀린 건 그 규칙이에요.
+87. HELENA: O seu relatório seguiu a regra direitinho, Sérgio, e é a regra que está errada.
+    엘레나: 당신 보고서는 규칙을 그대로 따랐어요, 세르지우. 틀린 건 그 규칙이에요.
 
 88. HELENA: Não é culpa de uma pessoa, é do processo.
     엘레나: 한 사람의 잘못이 아니라, 과정의 잘못이에요.
@@ -316,8 +316,8 @@
 94. SÉRGIO: Então o que vocês querem de mim?
     세르지우: 그럼 나한테 원하는 게 뭐예요?
 
-95. HELENA: Que o senhor lidere a solução, porque ninguém conhece as lojas como o senhor.
-    엘레나: 해결을 이끌어 주시는 거요. 당신만큼 매장을 아는 사람은 없으니까요.
+95. HELENA: Que o senhor lidere a solução, porque ninguém nesta sala conhece as lojas como o senhor.
+    엘레나: 해결을 이끌어 주시는 거요. 이 방에서 당신만큼 매장을 아는 사람은 없으니까요.
 
 96. SÉRGIO: Eu, depois de tudo isso?
     세르지우: 내가요, 이 모든 일이 있고 나서?
