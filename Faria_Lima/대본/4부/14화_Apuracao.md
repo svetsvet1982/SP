@@ -9,7 +9,7 @@
 > - 경영 개념: 마무리와 인계(transição), 컨설턴트의 퇴장, 역할 경계와 이해상충, 잔여 표의 지역 구성 읽기
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B2~C1 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
 > - 문법 포인트: 가정 과거완료 *Você teria sido uma grande política*, 미래 가정 *Ganhando ou perdendo*, 관계사 *aquele que sabe...*
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Apuração encerrada.* / *Consultor bom é aquele que sabe a hora de ir embora.* / *Qual é o problema de verdade?*
 > - 복선 회수: 1부 1화 시그니처 대사 · 1부 조이레이카 「Café primeiro, crise depois」 · 1부 김 여사의 복주머니 · 2부 네우자·발지르 · 10화 도나 시다·다비의 공 · 11화 「1헤알마다 이름이 있다」 · 12화 주란지르의 조카 · 13화 카이우의 문자
 > - 복선 설치: 없음 (시리즈 종료)

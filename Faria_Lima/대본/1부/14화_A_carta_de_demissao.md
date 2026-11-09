@@ -8,7 +8,7 @@
 > - 등장인물: Rodrigo, Helena, Thiago, Bia, Zuleica, Caio, Ângelo, Giovana
 > - 경영 개념: 커리어 결정, 신뢰 자본(capital de confiança), 경영자 영입 조건 협상, 100일 계획의 예고
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Peço demissão.* / *O senhor está me oferecendo o quê?* / *Alguém tem que ficar de olho.*
 > - 복선 회수: 1화 「Café primeiro, crise depois」 · 6화 김 여사 「어머니를 찾아가요」 · 7화 복주머니 · 13화 지오바나의 명함 · 세우 앙젤루 「두 개 다 읽고 싶소」
 > - 복선 설치: 비아의 VLA 잔류(→3부 1화, 11화) · 조이레이카 「Essa empresa tem muitos segredos」(→3부 12화) · 세우 앙젤루 「상황은 보고서보다 나쁘오」(→2부 1화 현금 90일) · 호드리구 「Você vai voltar」(→3부 13화)

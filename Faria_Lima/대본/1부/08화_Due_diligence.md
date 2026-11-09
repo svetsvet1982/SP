@@ -8,7 +8,7 @@
 > - 등장인물: Rodrigo, Helena, Thiago, Bia, Leonardo, Ricardo, Junior
 > - 경영 개념: M&A 실사(due diligence), EBITDA, EBITDA 배수 가치평가, 투자 논리(tese de investimento), 데이터룸
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Quanto vale essa empresa?* / *Isso não fecha.* / *Cadê o resto dos documentos?*
 > - 복선 회수: 1화 호드리구–레오나르두 통화 · 7화 「이페 일은 늘 호드리구가 직접」
 > - 복선 설치: 호드리구–레오나르두의 오랜 친분(「Somos amigos desde a faculdade」 →3부 11화) · 매출채권 연령표 누락(→9화) · 운전기사 주니오르의 「최대 고객이 떠났다」(→9화) · 히카르두의 VLA 이전 의뢰 언급(→3부 12화)

@@ -9,7 +9,7 @@
 > - 경영 개념: 증거의 연쇄(cadeia de custódia), 내부고발과 법적 보호, 규제기관(CVM)·검찰 신고의 순서, 언론과의 협업 원칙, 소송 리스크 관리
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B2 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
 > - 문법 포인트: 접속법 대과거 *Se eu tivesse falado antes...*, 수동태 *Os comprovantes foram guardados...*, 법률 어휘(*notificação extrajudicial*, *denúncia*, *protocolo*)
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Sem prova, a gente não fala.* / *Essa empresa tinha muitos segredos.* / *Primeiro o órgão regulador.*
 > - 복선 회수: 1부 14화 조이레이카 「이 회사엔 비밀이 많아요」·「Café primeiro, crise depois」 · 11화 「돈을 따라가라」 · 6화 파울라의 명함 · 4화 에르네스투 「변호사 서한은 우리가 맞혔다는 신호」
 > - 복선 설치: 카이우가 루파에 직접 연락해 옴(→13화) · 조이레이카의 증언 조건 「호드리구에게 먼저 기회를」(→13화)

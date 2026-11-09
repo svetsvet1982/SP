@@ -8,7 +8,7 @@
 > - 등장인물: Bia, Clóvis, Zuleica, Caio, Helena, Thiago, Rodrigo, Wagner
 > - 경영 개념: 컨설팅 회사 구조(파트너–매니저–애널리스트), 제안 경쟁, 증상 vs 원인
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Seja bem-vinda.* / *Qual é o problema de verdade?* / *Café primeiro, crise depois.*
 > - 복선 설치: 호드리구의 「O cliente compra certeza, não dúvida.」(→1부 9화, 3부 13화) · 호드리구–레오나르두(Ipê Capital) 통화(→1부 8화, 3부 11화) · 비아가 본 「상한 과일」(→1부 2~3화) · 카이우의 비아 무시(→1부 4화)
 

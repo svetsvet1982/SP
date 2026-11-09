@@ -9,7 +9,7 @@
 > - 경영 개념: PDCA(계획–실행–점검–조치), 8D 리포트(문제 해결 8단계), 추적성(rastreabilidade), 실수 방지(poka-yoke), 직원 제안 제도
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1+ · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
 > - 문법 포인트: 수동태 첫 노출 *A peça foi produzida...*, *O problema foi encontrado...*, 접속법 *Antes que a senhora pergunte...*
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Planejar, fazer, checar, agir.* / *A ideia foi dele.* / *Aprovado com ressalvas.*
 > - 복선 회수: 4화 카우앙의 지그 · 호제리우의 세 번의 보고서 · 예비 공구
 > - 복선 설치: 잉그리드 「솔라리스는 2년 안에 전기차로 전환해요」(→9화) · 「아이디어 게시판」(→8화 PLR 목표) · 90일 재감사(→9화)

@@ -8,7 +8,7 @@
 > - 등장인물: Helena, Bia, Thiago, Sérgio, Dona Rose, Edinho, Josiane
 > - 경영 개념: 파레토 법칙(80/20), 현장 인터뷰 기법(열린 질문), 지표와 인센티브의 왜곡
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1 · 도입 15 · 장면1 33 · 장면2 30 · 절정·전환 27 · 마무리 15
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Os dados batem?* / *Me conta como funciona aqui.* / *Oitenta por cento vem de vinte.*
 > - 복선 회수: 2화 「dinheiro no lixo」 가지 · 세르지우의 자료 지연
 > - 복선 설치: 세르지우의 「A diretoria queria número bonito.」(→4화 설득 포인트) · 도나 호지의 공책(→4화 증거) · 중앙 자동발주 시스템(→4화 해법)

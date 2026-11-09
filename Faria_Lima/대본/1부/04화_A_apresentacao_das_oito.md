@@ -8,7 +8,7 @@
 > - 등장인물: Helena, Thiago, Bia, Caio, Zuleica, Wagner, Sérgio, Rodrigo
 > - 경영 개념: 피라미드 원칙(결론 먼저), 스토리라인, 이해관계자 설득, 문제의 재정의(사람 → 구조)
 > - 난이도 · 턴 수: 대사 120턴 · 난이도 B1 · 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15
-> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문(narração) 없음. 전 화 100% 「화자명: 대사」. 1턴 25단어 이내. 단문 나열을 피하고 접속사·관계절로 이어진 문장 위주.
 > - 핵심 표현: *Começando pela conclusão...* / *Não é culpa de uma pessoa, é do processo.* / *Posso contar com o senhor?*
 > - 복선 회수: 3화 세르지우 「A diretoria queria número bonito」 · 도나 호지의 공책 · 「Faltam ... dias」 카운트다운
 > - 복선 설치: 파일 최종 수정자 「Caio Lemos, 23h47」(→13화) · 호드리구 「Nunca deixe o cliente esperando」(→9화) · 와그너의 명함 「Se um dia precisar...」(→3부 1화)
