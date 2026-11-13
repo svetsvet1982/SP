@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 10화 · 서사 기능: 재난과 공동체 · 1부 정전 에피소드의 '업그레이드된 대응'
-> - 배경: 건물 앞 인도·Lu의 장터용 낡은 콤비 차량(화요일 오후 4시) → 경비실·연회실 '충전소'(밤) → 경비실(수요일, 서류 준비) → 건물 앞(목요일 저녁), 11월 첫 주
+> - 배경: 건물 앞 인도·Lu의 장터용 낡은 콤비 차량(화요일 오후 4시) → 경비실·연회실 '충전소'(밤) → 경비실(수요일, 서류 준비) → 건물 앞(목요일 저녁), 10월 마지막 주(10/27 화요일~)
 > - 등장인물: Caio, Lu, Marisol, Seu Firmino, Atendente(시 민원전화 156 녹음 안내·가상), Jeff, Dona Vera, Seu Aldo, Seu Batista, Dona Zezé
 > - 반영 현안: H24 (봄 폭풍·가로수 붕괴·가지치기 민원) · H07 (장기 정전·전력회사 피해 배상)
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
@@ -253,11 +253,11 @@
 78. LU: Jefferson, você é um anjo de moto.
     루: 제페르송, 넌 오토바이 탄 천사야.
 
-79. JEFF: Anjo com noventa dias sem apostar, Dona Lu.
-    제프: 도박 안 한 지 90일째인 천사예요, 루 아주머니.
+79. JEFF: Anjo com oitenta e três dias sem apostar, Dona Lu.
+    제프: 도박 안 한 지 83일째인 천사예요, 루 아주머니.
 
-80. ALDO: Noventa! A moeda de sessenta tá no seu bolso. A de noventa, no torno.
-    알두: 90일! 60일 동전은 네 주머니에 있지. 90일 건 선반에 있어.
+80. ALDO: Oitenta e três! A de sessenta tá no seu bolso. A de noventa, no torno.
+    알두: 83일! 60일 동전은 네 주머니에 있지. 90일 건 선반에 있어.
 
 81. CAIO: Quarta de manhã. Ainda sem luz na rua. Dia dois.
     카이우: 수요일 아침. 거리엔 아직 전기가 없어요. 이틀째.
