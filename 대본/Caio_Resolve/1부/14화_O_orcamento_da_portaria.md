@@ -117,7 +117,7 @@
 33. VERA: Vamos aos números. Quanto o condomínio economiza por mês?
     베라: 숫자로 가죠. 관리비가 매달 얼마나 줄어요?
 
-34. VENDEDOR: Hoje vocês gastam com portaria uns vinte e dois mil por mês. Com a gente, quinze.
+34. VENDEDOR: Hoje vocês gastam uns vinte e dois mil por mês com portaria. Conosco, quinze.
     영업사원: 지금 경비에 매달 2만 2천쯤 쓰시죠. 저희랑 하시면 1만 5천이요.
 
 35. VERA: Sete mil por mês. Trinta por cento. Os números não mentem.
@@ -141,8 +141,8 @@
 41. VENDEDOR: Cada prédio decide, senhor. Nós só oferecemos tecnologia.
     영업사원: 건물마다 결정하는 거죠, 어르신. 저흰 기술만 제공해요.
 
-42. CAIO: E quando acaba a luz? A gente ficou trinta e oito horas sem energia em abril.
-    카이우: 정전되면요? 4월에 38시간 동안 전기가 없었어요.
+42. CAIO: E sem luz? Em abril, ficamos trinta e oito horas sem energia.
+    카이우: 전기가 끊기면요? 4월에 38시간 동안 정전이었어요.
 
 43. VENDEDOR: Temos nobreak. Bateria de quatro horas.
     영업사원: 무정전 장치가 있어요. 배터리 4시간이요.
