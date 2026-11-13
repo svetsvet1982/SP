@@ -210,7 +210,7 @@
 64. BATISTA: Abordagem? Eles vêm, falam, e levam pro abrigo sem o Motor.
     바치스타: 현장 팀이요? 와서 말하고는 모토르 없이 쉼터로 데려가요.
 
-65. VERA: Então a gente pede um abrigo que aceite cachorro.
+65. VERA: Então pedimos um abrigo que aceite cachorro.
     베라: 그럼 개를 받아 주는 쉼터를 요청해요.
 
 66. BATISTA: Isso existe?

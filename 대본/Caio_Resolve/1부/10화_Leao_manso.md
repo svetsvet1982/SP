@@ -330,7 +330,7 @@
 104. RODRIGO: Você tem medo de tudo, Caio. Mindset de escassez.
     호드리구: 넌 뭐든 무서워해, 카이우. 결핍의 마인드셋이야.
 
-105. VERA: Onze e cinquenta e dois. Assine aqui. Enviado. Sobre o clube, depois a gente conversa.
+105. VERA: Onze e cinquenta e dois. Assine aqui. Enviado. Sobre o clube, depois conversamos.
     베라: 11시 52분. 여기 서명하세요. 제출 완료. 클럽 얘기는 나중에 해요.
 
 106. FIRMINO: Seu Caio, caiu! Primeiro lote! Seiscentos e doze reais na conta!

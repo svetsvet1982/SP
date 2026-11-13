@@ -110,7 +110,7 @@
 31. CAIO: Pode, Dona Vera. Por favor. Eu não entendo essa conta.
     카이우: 네, 베라 여사님. 부탁드려요. 이 고지서를 모르겠어요.
 
-32. VERA: Primeiro, a gente separa duas coisas: a tarifa e o consumo.
+32. VERA: Primeiro, separamos duas coisas: a tarifa e o consumo.
     베라: 먼저 두 가지를 나눠요: 요금 단가랑 사용량이요.
 
 33. CAIO: Tarifa é o preço. Consumo é quanto a gente usou.
