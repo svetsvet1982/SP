@@ -211,8 +211,8 @@
 65. NEIDE: O Firmino chegou aqui quando o Caio tinha dezessete anos.
     네이지: 피르미누가 여기 왔을 때 카이우가 열일곱 살이었어.
 
-66. NEIDE: Ele viu meu filho passar no vestibular. Viu meu marido sair de casa.
-    네이지: 내 아들 대학 붙는 것도 봤고. 남편이 집 나가는 것도 봤지.
+66. NEIDE: Ele viu meu filho passar no vestibular. Viu ele chorar no primeiro emprego.
+    네이지: 내 아들 대학 붙는 것도 봤고. 첫 직장 다니며 우는 것도 봤지.
 
 67. NEIDE: Viu meu pai, o Bepe, sair daqui pela última vez. Ele carregou a caixa.
     네이지: 우리 아버지 베피가 마지막으로 여기서 나가시는 것도 봤어. 그 상자를 옮겼지.
