@@ -39,8 +39,8 @@
 07. FIRMINO: Fiquei. Dinheiro que aparece do nada, depois alguém vem cobrar.
     피르미누: 그렇죠. 갑자기 생긴 돈은 나중에 누가 받으러 와요.
 
-08. CAIO: Dessa vez, não. É a lei nova. Quem ganha até cinco mil não paga imposto de renda.
-    카이우: 이번엔 아니에요. 새 법이에요. 5천 헤알까지 버는 사람은 소득세를 안 내요.
+08. CAIO: Dessa vez, não. Lei nova: quem ganha até cinco mil não paga imposto de renda.
+    카이우: 이번엔 아니에요. 새 법이에요: 5천 헤알까지 버는 사람은 소득세를 안 내요.
 
 09. FIRMINO: Até cinco mil? Desde quando?
     피르미누: 5천까지요? 언제부터요?
@@ -87,8 +87,8 @@
 23. FIRMINO: E eu sou obrigado a declarar?
     피르미누: 그럼 저는 꼭 신고해야 해요?
 
-24. CAIO: Depende de quanto o senhor ganhou no ano passado. Mas, mesmo sem obrigação, pode valer a pena.
-    카이우: 작년에 얼마 버셨는지에 달렸어요. 의무가 아니어도 할 가치가 있을 수 있어요.
+24. CAIO: Depende do que o senhor ganhou no ano passado. Mas pode valer a pena.
+    카이우: 작년에 얼마 버셨는지에 달렸어요. 근데 해 볼 가치는 있어요.
 
 25. FIRMINO: Eu nunca declarei sozinho. Meu cunhado fazia. Cobrava cem reais.
     피르미누: 혼자 신고해 본 적이 없어요. 처남이 해 줬어요. 100헤알 받고요.
