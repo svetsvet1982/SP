@@ -334,8 +334,8 @@
 106. CAIO: Firmino? Ainda acordado? Já são dez horas.
     카이우: 피르미누? 아직 깨어 계세요? 벌써 열 시예요.
 
-107. FIRMINO: Meu turno vai até as dez e meia, síndico.
-    피르미누: 제 근무가 열 시 반까지예요, 관리인님.
+107. FIRMINO: Hoje eu fiquei por causa da assembleia, síndico. Hora extra.
+    피르미누: 오늘은 총회 때문에 남았어요, 관리인님. 연장 근무예요.
 
 108. CAIO: Não me chama de síndico. Ainda é estranho.
     카이우: 관리인이라고 부르지 마세요. 아직 어색해요.

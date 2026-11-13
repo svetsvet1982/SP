@@ -149,8 +149,8 @@
 44. VERA: De madrugada, quase ninguém usa. Três horas da manhã é perfeito.
     베라: 새벽엔 거의 안 써요. 새벽 세 시가 딱이에요.
 
-45. FIRMINO: Três da manhã? Meu turno acaba às dez e meia.
-    피르미누: 새벽 세 시요? 제 근무는 열 시 반에 끝나는데요.
+45. FIRMINO: Três da manhã? Meu turno acaba às seis da tarde.
+    피르미누: 새벽 세 시요? 제 근무는 저녁 여섯 시에 끝나는데요.
 
 46. CAIO: O senhor não precisa ficar, Firmino.
     카이우: 안 계셔도 돼요, 피르미누.
